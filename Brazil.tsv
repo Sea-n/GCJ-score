@@ -92,7 +92,6 @@ Score	Penalty	Country	Name
 42	-5065976215	Brazil	pauloamed
 42	-5067789391	Brazil	laerc
 42	-5301371471	Brazil	jps12
-42	-5348325411	Brazil	TeStEmUnHa
 42	-5557087660	Brazil	Ovelha66
 42	-5617379828	Brazil	Carlos_Cabral
 42	-5650527194	Brazil	juniorandrade
@@ -162,6 +161,7 @@ Score	Penalty	Country	Name
 42	-24583028893	Brazil	deneribeiro
 42	-24655263987	Brazil	gcgm
 42	-24866875336	Brazil	Brisolla
+42	-24866875336	Brazil	Brisolla
 42	-25549680056	Brazil	caianne
 42	-26021504758	Brazil	dCamargo
 42	-27637359731	Brazil	Megamiun
@@ -228,7 +228,6 @@ Score	Penalty	Country	Name
 30	-13201367527	Brazil	gustavolima00
 30	-14469798044	Brazil	MatheusMonteiro
 30	-16536825096	Brazil	hfiuza
-30	-16536825096	Brazil	hfiuza
 30	-18285722012	Brazil	matheuslin
 30	-27841781393	Brazil	tubone
 30	-52618264520	Brazil	hugo.cabral
@@ -246,13 +245,13 @@ Score	Penalty	Country	Name
 23	-6614650990	Brazil	pedroh
 23	-6919403347	Brazil	guillecosta
 23	-6978518178	Brazil	finkjunior
+23	-7236550201	Brazil	ale_lacerda
 23	-7627500131	Brazil	Domgintoki
 23	-9060850961	Brazil	paulohltc
 23	-9261971433	Brazil	danielvitor23
 23	-9749308742	Brazil	fjhonatas
 23	-10190555394	Brazil	brunopapa
 23	-10194826842	Brazil	dorime
-23	-10465220772	Brazil	diegorpc
 23	-10465220772	Brazil	diegorpc
 23	-10514223362	Brazil	Samirjc
 23	-10959696134	Brazil	Sernajoto
@@ -276,6 +275,7 @@ Score	Penalty	Country	Name
 23	-21961400599	Brazil	SilverBladeII
 23	-22233866110	Brazil	MilhoDroid
 23	-22321187487	Brazil	pedrokuchpil
+23	-22474567689	Brazil	johnny21
 23	-22964264708	Brazil	Johnvictorfs
 23	-23601181957	Brazil	felipenuti
 23	-25119481011	Brazil	pi_pcava
@@ -352,7 +352,6 @@ Score	Penalty	Country	Name
 7	-6484980068	Brazil	alequisk
 7	-7173255424	Brazil	lucas.frango
 7	-7687197427	Brazil	lilith65
-7	-7687197427	Brazil	lilith65
 7	-7831988021	Brazil	brandsss
 7	-7904851977	Brazil	Jubswarrior
 7	-8227543740	Brazil	luizaes
@@ -400,16 +399,20 @@ Score	Penalty	Country	Name
 7	-60029678805	Brazil	renataghisloti
 7	-60062757280	Brazil	VictorForbes
 7	-60501634223	Brazil	Scarelli
-0	0	Brazil	felipe-miranda
+7	-60611865898	Brazil	quirinoflavio
+7	-60631173755	Brazil	Gabriel123Duarte
+0	0	Brazil	PeetaCalou
+0	0	Brazil	brenotx
+0	0	Brazil	vicnetto
 0	0	Brazil	Ancogamer
 0	0	Brazil	HenriqueMat
 0	0	Brazil	JMorand
 0	0	Brazil	LPerin
-0	0	Brazil	PeetaCalou
+0	0	Brazil	Ruhann
 0	0	Brazil	XicoDeAltos
 0	0	Brazil	Ziguirifow
-0	0	Brazil	brenotx
 0	0	Brazil	edukure
+0	0	Brazil	felipe-miranda
 0	0	Brazil	grisotto
 0	0	Brazil	julianafpaulo
 0	0	Brazil	mutleyX
@@ -421,5 +424,4 @@ Score	Penalty	Country	Name
 0	0	Brazil	stephano
 0	0	Brazil	takamura
 0	0	Brazil	timeToCode
-0	0	Brazil	vicnetto
 0	0	Brazil	vilelabruno
