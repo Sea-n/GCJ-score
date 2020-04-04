@@ -58,6 +58,7 @@ Score	Penalty	Country	Name
 42	-12756555751	Germany	H1M
 42	-18088700635	Germany	Illiou
 42	-18399212773	Germany	ggerrit
+42	-22780828008	Germany	nawidsayed
 42	-23080530037	Germany	Josaffe
 42	-25058850618	Germany	TwoFx
 42	-25169644123	Germany	Noobie_99
@@ -171,7 +172,6 @@ Score	Penalty	Country	Name
 23	-34887483825	Germany	element314
 23	-35073979628	Germany	nilswe
 23	-35282638441	Germany	beesch
-23	-35821418569	Germany	yoni11
 23	-36025359981	Germany	Norbi42
 23	-36168674237	Germany	schweizerm
 23	-36246251966	Germany	delvh
@@ -208,7 +208,6 @@ Score	Penalty	Country	Name
 23	-42039771487	Germany	AlexZorn
 23	-42055407534	Germany	Spacetoaster
 23	-42056630665	Germany	TimTimolia
-23	-42076398457	Germany	h1k3r
 23	-42269144087	Germany	NaN
 23	-42291635514	Germany	peli
 23	-42456791411	Germany	Urinstinkt
@@ -265,6 +264,8 @@ Score	Penalty	Country	Name
 7	-42482786741	Germany	Elyasin
 7	-42693161581	Germany	luisf
 7	-42698680017	Germany	Katarion
+7	-42693161581	Germany	luisf
+7	-42698680017	Germany	Katarion
 7	-42847448284	Germany	Sven0311
 7	-42926029828	Germany	Tech4Projects
 7	-43148522270	Germany	sbarlabanov
@@ -276,12 +277,11 @@ Score	Penalty	Country	Name
 7	-44083292620	Germany	laxtor
 0	0	Germany	Mobo
 0	0	Germany	PrøCøder
-0	0	Germany	RolfRico
-0	0	Germany	TornaxO7
-0	0	Germany	Woingenau
 0	0	Germany	clr
 0	0	Germany	fafl
-0	0	Germany	friebetill
 0	0	Germany	iloraC28
-0	0	Germany	leiftw
 0	0	Germany	svenibo
+0	0	Germany	RolfRico
+0	0	Germany	TornaxO7
+0	0	Germany	friebetill
+0	0	Germany	leiftw
