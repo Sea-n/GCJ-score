@@ -40,6 +40,7 @@ Score	Penalty	Country	Name
 100	-55258745973	Japan	autumn_eel
 100	-55447090728	Japan	n.knuu
 100	-55582524213	Japan	yak_ex
+100	-56677422104	Japan	Capp
 100	-57049915521	Japan	ogadra
 75	-17222155067	Japan	Person20
 75	-35996430292	Japan	teruss
@@ -59,6 +60,7 @@ Score	Penalty	Country	Name
 74	-43129056320	Japan	akachocobo
 74	-43683904605	Japan	cake.senbei
 74	-45694258702	Japan	knzm
+74	-56681325870	Japan	LinusMK
 68	-3894264245	Japan	yamunaku
 68	-4903688298	Japan	wagtail
 68	-5487392610	Japan	set0gut1
@@ -155,7 +157,6 @@ Score	Penalty	Country	Name
 68	-38527918798	Japan	moririn2528
 68	-38531203009	Japan	flowlight0
 68	-39056714734	Japan	kotatsugame
-68	-39149891489	Japan	Capp
 68	-39229987777	Japan	commy
 68	-39231882480	Japan	blcn
 68	-39238211754	Japan	Zu_rin
@@ -211,7 +212,6 @@ Score	Penalty	Country	Name
 68	-56584043156	Japan	Hachimori
 68	-56768360703	Japan	wata
 68	-56823133757	Japan	masafumi
-67	-55324688240	Japan	LinusMK
 57	-60665160362	Japan	mokazaki923
 55	-25368277402	Japan	lpuwfob
 49	-34340739925	Japan	chaemon
@@ -1007,6 +1007,8 @@ Score	Penalty	Country	Name
 23	-56511353020	Japan	konjo
 23	-56543389760	Japan	tgm0417
 23	-56678914831	Japan	taq225
+23	-56694479109	Japan	ljq0002
+23	-56722123828	Japan	horiso0921
 19	-47253703180	Japan	よーおは
 16	-5344012579	Japan	Nori
 16	-39315134841	Japan	piyonakajima
@@ -1068,9 +1070,7 @@ Score	Penalty	Country	Name
 7	-52790327987	Japan	tochi
 7	-54972900878	Japan	hgemini
 7	-55294052306	Japan	tmsausa
-7	-55472441930	Japan	ljq0002
 7	-55797951271	Japan	nagitaosu
-7	-55982014183	Japan	horiso0921
 7	-56026109968	Japan	tatsy
 7	-56047397872	Japan	_tzco_DX
 7	-56197173854	Japan	7v
@@ -1088,14 +1088,14 @@ Score	Penalty	Country	Name
 0	0	Japan	Sango358
 0	0	Japan	aki_bayes
 0	0	Japan	berotti3_berotti3
+0	0	Japan	champon
 0	0	Japan	cossy
 0	0	Japan	donuthole
 0	0	Japan	kinokokaeru
 0	0	Japan	lamorak
 0	0	Japan	nicolen
 0	0	Japan	raspi0124
-0	0	Japan	shukob
-0	0	Japan	zezero
-0	0	Japan	champon
 0	0	Japan	rikupin1105
+0	0	Japan	shukob
 0	0	Japan	yuriyurusuke23
+0	0	Japan	zezero
