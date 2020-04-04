@@ -65,6 +65,7 @@ Score	Penalty	Country	Name
 74	-61220894254	South Korea	Venusaur
 74	-61869402481	South Korea	mininny
 74	-62148224214	South Korea	seoburo
+74	-64171571120	South Korea	namwoong
 68	-3635451086	South Korea	youx
 68	-7049254697	South Korea	hunni10
 68	-10013157174	South Korea	tkeom
@@ -513,7 +514,6 @@ Score	Penalty	Country	Name
 42	-41790040906	South Korea	c4big2
 42	-42323340788	South Korea	Inhak
 42	-42542057220	South Korea	normalboot
-42	-42544854136	South Korea	namwoong
 42	-42585335396	South Korea	GyojunYoun
 42	-42605651025	South Korea	marshall.y
 42	-42627407816	South Korea	5123khw
@@ -730,7 +730,6 @@ Score	Penalty	Country	Name
 30	-43232072495	South Korea	MathAmp
 30	-45852555235	South Korea	SYNCER
 30	-47135989403	South Korea	SilverCube
-30	-47135989403	South Korea	SilverCube
 30	-48838331936	South Korea	yg.kim
 30	-49043643570	South Korea	SAGONG
 30	-49286336441	South Korea	Giantpanda
@@ -777,6 +776,7 @@ Score	Penalty	Country	Name
 23	-32152989882	South Korea	Yulmucha
 23	-32866615171	South Korea	tlsh
 23	-33048225918	South Korea	angjongwon
+23	-33660503626	South Korea	LeeSangHoon
 23	-34018641273	South Korea	buttercoconut
 23	-36755925397	South Korea	Hyeran
 23	-36878559560	South Korea	tacromacro
@@ -998,6 +998,8 @@ Score	Penalty	Country	Name
 5	-31464216449	South Korea	Seokjin
 1	-33551112963	South Korea	return_zero
 0	0	South Korea	3to15gram
+0	0	South Korea	Bitlion
+0	0	South Korea	Croquis
 0	0	South Korea	Cuws
 0	0	South Korea	GiYeon
 0	0	South Korea	KAIDI
@@ -1010,9 +1012,13 @@ Score	Penalty	Country	Name
 0	0	South Korea	Trixmos
 0	0	South Korea	YONG_HWAN
 0	0	South Korea	Zirit
+0	0	South Korea	bluefortress24
 0	0	South Korea	bluezery
 0	0	South Korea	cantapiya
+0	0	South Korea	fabrejb
+0	0	South Korea	gunner_mju
 0	0	South Korea	holywars
+0	0	South Korea	ilhan.ryu
 0	0	South Korea	indexxlim
 0	0	South Korea	koreabell
 0	0	South Korea	leoJeong
@@ -1021,12 +1027,6 @@ Score	Penalty	Country	Name
 0	0	South Korea	planet_to
 0	0	South Korea	pooooet
 0	0	South Korea	rollrat
+0	0	South Korea	spillink
 0	0	South Korea	swcunba
 0	0	South Korea	강동훈
-0	0	South Korea	Bitlion
-0	0	South Korea	Croquis
-0	0	South Korea	bluefortress24
-0	0	South Korea	fabrejb
-0	0	South Korea	gunner_mju
-0	0	South Korea	ilhan.ryu
-0	0	South Korea	spillink
