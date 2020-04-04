@@ -339,7 +339,6 @@ Score	Penalty	Country	Name
 42	-14838378942	Japan	sotanishy
 42	-14926223618	Japan	haiu
 42	-14951195541	Japan	takuk
-42	-15026294078	Japan	tarattata
 42	-15146148838	Japan	bokken
 42	-15226933579	Japan	esupi
 42	-15330642758	Japan	pontsuyo
@@ -654,6 +653,7 @@ Score	Penalty	Country	Name
 42	-36368970603	Japan	Nyaan
 42	-36388067508	Japan	drken
 42	-36401318828	Japan	Yoshino
+42	-36401318828	Japan	Yoshino
 42	-36424085110	Japan	yotsutose
 42	-36440012217	Japan	minus3theta
 42	-36445020280	Japan	turuturu
@@ -792,6 +792,8 @@ Score	Penalty	Country	Name
 42	-46947185422	Japan	pontaryagin
 42	-47044299432	Japan	1E60
 42	-47051544349	Japan	komugi
+42	-47135903428	Japan	gobi_tk
+42	-47203766730	Japan	tmochizuki
 42	-53539959341	Japan	jackee777
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
@@ -847,7 +849,6 @@ Score	Penalty	Country	Name
 26	-42927628267	Japan	granddaifuku
 24	-33847167094	Japan	snakeLegs
 23	-2575289112	Japan	kebhr
-23	-2827079505	Japan	natsuf
 23	-3267745894	Japan	kobaryo222
 23	-5969995400	Japan	Mazesoba
 23	-7842845519	Japan	ritzcr
@@ -859,7 +860,6 @@ Score	Penalty	Country	Name
 23	-16573274733	Japan	Mohanad
 23	-17487978947	Japan	maru65536
 23	-17716199208	Japan	nomikura
-23	-18854398089	Japan	tmochizuki
 23	-19384785859	Japan	ysanopp
 23	-19581001882	Japan	ueda.keisuke
 23	-20059118265	Japan	toyama
@@ -893,7 +893,6 @@ Score	Penalty	Country	Name
 23	-33370132914	Japan	ukar
 23	-33576486182	Japan	wakapaijazz
 23	-33940643924	Japan	nmas
-23	-34078470898	Japan	iwbch
 23	-34489566917	Japan	tsumli
 23	-35694304508	Japan	TechiHikki
 23	-35784065004	Japan	yuki1216
@@ -909,7 +908,6 @@ Score	Penalty	Country	Name
 23	-38961368916	Japan	nskznao
 23	-39024661345	Japan	kijuky
 23	-39607765335	Japan	fukuchi
-23	-39781887775	Japan	gobi_tk
 23	-40541310985	Japan	empitsu
 23	-40587626141	Japan	sasaki0487
 23	-40760671060	Japan	sessoh
@@ -944,7 +942,6 @@ Score	Penalty	Country	Name
 16	-5344012579	Japan	Nori
 16	-22982856357	Japan	noribentooooooh
 16	-39315134841	Japan	piyonakajima
-16	-41437937608	Japan	Graphium314
 16	-41437937608	Japan	Graphium314
 16	-46869047751	Japan	akagisefu
 12	-12484628497	Japan	tokizo
@@ -1010,14 +1007,13 @@ Score	Penalty	Country	Name
 0	0	Japan	MAKO
 0	0	Japan	Nulkana
 0	0	Japan	Rute_
+0	0	Japan	donuthole
+0	0	Japan	nicolen
+0	0	Japan	purucat
+0	0	Japan	sionyan
 0	0	Japan	aki_bayes
 0	0	Japan	cossy
-0	0	Japan	donuthole
 0	0	Japan	kinokokaeru
-0	0	Japan	purucat
-0	0	Japan	zezero
-0	0	Japan	MAKO
-0	0	Japan	nicolen
 0	0	Japan	rikupin1105
 0	0	Japan	shukob
-0	0	Japan	sionyan
+0	0	Japan	zezero
