@@ -64,7 +64,6 @@ Score	Penalty	Country	Name
 62	-18938601337	Taiwan	laihy
 56	-27062324822	Taiwan	JeffreyHo
 55	-37302089166	Taiwan	billy4195su
-55	-37302089166	Taiwan	billy4195su
 55	-38024134115	Taiwan	HDC
 49	-7093450390	Taiwan	SorahISA
 49	-37830733534	Taiwan	HugoHT.Chan
@@ -346,7 +345,6 @@ Score	Penalty	Country	Name
 23	-23297756745	Taiwan	danielpclin
 23	-23548121973	Taiwan	D.T.
 23	-23951429116	Taiwan	teacup123123
-23	-24102747178	Taiwan	HDC
 23	-24252466441	Taiwan	SwallowLee
 23	-24343540993	Taiwan	WJPei
 23	-24736223791	Taiwan	imshouko
@@ -400,6 +398,7 @@ Score	Penalty	Country	Name
 23	-37343422135	Taiwan	cyuanor
 23	-37376471945	Taiwan	YanLee
 23	-37866233115	Taiwan	lost.lamb
+23	-38150027328	Taiwan	stdio2019
 16	-6013659217	Taiwan	JimmyChiu
 16	-16112084208	Taiwan	XxBNOxX
 16	-36876494678	Taiwan	Kiyom99
@@ -462,7 +461,6 @@ Score	Penalty	Country	Name
 7	-35799137210	Taiwan	chnbin
 7	-35840977386	Taiwan	5D
 7	-36148716165	Taiwan	YoEugeneHsu
-7	-36148716165	Taiwan	YoEugeneHsu
 7	-36745531984	Taiwan	vehemency
 7	-36810814051	Taiwan	ntu519198
 7	-36842321748	Taiwan	alanhc
@@ -470,14 +468,11 @@ Score	Penalty	Country	Name
 7	-37378142547	Taiwan	Robin3
 7	-37577686488	Taiwan	ericx
 7	-37667775489	Taiwan	june_waves
-7	-37697553278	Taiwan	stdio2019
 7	-37707639290	Taiwan	Ele_Ele
 7	-37753043600	Taiwan	Yazmau
 7	-37902769041	Taiwan	Bao_chen
 7	-38024567272	Taiwan	amoshyc
 5	-15429974427	Taiwan	alon21034
-0	0	Taiwan	NCKU
-0	0	Taiwan	drazermega
 0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
 0	0	Taiwan	cosecantTW
@@ -486,3 +481,5 @@ Score	Penalty	Country	Name
 0	0	Taiwan	tkuo
 0	0	Taiwan	tonyli
 0	0	Taiwan	任生狂
+0	0	Taiwan	NCKU
+0	0	Taiwan	drazermega
