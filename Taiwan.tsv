@@ -74,7 +74,6 @@ Score	Penalty	Country	Name
 43	-30623820059	Taiwan	thhsux
 43	-32857877162	Taiwan	w80707
 43	-36410545920	Taiwan	aben20807
-43	-36567747984	Taiwan	puppy955101
 43	-36669284384	Taiwan	yangerma
 42	-1927331728	Taiwan	animeshf
 42	-2120786486	Taiwan	jakao
@@ -298,12 +297,13 @@ Score	Penalty	Country	Name
 31	-16051245278	Taiwan	terence304@gmail.com
 31	-20736321456	Taiwan	gamelife
 31	-20849173923	Taiwan	haruki
+31	-20736321456	Taiwan	gamelife
+31	-20849173923	Taiwan	haruki
 31	-24020661100	Taiwan	JamesQI
 31	-25071404440	Taiwan	cathatino
 31	-35724148636	Taiwan	hankluo6
 31	-37165967563	Taiwan	WeiFromTaiwan
 30	-5776535626	Taiwan	hsuehmin
-30	-15117282320	Taiwan	browntoad
 30	-25952967319	Taiwan	Edwardlus
 30	-29530857003	Taiwan	Ykhuang0812
 30	-34797246850	Taiwan	0111t
@@ -322,6 +322,7 @@ Score	Penalty	Country	Name
 23	-8338692845	Taiwan	ChangRon
 23	-8549969845	Taiwan	Brian_Lin
 23	-10242506515	Taiwan	geniusjazz@gmail.com
+23	-10848384112	Taiwan	KKCWind
 23	-10848384112	Taiwan	KKCWind
 23	-11982213732	Taiwan	IcecreamMaster
 23	-12882814790	Taiwan	ericchiu
@@ -394,6 +395,7 @@ Score	Penalty	Country	Name
 23	-36676694975	Taiwan	pjammer
 23	-37011337153	Taiwan	AlaRduTP
 23	-37185720963	Taiwan	fereshte
+23	-37241604026	Taiwan	leolun
 16	-6013659217	Taiwan	JimmyChiu
 16	-16112084208	Taiwan	XxBNOxX
 16	-36876494678	Taiwan	Kiyom99
@@ -442,12 +444,10 @@ Score	Penalty	Country	Name
 7	-29695793068	Taiwan	YPL
 7	-31713380394	Taiwan	ShirinLiu
 7	-32085040865	Taiwan	liao.jason2
-7	-32183692357	Taiwan	leolun
 7	-32344744201	Taiwan	oscarchichun
 7	-32370563106	Taiwan	AJ.Fly
 7	-32692821403	Taiwan	jim800121.chen
 7	-33023335525	Taiwan	ytshih
-7	-33647733601	Taiwan	Leon
 7	-33647733601	Taiwan	Leon
 7	-34246387375	Taiwan	jasperlin1996
 7	-34681537094	Taiwan	leolee2020
@@ -466,10 +466,9 @@ Score	Penalty	Country	Name
 5	-15429974427	Taiwan	alon21034
 0	0	Taiwan	JimmyLinYA
 0	0	Taiwan	NCKU
-0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
-0	0	Taiwan	enumaelish
 0	0	Taiwan	pi
-0	0	Taiwan	plusline
 0	0	Taiwan	tonyli
-0	0	Taiwan	任生狂
+0	0	Taiwan	cosecantTW
+0	0	Taiwan	enumaelish
+0	0	Taiwan	plusline
