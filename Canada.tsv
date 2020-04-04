@@ -34,6 +34,7 @@ Score	Penalty	Country	Name
 68	-6297891905	Canada	zxyl
 68	-6362936392	Canada	Araluen
 68	-6795043114	Canada	injust
+68	-6795043114	Canada	injust
 68	-7273265808	Canada	KevinWan
 68	-7631179253	Canada	alexwice
 68	-7916219050	Canada	jeffreyxiao
@@ -58,7 +59,6 @@ Score	Penalty	Country	Name
 68	-25665485516	Canada	amahto
 68	-25854529797	Canada	zty3075
 68	-26403758633	Canada	Wenwenwen
-68	-26528966073	Canada	baked_potato
 68	-26843389986	Canada	XYZT
 68	-27647394072	Canada	Ynng
 68	-28490652388	Canada	unskilled
@@ -90,6 +90,7 @@ Score	Penalty	Country	Name
 43	-27951552118	Canada	HYA
 43	-44452205098	Canada	bunkmaster15
 43	-58211690971	Canada	eric574
+43	-58232881839	Canada	profchi
 42	-2315935502	Canada	Deemo
 42	-2904118133	Canada	JoshuaLiu
 42	-3286577958	Canada	tianweiliu
@@ -108,7 +109,6 @@ Score	Penalty	Country	Name
 42	-5603002561	Canada	crackersamdjam
 42	-5626141644	Canada	barbarik
 42	-5675531559	Canada	dbud
-42	-5778823185	Canada	profchi
 42	-5916208872	Canada	itangdav
 42	-5969449808	Canada	Aaeria
 42	-5984781050	Canada	Akerfeldt
@@ -137,7 +137,6 @@ Score	Penalty	Country	Name
 42	-11210225984	Canada	Xue_Alex
 42	-11452752692	Canada	mashimar
 42	-11532789730	Canada	Andy666
-42	-11555253973	Canada	eric574
 42	-11774080759	Canada	natek1234
 42	-11899930660	Canada	Assertive
 42	-12422989333	Canada	Chuckminster
@@ -265,6 +264,7 @@ Score	Penalty	Country	Name
 30	-40230798106	Canada	preyansh98
 30	-40903420998	Canada	Chessworth
 30	-52679273905	Canada	Jeremie.vezina
+26	-19306529094	Canada	blaxkmaze
 24	-14125667765	Canada	Altair__Vega
 24	-17171330905	Canada	infinity_boi
 24	-22891783885	Canada	TangoRoxy
@@ -290,6 +290,7 @@ Score	Penalty	Country	Name
 23	-7493228278	Canada	murat124
 23	-7505834256	Canada	inubakkari
 23	-7546397384	Canada	DanXia
+23	-7977483049	Canada	Div007
 23	-8278067778	Canada	AltSens
 23	-8631714221	Canada	ekapt14
 23	-8733818187	Canada	Niravrp
@@ -301,13 +302,13 @@ Score	Penalty	Country	Name
 23	-10579229027	Canada	PandHas
 23	-11176316728	Canada	eelectronn
 23	-11405136036	Canada	MrSiliconGuy
-23	-11405136036	Canada	MrSiliconGuy
 23	-12399557009	Canada	AYBCO
 23	-12418288951	Canada	s@nky
 23	-13369921005	Canada	BettyChang
 23	-13540316703	Canada	yxy10a
 23	-14250349462	Canada	vEver
 23	-14283358214	Canada	gk11
+23	-15015242667	Canada	protopotato
 23	-15015242667	Canada	protopotato
 23	-15111800894	Canada	riantsang
 23	-15122011347	Canada	stephen.wong
@@ -332,7 +333,6 @@ Score	Penalty	Country	Name
 23	-24853866795	Canada	jwat
 23	-24999510609	Canada	arshB97
 23	-26301013836	Canada	Johnny_Canboy
-23	-27614701134	Canada	manan007
 23	-27614701134	Canada	manan007
 23	-28075867580	Canada	jamohile
 23	-28432143564	Canada	mharr
@@ -452,19 +452,12 @@ Score	Penalty	Country	Name
 7	-57504424998	Canada	DeepakVenkatesh
 7	-57616499762	Canada	thebes2
 7	-57715406563	Canada	tikul
-0	0	Canada	InternetMoose
-0	0	Canada	arsh1207
-0	0	Canada	bugslayer
-0	0	Canada	kush._.kkr7
-0	0	Canada	minh_822
-0	0	Canada	mka
-0	0	Canada	r2munjal
-0	0	Canada	yz1001
 0	0	Canada	Abhan
 0	0	Canada	Ariannafoo
 0	0	Canada	Boostbull
 0	0	Canada	Charanpuvi2020@
 0	0	Canada	CindyD
+0	0	Canada	InternetMoose
 0	0	Canada	Jhin
 0	0	Canada	JulianShi
 0	0	Canada	Pokejft
@@ -473,10 +466,17 @@ Score	Penalty	Country	Name
 0	0	Canada	SaberMansour
 0	0	Canada	aakarimin
 0	0	Canada	amunden04
+0	0	Canada	arsh1207
+0	0	Canada	bugslayer
 0	0	Canada	changsta
 0	0	Canada	devodev
 0	0	Canada	dritan
 0	0	Canada	gdmanandamohon
 0	0	Canada	kate_all
+0	0	Canada	kush._.kkr7
+0	0	Canada	minh_822
+0	0	Canada	mka
+0	0	Canada	r2munjal
 0	0	Canada	thebloodymoustache
 0	0	Canada	thisisarsh
+0	0	Canada	yz1001
