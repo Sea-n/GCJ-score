@@ -197,6 +197,7 @@ Score	Penalty	Country	Name
 68	-51369936203	Japan	nkmrtmnr
 68	-51475186627	Japan	Ryosuke839
 68	-51663476556	Japan	YTA
+68	-52410567275	Japan	imulan
 68	-55349594740	Japan	Yazaten
 57	-60665160362	Japan	mokazaki923
 55	-25368277402	Japan	lpuwfob
@@ -233,7 +234,6 @@ Score	Penalty	Country	Name
 43	-46138149960	Japan	shirakia
 43	-48907237313	Japan	Yut176
 43	-50065908382	Japan	hige
-43	-51293935766	Japan	imulan
 43	-51436123881	Japan	k_sho1550
 43	-51686221512	Japan	turuturu
 42	-1891271914	Japan	physics0523
@@ -818,6 +818,7 @@ Score	Penalty	Country	Name
 42	-51916717476	Japan	kurakura
 42	-51946161667	Japan	rowr
 42	-52060140463	Japan	kort0n
+42	-52206340143	Japan	ishikado
 42	-53539959341	Japan	jackee777
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
@@ -942,7 +943,6 @@ Score	Penalty	Country	Name
 23	-45437056376	Japan	minarin0179
 23	-45452667658	Japan	horoyoisawa
 23	-45484286414	Japan	nanae1914
-23	-45762738083	Japan	ishikado
 23	-45789729689	Japan	kzo9
 23	-45913166113	Japan	Grenache
 23	-46244649767	Japan	AmiWrong
@@ -960,6 +960,8 @@ Score	Penalty	Country	Name
 23	-51530168731	Japan	dayama
 23	-51962213467	Japan	sionyan
 23	-52070436881	Japan	hasamakuku
+23	-52198353976	Japan	hogashi
+23	-52231457017	Japan	nawta
 23	-52360929755	Japan	chiguri
 19	-47253703180	Japan	よーおは
 16	-5344012579	Japan	Nori
@@ -974,6 +976,7 @@ Score	Penalty	Country	Name
 12	-28303256561	Japan	proproping
 12	-33637675233	Japan	masa6372
 12	-34918903963	Japan	musaprg
+12	-35249116338	Japan	toto6114
 12	-36027700960	Japan	101001
 12	-37787984982	Japan	FSM
 12	-38528751935	Japan	indigolain
@@ -1025,9 +1028,7 @@ Score	Penalty	Country	Name
 7	-48680843745	Japan	yaegashi
 7	-50234249307	Japan	wikrsh
 7	-50385660434	Japan	abhi1604
-7	-50536634236	Japan	nawta
 7	-50964395696	Japan	hosshii
-7	-51146788400	Japan	hogashi
 7	-51586571872	Japan	Eldora
 7	-51651899912	Japan	naochobin
 7	-51828578979	Japan	rickytheta
@@ -1035,18 +1036,19 @@ Score	Penalty	Country	Name
 7	-51881511486	Japan	leaf1415
 7	-51966995842	Japan	Tallfall
 7	-52092610226	Japan	rika0384
+7	-52203503046	Japan	jeiemu
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
 5	-51758722273	Japan	tsukiyotake
+0	0	Japan	MAKO
 0	0	Japan	Rute_
 0	0	Japan	cossy
-0	0	Japan	nicolen
-0	0	Japan	purucat
-0	0	Japan	zezero
-0	0	Japan	MAKO
-0	0	Japan	aki_bayes
 0	0	Japan	donuthole
 0	0	Japan	hgemini
-0	0	Japan	kinokokaeru
+0	0	Japan	purucat
 0	0	Japan	rikupin1105
 0	0	Japan	shukob
+0	0	Japan	zezero
+0	0	Japan	aki_bayes
+0	0	Japan	kinokokaeru
+0	0	Japan	nicolen
