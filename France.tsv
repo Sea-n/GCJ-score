@@ -53,6 +53,7 @@ Score	Penalty	Country	Name
 68	-51687708877	France	fstark
 68	-51971108189	France	etienne.thiery
 68	-52820512279	France	Kerl
+68	-52936258293	France	Arturgo
 68	-53112817816	France	RMDLBYS
 68	-54095585354	France	jdh
 68	-57294091484	France	MrDaiki
@@ -226,7 +227,6 @@ Score	Penalty	Country	Name
 42	-50913915791	France	a@b.com
 42	-50925828034	France	Naaranja
 42	-50971875824	France	serrabii
-42	-51190129760	France	Arturgo
 42	-51200655908	France	confitureDuB4
 42	-51279670587	France	Laurent_Dubois
 42	-51424873532	France	Hatovix
@@ -244,6 +244,8 @@ Score	Penalty	Country	Name
 42	-52732624415	France	SpaceSheep
 42	-52785174714	France	homersimpsons
 42	-52920898470	France	AZERTY
+42	-52926630101	France	jmazon
+42	-52973932352	France	yarzinthe
 42	-53273228843	France	namoz
 42	-54353291113	France	Tanp
 35	-7375202611	France	Mathisaillot
@@ -361,7 +363,6 @@ Score	Penalty	Country	Name
 23	-50846620879	France	Wellan89
 23	-50947570645	France	Limezest
 23	-51198569467	France	jenthomas
-23	-51293731476	France	yarzinthe
 23	-51426377877	France	chevalfoucher
 23	-51451933998	France	chadiem
 23	-51547567287	France	Kaiju
@@ -369,7 +370,6 @@ Score	Penalty	Country	Name
 23	-51608960232	France	Xabi
 23	-51625263077	France	Gregczc
 23	-51798455616	France	GarbageCollector
-23	-51977061499	France	jmazon
 23	-51985738354	France	PtitBeurre
 23	-51996624450	France	WNG
 23	-52267792739	France	RayanChikhi
@@ -381,6 +381,8 @@ Score	Penalty	Country	Name
 23	-52764520469	France	AF
 23	-52788733694	France	briag
 23	-52877227883	France	etiennek
+23	-52925640228	France	nepotu.
+23	-53168523028	France	cpicard443
 16	-21240143956	France	mnaji
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
@@ -434,7 +436,6 @@ Score	Penalty	Country	Name
 7	-50492092569	France	nicolas.bereux@gmail.com
 7	-50652643215	France	MaBeuLux88
 7	-50746175027	France	amine
-7	-50746822759	France	nepotu.
 7	-50983910974	France	machine_hazard
 7	-51205994157	France	f.9m4
 7	-51408614265	France	Shatalov
@@ -445,19 +446,23 @@ Score	Penalty	Country	Name
 7	-52873376235	France	GFP
 7	-52883966381	France	xeonx
 5	-37838570501	France	proftechnolblanc
+0	0	France	Boumpteryx
+0	0	France	DorianNogneng
+0	0	France	Loic
+0	0	France	RaphOn
+0	0	France	Sinei
+0	0	France	c0lt_dgtl
+0	0	France	marc.sun@hotmail.fr
+0	0	France	paul.cibier@gmail.com
+0	0	France	philM
 0	0	France	ArthurMR
 0	0	France	Benskalz
-0	0	France	BigMamadou
-0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	Kandhum
 0	0	France	LightSn0w
-0	0	France	Loic
 0	0	France	MaTTs
 0	0	France	MaieV
 0	0	France	Mizzy
-0	0	France	RaphOn
-0	0	France	Sinei
 0	0	France	TheBichour
 0	0	France	Tislaan
 0	0	France	abel0b
@@ -465,8 +470,3 @@ Score	Penalty	Country	Name
 0	0	France	cigix
 0	0	France	clerendor
 0	0	France	johnrazeur
-0	0	France	marc.sun@hotmail.fr
-0	0	France	paul.cibier@gmail.com
-0	0	France	philM
-0	0	France	DorianNogneng
-0	0	France	c0lt_dgtl
