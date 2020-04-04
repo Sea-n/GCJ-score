@@ -265,6 +265,7 @@ Score	Penalty	Country	Name
 42	-60632667655	Germany	ctrlw
 42	-61177921477	Germany	SeeSoftware
 42	-61192950760	Germany	kechtel
+42	-61489658025	Germany	Gorkem
 42	-61575713571	Germany	raphinesse
 42	-61813864999	Germany	annoraaq
 42	-62014247783	Germany	Sven0311
@@ -272,8 +273,6 @@ Score	Penalty	Country	Name
 42	-63524552151	Germany	schweizerm
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
-35	-52505751948	Germany	Benjamin2002@gmx.de
-35	-52792712657	Germany	CodeGreg
 35	-52505751948	Germany	Benjamin2002@gmx.de
 35	-52792712657	Germany	CodeGreg
 31	-16121260545	Germany	ans82
@@ -287,6 +286,7 @@ Score	Penalty	Country	Name
 30	-58701392158	Germany	s1e2b3i4
 30	-61311262492	Germany	jano31415
 30	-61509186673	Germany	Arlind
+30	-61557279788	Germany	n16h7hunt3r
 27	-58644927340	Germany	momapf
 26	-45376842591	Germany	axr123
 26	-50375603200	Germany	pp.hh.
@@ -302,7 +302,7 @@ Score	Penalty	Country	Name
 23	-32957910552	Germany	Technipion
 23	-33295517653	Germany	ammen99@gmail.com
 23	-33535981995	Germany	D0miH
-23	-36627069771	Germany	1xx
+23	-35073979628	Germany	nilswe
 23	-36698938221	Germany	MartinSeeler
 23	-38422156214	Germany	taschi
 23	-38797764236	Germany	Geser
@@ -312,7 +312,6 @@ Score	Penalty	Country	Name
 23	-41182564556	Germany	niktech
 23	-41728236255	Germany	KonradHoeffner
 23	-42930205701	Germany	bavarianquant
-23	-43601085859	Germany	Gorkem
 23	-43781692768	Germany	cadac
 23	-44597685275	Germany	bendeutz
 23	-45017432622	Germany	albertjentschke@gmail.com
@@ -346,6 +345,7 @@ Score	Penalty	Country	Name
 23	-57569250039	Germany	n16h7hunt3r
 23	-57868481056	Germany	owling
 23	-58167531383	Germany	hrkrx
+23	-58167531383	Germany	hrkrx
 23	-58215798540	Germany	ChiChuRita
 23	-58249127489	Germany	lgewuerz
 23	-58250794299	Germany	0xCAFB
@@ -368,6 +368,8 @@ Score	Penalty	Country	Name
 23	-60841456596	Germany	Scanceaparas
 23	-61154136466	Germany	Aefaef
 23	-61477208162	Germany	horscchtey
+23	-61505989590	Germany	fraens
+23	-61531355199	Germany	StefDude
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-45211618878	Germany	NateMate
@@ -387,13 +389,11 @@ Score	Penalty	Country	Name
 7	-46688405579	Germany	antonios
 7	-46907238787	Germany	ostrich
 7	-47329614286	Germany	coolo
-7	-49378716947	Germany	Mauri3112
 7	-52350433873	Germany	Nesbi
 7	-53894987385	Germany	Aikazumi
 7	-54835295794	Germany	magicMuscle
 7	-54899056267	Germany	loisroyce
 7	-54904187416	Germany	nuke2night
-7	-54910612018	Germany	fraens
 7	-56269544103	Germany	TombRaider
 7	-56504337046	Germany	rajeev.cse.imps@gmail.com
 7	-57221241331	Germany	nedo
@@ -405,16 +405,15 @@ Score	Penalty	Country	Name
 7	-59446388274	Germany	donfer
 7	-60033483276	Germany	munnitz
 7	-60398240075	Germany	mcjones
-7	-60603468703	Germany	StefDude
 7	-60703611451	Germany	Kathi
 7	-61035859328	Germany	mdm
 7	-61302946318	Germany	vgauzzi
-0	0	Germany	PrøCøder
+0	0	Germany	AndreasBaum
 0	0	Germany	Woingenau
 0	0	Germany	dschir
 0	0	Germany	ndrshrzg
 0	0	Germany	starzhinkus
-0	0	Germany	AndreasBaum
+0	0	Germany	PrøCøder
 0	0	Germany	Raixor
 0	0	Germany	TornaxO7
 0	0	Germany	arangra
