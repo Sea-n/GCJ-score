@@ -26,7 +26,6 @@ Score	Penalty	Country	Name
 100	-33282470378	China	HIT_TOM
 100	-34194027239	China	shyoshyo
 100	-34210573415	China	Liyh
-100	-34272916764	China	UTix
 100	-34387480225	China	C.Tan.one
 100	-34407051379	China	TankEngineer
 100	-34700434465	China	lizi
@@ -37,6 +36,7 @@ Score	Penalty	Country	Name
 100	-36123732996	China	C1ariS
 100	-36549825854	China	crazy_fz
 100	-37452344048	China	whizibon
+100	-39444422681	China	UTix
 81	-26543555992	China	fjzzq2002
 75	-27505331114	China	CCWUCMCTS
 75	-29474477127	China	CYH
@@ -891,7 +891,10 @@ Score	Penalty	Country	Name
 42	-35715709826	China	Rail_Gun
 42	-35800153345	China	Ronnoc
 42	-35909375818	China	HushDown
+42	-35912286977	China	Apprecieta
+42	-35956010812	China	Haimin
 42	-35980377191	China	tabris.
+42	-36192519011	China	sleepyrabbit
 42	-36251497727	China	Shuailong
 42	-36570393931	China	Lensing
 42	-36670468052	China	Tao_Cheng
@@ -945,7 +948,6 @@ Score	Penalty	Country	Name
 26	-32817838316	China	feifanz 86
 26	-32950865164	China	CorneliaPu
 26	-34551138704	China	TaoSama
-26	-35565714487	China	Haimin
 24	-7053945345	China	kjdsafio
 24	-30386052561	China	YufengLan
 23	-1853905938	China	The__Flash
@@ -1032,7 +1034,6 @@ Score	Penalty	Country	Name
 23	-26838654649	China	zuanyanshuojia
 23	-27068221385	China	AlexanderZ.Tang
 23	-27129464560	China	_liet
-23	-27414525259	China	sleepyrabbit
 23	-27641415345	China	yli13
 23	-27693297869	China	huangwc
 23	-27726644180	China	HTang
@@ -1089,7 +1090,6 @@ Score	Penalty	Country	Name
 23	-34108168487	China	kickstarterLsk
 23	-34129616960	China	xiaojie_xu
 23	-34241260297	China	thread.start
-23	-34262773806	China	Apprecieta
 23	-34330567167	China	geng4512
 23	-34463820739	China	M-theory
 23	-34513780260	China	李雨珂
@@ -1109,6 +1109,8 @@ Score	Penalty	Country	Name
 23	-35484242290	China	mxcpy
 23	-35650338680	China	HighRTT
 23	-35761268558	China	doowzs
+23	-35902401107	China	forgo1ten
+23	-35941256908	China	zp4421@gmail.com
 23	-36053354477	China	whuwxl
 16	-29300601279	China	NietzscheH
 16	-31364068466	China	mvclove
@@ -1147,6 +1149,7 @@ Score	Penalty	Country	Name
 12	-33568394726	China	cjrj
 12	-34649683280	China	JHC
 12	-35165669578	China	吴奕霖
+12	-35914597968	China	litmonster
 7	-1406473214	China	suqing
 7	-1599848925	China	crawarb
 7	-2252892174	China	nullstellensatz
@@ -1202,7 +1205,6 @@ Score	Penalty	Country	Name
 7	-22538505302	China	波形延迟
 7	-22640969841	China	Plalyy
 7	-22718912690	China	tiaotiao
-7	-22718912690	China	tiaotiao
 7	-23492670616	China	ashon37w
 7	-23775358622	China	zhangch
 7	-24199512644	China	Hacker_An
@@ -1226,9 +1228,7 @@ Score	Penalty	Country	Name
 7	-30122938267	China	QLU_dongyicheng
 7	-30533031645	China	backfire
 7	-30544425171	China	wolfgang123
-7	-30654772621	China	litmonster
 7	-30802518710	China	QLUWangyifan
-7	-30851279081	China	cminus
 7	-30851279081	China	cminus
 7	-31029917045	China	kabulee248@gmail.com
 7	-31070510495	China	QLU_魏文
@@ -1251,7 +1251,6 @@ Score	Penalty	Country	Name
 7	-33751267714	China	lz.askey
 7	-33814768261	China	skywalker_star
 7	-34126371370	China	ywk
-7	-34238109228	China	forgo1ten
 7	-34593041246	China	马尔斯
 7	-34638412541	China	jkgn
 7	-34700870024	China	Wilder_
@@ -1273,10 +1272,11 @@ Score	Penalty	Country	Name
 7	-35767655874	China	2894403794@qq.com
 7	-35769977720	China	ghbghb
 7	-35836196007	China	Spockkk
+7	-35908970417	China	Ahacad
+7	-35919656251	China	樱岛麻衣gogogo
 0	0	China	1134953287@qq.com
 0	0	China	2624539241@qq.com
 0	0	China	3zair1997
-0	0	China	Ahacad
 0	0	China	CoderCheng
 0	0	China	Danielwang
 0	0	China	Devillove084
