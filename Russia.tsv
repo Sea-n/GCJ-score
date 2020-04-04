@@ -54,8 +54,10 @@ Score	Penalty	Country	Name
 68	-45301818993	Russia	cezarnik
 68	-45334523757	Russia	Um_nik
 68	-45950531025	Russia	Volkov_Ivan
+68	-46133337262	Russia	StarCuriosity
 68	-46755429462	Russia	traylz
 68	-47151579428	Russia	Musin
+68	-47543774352	Russia	VulpesCorsac
 68	-47839365350	Russia	clown_rusofob
 61	-37813147694	Russia	caesarsaladdressing
 49	-43328750136	Russia	ivankff
@@ -64,7 +66,6 @@ Score	Penalty	Country	Name
 43	-19619724243	Russia	Kogut.Ivan
 43	-22779807560	Russia	Cir2100
 43	-23958082648	Russia	robozmey
-43	-31494466229	Russia	VulpesCorsac
 43	-31827138369	Russia	mrpast
 43	-39476885342	Russia	MIG29
 43	-41869723925	Russia	s20b1Kirka
@@ -212,7 +213,6 @@ Score	Penalty	Country	Name
 42	-41768661651	Russia	pikmike
 42	-42064099086	Russia	fetetriste
 42	-42114957689	Russia	KalininN
-42	-42135519741	Russia	StarCuriosity
 42	-42181226471	Russia	MapLegend
 42	-42214743897	Russia	OlegSmirnov
 42	-42231450756	Russia	divanik
@@ -337,6 +337,7 @@ Score	Penalty	Country	Name
 23	-45763900577	Russia	amisev
 23	-45954734794	Russia	vpike
 23	-45955978613	Russia	Kuyan
+23	-46085459303	Russia	OlgaBel
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 16	-45849261976	Russia	BelikovDmitry
@@ -387,15 +388,16 @@ Score	Penalty	Country	Name
 7	-45883072782	Russia	0442A403
 7	-45953793896	Russia	ivankun
 7	-45972870669	Russia	AnnaVosh
+0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	LordWader
+0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
 0	0	Russia	Tatyana_611_r
 0	0	Russia	ambisinistra
-0	0	Russia	mamenko
-0	0	Russia	mspitb
-0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	bsd_conqueror
 0	0	Russia	garipovii
+0	0	Russia	mamenko
+0	0	Russia	mspitb
 0	0	Russia	munir_
 0	0	Russia	sled
 0	0	Russia	sumkincpp
