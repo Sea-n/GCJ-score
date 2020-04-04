@@ -172,6 +172,7 @@ Score	Penalty	Country	Name
 42	-47966880505	Germany	ChristianM
 42	-47979399863	Germany	element314
 42	-48059426849	Germany	iloraC28
+42	-48178875597	Germany	mherzberg
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
 35	-43352976754	Germany	Apfeloxid
@@ -181,6 +182,7 @@ Score	Penalty	Country	Name
 30	-41082079624	Germany	luftfest
 30	-42379237760	Germany	mrbch
 30	-47159036664	Germany	lasse
+30	-47869573039	Germany	Callidior
 26	-34297943341	Germany	fabman
 26	-42691625019	Germany	momapf
 26	-45376842591	Germany	axr123
@@ -201,7 +203,6 @@ Score	Penalty	Country	Name
 23	-33295517653	Germany	ammen99@gmail.com
 23	-33535981995	Germany	D0miH
 23	-33865071123	Germany	sebp
-23	-35073979628	Germany	nilswe
 23	-35282638441	Germany	beesch
 23	-36025359981	Germany	Norbi42
 23	-36168674237	Germany	schweizerm
@@ -236,7 +237,6 @@ Score	Penalty	Country	Name
 23	-43781692768	Germany	cadac
 23	-43914992098	Germany	omilus
 23	-44597685275	Germany	bendeutz
-23	-44816324260	Germany	mherzberg
 23	-45017432622	Germany	albertjentschke@gmail.com
 23	-45180613355	Germany	Eike
 23	-45190475873	Germany	AdamStreck
@@ -249,7 +249,6 @@ Score	Penalty	Country	Name
 23	-46051070981	Germany	stema
 23	-46114713935	Germany	dennisroth
 23	-46130990278	Germany	Aliamondo
-23	-46175039850	Germany	Callidior
 23	-46268686000	Germany	mhuber
 23	-46598399103	Germany	Astrocyte
 23	-46640186854	Germany	strider29
@@ -280,7 +279,6 @@ Score	Penalty	Country	Name
 7	-31688149333	Germany	Beerjamin
 7	-31899993879	Germany	Gurkinator
 7	-32966676754	Germany	benleb
-7	-34649738218	Germany	Wonko
 7	-35433321955	Germany	abej
 7	-35696789595	Germany	Kurtme
 7	-35948792428	Germany	Navid_far
@@ -317,12 +315,13 @@ Score	Penalty	Country	Name
 7	-47513722191	Germany	leiftw
 7	-47627871658	Germany	raphinesse
 7	-47844552850	Germany	HotLava
+0	0	Germany	PrøCøder
+0	0	Germany	miskigolf
+0	0	Germany	svenibo
 0	0	Germany	MrTeX
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	arangra
+0	0	Germany	friebetill
 0	0	Germany	hackerpschorr
-0	0	Germany	PrøCøder
-0	0	Germany	miskigolf
 0	0	Germany	owling
-0	0	Germany	svenibo
