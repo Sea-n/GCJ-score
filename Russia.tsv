@@ -326,6 +326,8 @@ Score	Penalty	Country	Name
 42	-51617190871	Russia	L.I.S.
 42	-51720893460	Russia	kruntuid
 42	-51940316673	Russia	kreker
+42	-52036869819	Russia	BugDone
+42	-52344945297	Russia	NALP
 42	-52759222531	Russia	hiot
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -338,7 +340,6 @@ Score	Penalty	Country	Name
 30	-44690324278	Russia	sergeif
 30	-48704784136	Russia	asdasda
 30	-51376516325	Russia	maximumSHOT
-30	-51390262146	Russia	NALP
 26	-43023873121	Russia	cyga
 26	-47015970180	Russia	dzheglov
 26	-51641777482	Russia	wunder9l
@@ -358,7 +359,6 @@ Score	Penalty	Country	Name
 23	-34954878765	Russia	Pryanik
 23	-36160985174	Russia	Ckaf
 23	-36210226951	Russia	ufimets2
-23	-36500391060	Russia	BugDone
 23	-37196729806	Russia	alliencool
 23	-37914693171	Russia	bac423
 23	-38251044521	Russia	Aritol
@@ -481,6 +481,7 @@ Score	Penalty	Country	Name
 0	0	Russia	ambisinistra
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
+0	0	Russia	h4rdcode
 0	0	Russia	mamenko
 0	0	Russia	mspitb
 0	0	Russia	munir_
