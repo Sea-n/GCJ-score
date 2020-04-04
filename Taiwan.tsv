@@ -200,7 +200,6 @@ Score	Penalty	Country	Name
 42	-20786055085	Taiwan	jkmylove
 42	-20917998214	Taiwan	yeelung
 42	-21532941087	Taiwan	smallbirdluckybird
-42	-21532941087	Taiwan	smallbirdluckybird
 42	-21613551652	Taiwan	duduhau
 42	-21932904919	Taiwan	yellowweak
 42	-22037084272	Taiwan	lintseju
@@ -390,6 +389,8 @@ Score	Penalty	Country	Name
 42	-55410065282	Taiwan	Edwardlus
 42	-55485520118	Taiwan	shaojason999
 42	-55636665822	Taiwan	jackyhobingo
+42	-56048130802	Taiwan	udchen
+42	-56084452832	Taiwan	kanhua
 42	-56150378802	Taiwan	tkain
 42	-56306370466	Taiwan	ericchiu
 42	-56932264375	Taiwan	Reasoncs00
@@ -418,7 +419,6 @@ Score	Penalty	Country	Name
 30	-34797246850	Taiwan	0111t
 30	-39941065073	Taiwan	Yojahuang
 30	-46676791879	Taiwan	Eric_Chu
-30	-48410588266	Taiwan	ThunderCold
 30	-48410588266	Taiwan	ThunderCold
 30	-49810774990	Taiwan	Karinsu
 30	-51970157528	Taiwan	cycatz
@@ -483,6 +483,7 @@ Score	Penalty	Country	Name
 23	-42043737117	Taiwan	june_waves
 23	-42622795840	Taiwan	lai.eling22@gmail.com
 23	-42799797576	Taiwan	Bao_chen
+23	-43607205062	Taiwan	oscarchichun
 23	-43992339491	Taiwan	kcl
 23	-45627016628	Taiwan	Archie0129
 23	-46175188002	Taiwan	heymatch
@@ -491,8 +492,8 @@ Score	Penalty	Country	Name
 23	-47856395756	Taiwan	harrykou1
 23	-49672977100	Taiwan	wutt77
 23	-49720480382	Taiwan	solumilken
+23	-50163313118	Taiwan	KaiJan
 23	-50587873500	Taiwan	J.F.Andy
-23	-50807382478	Taiwan	kanhua
 23	-51009195905	Taiwan	JekyllAndHyde
 23	-51052583099	Taiwan	KevinYeh
 23	-51101724291	Taiwan	Rikurai
@@ -511,7 +512,6 @@ Score	Penalty	Country	Name
 23	-54515691552	Taiwan	fsh0524
 23	-55052646181	Taiwan	yao11617
 23	-55065520540	Taiwan	Wreid
-23	-55292915961	Taiwan	udchen
 23	-55365149695	Taiwan	cbc
 23	-55475089968	Taiwan	domen111
 23	-55563487052	Taiwan	wesleylee
@@ -519,6 +519,8 @@ Score	Penalty	Country	Name
 23	-55875284032	Taiwan	HuJK
 23	-55984125384	Taiwan	david2832
 23	-56044940150	Taiwan	ryubbang
+23	-56092298933	Taiwan	CliveLin
+23	-56092701861	Taiwan	drazermega
 23	-56746481433	Taiwan	CL.
 19	-40448430887	Taiwan	Ricky1121
 19	-53721253411	Taiwan	Rice9547
@@ -562,14 +564,12 @@ Score	Penalty	Country	Name
 7	-38894048578	Taiwan	Airs
 7	-39533805299	Taiwan	PeterD1524
 7	-40612278379	Taiwan	EmperorGunn
-7	-45269665041	Taiwan	drazermega
 7	-47491090714	Taiwan	asd00012334
 7	-48748069539	Taiwan	ryanovovo
 7	-51607160226	Taiwan	artix
 7	-52303238760	Taiwan	YH
 7	-53771834651	Taiwan	ThomasKo
 7	-54657632000	Taiwan	Poplarysl
-7	-54695163643	Taiwan	CliveLin
 7	-54848296239	Taiwan	johnathan79717
 7	-55173465042	Taiwan	yichun
 7	-55314069457	Taiwan	CML
@@ -579,6 +579,8 @@ Score	Penalty	Country	Name
 7	-56174728547	Taiwan	hankliao87
 5	-15429974427	Taiwan	alon21034
 5	-55094400999	Taiwan	sauder
+0	0	Taiwan	Jerry911017
+0	0	Taiwan	JimmyLinYA
 0	0	Taiwan	NCKU
 0	0	Taiwan	Timothy_Tung
 0	0	Taiwan	Vicky_0916
@@ -591,5 +593,3 @@ Score	Penalty	Country	Name
 0	0	Taiwan	tonyli
 0	0	Taiwan	tsai_yayun
 0	0	Taiwan	任生狂
-0	0	Taiwan	Jerry911017
-0	0	Taiwan	JimmyLinYA

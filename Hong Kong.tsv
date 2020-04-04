@@ -137,6 +137,7 @@ Score	Penalty	Country	Name
 42	-54225585122	Hong Kong	ianmemory
 42	-54393895973	Hong Kong	wchunhei
 42	-54678355987	Hong Kong	hanksCHONG
+42	-56041384408	Hong Kong	norubidium
 35	-35206580415	Hong Kong	phluenam
 35	-45257509342	Hong Kong	kennytang852
 35	-47618522926	Hong Kong	jimmysyw
@@ -187,7 +188,9 @@ Score	Penalty	Country	Name
 23	-55897847100	Hong Kong	bensonby
 23	-55941703477	Hong Kong	std::runtime_error
 23	-55967399257	Hong Kong	MechaMacaroni
+23	-56046006827	Hong Kong	oscarng
 23	-56103369197	Hong Kong	Carey
+19	-56074775359	Hong Kong	haleyk
 16	-49340608626	Hong Kong	PG20
 12	-48314849244	Hong Kong	aquadoot
 12	-48579144992	Hong Kong	GramePower
@@ -201,7 +204,6 @@ Score	Penalty	Country	Name
 7	-26416028167	Hong Kong	poi
 7	-30750090765	Hong Kong	jmanchuck
 7	-36009300337	Hong Kong	Samuel_Law
-7	-40524011248	Hong Kong	oscarng
 7	-41956247915	Hong Kong	stevefan1999
 7	-49879149830	Hong Kong	chris4540
 7	-52844302286	Hong Kong	thueii
@@ -213,10 +215,9 @@ Score	Penalty	Country	Name
 7	-55476968135	Hong Kong	YeungTW
 7	-55483912113	Hong Kong	myssix
 7	-55855664128	Hong Kong	fuzen
+0	0	Hong Kong	CKJack
 0	0	Hong Kong	Dr.Ray
+0	0	Hong Kong	Jeff_Magic
 0	0	Hong Kong	chunlam
 0	0	Hong Kong	cyt_2020
-0	0	Hong Kong	haleyk
 0	0	Hong Kong	normankong
-0	0	Hong Kong	CKJack
-0	0	Hong Kong	Jeff_Magic
