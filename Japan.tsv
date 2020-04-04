@@ -21,6 +21,7 @@ Score	Penalty	Country	Name
 100	-32358925077	Japan	domefasoltedo
 100	-33332933024	Japan	idaten459
 100	-33712011394	Japan	rabot
+100	-35100752315	Japan	Naoki_M
 100	-36663800481	Japan	kagasan
 75	-17222155067	Japan	Person20
 75	-25144458615	Japan	tetsuro1919
@@ -29,7 +30,6 @@ Score	Penalty	Country	Name
 74	-13619910273	Japan	SCL
 74	-18060630882	Japan	sksim
 74	-24356833601	Japan	sinatori
-74	-24504579665	Japan	Naoki_M
 74	-26213096662	Japan	minetosh
 74	-27810928641	Japan	hirokazu1020..
 74	-32283097853	Japan	ia7ck
@@ -621,7 +621,11 @@ Score	Penalty	Country	Name
 42	-35026700844	Japan	c_r_5
 42	-35030083453	Japan	kk_white
 42	-35057696123	Japan	charhan_2
+42	-35095269368	Japan	shimomire
 42	-35104302557	Japan	tomoya
+42	-35149373116	Japan	bdqp
+42	-35344596980	Japan	Treeone
+42	-35831487719	Japan	tanimanianima364
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
 35	-18676756225	Japan	noimi
@@ -738,7 +742,6 @@ Score	Penalty	Country	Name
 23	-31472032041	Japan	yotsutose
 23	-31621611700	Japan	OwlCreator7302
 23	-31713740098	Japan	kuribo
-23	-31763915549	Japan	tanimanianima364
 23	-31883238933	Japan	heine
 23	-31948162482	Japan	giantneko
 23	-31964133949	Japan	akihanari
@@ -746,9 +749,7 @@ Score	Penalty	Country	Name
 23	-32259247784	Japan	ravelll
 23	-32479453149	Japan	xTqkx
 23	-32630810625	Japan	ymd2007umd@gmail.com
-23	-32735779043	Japan	Treeone
 23	-32873936035	Japan	turuturu
-23	-32898721588	Japan	bdqp
 23	-32978526640	Japan	punipuni
 23	-33045843963	Japan	amalett0
 23	-33180153310	Japan	cojna
@@ -771,7 +772,6 @@ Score	Penalty	Country	Name
 23	-34418798915	Japan	rkrmr
 23	-34419765462	Japan	Izayoi_R
 23	-34420729423	Japan	marims
-23	-34463904934	Japan	shimomire
 23	-34489566917	Japan	tsumli
 23	-34494709081	Japan	tai_yaki
 23	-34515828563	Japan	nimon
@@ -858,6 +858,8 @@ Score	Penalty	Country	Name
 7	-34979253823	Japan	Katu2ou
 7	-35069371916	Japan	acguy
 7	-35080790668	Japan	msiro
+7	-35113675844	Japan	shun2741
+7	-35123561753	Japan	proribone
 5	-20592198897	Japan	haruka2003
 0	0	Japan	Kuraot
 0	0	Japan	aki_bayes

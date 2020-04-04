@@ -821,6 +821,9 @@ Score	Penalty	Country	Name
 42	-34742549438	United States	spatika
 42	-34894995131	United States	plg18b
 42	-34904762406	United States	yzyz
+42	-35089220570	United States	supersam
+42	-35133002806	United States	akannan
+42	-35362966174	United States	broryan
 42	-35394538894	United States	kirmorozov
 42	-35737486639	United States	inQBtr
 35	-5769006019	United States	MSchallenkamp
@@ -920,9 +923,7 @@ Score	Penalty	Country	Name
 26	-27934721365	United States	Monir786
 26	-31120335304	United States	fbr02
 26	-32237522243	United States	jairamp
-26	-32552140071	United States	supersam
 24	-5131540407	United States	baibhavatsa
-24	-18222367717	United States	Arterer
 24	-18222367717	United States	Arterer
 24	-20786654146	United States	MichaelC
 24	-29498810952	United States	Srs
@@ -1019,7 +1020,6 @@ Score	Penalty	Country	Name
 23	-8243517220	United States	Yingxu
 23	-8255094142	United States	omkar710
 23	-8315601402	United States	sbcode
-23	-8368147260	United States	ayyjohn
 23	-8368147260	United States	ayyjohn
 23	-8387856380	United States	arnauddesombre
 23	-8481381817	United States	thelastprime
@@ -1233,7 +1233,6 @@ Score	Penalty	Country	Name
 23	-25119712700	United States	tangry
 23	-25250049488	United States	ohlacode
 23	-25286426296	United States	changdaniel
-23	-25309673712	United States	akannan
 23	-25522972400	United States	tyler.woodhull@gmail.com
 23	-25553243771	United States	Orson
 23	-25642047566	United States	natetonal
@@ -1244,7 +1243,6 @@ Score	Penalty	Country	Name
 23	-26086420629	United States	namiazad
 23	-26144387552	United States	sunking14
 23	-26198121122	United States	ALMN
-23	-26230603688	United States	broryan
 23	-26630014519	United States	aliturcan
 23	-26709004478	United States	LooneyLarry
 23	-26965837284	United States	Cant_restrict_this_enzyme
@@ -1701,11 +1699,6 @@ Score	Penalty	Country	Name
 5	-27572943971	United States	Sha626
 5	-28431963469	United States	mscheid
 1	-20780618953	United States	Dishen
-0	0	United States	EZ
-0	0	United States	Jihye7373
-0	0	United States	darshan_sol
-0	0	United States	suxrob
-0	0	United States	vkg815
 0	0	United States	2096winters
 0	0	United States	AP1217
 0	0	United States	Anonymous_id24
@@ -1721,6 +1714,7 @@ Score	Penalty	Country	Name
 0	0	United States	Crownless
 0	0	United States	DharmeshGuna
 0	0	United States	Dynamoo
+0	0	United States	EZ
 0	0	United States	Ellaphant57
 0	0	United States	Francelia
 0	0	United States	Glengar
@@ -1730,6 +1724,7 @@ Score	Penalty	Country	Name
 0	0	United States	JB.io
 0	0	United States	JacobSage
 0	0	United States	Jessmer
+0	0	United States	Jihye7373
 0	0	United States	KamalH04
 0	0	United States	KennedyJohnson1996
 0	0	United States	Mayers2003
@@ -1777,6 +1772,7 @@ Score	Penalty	Country	Name
 0	0	United States	budget
 0	0	United States	ca$hmoneyclark
 0	0	United States	danc2
+0	0	United States	darshan_sol
 0	0	United States	defaultedshy
 0	0	United States	derek_ly56
 0	0	United States	desidude96
@@ -1836,6 +1832,7 @@ Score	Penalty	Country	Name
 0	0	United States	shauryashekhar
 0	0	United States	skrrtskrrt17
 0	0	United States	stuyen98
+0	0	United States	suxrob
 0	0	United States	the_em_dawg
 0	0	United States	theta
 0	0	United States	tk0221
@@ -1843,4 +1840,5 @@ Score	Penalty	Country	Name
 0	0	United States	tybot
 0	0	United States	valkyriewarrior
 0	0	United States	vedant_13
+0	0	United States	vkg815
 0	0	United States	xLany

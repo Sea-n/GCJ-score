@@ -131,6 +131,7 @@ Score	Penalty	Country	Name
 42	-34608606003	Russia	danilgrig
 42	-34730627491	Russia	CsuD
 42	-34800798701	Russia	VFeafanov
+42	-35089622919	Russia	shart23
 35	-30640710308	Russia	DmitryGrigorev
 35	-34946471514	Russia	caesarsaladdressing
 31	-32615275115	Russia	agorodnev
@@ -165,7 +166,6 @@ Score	Penalty	Country	Name
 23	-32735189876	Russia	AirGB
 23	-33494613710	Russia	Vasha_Kiska_Est_Irisku
 23	-33617597065	Russia	sergeykozub
-23	-33722257225	Russia	shart23
 23	-33732948821	Russia	s20b1Kirka
 23	-33838138231	Russia	3_IQ
 23	-33853169000	Russia	SendThemToHell
@@ -188,6 +188,8 @@ Score	Penalty	Country	Name
 23	-34916072587	Russia	alex.shkarin
 23	-34954878765	Russia	Pryanik
 23	-35059184495	Russia	cezarnik
+23	-35091620290	Russia	Ista
+23	-35112792924	Russia	Dedal
 19	-31065697477	Russia	demidenko
 16	-34379053917	Russia	salyamov
 16	-34972504697	Russia	JPepper
@@ -217,8 +219,6 @@ Score	Penalty	Country	Name
 7	-33574899825	Russia	BugDone
 7	-33841513028	Russia	step_by_step
 7	-34003320759	Russia	presnakovoleg
-7	-34029646090	Russia	Dedal
-7	-34264320078	Russia	Ista
 7	-34536271585	Russia	ferume
 7	-34542536432	Russia	SashaPROS3
 7	-34623586095	Russia	wlesavo
@@ -231,4 +231,5 @@ Score	Penalty	Country	Name
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	dimitribelikov
 0	0	Russia	garipovii
+0	0	Russia	ivan.chepiga
 0	0	Russia	vmark
