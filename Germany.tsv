@@ -140,6 +140,7 @@ Score	Penalty	Country	Name
 42	-44290044914	Germany	Harry3141
 42	-44451378732	Germany	nanoalpaca
 42	-44477471557	Germany	HKalinke
+42	-44607388351	Germany	NaN
 42	-44695439727	Germany	yoni11
 42	-44717174930	Germany	peli
 42	-44718519688	Germany	rmeertens
@@ -213,7 +214,6 @@ Score	Penalty	Country	Name
 23	-42039771487	Germany	AlexZorn
 23	-42055407534	Germany	Spacetoaster
 23	-42076398457	Germany	h1k3r
-23	-42269144087	Germany	NaN
 23	-42456791411	Germany	Urinstinkt
 23	-42525332010	Germany	risteon
 23	-42567665467	Germany	ture
@@ -228,6 +228,7 @@ Score	Penalty	Country	Name
 23	-44279340014	Germany	sbarlabanov
 23	-44415112083	Germany	luisf
 23	-44479472177	Germany	chris_daniel
+23	-44597685275	Germany	bendeutz
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-43513037664	Germany	BananaNosh
@@ -236,6 +237,7 @@ Score	Penalty	Country	Name
 7	-8611874358	Germany	ashray_adhikari
 7	-22150836243	Germany	ar_bt
 7	-29952061991	Germany	MarBolCode
+7	-31688149333	Germany	Beerjamin
 7	-31899993879	Germany	Gurkinator
 7	-32656921297	Germany	Eike
 7	-32966676754	Germany	benleb
@@ -244,7 +246,6 @@ Score	Penalty	Country	Name
 7	-35696789595	Germany	Kurtme
 7	-35948792428	Germany	Navid_far
 7	-36593685882	Germany	Pavel85
-7	-36786994963	Germany	bendeutz
 7	-37418368720	Germany	hf2000510
 7	-37427274826	Germany	mhuber
 7	-37629074610	Germany	debriscloud
@@ -252,7 +253,6 @@ Score	Penalty	Country	Name
 7	-39773426233	Germany	Thundertron
 7	-39949447373	Germany	twuebi
 7	-40095486787	Germany	mherzberg
-7	-40314761492	Germany	stema
 7	-40314761492	Germany	stema
 7	-40638092020	Germany	Michip96
 7	-40887969995	Germany	viso
@@ -283,12 +283,12 @@ Score	Penalty	Country	Name
 7	-44563570949	Germany	Aliamondo
 0	0	Germany	Mobo
 0	0	Germany	PrøCøder
-0	0	Germany	clr
-0	0	Germany	leiftw
-0	0	Germany	svenibo
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
+0	0	Germany	clr
 0	0	Germany	friebetill
 0	0	Germany	hackerpschorr
 0	0	Germany	iloraC28
+0	0	Germany	leiftw
 0	0	Germany	mmz
+0	0	Germany	svenibo

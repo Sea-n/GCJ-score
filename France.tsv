@@ -28,6 +28,7 @@ Score	Penalty	Country	Name
 68	-43238872654	France	pelliot
 68	-43517068740	France	PimBin
 68	-44609005253	France	MCube
+68	-44824961824	France	adrien@updown.io
 68	-45303095058	France	treziac
 68	-45883818404	France	QuentinBlampey
 55	-12302438707	France	Ihzfo
@@ -130,7 +131,6 @@ Score	Penalty	Country	Name
 42	-39699173357	France	renault
 42	-40056460225	France	neomas
 42	-40428786911	France	brospi
-42	-40480546289	France	adrien@updown.io
 42	-40573265204	France	Piromagnus
 42	-40575192589	France	HommeViande
 42	-40642235105	France	Seb314
@@ -164,6 +164,7 @@ Score	Penalty	Country	Name
 42	-44312983242	France	Jean-Michel
 42	-44437736015	France	Bybuu
 42	-44466350981	France	pogozio
+42	-44660964609	France	ro_obot
 42	-45002807676	France	levantuan
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
@@ -240,7 +241,6 @@ Score	Penalty	Country	Name
 23	-38958398374	France	Arene
 23	-39157756829	France	passil_t
 23	-39209473512	France	calimero
-23	-39364980364	France	ro_obot
 23	-39436740398	France	Butanal
 23	-39487235154	France	btvl
 23	-39555580042	France	SimonD
@@ -288,10 +288,14 @@ Score	Penalty	Country	Name
 23	-44359213476	France	fstark
 23	-44363092672	France	thomasdelepine
 23	-44503650003	France	cholaknight
+23	-44617015988	France	Nurenai
+23	-44650712148	France	romi1502
 23	-44660110103	France	vxgmichel
+23	-44838777372	France	Kan1
 16	-21240143956	France	mnaji
 16	-39177363426	France	ElFabino
 16	-41633658935	France	user1337
+16	-44656865783	France	Mosca
 12	-3016417898	France	antoineroux
 12	-11595584768	France	ayshiff
 12	-17461254601	France	DrissTM
@@ -305,8 +309,6 @@ Score	Penalty	Country	Name
 7	-8362186987	France	AZERTY
 7	-8456694295	France	bjosep7
 7	-24179044155	France	gre99ory
-7	-24326965994	France	Kan1
-7	-33403029604	France	romi1502
 7	-34061493532	France	HK2
 7	-35081712578	France	Matt74
 7	-36359122142	France	Toutatis
@@ -322,7 +324,6 @@ Score	Penalty	Country	Name
 7	-40684305310	France	v-perez
 7	-40860722784	France	Eigho
 7	-40935745837	France	jacadi
-7	-41109627476	France	Nurenai
 7	-41243384538	France	chevalfoucher
 7	-41310585842	France	lifeofsmiith
 7	-41394392630	France	Klu
@@ -335,6 +336,7 @@ Score	Penalty	Country	Name
 7	-42783992101	France	ErwanBn
 7	-42945002987	France	EtherealUnagi
 7	-42962548007	France	Yohan_Tz
+7	-43083854950	France	elana
 7	-43242961236	France	Oupo
 7	-43369550998	France	yanndev
 7	-43524371929	France	coco33920
@@ -350,18 +352,18 @@ Score	Penalty	Country	Name
 5	-43709133229	France	matousso
 0	0	France	ArthurMR
 0	0	France	Benskalz
-0	0	France	Kandhum
-0	0	France	Mizzy
-0	0	France	benjlepyreneen
-0	0	France	cigix
 0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	DorianNogneng
+0	0	France	Kandhum
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaTTs
+0	0	France	Mizzy
 0	0	France	Pigloo
+0	0	France	benjlepyreneen
 0	0	France	c0lt_dgtl
+0	0	France	cigix
 0	0	France	diodfr
 0	0	France	mo4J
 0	0	France	paul.cibier@gmail.com
