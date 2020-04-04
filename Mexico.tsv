@@ -86,6 +86,7 @@ Score	Penalty	Country	Name
 23	-10133037776	Mexico	Artorias
 23	-11237343160	Mexico	victorm
 23	-16594172375	Mexico	Emi370
+23	-16594172375	Mexico	Emi370
 23	-17618745584	Mexico	ricardo_hs
 23	-20863969861	Mexico	RodrigoEA
 23	-21963798011	Mexico	GerardoGarzon11
@@ -94,7 +95,6 @@ Score	Penalty	Country	Name
 23	-26909182740	Mexico	Daniel19Frenzy
 23	-27703361900	Mexico	alex_rangi
 23	-29013893750	Mexico	erik2310
-23	-29132625130	Mexico	NibboNSX
 23	-29309285211	Mexico	many_118
 23	-29686859545	Mexico	betor
 23	-30550912835	Mexico	Elmanuel
@@ -108,6 +108,9 @@ Score	Penalty	Country	Name
 23	-47887915941	Mexico	betojulio
 23	-57227953317	Mexico	Moy6dav
 23	-60087800652	Mexico	Leon14
+23	-62371235721	Mexico	ArturoRamirez
+23	-62380445524	Mexico	Dango.Papylord
+23	-62411860687	Mexico	kishtarn555
 19	-22545867411	Mexico	RafaPE
 16	-27798829341	Mexico	miguelraz
 12	-3314259951	Mexico	Ictus17
@@ -134,7 +137,6 @@ Score	Penalty	Country	Name
 7	-10150550824	Mexico	maed12
 7	-10441143092	Mexico	RDLL
 7	-10665773200	Mexico	zagerer
-7	-11260847526	Mexico	kishtarn555
 7	-11388881977	Mexico	Santirax
 7	-11900440705	Mexico	joel.chacon
 7	-12681351119	Mexico	Ladiv
@@ -162,13 +164,12 @@ Score	Penalty	Country	Name
 7	-37197824061	Mexico	Arthur_Destruction
 7	-45837282908	Mexico	smiguel706
 7	-48151327003	Mexico	hugoduar
-7	-56326977441	Mexico	ArturoRamirez
 7	-59486644315	Mexico	ansaca
-7	-60022528216	Mexico	Dango.Papylord
 7	-60200514014	Mexico	luisjackramirez
 7	-61207321374	Mexico	Astrar
 7	-61657233022	Mexico	dpulidoc
 0	0	Mexico	Eddie2809
+0	0	Mexico	Erberth
 0	0	Mexico	FAVA
 0	0	Mexico	GustavoZA
 0	0	Mexico	Gusvega
@@ -176,4 +177,3 @@ Score	Penalty	Country	Name
 0	0	Mexico	fershady19
 0	0	Mexico	lbaymax
 0	0	Mexico	pao.gh
-0	0	Mexico	Erberth
