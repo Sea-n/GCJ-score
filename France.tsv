@@ -34,6 +34,7 @@ Score	Penalty	Country	Name
 43	-39974142588	France	lil_meyer
 43	-40420012239	France	Coredmp
 43	-41200562022	France	Aerosfilis
+43	-43077164916	France	wenjunGael
 43	-43133795861	France	nitrogenc
 42	-977047005	France	Tahkare
 42	-1842985261	France	Hemitheconyx
@@ -96,7 +97,6 @@ Score	Penalty	Country	Name
 42	-35308136813	France	Jarjar
 42	-35646091724	France	vincent.belrose
 42	-35660302068	France	sirolf
-42	-35668584031	France	wenjunGael
 42	-35752393236	France	Thundzz
 42	-35859998741	France	jeyries
 42	-35876084019	France	yo35
@@ -268,6 +268,7 @@ Score	Penalty	Country	Name
 23	-42754365282	France	shd33
 23	-42778094287	France	jonenst
 23	-42802478382	France	fabien.c
+23	-43019840829	France	Uriopass
 16	-21240143956	France	mnaji
 16	-39177363426	France	ElFabino
 16	-41353673689	France	eloiseb
@@ -278,6 +279,7 @@ Score	Penalty	Country	Name
 12	-42221475401	France	tshpak
 7	-1149947034	France	Optidad
 7	-2183542384	France	buiquanganh85
+7	-4109592463	France	Antonmaster007
 7	-4493581986	France	fou
 7	-4546729497	France	thib.c
 7	-5678070320	France	Martial
@@ -323,26 +325,23 @@ Score	Penalty	Country	Name
 7	-42201456275	France	brurrito
 7	-42373051739	France	JaiX
 7	-42473195294	France	blackeagle
-7	-42565436006	France	Uriopass
 7	-42646357111	France	Nanored
 7	-42783992101	France	ErwanBn
 7	-42893021933	France	thomasdelepine
 7	-42894331084	France	etienne.thiery
 7	-42945002987	France	EtherealUnagi
+7	-42962548007	France	Yohan_Tz
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	DorianNogneng
-0	0	France	EtherealUnagi
 0	0	France	LightSn0w
-0	0	France	Loic
 0	0	France	MaTTs
 0	0	France	Mizzy
 0	0	France	Oupo
 0	0	France	Pigloo
-0	0	France	Tchou
 0	0	France	c0lt_dgtl
 0	0	France	cigix
 0	0	France	diodfr
@@ -350,3 +349,5 @@ Score	Penalty	Country	Name
 0	0	France	paul.cibier@gmail.com
 0	0	France	peddp9
 0	0	France	phh
+0	0	France	Loic
+0	0	France	Tchou
