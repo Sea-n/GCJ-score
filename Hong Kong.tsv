@@ -105,8 +105,6 @@ Score	Penalty	Country	Name
 42	-38282135779	Hong Kong	Silver_Lining
 42	-38387093103	Hong Kong	cylau1996
 42	-38387487321	Hong Kong	xhuang227
-42	-38387093103	Hong Kong	cylau1996
-42	-38387487321	Hong Kong	xhuang227
 42	-38677487984	Hong Kong	smallPotato
 42	-39472789228	Hong Kong	crazyboycjr
 42	-40076056784	Hong Kong	=
@@ -206,10 +204,11 @@ Score	Penalty	Country	Name
 7	-54016917685	Hong Kong	Justin1
 7	-54174908714	Hong Kong	tekichan
 7	-54315959653	Hong Kong	calvincheng
-0	0	Hong Kong	Dr.Ray
-0	0	Hong Kong	chunlam
-0	0	Hong Kong	CKJack
-0	0	Hong Kong	Jeff_Magic
 0	0	Hong Kong	cyt_2020
+0	0	Hong Kong	CKJack
+0	0	Hong Kong	Dr.Ray
+0	0	Hong Kong	Jeff_Magic
+0	0	Hong Kong	chunlam
 0	0	Hong Kong	haleyk
 0	0	Hong Kong	normankong
+0	0	Hong Kong	std::runtime_error
