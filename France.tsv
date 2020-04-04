@@ -82,6 +82,7 @@ Score	Penalty	Country	Name
 68	-60079807292	France	LuciaVonTelmus
 68	-60220256091	France	Isammoc
 68	-60984042423	France	WNG
+68	-61461584668	France	succo
 62	-58460070187	France	mj3n
 55	-12302438707	France	Ihzfo
 49	-53322028700	France	akhlif
@@ -314,6 +315,7 @@ Score	Penalty	Country	Name
 42	-60310654589	France	nootal
 35	-7375202611	France	Mathisaillot
 35	-51301808842	France	diodfr
+35	-51301808842	France	diodfr
 35	-53152238253	France	rthr
 31	-14280627974	France	Bil1983
 31	-36546870094	France	Cjdcoy
@@ -325,6 +327,7 @@ Score	Penalty	Country	Name
 30	-34856845674	France	t2cyborg
 30	-42264898868	France	BenoitMX
 30	-45732936660	France	TheClem2
+30	-48772983159	France	Mosca
 30	-48772983159	France	Mosca
 30	-52491280765	France	Guchi
 30	-53517921986	France	Hboni
@@ -347,6 +350,7 @@ Score	Penalty	Country	Name
 23	-16817031932	France	Doke
 23	-17842441367	France	Brainabilgh
 23	-17923643473	France	antonin
+23	-26195829330	France	Lysrt
 23	-26195829330	France	Lysrt
 23	-30540824754	France	vexilla72
 23	-32282374637	France	aepsilon
@@ -376,7 +380,6 @@ Score	Penalty	Country	Name
 23	-41670016097	France	SanVicente
 23	-42467253790	France	pvaub
 23	-43505909627	France	SebleSebastien
-23	-43689017443	France	NawfelT
 23	-43689017443	France	NawfelT
 23	-43838331595	France	Tewdrig
 23	-44143268758	France	peddp9
@@ -501,7 +504,6 @@ Score	Penalty	Country	Name
 7	-56578449671	France	ElodieT
 7	-57401919555	France	theodumont
 7	-57683642405	France	BigMamadou
-7	-58076629670	France	Herasus
 7	-58431459468	France	Norrude
 7	-58652563443	France	Raska
 7	-58854877546	France	h1
@@ -514,15 +516,13 @@ Score	Penalty	Country	Name
 7	-60034640404	France	hyperc
 7	-60040038104	France	Tuschin
 7	-60213765535	France	bin.marguerite@gmail.com
-0	0	France	Bot2019
-0	0	France	Kandhum
-0	0	France	Tislaan
-0	0	France	abel0b
 0	0	France	ArthurMR
 0	0	France	Benskalz
+0	0	France	Bot2019
 0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	HuGoo
+0	0	France	Kandhum
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaieV
@@ -532,7 +532,9 @@ Score	Penalty	Country	Name
 0	0	France	PierreRako
 0	0	France	Poitiersrpz
 0	0	France	SydnExpert
+0	0	France	Tislaan
 0	0	France	Victoire_tjj
+0	0	France	abel0b
 0	0	France	ben64
 0	0	France	benjlepyreneen
 0	0	France	cigix
@@ -545,4 +547,5 @@ Score	Penalty	Country	Name
 0	0	France	philM
 0	0	France	sophieribault
 0	0	France	sup3ruhax0ru
+0	0	France	superuH
 0	0	France	tinylinux

@@ -88,7 +88,6 @@ Score	Penalty	Country	Name
 68	-25498811992	South Korea	MarshMalloW
 68	-25921350789	South Korea	Zisa
 68	-25965919254	South Korea	syphon
-68	-25965919254	South Korea	syphon
 68	-26455556446	South Korea	Burst
 68	-27943993033	South Korea	evenharder
 68	-28824215465	South Korea	arnold518
@@ -135,7 +134,6 @@ Score	Penalty	Country	Name
 68	-55109812724	South Korea	openingsound
 68	-56600550519	South Korea	wonyoung
 68	-56624115049	South Korea	jwyang
-68	-56656341228	South Korea	jeongukjae
 68	-56936342919	South Korea	iqjumps
 68	-57396078207	South Korea	noelbird
 68	-58171180351	South Korea	ik_e
@@ -145,6 +143,7 @@ Score	Penalty	Country	Name
 68	-58918965686	South Korea	eazy
 68	-60923030552	South Korea	YunGoon
 68	-61028071558	South Korea	fredldh
+68	-61556147059	South Korea	jeongukjae
 56	-41014787033	South Korea	qqqqwwwweeeerrrrtttt
 55	-37560136953	South Korea	jugol
 55	-48766494190	South Korea	lucent
@@ -337,6 +336,7 @@ Score	Penalty	Country	Name
 42	-23628490510	South Korea	Limerainne
 42	-23706623198	South Korea	platter
 42	-23750566450	South Korea	q8514199
+42	-23805195041	South Korea	Freetime
 42	-23852182563	South Korea	BoxJeon
 42	-24081598930	South Korea	ASRIG
 42	-24118745309	South Korea	hollal
@@ -368,6 +368,7 @@ Score	Penalty	Country	Name
 42	-26310613167	South Korea	most323
 42	-26371825966	South Korea	finalchild
 42	-26525875226	South Korea	threedalpeng
+42	-26548072148	South Korea	picosw
 42	-26719042069	South Korea	indosm
 42	-26808964207	South Korea	puduck
 42	-26839940804	South Korea	JJaewon
@@ -650,6 +651,7 @@ Score	Penalty	Country	Name
 42	-60054620809	South Korea	wijw111@gmail.com
 42	-60214767354	South Korea	realcoke82@gmail.com
 42	-60237394873	South Korea	hsjeong
+42	-60375853066	South Korea	BayMinimum
 42	-60422944367	South Korea	Again
 42	-60494038175	South Korea	chahong
 42	-60655015587	South Korea	Lonelywolf
@@ -660,6 +662,7 @@ Score	Penalty	Country	Name
 35	-33328177785	South Korea	accidentallygivenfuck
 35	-33508427273	South Korea	gandhi1001
 35	-47335195794	South Korea	alex9801
+35	-51593111919	South Korea	yoons
 35	-51593111919	South Korea	yoons
 35	-52845520860	South Korea	Xnuk
 35	-56299564525	South Korea	antifly55
@@ -697,6 +700,7 @@ Score	Penalty	Country	Name
 30	-48838331936	South Korea	yg.kim
 30	-49043643570	South Korea	SAGONG
 30	-49286336441	South Korea	Giantpanda
+30	-51734190655	South Korea	Parksolo
 30	-51880537416	South Korea	SeongYunKim
 30	-52454602681	South Korea	jake_lee
 30	-53333183705	South Korea	hwjdghks2102
@@ -834,7 +838,6 @@ Score	Penalty	Country	Name
 23	-59212449213	South Korea	jolupPLZ
 23	-59246170719	South Korea	shinebobo
 23	-59252002200	South Korea	Hesh0629
-23	-59331031418	South Korea	BayMinimum
 23	-59412302031	South Korea	nnniii
 23	-59590327471	South Korea	Kdogs
 23	-59616739343	South Korea	ICCHOI
@@ -885,6 +888,7 @@ Score	Penalty	Country	Name
 7	-13673818599	South Korea	Hiiiiiiiiiiiiiiiiii
 7	-13986348023	South Korea	eunsung
 7	-16891633315	South Korea	chungsol
+7	-26352517258	South Korea	hyejiseo
 7	-27155235118	South Korea	Frontmulti
 7	-27412554794	South Korea	exp15
 7	-27934032465	South Korea	GOM
@@ -964,12 +968,8 @@ Score	Penalty	Country	Name
 7	-60075736935	South Korea	nang1023
 7	-60131452732	South Korea	oct18
 7	-60187292483	South Korea	hodoli
+7	-60360059568	South Korea	surverrepairman
 5	-31464216449	South Korea	Seokjin
-0	0	South Korea	Seoyeon
-0	0	South Korea	indexxlim
-0	0	South Korea	leoJeong
-0	0	South Korea	planet_to
-0	0	South Korea	surverrepairman
 1	-33551112963	South Korea	return_zero
 0	0	South Korea	0xF4D3C0D3
 0	0	South Korea	3to15gram
@@ -981,6 +981,7 @@ Score	Penalty	Country	Name
 0	0	South Korea	Kuril
 0	0	South Korea	Ohman
 0	0	South Korea	Preston119
+0	0	South Korea	Seoyeon
 0	0	South Korea	TAEHOONYOON
 0	0	South Korea	Trixmos
 0	0	South Korea	YONG_HWAN
@@ -990,9 +991,12 @@ Score	Penalty	Country	Name
 0	0	South Korea	cantapiya
 0	0	South Korea	holywars
 0	0	South Korea	ilhan.ryu
+0	0	South Korea	indexxlim
 0	0	South Korea	koreabell
+0	0	South Korea	leoJeong
 0	0	South Korea	meruho
 0	0	South Korea	nickjung
+0	0	South Korea	planet_to
 0	0	South Korea	pooooet
 0	0	South Korea	spillink
 0	0	South Korea	swcunba
