@@ -9,6 +9,7 @@ Score	Penalty	Country	Name
 100	-39082649154	Hong Kong	kmyiu
 100	-41962701417	Hong Kong	kcchanal
 100	-43128753183	Hong Kong	chengheichit
+100	-45652622862	Hong Kong	ITO
 74	-17168697010	Hong Kong	lunaticalized
 74	-30042186219	Hong Kong	arvincat
 74	-30766827241	Hong Kong	calvinchankf
@@ -16,7 +17,6 @@ Score	Penalty	Country	Name
 74	-41281606819	Hong Kong	MShadow
 74	-42794443508	Hong Kong	kmchau
 74	-45309163932	Hong Kong	coderbd
-68	-9510810708	Hong Kong	ITO
 68	-11681257361	Hong Kong	Setako
 68	-28301463463	Hong Kong	hamburgerwjx
 68	-29956308845	Hong Kong	ksmai
@@ -76,7 +76,6 @@ Score	Penalty	Country	Name
 42	-28211813102	Hong Kong	JOEWONG
 42	-28608237618	Hong Kong	EdwardChui
 42	-28781090314	Hong Kong	VincentYeung
-42	-28816605373	Hong Kong	takchunpoon
 42	-28858741857	Hong Kong	ckpeteryu
 42	-29345493974	Hong Kong	siuming
 42	-29576784606	Hong Kong	Mariouz
@@ -89,6 +88,7 @@ Score	Penalty	Country	Name
 42	-33490215385	Hong Kong	mariowong
 42	-33495914335	Hong Kong	Sky0470
 42	-33640399073	Hong Kong	mcreng
+42	-33941462759	Hong Kong	michaellee8
 42	-33941462759	Hong Kong	michaellee8
 42	-34276110924	Hong Kong	biaobiao0339
 42	-34317775350	Hong Kong	hong0311
@@ -110,14 +110,12 @@ Score	Penalty	Country	Name
 42	-45140782376	Hong Kong	Edgar99
 42	-45256163592	Hong Kong	anhnp1412
 42	-46571233093	Hong Kong	clh_perry
-35	-35206580415	Hong Kong	phluenam
 35	-45257509342	Hong Kong	kennytang852
 31	-4700847052	Hong Kong	taylorhk
 31	-24545819006	Hong Kong	Big.Tam
 31	-29918511887	Hong Kong	Lrt1088
 31	-30335084279	Hong Kong	hkwalker
 30	-41334080830	Hong Kong	Casp3r
-30	-42204291703	Hong Kong	OscarYau
 30	-42204291703	Hong Kong	OscarYau
 30	-45775145639	Hong Kong	Jingxuan
 23	-3942905800	Hong Kong	kingsonc
@@ -126,6 +124,7 @@ Score	Penalty	Country	Name
 23	-19979721060	Hong Kong	yos.hk
 23	-20740057671	Hong Kong	knatyar
 23	-23186486351	Hong Kong	rlalpha
+23	-23380755978	Hong Kong	necole
 23	-24198215467	Hong Kong	54D
 23	-25769069860	Hong Kong	augustchaan
 23	-25800192054	Hong Kong	shinymegaaltaria
@@ -159,6 +158,7 @@ Score	Penalty	Country	Name
 23	-45074442028	Hong Kong	squarerootlolly
 12	-32953685914	Hong Kong	LambdaHK
 12	-38574641337	Hong Kong	RMYF
+12	-43484498200	Hong Kong	ianmemory
 7	-7229828803	Hong Kong	kelvinlieu
 7	-10050561687	Hong Kong	Helic
 7	-16735360371	Hong Kong	baelioz.days
@@ -180,10 +180,10 @@ Score	Penalty	Country	Name
 7	-44796522663	Hong Kong	Kevinxiehk
 7	-44861411815	Hong Kong	hanksCHONG
 7	-45357569488	Hong Kong	StarBurstPlus
-0	0	Hong Kong	PG20
-0	0	Hong Kong	CKJack
 0	0	Hong Kong	chunlam
-0	0	Hong Kong	cyt_2020
-0	0	Hong Kong	jimmysyw
 0	0	Hong Kong	normankong
 0	0	Hong Kong	percywtc
+0	0	Hong Kong	CKJack
+0	0	Hong Kong	PG20
+0	0	Hong Kong	cyt_2020
+0	0	Hong Kong	jimmysyw
