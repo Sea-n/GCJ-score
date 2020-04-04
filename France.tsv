@@ -166,6 +166,7 @@ Score	Penalty	Country	Name
 42	-44466350981	France	pogozio
 42	-44660964609	France	ro_obot
 42	-44709857255	France	Aurelr
+42	-44751658738	France	caspanif
 42	-45002807676	France	levantuan
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
@@ -228,7 +229,6 @@ Score	Penalty	Country	Name
 23	-37300119428	France	OphelieBl
 23	-37588138913	France	_At0m
 23	-37715329897	France	Eichhornchen
-23	-37755042442	France	rfrenoy
 23	-38104982705	France	Zozios
 23	-38141514228	France	TheClem2
 23	-38142724402	France	naaranja
@@ -258,7 +258,6 @@ Score	Penalty	Country	Name
 23	-41604896199	France	mitsubachimaya
 23	-41622423724	France	ClémentChouteau
 23	-41670016097	France	SanVicente
-23	-41806417255	France	caspanif
 23	-41849919788	France	Tanp
 23	-41913939757	France	darkantoine
 23	-42467253790	France	pvaub
@@ -292,10 +291,12 @@ Score	Penalty	Country	Name
 23	-44650712148	France	romi1502
 23	-44660110103	France	vxgmichel
 23	-44674238564	France	Mosca
+23	-44763244743	France	Yohan_Tz
 23	-44838777372	France	Kan1
 16	-21240143956	France	mnaji
 16	-39177363426	France	ElFabino
 16	-41633658935	France	user1337
+16	-44781389784	France	MrFlibble
 12	-3016417898	France	antoineroux
 12	-11595584768	France	ayshiff
 12	-17461254601	France	DrissTM
@@ -328,6 +329,7 @@ Score	Penalty	Country	Name
 7	-41310585842	France	lifeofsmiith
 7	-41394392630	France	Klu
 7	-41663368004	France	Hatovix
+7	-41663368004	France	Hatovix
 7	-41712861343	France	Braxxe
 7	-41922622040	France	alobabo
 7	-41976881179	France	Stephane_Mouawad
@@ -335,7 +337,6 @@ Score	Penalty	Country	Name
 7	-42473195294	France	blackeagle
 7	-42783992101	France	ErwanBn
 7	-42945002987	France	EtherealUnagi
-7	-42962548007	France	Yohan_Tz
 7	-43083854950	France	elana
 7	-43242961236	France	Oupo
 7	-43369550998	France	yanndev
@@ -349,7 +350,13 @@ Score	Penalty	Country	Name
 7	-44461436549	France	phh
 7	-44483419259	France	doppler
 5	-37838570501	France	proftechnolblanc
+5	-37838570501	France	proftechnolblanc
 5	-43709133229	France	matousso
+0	0	France	HermioneGranger
+0	0	France	Loic
+0	0	France	MaTTs
+0	0	France	benjlepyreneen
+0	0	France	cigix
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Boumpteryx
@@ -357,13 +364,10 @@ Score	Penalty	Country	Name
 0	0	France	DorianNogneng
 0	0	France	Kandhum
 0	0	France	LightSn0w
-0	0	France	Loic
-0	0	France	MaTTs
 0	0	France	Mizzy
 0	0	France	Pigloo
-0	0	France	benjlepyreneen
+0	0	France	Tanphi
 0	0	France	c0lt_dgtl
-0	0	France	cigix
 0	0	France	diodfr
 0	0	France	mo4J
 0	0	France	paul.cibier@gmail.com
