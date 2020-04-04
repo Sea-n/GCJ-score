@@ -166,6 +166,7 @@ Score	Penalty	Country	Name
 68	-41058856855	Japan	tomohiro
 68	-41061929009	Japan	hiromi.ayase
 68	-41066242670	Japan	peroxyacyl
+68	-41994800199	Japan	koikotya
 68	-42211392113	Japan	dsert
 57	-41592513136	Japan	mokazaki923
 55	-25368277402	Japan	lpuwfob
@@ -289,7 +290,6 @@ Score	Penalty	Country	Name
 42	-12833859729	Japan	kei1107
 42	-12856181052	Japan	bayashi
 42	-12951461401	Japan	Abesy
-42	-13013314616	Japan	koikotya
 42	-13014160255	Japan	addeight
 42	-13108164803	Japan	molety
 42	-13248819021	Japan	kroton
@@ -722,6 +722,8 @@ Score	Penalty	Country	Name
 42	-41556157215	Japan	marims
 42	-41665887730	Japan	Naochan
 42	-41736124275	Japan	Jupytor
+42	-41745250641	Japan	dokin
+42	-41771885891	Japan	kopricky
 42	-41874629969	Japan	nrvft
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
@@ -809,7 +811,6 @@ Score	Penalty	Country	Name
 23	-26293526644	Japan	matsuoka
 23	-26571914431	Japan	ytrm
 23	-26825933838	Japan	sensu
-23	-27034068143	Japan	Rey564219
 23	-27150552638	Japan	satanic0258
 23	-27578621159	Japan	noriok
 23	-27697946066	Japan	tsunemoto
@@ -853,7 +854,6 @@ Score	Penalty	Country	Name
 23	-37165307366	Japan	paotan
 23	-37190640720	Japan	shun2741
 23	-37321607288	Japan	hachian
-23	-37956492810	Japan	dokin
 23	-38044368310	Japan	zaurus
 23	-38135218327	Japan	Shuto
 23	-38459780191	Japan	ogingin
@@ -877,7 +877,6 @@ Score	Penalty	Country	Name
 23	-40760671060	Japan	sessoh
 23	-40963665798	Japan	mymz
 23	-41009213868	Japan	yu3mars
-23	-41021846851	Japan	kopricky
 23	-41285024262	Japan	damekamo
 23	-41341743167	Japan	Naoto_E0
 23	-41389927514	Japan	awata
@@ -930,7 +929,6 @@ Score	Penalty	Country	Name
 7	-30462173994	Japan	kohbanye
 7	-32643402301	Japan	ziroppe
 7	-33289510388	Japan	yamayama
-7	-33522853364	Japan	kotaok
 7	-33814805671	Japan	FairyHack
 7	-34092672028	Japan	Hde1911
 7	-34245969064	Japan	rowr
@@ -957,8 +955,11 @@ Score	Penalty	Country	Name
 7	-41551031380	Japan	Moketi
 7	-41602443041	Japan	amana
 7	-41708232035	Japan	uo_ta
+7	-41796803031	Japan	ytsutsu
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
+0	0	Japan	cossy
+0	0	Japan	zezero
 0	0	Japan	Nulkana
 0	0	Japan	aki_bayes
 0	0	Japan	cossy
@@ -969,4 +970,3 @@ Score	Penalty	Country	Name
 0	0	Japan	rikupin1105
 0	0	Japan	shukob
 0	0	Japan	sionyan
-0	0	Japan	zezero

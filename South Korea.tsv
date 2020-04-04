@@ -123,6 +123,7 @@ Score	Penalty	Country	Name
 43	-39630166555	South Korea	kkhh88
 43	-40528421319	South Korea	Seongmok
 43	-41497715130	South Korea	wooyaggo
+43	-42799211253	South Korea	openingsound
 42	-855860541	South Korea	shiftpsh
 42	-1332712603	South Korea	semteo04
 42	-1822903010	South Korea	nobe0716
@@ -435,7 +436,6 @@ Score	Penalty	Country	Name
 42	-36796459267	South Korea	eazy
 42	-36929210332	South Korea	rabierre2
 42	-37121131755	South Korea	SebinKim
-42	-37185334214	South Korea	openingsound
 42	-37196363467	South Korea	jyeon
 42	-37207341221	South Korea	HeoHeo
 42	-37272344335	South Korea	enterkey
@@ -492,9 +492,10 @@ Score	Penalty	Country	Name
 32	-35370550399	South Korea	lucent
 31	-10221327226	South Korea	minpago
 31	-17636877245	South Korea	coolutony
+31	-17636877245	South Korea	coolutony
 31	-24639800429	South Korea	GDRM
+31	-42051004531	South Korea	5123khw
 30	-4589523249	South Korea	skyde47
-30	-6481428642	South Korea	haptic12
 30	-10607360292	South Korea	TopCyberFlower
 30	-13106574306	South Korea	Ydh
 30	-16397192753	South Korea	yangman
@@ -518,7 +519,6 @@ Score	Penalty	Country	Name
 30	-41929528811	South Korea	Altair_Vega
 26	-32124770455	South Korea	lando
 26	-37980094440	South Korea	beginnerHeo
-26	-38207232632	South Korea	5123khw
 23	-3473081552	South Korea	dchoi
 23	-5235299298	South Korea	지나가던한국인01
 23	-7102768224	South Korea	hon9
@@ -594,6 +594,7 @@ Score	Penalty	Country	Name
 23	-32300560388	South Korea	beetea
 23	-32726358676	South Korea	Joskeprh
 23	-32866615171	South Korea	tlsh
+23	-32866615171	South Korea	tlsh
 23	-32985581177	South Korea	b1ackhand
 23	-33048225918	South Korea	angjongwon
 23	-33660503626	South Korea	LeeSangHoon
@@ -647,8 +648,6 @@ Score	Penalty	Country	Name
 23	-41322810913	South Korea	kalmiaa
 23	-41446430141	South Korea	QURARE
 23	-41622410950	South Korea	sanghunkang
-16	-16758161920	South Korea	ys57
-16	-19752178453	South Korea	shadowcat02
 16	-25735537337	South Korea	ihatbuet
 16	-28691520816	South Korea	hayoungpark
 16	-32329248366	South Korea	hyunjin
@@ -669,6 +668,7 @@ Score	Penalty	Country	Name
 12	-39886324325	South Korea	cafaddict
 12	-40661012865	South Korea	HappyPotter
 12	-40868139560	South Korea	CheolJu
+12	-41983691886	South Korea	Lonelywolf
 7	-1383064929	South Korea	vivi88
 7	-1985039269	South Korea	dfltzp
 7	-2166552262	South Korea	JunoJunho
@@ -727,7 +727,6 @@ Score	Penalty	Country	Name
 7	-37032400425	South Korea	adman
 7	-37260119968	South Korea	dskym
 7	-38422603293	South Korea	MYUNBIN
-7	-38591050824	South Korea	Lonelywolf
 7	-38686639393	South Korea	jihwanK
 7	-38788523090	South Korea	seungjiqueen
 7	-38962141891	South Korea	ansun
@@ -751,12 +750,12 @@ Score	Penalty	Country	Name
 7	-41444196223	South Korea	recycle
 7	-41621432949	South Korea	GyojunYoun
 5	-31464216449	South Korea	Seokjin
+0	0	South Korea	GiYeon
 1	-33551112963	South Korea	return_zero
 0	0	South Korea	0xF4D3C0D3
 0	0	South Korea	3to15gram
 0	0	South Korea	Croquis
 0	0	South Korea	Cuws
-0	0	South Korea	GiYeon
 0	0	South Korea	LrLr
 0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
@@ -775,4 +774,5 @@ Score	Penalty	Country	Name
 0	0	South Korea	nickjung
 0	0	South Korea	peridote
 0	0	South Korea	swcunba
+0	0	South Korea	yunsooo
 0	0	South Korea	강동훈
