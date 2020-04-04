@@ -51,6 +51,7 @@ Score	Penalty	Country	Name
 68	-43347412258	Russia	Maksim1744
 68	-43976670309	Russia	azukun
 68	-44867069645	Russia	SashaPROS3
+68	-45301818993	Russia	cezarnik
 61	-37813147694	Russia	caesarsaladdressing
 49	-43328750136	Russia	ivankff
 45	-37721495719	Russia	demidenko
@@ -160,7 +161,6 @@ Score	Penalty	Country	Name
 42	-36742727298	Russia	vivanov
 42	-36863532137	Russia	bayleef
 42	-37049454735	Russia	sergeykozub
-42	-37179533512	Russia	cezarnik
 42	-37199277393	Russia	Constantine!
 42	-37253580191	Russia	SolemnVisitor
 42	-37268664232	Russia	Dedal
@@ -286,7 +286,6 @@ Score	Penalty	Country	Name
 23	-34449911914	Russia	vrungel
 23	-34672279330	Russia	slizkov
 23	-34954878765	Russia	Pryanik
-23	-34954878765	Russia	Pryanik
 23	-36160985174	Russia	Ckaf
 23	-36210226951	Russia	ufimets2
 23	-36500391060	Russia	BugDone
@@ -317,7 +316,6 @@ Score	Penalty	Country	Name
 23	-43015646343	Russia	KirillB
 23	-43080411633	Russia	Jeannette
 23	-43211742288	Russia	ViKn
-23	-43420007473	Russia	yulik.daniel
 23	-43567634094	Russia	Stasana
 23	-43865847310	Russia	PeregudovSergey
 23	-43999007620	Russia	VArtem
@@ -329,6 +327,7 @@ Score	Penalty	Country	Name
 23	-45132588506	Russia	Murat
 23	-45140841266	Russia	not_slacker
 23	-45209557969	Russia	Kear6ai
+23	-45343675619	Russia	k2m
 23	-45432051788	Russia	allvik
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
@@ -347,6 +346,7 @@ Score	Penalty	Country	Name
 7	-34669950582	Russia	OlgaBel
 7	-34760561781	Russia	Petyzzz
 7	-36976870062	Russia	dzheglov
+7	-37663330346	Russia	lessmeaning
 7	-37852883070	Russia	aperfilyev
 7	-38184887908	Russia	AnnaBerdichevskaya
 7	-38237283725	Russia	DmitryZ
@@ -379,6 +379,9 @@ Score	Penalty	Country	Name
 7	-45073420655	Russia	bidzilya
 7	-45094401951	Russia	lozhkarev
 7	-45261042178	Russia	Kuyan
+7	-45326022797	Russia	kirilldenisov
+0	0	Russia	munir_
+0	0	Russia	sled
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
@@ -388,5 +391,3 @@ Score	Penalty	Country	Name
 0	0	Russia	garipovii
 0	0	Russia	mamenko
 0	0	Russia	mspitb
-0	0	Russia	munir_
-0	0	Russia	sled
