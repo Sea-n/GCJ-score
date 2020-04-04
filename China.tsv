@@ -73,6 +73,7 @@ Score	Penalty	Country	Name
 100	-53130482782	China	guogai
 100	-53161629251	China	mogeli
 100	-53795460685	China	shdut
+100	-55527690273	China	zeepliu
 81	-26543555992	China	fjzzq2002
 75	-27505331114	China	CCWUCMCTS
 75	-29474477127	China	CYH
@@ -82,7 +83,6 @@ Score	Penalty	Country	Name
 75	-35769239769	China	ytrsk
 75	-36195842833	China	Wsxst1234
 75	-36488447380	China	XieGuochao
-75	-39544451887	China	zeepliu
 75	-41263122695	China	Coooming
 75	-41707249342	China	Zhuoyang_Pan
 75	-45513815014	China	maranlll
@@ -112,6 +112,7 @@ Score	Penalty	Country	Name
 74	-25280896867	China	ohweonfire
 74	-25426528847	China	qfnu-Darius
 74	-25986342411	China	技巧少年
+74	-26426600357	China	xqly
 74	-26515014351	China	737
 74	-26517749814	China	Guaguastandup
 74	-27088851172	China	RuiDing
@@ -1190,6 +1191,8 @@ Score	Penalty	Country	Name
 35	-20121615843	China	Rec
 35	-28735840544	China	shenyang
 35	-37635408034	China	mynameisverylong
+35	-53128128955	China	cwx
+35	-53298928260	China	wu6shen
 33	-38396046573	China	absi2011
 33	-40368409996	China	wenwenwang
 32	-30460947944	China	jmzhao
@@ -1246,6 +1249,7 @@ Score	Penalty	Country	Name
 24	-7053945345	China	kjdsafio
 23	-3785693451	China	will800228@gmail.com
 23	-3951333198	China	zhuxiaofeng
+23	-3951333198	China	zhuxiaofeng
 23	-4610329227	China	hyperape
 23	-8619772040	China	lengzz
 23	-10334325051	China	bddx321
@@ -1263,12 +1267,12 @@ Score	Penalty	Country	Name
 23	-16429958327	China	Banson
 23	-16434371015	China	IEU_caroulder
 23	-17327512672	China	czy_gm
+23	-17327512672	China	czy_gm
 23	-17403863740	China	Lok.
 23	-18972719679	China	Alphagocc
 23	-19330864396	China	Oethrs
 23	-19524729196	China	Doublerun
 23	-20829552303	China	kaleid-liner
-23	-20897526433	China	Magii
 23	-21045401109	China	eliaaaa
 23	-21347021345	China	志在参与型选手
 23	-21355264677	China	Tony_Lowe
@@ -1294,7 +1298,6 @@ Score	Penalty	Country	Name
 23	-26838654649	China	zuanyanshuojia
 23	-27641415345	China	yli13
 23	-27726644180	China	HTang
-23	-27781548163	China	Maosheng
 23	-28261287822	China	ninjiacoder
 23	-28294479010	China	Jaken
 23	-28301743363	China	ttys000
@@ -1324,6 +1327,7 @@ Score	Penalty	Country	Name
 23	-37320771102	China	IDrandom
 23	-37329813091	China	yy318
 23	-37510490466	China	NietzscheH
+23	-37941263768	China	hhu_wanyw
 23	-37941263768	China	hhu_wanyw
 23	-38683764223	China	-moon-
 23	-39059582959	China	xf
@@ -1400,6 +1404,7 @@ Score	Penalty	Country	Name
 23	-54182985220	China	coyorkdow
 23	-54509214202	China	KON_automaton
 23	-54517057746	China	Lgq_3de5
+23	-54569032820	China	Patchy
 19	-54574773032	China	kkpoker
 16	-35289345635	China	IMeanGabriel
 16	-50507098693	China	Cosert
@@ -1428,13 +1433,12 @@ Score	Penalty	Country	Name
 12	-48307955953	China	Beller
 12	-48602243278	China	Happig
 12	-52464814761	China	YYYYY
-12	-52762307760	China	25hua
-12	-52977725472	China	Patchy
 12	-54087609938	China	nicolas2lee
 7	-1406473214	China	suqing
 7	-1599848925	China	crawarb
 7	-2252892174	China	nullstellensatz
 7	-4393966150	China	Tony_Ou
+7	-6353893186	China	yimi
 7	-8369276044	China	xiaomaju
 7	-8684618647	China	centaurus
 7	-8728724225	China	iLtc
@@ -1516,6 +1520,7 @@ Score	Penalty	Country	Name
 7	-47009148436	China	enterdawn
 7	-47166904389	China	OKJ
 7	-47608586831	China	huajiahen
+7	-48134716706	China	1171498343@qq.com
 7	-48276297483	China	VineAsh
 7	-48406201983	China	plentude
 7	-48818115925	China	FancyQAQ
@@ -1562,8 +1567,10 @@ Score	Penalty	Country	Name
 7	-54113629874	China	NagisaSaku
 7	-54186492948	China	Boctorio
 7	-54198624577	China	Thyrix
+7	-54356531515	China	SuperWhw
 5	-43689450877	China	ja50n
 5	-43953440891	China	CoderCheng
+0	0	China	LeoN
 0	0	China	1134953287@qq.com
 0	0	China	2624539241@qq.com
 0	0	China	577237093@qq.com
@@ -1574,8 +1581,10 @@ Score	Penalty	Country	Name
 0	0	China	Lexaaa
 0	0	China	Lucas_wang
 0	0	China	LuckyMouse
+0	0	China	Sherlcok
 0	0	China	Voidburn
 0	0	China	ZA139
+0	0	China	ZhiyuanChen
 0	0	China	adahee70
 0	0	China	beiciye
 0	0	China	bulldozer
@@ -1585,13 +1594,11 @@ Score	Penalty	Country	Name
 0	0	China	lchen7889
 0	0	China	lelej
 0	0	China	leogle
+0	0	China	liziwl
 0	0	China	rosaLo
 0	0	China	samuel02px2020
 0	0	China	shuilongzaici
 0	0	China	wenyi
 0	0	China	why19981001@outlook.com
-0	0	China	LeoN
-0	0	China	Sherlcok
-0	0	China	ZhiyuanChen
 0	0	China	wwq
 0	0	China	yinyuecho

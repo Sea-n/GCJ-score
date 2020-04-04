@@ -141,7 +141,6 @@ Score	Penalty	Country	Name
 23	-4112623752	United Kingdom	MericAlex
 23	-4267919616	United Kingdom	timothy-ch-cheung
 23	-4308826262	United Kingdom	llyfrglas
-23	-4308826262	United Kingdom	llyfrglas
 23	-4620526291	United Kingdom	centroid
 23	-5294899265	United Kingdom	Bax
 23	-5444707575	United Kingdom	AngrySaltyFish
@@ -202,9 +201,11 @@ Score	Penalty	Country	Name
 23	-53865567465	United Kingdom	takaki
 23	-53871451768	United Kingdom	Dolbz
 23	-53984382693	United Kingdom	EwasWorld
+23	-54334326262	United Kingdom	c++guy
 16	-46901171396	United Kingdom	Kintail
 16	-51012772825	United Kingdom	meta42
 12	-42433262791	United Kingdom	Brickjammer
+12	-47209103477	United Kingdom	muradinho
 12	-53387346963	United Kingdom	koolkoda
 12	-54045174050	United Kingdom	ye7ia
 7	-1012518539	United Kingdom	jonathandavies27@gmail.com
@@ -212,7 +213,6 @@ Score	Penalty	Country	Name
 7	-2351685545	United Kingdom	Uzui2291
 7	-4134928554	United Kingdom	bladedawson
 7	-4199710418	United Kingdom	vandevelden
-7	-4282956673	United Kingdom	c++guy
 7	-6796538300	United Kingdom	DomBinks
 7	-14352685910	United Kingdom	FJThomson
 7	-15873097052	United Kingdom	norfavrell
@@ -259,6 +259,9 @@ Score	Penalty	Country	Name
 7	-53696094294	United Kingdom	Liirusik
 7	-53815399625	United Kingdom	Xandernewton
 5	-53080444427	United Kingdom	melissaho97
+0	0	United Kingdom	Nivedark
+0	0	United Kingdom	bobbobety
+0	0	United Kingdom	shicho
 0	0	United Kingdom	AHarun
 0	0	United Kingdom	AdamJewell
 0	0	United Kingdom	B3141
@@ -271,10 +274,7 @@ Score	Penalty	Country	Name
 0	0	United Kingdom	cmacmillan1
 0	0	United Kingdom	davidepollicino2015@gmail.com
 0	0	United Kingdom	earthsmt16
-0	0	United Kingdom	shicho
-0	0	United Kingdom	stavrospod
-0	0	United Kingdom	zaidjaria
-0	0	United Kingdom	Nivedark
-0	0	United Kingdom	bobbobety
 0	0	United Kingdom	oliver.hines
+0	0	United Kingdom	stavrospod
 0	0	United Kingdom	yashwina
+0	0	United Kingdom	zaidjaria
