@@ -52,6 +52,7 @@ Score	Penalty	Country	Name
 43	-39476885342	Russia	MIG29
 43	-40012718393	Russia	dalex
 43	-40106515568	Russia	IvanG
+43	-40614236899	Russia	NDamirov
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -140,7 +141,6 @@ Score	Penalty	Country	Name
 42	-35089622919	Russia	shart23
 42	-35185272856	Russia	Vasha_Kiska_Est_Irisku
 42	-35323397261	Russia	i_vain
-42	-35384169487	Russia	NDamirov
 42	-35421584004	Russia	opukittpceno_hhr
 42	-35571614646	Russia	s20b1Kirka
 42	-35592002436	Russia	3_IQ
@@ -195,6 +195,7 @@ Score	Penalty	Country	Name
 42	-40494653558	Russia	temurbekkhujaev@gmail.com
 42	-40512441375	Russia	chaldon
 42	-40581626643	Russia	dmkozyrev
+42	-40682768457	Russia	ikomlyakov
 42	-40726800066	Russia	Musin
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -205,7 +206,6 @@ Score	Penalty	Country	Name
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
 23	-4611912076	Russia	tutkarma
-23	-5192007049	Russia	kisel_dmitry
 23	-5776672767	Russia	DmitryKh
 23	-6472307381	Russia	cdkrot
 23	-8250484760	Russia	ilya.a.egorov
@@ -234,7 +234,6 @@ Score	Penalty	Country	Name
 23	-35771167033	Russia	cop
 23	-36160985174	Russia	Ckaf
 23	-36210226951	Russia	ufimets2
-23	-36218848147	Russia	ikomlyakov
 23	-36500391060	Russia	BugDone
 23	-36975202930	Russia	toxzi
 23	-37196729806	Russia	alliencool
@@ -310,11 +309,13 @@ Score	Penalty	Country	Name
 7	-40560251075	Russia	kronos
 7	-40567725117	Russia	SonOfPonasencov
 7	-40576557232	Russia	StatujaLeha
-0	0	Russia	APT-EHOT
-0	0	Russia	Ilya_Rizhenkov
+7	-40630280576	Russia	KirillB
+7	-40664785076	Russia	Alexiski
 0	0	Russia	MellowYellow
-0	0	Russia	garipovii
 0	0	Russia	glebsasmsonov
 0	0	Russia	mspitb
 0	0	Russia	vmark
 0	0	Russia	vmos1999
+0	0	Russia	APT-EHOT
+0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	garipovii
