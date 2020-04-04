@@ -30,6 +30,7 @@ Score	Penalty	Country	Name
 68	-14493947688	Brazil	lincolnx
 68	-14885379793	Brazil	Vawer
 68	-15843471965	Brazil	123499
+68	-15843471965	Brazil	123499
 68	-16622355218	Brazil	ThiagoSDQ
 68	-17295886872	Brazil	gabrielfo
 68	-18113540437	Brazil	Th_Filipe
@@ -204,6 +205,8 @@ Score	Penalty	Country	Name
 42	-57808807240	Brazil	simiaosimis
 42	-58193094450	Brazil	tiagomontalvao
 42	-58400470890	Brazil	kenzo_1114
+42	-58470372818	Brazil	lpierezan
+42	-58483834153	Brazil	rennanrocha
 42	-60229981291	Brazil	gmelosc
 39	-5575779709	Brazil	jaimelay
 39	-13040652580	Brazil	GabrielNexT
@@ -294,19 +297,18 @@ Score	Penalty	Country	Name
 23	-51983758806	Brazil	JuLeite
 23	-52957970996	Brazil	GuiS
 23	-53493409530	Brazil	weber09
-23	-54545012660	Brazil	lpierezan
 23	-55307079194	Brazil	gui2112
 23	-55448432233	Brazil	sapucaia-a
 23	-55538468467	Brazil	matheusfabian
 23	-55781181394	Brazil	mduarte
 23	-55968275553	Brazil	pablo_aa
-23	-56444867111	Brazil	rennanrocha
 23	-56710486605	Brazil	Eduardo04
 23	-56737254653	Brazil	Netzach
 23	-56783808175	Brazil	Genezio
 23	-58054910756	Brazil	ViniciusCabessa
 23	-58083493747	Brazil	Tiagodfs
 23	-58429726830	Brazil	silviasfon
+23	-58758024678	Brazil	brenner
 19	-17406551608	Brazil	henviso
 16	-10173599284	Brazil	Acespades
 16	-32795362697	Brazil	c0sb
@@ -321,7 +323,6 @@ Score	Penalty	Country	Name
 12	-22226371278	Brazil	thdotnet
 12	-53891339248	Brazil	marcos_hc
 12	-57591499289	Brazil	vitorloures
-12	-57813781188	Brazil	brenner
 7	-1725537145	Brazil	mautier
 7	-1749801773	Brazil	tomaz1502
 7	-1827389059	Brazil	Joselsneto
@@ -386,8 +387,10 @@ Score	Penalty	Country	Name
 7	-57549604820	Brazil	renatavinhaga
 7	-58369887592	Brazil	gvicentini
 7	-58423079454	Brazil	darms
-0	0	Brazil	Ancogamer
+7	-58485057969	Brazil	ramon.rnm@gmail.com
 0	0	Brazil	JMorand
+0	0	Brazil	vicnetto
+0	0	Brazil	Ancogamer
 0	0	Brazil	LPerin
 0	0	Brazil	PeetaCalou
 0	0	Brazil	XicoDeAltos
@@ -405,5 +408,4 @@ Score	Penalty	Country	Name
 0	0	Brazil	stephano
 0	0	Brazil	takamura
 0	0	Brazil	timeToCode
-0	0	Brazil	vicnetto
 0	0	Brazil	vilelabruno
