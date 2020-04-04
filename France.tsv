@@ -118,6 +118,7 @@ Score	Penalty	Country	Name
 43	-60234488111	France	Antonmaster007
 43	-61006755088	France	fab.alchemy
 43	-61784782275	France	pogozio
+43	-62968150801	France	c3dd3c
 42	-977047005	France	Tahkare
 42	-2020420151	France	SalimAboubacar
 42	-3396875180	France	escargot
@@ -300,7 +301,6 @@ Score	Penalty	Country	Name
 42	-58884074454	France	ErwanBn
 42	-59014322179	France	Astrae
 42	-59017861852	France	Laurent_Roche
-42	-59033282097	France	c3dd3c
 42	-59385420394	France	Bcollet
 42	-59390887295	France	haroldbouley
 42	-59505859636	France	arandomstring
@@ -323,6 +323,7 @@ Score	Penalty	Country	Name
 42	-62014227440	France	Tanphi
 42	-62079008443	France	taptap
 42	-62772030561	France	ClémentChouteau
+42	-62956783196	France	cicoub13
 42	-62964966296	France	LROTP
 35	-7375202611	France	Mathisaillot
 35	-51301808842	France	diodfr
@@ -331,8 +332,8 @@ Score	Penalty	Country	Name
 31	-36546870094	France	Cjdcoy
 31	-50495999467	France	ayshiff
 31	-61054790352	France	corentinRoyer
+31	-62435406918	France	AlixMartin
 30	-26869614425	France	Yannou27
-30	-29637356475	France	AlixMartin
 30	-34776333628	France	Pythyu
 30	-34856845674	France	t2cyborg
 30	-42264898868	France	BenoitMX
@@ -382,7 +383,6 @@ Score	Penalty	Country	Name
 23	-38621532529	France	lapsus63
 23	-38958398374	France	Arene
 23	-39436740398	France	Butanal
-23	-40492769332	France	cicoub13
 23	-40915632286	France	E-lex
 23	-40946464904	France	Yagi-san
 23	-41068149297	France	mrCaelum
@@ -467,8 +467,10 @@ Score	Penalty	Country	Name
 23	-61495460290	France	BigMamadou
 23	-61677771803	France	nspp
 23	-62034117601	France	mnaji
+23	-62207974131	France	Stan_the_man
 23	-62481799712	France	Raska
 16	-41633658935	France	user1337
+16	-45472810836	France	matousso
 16	-45472810836	France	matousso
 16	-58016504935	France	Dewep
 16	-58967788590	France	Iamsobad
@@ -518,7 +520,6 @@ Score	Penalty	Country	Name
 7	-60574015816	France	guyk
 7	-60690398623	France	Sevla
 7	-61333623300	France	sup3ruhax0ru
-7	-61635993602	France	Stan_the_man
 7	-61673998351	France	Fab
 7	-61721771355	France	Victoire_tjj
 7	-61842029983	France	Pantoufle
@@ -526,7 +527,7 @@ Score	Penalty	Country	Name
 7	-62104264660	France	Bot2019
 7	-62178737492	France	aurel
 5	-61351615765	France	ben64
-0	0	France	ArthurMR
+0	0	France	Adnane
 0	0	France	A~Z
 0	0	France	Benskalz
 0	0	France	Boumpteryx
@@ -547,16 +548,15 @@ Score	Penalty	Country	Name
 0	0	France	abel0b
 0	0	France	anais.schlienger
 0	0	France	arnaudgourlay
-0	0	France	benjlepyreneen
-0	0	France	cigix
 0	0	France	clerendor
 0	0	France	dylankim
 0	0	France	johnrazeur
 0	0	France	mrcr0que
-0	0	France	paul.cibier@gmail.com
 0	0	France	philM
 0	0	France	sophieribault
-0	0	France	tinylinux
-0	0	France	Adnane
-0	0	France	clerendor
 0	0	France	superuH
+0	0	France	ArthurMR
+0	0	France	benjlepyreneen
+0	0	France	cigix
+0	0	France	paul.cibier@gmail.com
+0	0	France	tinylinux

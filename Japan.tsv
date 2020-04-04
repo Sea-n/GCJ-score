@@ -48,6 +48,7 @@ Score	Penalty	Country	Name
 100	-61802872538	Japan	masas
 100	-61804515908	Japan	tomarint
 100	-61900283445	Japan	kusano
+100	-63102353565	Japan	toma25
 100	-63245994499	Japan	Yazaten
 89	-69434487531	Japan	mokazaki923
 75	-17222155067	Japan	Person20
@@ -225,13 +226,13 @@ Score	Penalty	Country	Name
 68	-59589183410	Japan	LowR
 68	-59603395287	Japan	chudan
 68	-59660419372	Japan	gobi_tk
-68	-59877244270	Japan	toma25
 68	-60103732945	Japan	k_sho1550
 68	-60527078738	Japan	qxa
 68	-60662919284	Japan	tamacjp
 68	-60783457815	Japan	rickytheta
 68	-61374389349	Japan	chiguri
 68	-62159585379	Japan	remin
+68	-62205063969	Japan	ksaw
 68	-63027680502	Japan	Usamao
 55	-25368277402	Japan	lpuwfob
 49	-34340739925	Japan	chaemon
@@ -778,7 +779,6 @@ Score	Penalty	Country	Name
 42	-45118374015	Japan	zaurus
 42	-45129189815	Japan	horita
 42	-45237426917	Japan	hogeover30
-42	-45260466679	Japan	ksaw
 42	-45325465961	Japan	satojkovic
 42	-45336576867	Japan	eityans
 42	-45336826785	Japan	centipede_human
@@ -907,6 +907,7 @@ Score	Penalty	Country	Name
 42	-62065458019	Japan	py_uni_0
 42	-62068035180	Japan	naho
 42	-62171000917	Japan	ccppjsrb
+42	-62709444020	Japan	FairyHack
 42	-64390717217	Japan	jskt
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
@@ -964,7 +965,6 @@ Score	Penalty	Country	Name
 30	-55274500884	Japan	AmiWrong
 30	-59589283378	Japan	yamayama
 30	-61735532310	Japan	hideh_1231
-30	-61849827459	Japan	FairyHack
 26	-42927628267	Japan	granddaifuku
 24	-33847167094	Japan	snakeLegs
 24	-51541512142	Japan	Mazesoba
@@ -1064,6 +1064,7 @@ Score	Penalty	Country	Name
 23	-61576955560	Japan	tanakh
 23	-61819835864	Japan	hgemini
 23	-61913017287	Japan	kazu
+23	-62191373504	Japan	springroll727
 23	-62484919280	Japan	guracoro
 23	-62671494764	Japan	piyonakajima
 19	-47253703180	Japan	よーおは
@@ -1071,6 +1072,7 @@ Score	Penalty	Country	Name
 16	-5344012579	Japan	Nori
 16	-41437937608	Japan	Graphium314
 16	-47634238146	Japan	Nulkana
+16	-52674956298	Japan	tsukiyotake
 16	-55221560075	Japan	Liming
 16	-55684013997	Japan	fujiyama
 16	-57090062389	Japan	MAKO
@@ -1117,7 +1119,6 @@ Score	Penalty	Country	Name
 7	-59945689311	Japan	micasa
 7	-60158562496	Japan	JAPLJ
 7	-60298480885	Japan	maya3
-7	-60661305173	Japan	springroll727
 7	-60796804532	Japan	kaim
 7	-61493992067	Japan	sableyka
 7	-61796899418	Japan	makotowatanabe13
@@ -1130,20 +1131,19 @@ Score	Penalty	Country	Name
 0	0	Japan	ArtifactSauce
 0	0	Japan	KazuYamagiwa
 0	0	Japan	Rute_
-0	0	Japan	Sampeipei
 0	0	Japan	Sango358
 0	0	Japan	aki_bayes
-0	0	Japan	cossy
+0	0	Japan	aya_se
 0	0	Japan	donuthole
 0	0	Japan	fashioncrazy66
 0	0	Japan	kei0000
 0	0	Japan	kinokokaeru
 0	0	Japan	lamorak
 0	0	Japan	nicolen
-0	0	Japan	raspi0124
 0	0	Japan	rikupin1105
 0	0	Japan	shukob
 0	0	Japan	tarakotarao
-0	0	Japan	zezero
 0	0	Japan	zooo_
-0	0	Japan	aya_se
+0	0	Japan	Sampeipei
+0	0	Japan	raspi0124
+0	0	Japan	zezero
