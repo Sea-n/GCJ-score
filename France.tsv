@@ -146,6 +146,7 @@ Score	Penalty	Country	Name
 42	-42349160405	France	HappyGreenCat
 42	-42409050526	France	htmb
 42	-42704217401	France	francois_plusplus
+42	-42751351417	France	Royale
 42	-44466350981	France	pogozio
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
@@ -191,7 +192,6 @@ Score	Penalty	Country	Name
 23	-32282374637	France	aepsilon
 23	-33269390664	France	mxmn
 23	-33271485176	France	DevInside
-23	-33476203756	France	camlout
 23	-33476203756	France	camlout
 23	-34075023387	France	raguenets
 23	-34220817235	France	slimvince
@@ -251,7 +251,6 @@ Score	Penalty	Country	Name
 23	-41161637463	France	Padam_Louis
 23	-41228114206	France	tdcn
 23	-41273810086	France	peejee
-23	-41353159266	France	Royale
 23	-41604896199	France	mitsubachimaya
 23	-41622423724	France	ClémentChouteau
 23	-41670016097	France	SanVicente
@@ -266,6 +265,8 @@ Score	Penalty	Country	Name
 23	-42564752851	France	Vinz8
 23	-42572864087	France	luctchak
 23	-42715399864	France	Kerl
+23	-42754365282	France	shd33
+23	-42778094287	France	jonenst
 16	-21240143956	France	mnaji
 16	-39177363426	France	ElFabino
 16	-41353673689	France	eloiseb
@@ -294,7 +295,6 @@ Score	Penalty	Country	Name
 7	-37128560095	France	hugoa
 7	-37584521694	France	farameris
 7	-37632635133	France	Massoud_le_Grand
-7	-38154063281	France	shd33
 7	-38863968319	France	dknn
 7	-39528581641	France	NawfelT
 7	-39551273449	France	cholaknight
@@ -307,7 +307,6 @@ Score	Penalty	Country	Name
 7	-40041306185	France	PtitBeurre
 7	-40418773214	France	Da
 7	-40684305310	France	v-perez
-7	-40789845846	France	jonenst
 7	-40860722784	France	Eigho
 7	-40935745837	France	jacadi
 7	-41109627476	France	Nurenai
@@ -331,7 +330,10 @@ Score	Penalty	Country	Name
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
 0	0	France	Benskalz
+0	0	France	Boumpteryx
+0	0	France	Colios13
 0	0	France	DorianNogneng
+0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaTTs
 0	0	France	Mizzy
@@ -339,11 +341,9 @@ Score	Penalty	Country	Name
 0	0	France	Pigloo
 0	0	France	Tchou
 0	0	France	c0lt_dgtl
+0	0	France	diodfr
 0	0	France	matousso
 0	0	France	paul.cibier@gmail.com
 0	0	France	peddp9
 0	0	France	phh
 0	0	France	thomasdelepine
-0	0	France	Boumpteryx
-0	0	France	Colios13
-0	0	France	LightSn0w
