@@ -319,7 +319,6 @@ Score	Penalty	Country	Name
 7	-18682735246	Brazil	Barongello
 7	-19376138137	Brazil	Du
 7	-20825196527	Brazil	gteix
-7	-20825196527	Brazil	gteix
 7	-21948627376	Brazil	RodrigoAk
 7	-23136900924	Brazil	Anakorno
 7	-24389217290	Brazil	gusanthiago
@@ -330,8 +329,6 @@ Score	Penalty	Country	Name
 7	-33698469614	Brazil	guirios
 7	-39112879514	Brazil	rfonseca
 0	0	Brazil	LPerin
-0	0	Brazil	takamura
-0	0	Brazil	timeToCode
 0	0	Brazil	PeetaCalou
 0	0	Brazil	XicoDeAltos
 0	0	Brazil	Ziguirifow
@@ -343,5 +340,7 @@ Score	Penalty	Country	Name
 0	0	Brazil	mvivas19
 0	0	Brazil	penrose
 0	0	Brazil	rezenders
+0	0	Brazil	takamura
+0	0	Brazil	timeToCode
 0	0	Brazil	vicnetto
 0	0	Brazil	vilelabruno
