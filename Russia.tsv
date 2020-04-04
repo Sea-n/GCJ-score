@@ -48,6 +48,7 @@ Score	Penalty	Country	Name
 43	-31494466229	Russia	VulpesCorsac
 43	-31827138369	Russia	mrpast
 43	-39476885342	Russia	MIG29
+43	-40106515568	Russia	IvanG
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -56,7 +57,6 @@ Score	Penalty	Country	Name
 42	-2166141503	Russia	ArtyomTsepov
 42	-2347556139	Russia	RedNova
 42	-2398436052	Russia	legendtoday
-42	-2509112852	Russia	IvanG
 42	-2818331936	Russia	Tibik
 42	-2966453926	Russia	reshke
 42	-3048577622	Russia	covid19
@@ -247,6 +247,8 @@ Score	Penalty	Country	Name
 23	-39337320949	Russia	grenlayk
 23	-39523584525	Russia	Dima.Cat.2016
 23	-39553671421	Russia	LHiC
+23	-39638744604	Russia	agatcenko
+23	-39641275780	Russia	user32
 19	-35741509027	Russia	dimitribelikov
 16	-38867866144	Russia	Demid
 12	-32071721332	Russia	letsolum
@@ -277,13 +279,11 @@ Score	Penalty	Country	Name
 7	-37861568120	Russia	__ibm__
 7	-38184887908	Russia	AnnaBerdichevskaya
 7	-38237283725	Russia	DmitryZ
-7	-38410084066	Russia	agatcenko
 7	-38429988606	Russia	datbeohbbh
 7	-38711061938	Russia	popenych
 7	-38867188514	Russia	dmitrydyatlov
 7	-38931889436	Russia	SeeeRGo
 7	-38965454635	Russia	IlyaXa
-7	-38990278125	Russia	user32
 7	-39087028912	Russia	x12
 7	-39102175963	Russia	kreker
 7	-39150357111	Russia	temurbekkhujaev@gmail.com
@@ -295,11 +295,12 @@ Score	Penalty	Country	Name
 7	-39524095389	Russia	divanik
 7	-39549251451	Russia	adev
 7	-39587671587	Russia	knightL
+7	-39655531460	Russia	alexX512
+0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
 0	0	Russia	Pennyroyal_tea
 0	0	Russia	RAF96
+0	0	Russia	TyomaR
 0	0	Russia	garipovii
-0	0	Russia	knightL
 0	0	Russia	mspitb
-0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	vmark
