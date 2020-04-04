@@ -232,6 +232,8 @@ Score	Penalty	Country	Name
 42	-42482362533	Bangladesh	jahid_hasan17
 42	-42492700738	Bangladesh	akazad13
 42	-42632164214	Bangladesh	najmul.csebuet
+42	-42698006871	Bangladesh	aritra741
+42	-42700809272	Bangladesh	Jhamra
 35	-37912307730	Bangladesh	err0r
 35	-38682272456	Bangladesh	sajibreadd
 31	-22886844552	Bangladesh	ashik_jiddney
@@ -244,8 +246,6 @@ Score	Penalty	Country	Name
 31	-35369656642	Bangladesh	SaikatS
 31	-36569310795	Bangladesh	tushar_2658
 31	-38018561389	Bangladesh	Nahid36
-31	-38574044117	Bangladesh	mhfuad11
-31	-39105304656	Bangladesh	Jafoor
 31	-39822853508	Bangladesh	kknock
 31	-39970354190	Bangladesh	steinum
 31	-40836349080	Bangladesh	ashis041
@@ -317,6 +317,7 @@ Score	Penalty	Country	Name
 23	-22788958608	Bangladesh	Maruf
 23	-23038155122	Bangladesh	oudarja
 23	-23281325518	Bangladesh	arif.khan
+23	-23281325518	Bangladesh	arif.khan
 23	-24029253610	Bangladesh	asib
 23	-24090564155	Bangladesh	rafi_ruet
 23	-24837314028	Bangladesh	asifsanjary
@@ -337,7 +338,6 @@ Score	Penalty	Country	Name
 23	-27709427757	Bangladesh	saadi_23
 23	-28047672392	Bangladesh	Fiction
 23	-28110116906	Bangladesh	anas3a
-23	-28114722900	Bangladesh	mahfuz0007
 23	-28114722900	Bangladesh	mahfuz0007
 23	-28316884199	Bangladesh	Deads_Redemption
 23	-28425161000	Bangladesh	shadmantaqi
@@ -360,11 +360,9 @@ Score	Penalty	Country	Name
 23	-30330122679	Bangladesh	th_
 23	-30660833765	Bangladesh	bmqube
 23	-30992252787	Bangladesh	tanmoy.
-23	-31065214675	Bangladesh	aritra741
 23	-31353430274	Bangladesh	Sadman007
 23	-31363724802	Bangladesh	AlimSourav
 23	-31671023652	Bangladesh	Taher_Irfan
-23	-31760487003	Bangladesh	Jhamra
 23	-31793245112	Bangladesh	santner
 23	-31897430138	Bangladesh	KamolPaul
 23	-31903692380	Bangladesh	Siddiqur
@@ -457,6 +455,8 @@ Score	Penalty	Country	Name
 23	-42348132649	Bangladesh	mainulislam588
 23	-42350176317	Bangladesh	Tashdid_trdb
 23	-42397763296	Bangladesh	upobir
+23	-42441434448	Bangladesh	fire_tornado
+23	-42456157814	Bangladesh	Jahid_123
 23	-42646809111	Bangladesh	masood_
 19	-38328180296	Bangladesh	Saiful-Azad
 19	-42323129812	Bangladesh	Takik
@@ -524,7 +524,7 @@ Score	Penalty	Country	Name
 12	-41518267379	Bangladesh	muazHussain
 12	-42272025751	Bangladesh	shakib779
 12	-42273685266	Bangladesh	Puja.Chakraborty
-7	-910131108	Bangladesh	newb_ie
+12	-42445082355	Bangladesh	newb_ie
 7	-1051744864	Bangladesh	hemel18681
 7	-1156099103	Bangladesh	B_I_P_U_L
 7	-1188025583	Bangladesh	Rahat22
@@ -684,6 +684,7 @@ Score	Penalty	Country	Name
 7	-35079275999	Bangladesh	abuhuraira071
 7	-35166878588	Bangladesh	Maksud_Alam_Rony
 7	-35347359938	Bangladesh	Bekon0700
+7	-35663833206	Bangladesh	Farhan_94
 7	-35675162069	Bangladesh	shoumik
 7	-35688848678	Bangladesh	Dip_001
 7	-35768893246	Bangladesh	_dipu
@@ -723,7 +724,6 @@ Score	Penalty	Country	Name
 7	-39197913630	Bangladesh	Herok
 7	-39408013826	Bangladesh	Fuad_Fab5
 7	-39627686063	Bangladesh	ainan.ahmed
-7	-39874596410	Bangladesh	Jahid_123
 7	-39903289942	Bangladesh	Hordba
 7	-39959969921	Bangladesh	n00b_coder
 7	-40054929533	Bangladesh	__mh
@@ -756,7 +756,6 @@ Score	Penalty	Country	Name
 7	-41723910184	Bangladesh	miton
 7	-41754324758	Bangladesh	no0B
 7	-41757198714	Bangladesh	jk_07
-7	-41770061023	Bangladesh	fire_tornado
 7	-41790912035	Bangladesh	shahrair
 7	-41842314774	Bangladesh	HAL-9000
 7	-41853172601	Bangladesh	Ruman_Hossain
@@ -773,21 +772,22 @@ Score	Penalty	Country	Name
 7	-42254487432	Bangladesh	Tanim018
 7	-42271502076	Bangladesh	shahan
 7	-42409648627	Bangladesh	rifathsahriar
+7	-42457405461	Bangladesh	rayan_h_khan
+7	-42961156909	Bangladesh	Disha_20
 5	-10480223219	Bangladesh	nahid84
 5	-39514933480	Bangladesh	Talha999
+0	0	Bangladesh	BasharBhuiyan
+0	0	Bangladesh	JyotiChakma
 0	0	Bangladesh	4P0N
 0	0	Bangladesh	Afeef906
 0	0	Bangladesh	Arafat6462
 0	0	Bangladesh	Ashiq_Madridista
-0	0	Bangladesh	BasharBhuiyan
 0	0	Bangladesh	Cloud105
 0	0	Bangladesh	CoderSultan
 0	0	Bangladesh	Didar.Islam
-0	0	Bangladesh	Disha_20
 0	0	Bangladesh	FahimMuntashir
 0	0	Bangladesh	FahimWHHP
 0	0	Bangladesh	Himon.PUST
-0	0	Bangladesh	JyotiChakma
 0	0	Bangladesh	LED420
 0	0	Bangladesh	MAhinRAiYan
 0	0	Bangladesh	MD_Shifat_Hasan
