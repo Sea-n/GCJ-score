@@ -86,7 +86,6 @@ Score	Penalty	Country	Name
 43	-18104112102	France	ChrisViking
 43	-31577430051	France	Riron
 43	-35499401178	France	Blanuis
-43	-40420012239	France	Coredmp
 43	-41200562022	France	Aerosfilis
 43	-43077164916	France	wenjunGael
 43	-47119768881	France	HugoBarbaroux
@@ -103,6 +102,7 @@ Score	Penalty	Country	Name
 43	-58543497085	France	Bouh
 43	-58597373940	France	sliard
 43	-58716229181	France	WNG
+43	-59299567142	France	pasthec
 43	-59647689231	France	Wellan89
 43	-60234488111	France	Antonmaster007
 43	-61784782275	France	pogozio
@@ -122,6 +122,7 @@ Score	Penalty	Country	Name
 42	-7524966110	France	Programort
 42	-9885415007	France	Ahnimus
 42	-11165158776	France	Tashiqi
+42	-11165158776	France	Tashiqi
 42	-12116060648	France	lopoto
 42	-13107322041	France	gregoire.lafont
 42	-14566544021	France	djawad190@yahoo.fr
@@ -139,7 +140,6 @@ Score	Penalty	Country	Name
 42	-31327170666	France	gfauchart
 42	-32845902833	France	cobra_
 42	-32981611783	France	hwq_jax
-42	-33023381339	France	fingerdash
 42	-33066980824	France	Thomash
 42	-33316124633	France	gdrtf
 42	-33601205977	France	julyen
@@ -297,6 +297,8 @@ Score	Penalty	Country	Name
 42	-58644917404	France	Nechepso
 42	-58832218559	France	Michel7
 42	-58884074454	France	ErwanBn
+42	-59014322179	France	Astrae
+42	-59017861852	France	Laurent_Roche
 42	-59033282097	France	c3dd3c
 42	-59390887295	France	haroldbouley
 35	-7375202611	France	Mathisaillot
@@ -305,7 +307,6 @@ Score	Penalty	Country	Name
 31	-14280627974	France	Bil1983
 31	-36546870094	France	Cjdcoy
 31	-50495999467	France	ayshiff
-31	-51213869372	France	pasthec
 31	-61054790352	France	corentinRoyer
 30	-26869614425	France	Yannou27
 30	-29637356475	France	AlixMartin
@@ -327,6 +328,7 @@ Score	Penalty	Country	Name
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
 23	-5696959436	France	Renaud42
+23	-10120860402	France	thisma
 23	-10120860402	France	thisma
 23	-10738985206	France	Gaarayan
 23	-11327734755	France	randcoder
@@ -374,9 +376,7 @@ Score	Penalty	Country	Name
 23	-45207798163	France	tshpak
 23	-45558115288	France	Oupo
 23	-46723913281	France	jacadi
-23	-47318642442	France	Astrae
 23	-47378122455	France	AntoineF
-23	-47526983957	France	Tanphi
 23	-47917016262	France	doppler
 23	-48263054117	France	hulky
 23	-48892993653	France	dknn
@@ -408,13 +408,13 @@ Score	Penalty	Country	Name
 23	-54862432640	France	srabahi@gmail.com
 23	-54902433869	France	ice.guillaume
 23	-55138125212	France	Jahz
+23	-55248932698	France	MaBeuLux88
 23	-55315525603	France	f.9m4
 23	-55326149399	France	v-perez
 23	-55735126085	France	Sinei
 23	-55918226949	France	bussonp
 23	-56147631148	France	MajorShepard
 23	-56236017114	France	LAM
-23	-56416139403	France	Laurent_Roche
 23	-56427989129	France	Pigloo
 23	-56931441958	France	Magikid
 23	-57113832640	France	apscst
@@ -441,6 +441,7 @@ Score	Penalty	Country	Name
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
 16	-58016504935	France	Dewep
+16	-58967788590	France	Iamsobad
 12	-3016417898	France	antoineroux
 12	-17461254601	France	DrissTM
 12	-43808348992	France	guy.besseng
@@ -502,8 +503,11 @@ Score	Penalty	Country	Name
 7	-58753821490	France	latoun
 7	-58854877546	France	h1
 7	-58985797367	France	Zéphyr
+7	-59070383715	France	vince91
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
+0	0	France	philM
+0	0	France	tinylinux
 0	0	France	Benskalz
 0	0	France	Bot2019
 0	0	France	Boumpteryx
@@ -532,7 +536,5 @@ Score	Penalty	Country	Name
 0	0	France	johnrazeur
 0	0	France	mrcr0que
 0	0	France	paul.cibier@gmail.com
-0	0	France	philM
 0	0	France	sophieribault
 0	0	France	tanguy.magne
-0	0	France	tinylinux
