@@ -86,6 +86,8 @@ Score	Penalty	Country	Name
 42	-35027481894	France	morugan
 42	-35047487217	France	JSD
 42	-35237719858	France	algocorner
+42	-35308136813	France	Jarjar
+42	-35310811829	France	nitrogenc
 42	-35752393236	France	Thundzz
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
@@ -103,7 +105,6 @@ Score	Penalty	Country	Name
 23	-3477151071	France	scottie34
 23	-4439910630	France	Eluthor
 23	-4667605382	France	mHelba
-23	-5177280065	France	Jarjar
 23	-5696959436	France	Renaud42
 23	-5924047810	France	shftd
 23	-6152089181	France	barjonr
@@ -112,7 +113,6 @@ Score	Penalty	Country	Name
 23	-10120860402	France	thisma
 23	-10738985206	France	Gaarayan
 23	-11327734755	France	randcoder
-23	-12421102558	France	Tobide
 23	-12421102558	France	Tobide
 23	-15538926212	France	serrabii
 23	-15587537742	France	Bamontan
@@ -146,11 +146,9 @@ Score	Penalty	Country	Name
 23	-34011448262	France	paulj
 23	-34075023387	France	raguenets
 23	-34220817235	France	slimvince
-23	-34343014580	France	nitrogenc
 23	-34444302968	France	renault
 23	-34525557214	France	TisteBa
 23	-34560951134	France	yo35
-23	-34595168430	France	guilhemn
 23	-34595168430	France	guilhemn
 23	-34595503109	France	onironaute
 23	-34739959115	France	vincent.belrose
@@ -174,6 +172,7 @@ Score	Penalty	Country	Name
 7	-1627788795	France	Ghostoplo
 7	-2183542384	France	buiquanganh85
 7	-4109592463	France	Antonmaster007
+7	-4493581986	France	fou
 7	-4546729497	France	thib.c
 7	-5678070320	France	Martial
 7	-8362186987	France	AZERTY
@@ -206,6 +205,8 @@ Score	Penalty	Country	Name
 7	-35081712578	France	Matt74
 7	-35124879326	France	MCube
 7	-35245502285	France	Ogdentrod
+7	-35338340404	France	stephkyl
+7	-35361382120	France	HappyGreenCat
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Butanal
@@ -220,6 +221,7 @@ Score	Penalty	Country	Name
 0	0	France	Massoud_le_Grand
 0	0	France	Olmin
 0	0	France	OphelieBl
+0	0	France	Oupo
 0	0	France	Stephane_Mouawad
 0	0	France	Theory
 0	0	France	Yagi-san
