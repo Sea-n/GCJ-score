@@ -95,7 +95,6 @@ Score	Penalty	Country	Name
 42	-12145735739	Vietnam	trabbit
 42	-12203101321	Vietnam	ld_minh4354
 42	-12295810110	Vietnam	longhl_104
-42	-13145264168	Vietnam	minhquanym
 42	-13510102677	Vietnam	aome
 42	-14199051332	Vietnam	conowadays
 42	-14250116775	Vietnam	incenger
@@ -404,13 +403,14 @@ Score	Penalty	Country	Name
 7	-59219243596	Vietnam	huyNh
 7	-60752391511	Vietnam	sonnguyenvu
 7	-60892045981	Vietnam	Masterdee
+0	0	Vietnam	SOMETHING
+0	0	Vietnam	danunu
+0	0	Vietnam	theedonger
 0	0	Vietnam	AmbroseNTK
 0	0	Vietnam	Nghia99sol
-0	0	Vietnam	SOMETHING
 0	0	Vietnam	VanillaJeje
 0	0	Vietnam	VuNguyen
 0	0	Vietnam	bathinh001@gmail.com
-0	0	Vietnam	danunu
 0	0	Vietnam	dungpham98
 0	0	Vietnam	helloworld1101
 0	0	Vietnam	khainl1110
@@ -419,7 +419,6 @@ Score	Penalty	Country	Name
 0	0	Vietnam	thangnt99
 0	0	Vietnam	thanhkaiba
 0	0	Vietnam	thebadguy2810
-0	0	Vietnam	theedonger
 0	0	Vietnam	tisu190297
 0	0	Vietnam	tructal
 0	0	Vietnam	vinhtran1995
