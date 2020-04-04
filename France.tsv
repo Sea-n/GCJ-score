@@ -30,6 +30,7 @@ Score	Penalty	Country	Name
 68	-44609005253	France	MCube
 68	-44685456370	France	Nagrarok
 68	-44824961824	France	adrien@updown.io
+68	-45056940758	France	astrid
 68	-45303095058	France	treziac
 68	-45883818404	France	QuentinBlampey
 55	-12302438707	France	Ihzfo
@@ -91,7 +92,6 @@ Score	Penalty	Country	Name
 42	-33066980824	France	Thomash
 42	-33316124633	France	gdrtf
 42	-33601205977	France	julyen
-42	-33718066344	France	astrid
 42	-34459301408	France	ju²
 42	-34558677958	France	webalorn@gmail.com
 42	-34683436019	France	julesmichaud
@@ -171,6 +171,7 @@ Score	Penalty	Country	Name
 42	-44932808740	France	jonenst
 42	-45002807676	France	levantuan
 42	-45005086565	France	fabien.c
+42	-45083099236	France	Nanored
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
 31	-36546870094	France	Cjdcoy
@@ -194,7 +195,6 @@ Score	Penalty	Country	Name
 23	-6152089181	France	barjonr
 23	-8967781631	France	Armavica
 23	-10120860402	France	thisma
-23	-10738985206	France	Gaarayan
 23	-10738985206	France	Gaarayan
 23	-11327734755	France	randcoder
 23	-12421102558	France	Tobide
@@ -240,7 +240,6 @@ Score	Penalty	Country	Name
 23	-38238295524	France	alicedub
 23	-38392724876	France	Hboni
 23	-38467019539	France	Rubilmax
-23	-38467019539	France	Rubilmax
 23	-38621532529	France	lapsus63
 23	-38687821030	France	BoeingX
 23	-38958398374	France	Arene
@@ -254,6 +253,7 @@ Score	Penalty	Country	Name
 23	-40396841166	France	barikh
 23	-40492769332	France	cicoub13
 23	-40880161089	France	Olmin
+23	-40915632286	France	E-lex
 23	-40915632286	France	E-lex
 23	-40946464904	France	Yagi-san
 23	-41068149297	France	mrCaelum
@@ -278,7 +278,6 @@ Score	Penalty	Country	Name
 23	-43505909627	France	SebleSebastien
 23	-43689017443	France	NawfelT
 23	-43739375151	France	matteodelabre
-23	-43832703643	France	Nanored
 23	-43838331595	France	Tewdrig
 23	-43906470102	France	etienne.thiery
 23	-44143268758	France	peddp9
@@ -298,8 +297,10 @@ Score	Penalty	Country	Name
 23	-44838777372	France	Kan1
 23	-44866362297	France	Hatovix
 23	-45032918676	France	thib.c
+23	-45057675369	France	Braxxe
 23	-45207798163	France	tshpak
 16	-21240143956	France	mnaji
+16	-39177363426	France	ElFabino
 16	-41633658935	France	user1337
 16	-44781389784	France	MrFlibble
 12	-3016417898	France	antoineroux
@@ -331,7 +332,6 @@ Score	Penalty	Country	Name
 7	-41243384538	France	chevalfoucher
 7	-41310585842	France	lifeofsmiith
 7	-41394392630	France	Klu
-7	-41712861343	France	Braxxe
 7	-41922622040	France	alobabo
 7	-41976881179	France	Stephane_Mouawad
 7	-42130706468	France	apscst
@@ -356,21 +356,21 @@ Score	Penalty	Country	Name
 7	-45002189260	France	HermioneGranger
 5	-37838570501	France	proftechnolblanc
 5	-43709133229	France	matousso
-0	0	France	Kandhum
-0	0	France	Loic
-0	0	France	Mizzy
-0	0	France	Pigloo
-0	0	France	benjlepyreneen
-0	0	France	cigix
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	DorianNogneng
+0	0	France	Kandhum
 0	0	France	LightSn0w
+0	0	France	Loic
 0	0	France	MaTTs
+0	0	France	Mizzy
+0	0	France	Pigloo
 0	0	France	Tanphi
+0	0	France	benjlepyreneen
 0	0	France	c0lt_dgtl
+0	0	France	cigix
 0	0	France	diodfr
 0	0	France	mo4J
 0	0	France	paul.cibier@gmail.com
