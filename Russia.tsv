@@ -27,6 +27,7 @@ Score	Penalty	Country	Name
 74	-56952812852	Russia	Ivanforward
 74	-57007633052	Russia	evstigneevg
 74	-57565478774	Russia	i_vain
+74	-60195072416	Russia	mamenko
 68	-6018723401	Russia	white2302
 68	-11857386562	Russia	Goodhope
 68	-12101248893	Russia	moptranzistor
@@ -117,7 +118,6 @@ Score	Penalty	Country	Name
 68	-60056587947	Russia	Akulyat
 68	-64860140078	Russia	NameNamovich
 61	-37813147694	Russia	caesarsaladdressing
-55	-58470312799	Russia	mamenko
 49	-53600532290	Russia	dimaoq
 45	-37721495719	Russia	demidenko
 43	-18680295650	Russia	Fesen
@@ -516,6 +516,7 @@ Score	Penalty	Country	Name
 23	-58853048158	Russia	SYury
 23	-58957095294	Russia	ASoboll
 23	-59096956885	Russia	DmitRiy
+23	-59776722457	Russia	crassirostris
 20	-40291858831	Russia	dimitribelikov
 16	-49687781436	Russia	Wataru
 16	-52277519074	Russia	sled
@@ -525,7 +526,6 @@ Score	Penalty	Country	Name
 12	-46874307612	Russia	kirilldenisov
 12	-47587983634	Russia	Gogen120
 12	-58132419061	Russia	vitkov
-12	-58491012630	Russia	crassirostris
 12	-59413043095	Russia	Mrsky
 7	-870457384	Russia	Romanchenko
 7	-4346869152	Russia	zuko3d
@@ -565,16 +565,16 @@ Score	Penalty	Country	Name
 7	-58935131813	Russia	spaceleo
 7	-59132408988	Russia	artem_barsov
 7	-59194458055	Russia	CtrlAlt
+0	0	Russia	O_oxana
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Juwbasaurus
+0	0	Russia	Locab
+0	0	Russia	MellowYellow
 0	0	Russia	artempavlov
+0	0	Russia	garipovii
 0	0	Russia	h4rdcode
 0	0	Russia	mspitb
 0	0	Russia	munir_
-0	0	Russia	Locab
-0	0	Russia	MellowYellow
-0	0	Russia	O_oxana
-0	0	Russia	garipovii
 0	0	Russia	ngh7mr3
 0	0	Russia	vlad_is_love
 0	0	Russia	zts3101
