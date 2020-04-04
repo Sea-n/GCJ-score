@@ -161,6 +161,7 @@ Score	Penalty	Country	Name
 42	-37428511242	Russia	traylz
 42	-37488213734	Russia	nxblnd
 42	-37612723268	Russia	Arut
+42	-37780373635	Russia	mihaild
 42	-37943032879	Russia	andrejj
 35	-30640710308	Russia	DmitryGrigorev
 35	-34946471514	Russia	caesarsaladdressing
@@ -215,7 +216,6 @@ Score	Penalty	Country	Name
 23	-37196729806	Russia	alliencool
 23	-37226175136	Russia	radmarale
 23	-37252953968	Russia	AlesyaIvanova
-23	-37273330776	Russia	mihaild
 23	-37315866432	Russia	palevas
 23	-37435053897	Russia	presnakovoleg
 23	-37472295822	Russia	SashaPROS3
@@ -224,6 +224,8 @@ Score	Penalty	Country	Name
 23	-37691754858	Russia	galakt
 23	-37701596989	Russia	Ivanforward
 23	-37716247576	Russia	Drunkenstein
+23	-37752033463	Russia	dalex
+23	-37790732691	Russia	evstigneevg
 19	-35741509027	Russia	dimitribelikov
 16	-34379053917	Russia	salyamov
 16	-34972504697	Russia	JPepper
@@ -249,12 +251,10 @@ Score	Penalty	Country	Name
 7	-35273184519	Russia	frisvee
 7	-35615252701	Russia	ivan.chepiga
 7	-35766154676	Russia	olya.masaeva
-7	-36229081608	Russia	evstigneevg
 7	-36366328652	Russia	Aritol
 7	-36397216079	Russia	NEvOl
 7	-36715102326	Russia	OlegSmirnov
 7	-36780773325	Russia	ViKn
-7	-36955174456	Russia	dalex
 7	-36976870062	Russia	dzheglov
 7	-37050863801	Russia	allisyonok
 7	-37409947764	Russia	sevlll
@@ -263,9 +263,13 @@ Score	Penalty	Country	Name
 7	-37663330346	Russia	lessmeaning
 7	-37698968380	Russia	kormyshov
 7	-37699161182	Russia	helena
+7	-37732760055	Russia	e.r.
+7	-37746304667	Russia	lifes_waterfall
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
 0	0	Russia	SeeeRGo
+0	0	Russia	TRR53
+0	0	Russia	garipovii
 0	0	Russia	vmark
 0	0	Russia	__ibm__
-0	0	Russia	garipovii
+0	0	Russia	mspitb
