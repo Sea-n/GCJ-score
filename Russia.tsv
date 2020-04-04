@@ -146,9 +146,10 @@ Score	Penalty	Country	Name
 42	-35897944066	Russia	Fortin
 42	-35998538809	Russia	ferume
 42	-36032545343	Russia	VenRock
+42	-36500280067	Russia	RuslanGatin
+42	-36742727298	Russia	vivanov
 42	-37943032879	Russia	andrejj
 35	-30640710308	Russia	DmitryGrigorev
-35	-34946471514	Russia	caesarsaladdressing
 31	-32615275115	Russia	agorodnev
 26	-4939813268	Russia	kirill.maiantsev
 26	-32680061939	Russia	dessaber
@@ -160,7 +161,6 @@ Score	Penalty	Country	Name
 23	-8250484760	Russia	ilya.a.egorov
 23	-13912068325	Russia	Mr.Sirius
 23	-21370252787	Russia	AndreyU
-23	-23801787125	Russia	vivanov
 23	-24224321405	Russia	dva2
 23	-25575088117	Russia	Daynyus
 23	-26699878275	Russia	hiot
@@ -175,8 +175,6 @@ Score	Penalty	Country	Name
 23	-32094579196	Russia	_Dragon_
 23	-32262140994	Russia	nixspirit
 23	-32735189876	Russia	AirGB
-23	-33617597065	Russia	sergeykozub
-23	-33997241204	Russia	RuslanGatin
 23	-34044710647	Russia	igorock
 23	-34147355440	Russia	ivankff
 23	-34165350545	Russia	SolemnVisitor
@@ -203,6 +201,8 @@ Score	Penalty	Country	Name
 23	-36237580166	Russia	zile
 23	-36289341205	Russia	riuzmukhametov
 23	-36337112711	Russia	avg79
+23	-36337112711	Russia	avg79
+23	-36500391060	Russia	BugDone
 19	-31065697477	Russia	demidenko
 19	-35741509027	Russia	dimitribelikov
 16	-34379053917	Russia	salyamov
@@ -225,7 +225,6 @@ Score	Penalty	Country	Name
 7	-33105405325	Russia	grenlayk
 7	-33272323332	Russia	wunder9l
 7	-33473380880	Russia	Arneid
-7	-33574899825	Russia	BugDone
 7	-33841513028	Russia	step_by_step
 7	-34003320759	Russia	presnakovoleg
 7	-34542536432	Russia	SashaPROS3
@@ -242,6 +241,7 @@ Score	Penalty	Country	Name
 7	-36094576564	Russia	alliencool
 7	-36136480221	Russia	avoronov
 7	-36229081608	Russia	evstigneevg
+0	0	Russia	Aritol
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	garipovii
 0	0	Russia	vmark
