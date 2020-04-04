@@ -26,7 +26,6 @@ Score	Penalty	Country	Name
 68	-13263608574	Australia	kluxa
 68	-13275462036	Australia	Ali.Kh
 68	-13701123324	Australia	AngusRitossa
-68	-14109110622	Australia	mchlzhao
 68	-14533893026	Australia	trainsick
 68	-14748231995	Australia	DanielA
 68	-16321352402	Australia	Bos-Taurus
@@ -106,6 +105,7 @@ Score	Penalty	Country	Name
 42	-19234045421	Australia	Flipblade
 42	-19309699403	Australia	PwzXxm
 42	-19893722598	Australia	Dezyh
+42	-19893722598	Australia	Dezyh
 42	-19901479817	Australia	jonoe
 42	-20000356962	Australia	10561066
 42	-21181713705	Australia	bluesky999
@@ -134,7 +134,6 @@ Score	Penalty	Country	Name
 42	-28586473620	Australia	sragavan
 42	-28664466643	Australia	ryanmark
 42	-28980901315	Australia	DingusTimmy
-42	-29220728110	Australia	TheGhost
 42	-30052056438	Australia	dane
 42	-31047892375	Australia	ascholtes
 42	-31484413673	Australia	ThePromisedNlogNLand
@@ -208,7 +207,6 @@ Score	Penalty	Country	Name
 42	-61647258085	Australia	linlinz
 42	-62615743478	Australia	thatguy12
 42	-63525795166	Australia	PSMao
-42	-63733195844	Australia	Somniac
 42	-63765150066	Australia	sdort
 42	-63796178272	Australia	brick
 42	-67587153348	Australia	kalyke
@@ -228,7 +226,7 @@ Score	Penalty	Country	Name
 23	-5414798571	Australia	Apple3141
 23	-7576410048	Australia	jzsoftware
 23	-8351351418	Australia	JonBrownlee
-23	-8747950341	Australia	stepmak
+23	-8351351418	Australia	JonBrownlee
 23	-8747950341	Australia	stepmak
 23	-10025395780	Australia	TaylorJohnWood
 23	-11222286709	Australia	EmmyEmmy
@@ -306,6 +304,8 @@ Score	Penalty	Country	Name
 7	-56379795026	Australia	tpaul
 7	-60840619188	Australia	LordlinImmanuel
 7	-63562629713	Australia	hayden88
+0	0	Australia	TerenceBui
+0	0	Australia	mattchrlw
 0	0	Australia	DHo
 0	0	Australia	DarkHack
 0	0	Australia	GeorgieRoseM
@@ -314,10 +314,8 @@ Score	Penalty	Country	Name
 0	0	Australia	SKURANI
 0	0	Australia	Shiv3901
 0	0	Australia	Sup123
-0	0	Australia	TerenceBui
 0	0	Australia	ThomasW
 0	0	Australia	Tinson
 0	0	Australia	etang1
 0	0	Australia	gillythatguy
-0	0	Australia	mattchrlw
 0	0	Australia	morning_cloud
