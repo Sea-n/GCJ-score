@@ -73,6 +73,7 @@ Score	Penalty	Country	Name
 68	-57308037304	France	phh
 68	-57398509034	France	brospi
 68	-57884237297	France	SpaceSheep
+68	-57884237297	France	SpaceSheep
 68	-58000252855	France	succo
 68	-60079807292	France	LuciaVonTelmus
 62	-58460070187	France	mj3n
@@ -420,9 +421,11 @@ Score	Penalty	Country	Name
 23	-57113832640	France	apscst
 23	-57136126155	France	Rayzel
 23	-57220419347	France	iwky911@gmail.com
+23	-57413943803	France	VengeurK
 23	-57458334903	France	nweeks_
 23	-57469157491	France	lance505
 16	-21240143956	France	mnaji
+16	-41633658935	France	user1337
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
 16	-54947553454	France	MaTTs
@@ -458,7 +461,6 @@ Score	Penalty	Country	Name
 7	-46100739848	France	Leo.G
 7	-46999202678	France	AdrienLopez
 7	-49558454342	France	tjamat
-7	-50060497357	France	VengeurK
 7	-50314729345	France	risson
 7	-50367971817	France	MBaltz
 7	-50492092569	France	nicolas.bereux@gmail.com
@@ -485,16 +487,19 @@ Score	Penalty	Country	Name
 7	-57141666258	France	Bcollet
 7	-57283230665	France	forty
 7	-57328403117	France	Milan_
+7	-57364416271	France	salamandre
+7	-57401919555	France	theodumont
+7	-57407911902	France	fmouhart
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	BigMamadou
-0	0	France	Bot2019
 0	0	France	Boumpteryx
 0	0	France	Colios13
+0	0	France	Cr4zySheep
 0	0	France	DorianNogneng
+0	0	France	GRacineux
 0	0	France	HuGoo
-0	0	France	Kandhum
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaieV
@@ -504,8 +509,6 @@ Score	Penalty	Country	Name
 0	0	France	PierreRako
 0	0	France	Raska
 0	0	France	SydnExpert
-0	0	France	Tislaan
-0	0	France	abel0b
 0	0	France	benjlepyreneen
 0	0	France	cigix
 0	0	France	clerendor
@@ -514,4 +517,7 @@ Score	Penalty	Country	Name
 0	0	France	paul.cibier@gmail.com
 0	0	France	philM
 0	0	France	sophieribault
-0	0	France	theodumont
+0	0	France	Bot2019
+0	0	France	Kandhum
+0	0	France	Tislaan
+0	0	France	abel0b

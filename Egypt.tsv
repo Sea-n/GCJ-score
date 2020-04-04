@@ -204,13 +204,12 @@ Score	Penalty	Country	Name
 23	-16565346283	Egypt	AhmedMohsenn
 23	-16729560414	Egypt	nadagalal
 23	-16837878715	Egypt	kareemhamdy15
-23	-16837878715	Egypt	kareemhamdy15
 23	-17225963867	Egypt	Best_Sponge
 23	-17403771976	Egypt	AmroWalid
 23	-17434315660	Egypt	Abdelrahman_Ali
 23	-18628034979	Egypt	Ab.Naser
 23	-23171978093	Egypt	SamaSama
-23	-25726872549	Egypt	mahrr
+23	-23171978093	Egypt	SamaSama
 23	-26885926474	Egypt	faressalm44
 23	-30419674775	Egypt	Dina_a_eissa
 23	-30420117317	Egypt	Hossam9x
@@ -300,12 +299,16 @@ Score	Penalty	Country	Name
 7	-2347593359	Egypt	SilverPeter
 7	-2650813205	Egypt	intertreasure
 7	-2744888848	Egypt	Shibo
+7	-2650813205	Egypt	intertreasure
+7	-2744888848	Egypt	Shibo
 7	-3021639042	Egypt	MAHMOUD_SALEM
 7	-3036175455	Egypt	Elbeah
 7	-5620517369	Egypt	mustafah15
 7	-5831614108	Egypt	Dusky338
 7	-6115426176	Egypt	Fawrama
 7	-6472461459	Egypt	Shahenda
+7	-6674993022	Egypt	MamdouhN_Nafee
+7	-6733856751	Egypt	Spaggetti
 7	-6836676406	Egypt	mohamedsabry
 7	-7337474853	Egypt	KhaledEltawagny
 7	-7395564132	Egypt	MostafaWael
@@ -381,7 +384,7 @@ Score	Penalty	Country	Name
 7	-57039111665	Egypt	abanob.ashraf
 7	-57042978840	Egypt	osamahatem
 7	-57297643733	Egypt	RedTitan
-0	0	Egypt	Abanob_abu
+7	-57429308026	Egypt	Mohamed.Sobhy
 0	0	Egypt	Abobakr_99
 0	0	Egypt	AhmedRamdan
 0	0	Egypt	AnDrEwHaLiEm
@@ -390,7 +393,6 @@ Score	Penalty	Country	Name
 0	0	Egypt	Eshiba
 0	0	Egypt	Gneedy
 0	0	Egypt	KarimN
-0	0	Egypt	LonelyWhale
 0	0	Egypt	Nour_Eldien
 0	0	Egypt	NourhanR
 0	0	Egypt	Rana.20
@@ -406,3 +408,5 @@ Score	Penalty	Country	Name
 0	0	Egypt	momousa1997
 0	0	Egypt	reemii
 0	0	Egypt	uniqueinx
+0	0	Egypt	Abanob_abu
+0	0	Egypt	LonelyWhale
