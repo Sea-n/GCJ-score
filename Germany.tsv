@@ -12,6 +12,7 @@ Score	Penalty	Country	Name
 100	-52793123155	Germany	amr962
 100	-53325630718	Germany	lumibons
 100	-55603300077	Germany	DrNochi
+100	-58181021162	Germany	vanHavel
 74	-16188514368	Germany	m.mahdi2414
 74	-48947918040	Germany	RezaSi
 74	-54166579152	Germany	algomaus
@@ -48,7 +49,6 @@ Score	Penalty	Country	Name
 68	-51577479252	Germany	.Adrian
 68	-51736361940	Germany	Veladus
 68	-52323054276	Germany	Unlikus
-68	-52573994904	Germany	vanHavel
 68	-52766866630	Germany	lambdapioneer
 68	-52988903834	Germany	Josaffe
 68	-53460819596	Germany	Neonag
@@ -239,10 +239,11 @@ Score	Penalty	Country	Name
 42	-56609310183	Germany	qr4
 42	-57124533741	Germany	reneraab
 42	-57246299414	Germany	felldom
+42	-57465156458	Germany	Apfeloxid
 42	-57468491649	Germany	twuebi
+42	-57490638258	Germany	jb53
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
-35	-43352976754	Germany	Apfeloxid
 35	-52505751948	Germany	Benjamin2002@gmx.de
 35	-52792712657	Germany	CodeGreg
 31	-16121260545	Germany	ans82
@@ -320,7 +321,6 @@ Score	Penalty	Country	Name
 23	-53792687509	Germany	makzono
 23	-54068396482	Germany	BananaNosh
 23	-55136671892	Germany	OverlordAlex
-23	-55312394810	Germany	jb53
 23	-55542042978	Germany	J0na1han
 23	-55554699522	Germany	Trung_X_Hieu
 23	-56157326032	Germany	Tech4Projects
@@ -331,6 +331,9 @@ Score	Penalty	Country	Name
 23	-56985321204	Germany	DeepaSajani
 23	-57054560353	Germany	easy2200ph
 23	-57384920527	Germany	stefansiemer
+23	-57425760210	Germany	theAlkimist
+23	-57449443276	Germany	antban
+23	-57477351667	Germany	Setsul
 23	-57868481056	Germany	owling
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
@@ -365,7 +368,6 @@ Score	Penalty	Country	Name
 7	-52711029503	Germany	SgtMA5B
 7	-53270518121	Germany	oO777Oo
 7	-53894987385	Germany	Aikazumi
-7	-54104185696	Germany	Setsul
 7	-54405788667	Germany	lgewuerz
 7	-54835295794	Germany	magicMuscle
 7	-54899056267	Germany	loisroyce
@@ -380,16 +382,13 @@ Score	Penalty	Country	Name
 7	-56504337046	Germany	rajeev.cse.imps@gmail.com
 7	-56509583517	Germany	L#8253
 7	-56666463254	Germany	ChiChuRita
-7	-56734550464	Germany	antban
 7	-56894802384	Germany	SeeSoftware
 7	-57080055527	Germany	TweedBeetle
 7	-57154031247	Germany	arminosaurus
 7	-57221241331	Germany	nedo
 7	-57299276182	Germany	wwjj
 7	-57328746859	Germany	colonelkernel
-0	0	Germany	PrøCøder
 0	0	Germany	Raixor
-0	0	Germany	SchiffFlieger46
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	arangra
@@ -397,9 +396,11 @@ Score	Penalty	Country	Name
 0	0	Germany	friebetill
 0	0	Germany	hackerpschorr
 0	0	Germany	miskigolf
-0	0	Germany	mofef
 0	0	Germany	ndrshrzg
 0	0	Germany	pp93
-0	0	Germany	starzhinkus
 0	0	Germany	svenibo
 0	0	Germany	tholeg
+0	0	Germany	PrøCøder
+0	0	Germany	SchiffFlieger46
+0	0	Germany	mofef
+0	0	Germany	starzhinkus

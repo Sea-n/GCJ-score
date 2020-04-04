@@ -399,6 +399,7 @@ Score	Penalty	Country	Name
 42	-57276627003	Russia	praise_x
 42	-57339551681	Russia	KirillB
 42	-57419125139	Russia	kpilyugin
+42	-57473390419	Russia	okwedook
 39	-54126983341	Russia	mamenko
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -492,12 +493,13 @@ Score	Penalty	Country	Name
 23	-56451815610	Russia	fudail
 23	-56492472065	Russia	wosarat
 23	-56602942209	Russia	AndrewOvv
-23	-56966846155	Russia	okwedook
 23	-57011040254	Russia	vupornikov@gmail.com
 23	-57103584373	Russia	DmitriyV
 23	-57179597110	Russia	alexey.enkov
 23	-57211457921	Russia	tomatho
 23	-57344001372	Russia	borisbarkov
+23	-57487833385	Russia	Jaodi
+23	-57675446062	Russia	KaperD
 20	-40291858831	Russia	dimitribelikov
 16	-49687781436	Russia	Wataru
 16	-52277519074	Russia	sled
@@ -531,6 +533,8 @@ Score	Penalty	Country	Name
 7	-52569943611	Russia	ambisinistra
 7	-53620515957	Russia	timav566
 7	-53624815779	Russia	pereb4ik
+7	-53620515957	Russia	timav566
+7	-53624815779	Russia	pereb4ik
 7	-53675666975	Russia	male-x
 7	-53872922588	Russia	IvanSky
 7	-54298881876	Russia	zhodmitry
@@ -539,9 +543,7 @@ Score	Penalty	Country	Name
 7	-55677574376	Russia	crassirostris
 7	-55775028788	Russia	agulenko
 7	-55880144113	Russia	semenova_n
-7	-56142628568	Russia	KaperD
 7	-56471988804	Russia	xnynzn
-7	-56647167031	Russia	Jaodi
 7	-56650369368	Russia	Romansp
 7	-57029226371	Russia	ZAB
 7	-57099383981	Russia	s_ah_onissuiy
@@ -557,6 +559,6 @@ Score	Penalty	Country	Name
 0	0	Russia	h4rdcode
 0	0	Russia	mspitb
 0	0	Russia	munir_
+0	0	Russia	zts3101
 0	0	Russia	ngh7mr3
 0	0	Russia	vlad_is_love
-0	0	Russia	zts3101
