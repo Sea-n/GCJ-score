@@ -177,7 +177,6 @@ Score	Penalty	Country	Name
 42	-45244277761	France	Kerl
 42	-45271652878	France	brurrito
 42	-45494271256	France	etienne.thiery
-35	-7375202611	France	Mathisaillot
 35	-45269500299	France	ElFabino
 31	-14280627974	France	Bil1983
 31	-36546870094	France	Cjdcoy
@@ -210,7 +209,6 @@ Score	Penalty	Country	Name
 23	-17842441367	France	Brainabilgh
 23	-17923643473	France	antonin
 23	-21629368773	France	spolioz
-23	-26195829330	France	Lysrt
 23	-30540824754	France	vexilla72
 23	-30575546188	France	-adrien-
 23	-30583224366	France	c3dd3c
@@ -315,8 +313,6 @@ Score	Penalty	Country	Name
 7	-2183542384	France	buiquanganh85
 7	-4493581986	France	fou
 7	-5678070320	France	Martial
-7	-8362186987	France	AZERTY
-7	-8456694295	France	bjosep7
 7	-24179044155	France	gre99ory
 7	-34061493532	France	HK2
 7	-36359122142	France	Toutatis
@@ -328,6 +324,7 @@ Score	Penalty	Country	Name
 7	-39837869029	France	valocheTheHacker
 7	-40035616231	France	TwsThomas
 7	-40041306185	France	PtitBeurre
+7	-40418773214	France	Da
 7	-40418773214	France	Da
 7	-40684305310	France	v-perez
 7	-40860722784	France	Eigho
@@ -358,8 +355,11 @@ Score	Penalty	Country	Name
 7	-45254708283	France	Michel7
 7	-45382102416	France	bmartin
 7	-45511042812	France	Julieng
+7	-45578955934	France	loscmatt
+7	-45643033366	France	Tanphi
 5	-37838570501	France	proftechnolblanc
 0	0	France	AdrienLopez
+0	0	France	AntoineF
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Boumpteryx
@@ -371,7 +371,6 @@ Score	Penalty	Country	Name
 0	0	France	MaTTs
 0	0	France	Mizzy
 0	0	France	Pigloo
-0	0	France	Tanphi
 0	0	France	Tislaan
 0	0	France	arrtes
 0	0	France	benjlepyreneen
