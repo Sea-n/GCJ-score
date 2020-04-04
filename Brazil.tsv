@@ -9,6 +9,7 @@ Score	Penalty	Country	Name
 100	-26936364422	Brazil	lam5
 100	-38035991677	Brazil	marcoskwkm
 100	-56618809590	Brazil	iamavalon
+100	-57716226884	Brazil	felipefcw
 75	-17275002679	Brazil	PedroNC
 75	-26288888235	Brazil	hsnavarro
 74	-4624739303	Brazil	gbrls
@@ -22,7 +23,6 @@ Score	Penalty	Country	Name
 68	-6293928287	Brazil	kobus
 68	-6464715379	Brazil	dukilee
 68	-8525982940	Brazil	kerven
-68	-9556738891	Brazil	felipefcw
 68	-11880457794	Brazil	ErikMorbach
 68	-13272220687	Brazil	paulomiranda98
 68	-13871751346	Brazil	mattioli
@@ -40,9 +40,9 @@ Score	Penalty	Country	Name
 68	-24967754257	Brazil	pedruzzi
 68	-25474484200	Brazil	cintia
 68	-26511878783	Brazil	viniciusth
+68	-27851789023	Brazil	tgoulart
 68	-28074227217	Brazil	ivanilos
 68	-33976092756	Brazil	brenorosas
-68	-34431723777	Brazil	leviwc
 68	-34431723777	Brazil	leviwc
 68	-38168469069	Brazil	TNicoletti
 68	-51527054526	Brazil	Sinistro
@@ -88,6 +88,7 @@ Score	Penalty	Country	Name
 42	-5301371471	Brazil	jps12
 42	-5348325411	Brazil	TeStEmUnHa
 42	-5397016675	Brazil	FelipeF
+42	-5557087660	Brazil	Ovelha66
 42	-5617379828	Brazil	Carlos_Cabral
 42	-5650527194	Brazil	juniorandrade
 42	-5764353777	Brazil	Guilherme_Cabral
@@ -140,7 +141,6 @@ Score	Penalty	Country	Name
 42	-17414797517	Brazil	Zanez
 42	-18704976839	Brazil	jamarcolan
 42	-18833486163	Brazil	lucianovr
-42	-18833486163	Brazil	lucianovr
 42	-18881638049	Brazil	Lius
 42	-19255930357	Brazil	czar_lx
 42	-19992451230	Brazil	B_Dantas
@@ -168,7 +168,6 @@ Score	Penalty	Country	Name
 42	-32723745523	Brazil	Thiagohnc
 42	-33262347694	Brazil	snipa
 42	-36669619508	Brazil	gustavo_m32
-42	-37161727540	Brazil	nosgueira
 42	-37161727540	Brazil	nosgueira
 42	-37361082722	Brazil	PROFPG
 42	-40939303948	Brazil	BernardoSulzbach
@@ -260,7 +259,6 @@ Score	Penalty	Country	Name
 23	-20674144588	Brazil	PabloGustavo
 23	-21388253673	Brazil	ErickR
 23	-21481005829	Brazil	gegen07
-23	-21481005829	Brazil	gegen07
 23	-21961400599	Brazil	SilverBladeII
 23	-22233866110	Brazil	MilhoDroid
 23	-22321187487	Brazil	pedrokuchpil
@@ -296,6 +294,7 @@ Score	Penalty	Country	Name
 23	-55307079194	Brazil	gui2112
 23	-55448432233	Brazil	sapucaia-a
 23	-55538468467	Brazil	matheusfabian
+23	-55781181394	Brazil	mduarte
 23	-55853736779	Brazil	nubro
 19	-17406551608	Brazil	henviso
 16	-10173599284	Brazil	Acespades
@@ -365,7 +364,6 @@ Score	Penalty	Country	Name
 7	-48721734001	Brazil	ronaldo.c.correa@gmail.com
 7	-48844726135	Brazil	pablo_aa
 7	-53203684474	Brazil	elSegonho
-7	-53284595331	Brazil	mduarte
 7	-53608094732	Brazil	CaroLinda
 7	-54012794476	Brazil	ribeiroana
 7	-54188028372	Brazil	oliveira.andree
@@ -377,22 +375,22 @@ Score	Penalty	Country	Name
 7	-55069072541	Brazil	NatanSG
 0	0	Brazil	Ancogamer
 0	0	Brazil	LPerin
-0	0	Brazil	XicoDeAltos
-0	0	Brazil	julianafpaulo
-0	0	Brazil	mutleyX
-0	0	Brazil	penrose
-0	0	Brazil	rafaelPanisset
-0	0	Brazil	rezenders
-0	0	Brazil	takamura
-0	0	Brazil	timeToCode
 0	0	Brazil	PeetaCalou
 0	0	Brazil	Ziguirifow
 0	0	Brazil	brenotx
-0	0	Brazil	edukure
 0	0	Brazil	felipe-miranda
 0	0	Brazil	giovcandido
 0	0	Brazil	grisotto
+0	0	Brazil	mutleyX
 0	0	Brazil	mvivas19
+0	0	Brazil	rafaelPanisset
 0	0	Brazil	stephano
+0	0	Brazil	takamura
+0	0	Brazil	timeToCode
 0	0	Brazil	vicnetto
+0	0	Brazil	XicoDeAltos
+0	0	Brazil	edukure
+0	0	Brazil	julianafpaulo
+0	0	Brazil	penrose
+0	0	Brazil	rezenders
 0	0	Brazil	vilelabruno
