@@ -81,6 +81,7 @@ Score	Penalty	Country	Name
 43	-45266960199	Russia	Arut
 43	-46563776271	Russia	sizzziy
 43	-46896284909	Russia	yulik.daniel
+43	-49684077611	Russia	empty_walls
 43	-51649344434	Russia	andrejj
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
@@ -264,7 +265,6 @@ Score	Penalty	Country	Name
 42	-45370376380	Russia	Stasana
 42	-45433474804	Russia	shade33
 42	-45471281595	Russia	cookiedoth
-42	-45555193494	Russia	empty_walls
 42	-45712113074	Russia	PeregudovSergey
 42	-45731874866	Russia	datbeohbbh
 42	-45903367327	Russia	salyamov
@@ -285,6 +285,8 @@ Score	Penalty	Country	Name
 42	-48019784497	Russia	lelkok228
 42	-48060239408	Russia	Valentin_E
 42	-48155660237	Russia	Kostroma
+42	-48216619012	Russia	pal.andreich
+42	-48249832333	Russia	danilserov
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 33	-47481887719	Russia	DmitryZ
@@ -332,11 +334,9 @@ Score	Penalty	Country	Name
 23	-39988525785	Russia	lifes_waterfall
 23	-41206158179	Russia	ivan.chepiga
 23	-41302621079	Russia	x12
-23	-42270624334	Russia	pal.andreich
 23	-42788542963	Russia	dasha02.08
 23	-42835538417	Russia	smnikita
 23	-42959833249	Russia	APT-EHOT
-23	-43015646343	Russia	KirillB
 23	-43015646343	Russia	KirillB
 23	-43211742288	Russia	ViKn
 23	-43999007620	Russia	VArtem
@@ -356,7 +356,6 @@ Score	Penalty	Country	Name
 23	-47100801245	Russia	steiner
 23	-47213519995	Russia	Threeteck
 23	-47219975686	Russia	ivan.a.bovin
-23	-47339699578	Russia	danilserov
 23	-47348035196	Russia	savacska
 23	-47435552581	Russia	serjonya
 23	-47534064788	Russia	ivankun
@@ -374,6 +373,7 @@ Score	Penalty	Country	Name
 12	-32071721332	Russia	letsolum
 12	-46874307612	Russia	kirilldenisov
 12	-47587983634	Russia	Gogen120
+12	-48230114516	Russia	schegolev
 7	-870457384	Russia	Romanchenko
 7	-2382733077	Russia	RiaD
 7	-4116303058	Russia	Gassa
@@ -395,7 +395,6 @@ Score	Penalty	Country	Name
 7	-41848229130	Russia	adanil
 7	-41994994397	Russia	La_Peste
 7	-42615122396	Russia	buldo
-7	-42677603734	Russia	schegolev
 7	-43141856656	Russia	vmark
 7	-43163528387	Russia	Gadzhiev
 7	-43455500523	Russia	dabasov
@@ -423,14 +422,14 @@ Score	Penalty	Country	Name
 7	-48033974499	Russia	si1x
 7	-48062631150	Russia	addict
 7	-48107203816	Russia	SlavaSSU
-0	0	Russia	MellowYellow
-0	0	Russia	garipovii
-0	0	Russia	mamenko
-0	0	Russia	vlad_is_love
 0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
 0	0	Russia	ambisinistra
 0	0	Russia	bsd_conqueror
-0	0	Russia	mspitb
+0	0	Russia	mamenko
 0	0	Russia	munir_
 0	0	Russia	sled
+0	0	Russia	garipovii
+0	0	Russia	mspitb
+0	0	Russia	vlad_is_love
