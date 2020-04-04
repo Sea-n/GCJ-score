@@ -82,6 +82,7 @@ Score	Penalty	Country	Name
 42	-34558677958	France	webalorn@gmail.com
 42	-34683436019	France	julesmichaud
 42	-34741590526	France	UyenNguyen
+42	-34838544182	France	jdh
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
 30	-26869614425	France	Yannou27
@@ -140,7 +141,6 @@ Score	Penalty	Country	Name
 23	-33767503550	France	Skril
 23	-33769831058	France	sknat
 23	-33819291741	France	EtienneW
-23	-33845576562	France	jdh
 23	-34011448262	France	paulj
 23	-34031234529	France	algocorner
 23	-34075023387	France	raguenets
@@ -153,6 +153,7 @@ Score	Penalty	Country	Name
 23	-34595503109	France	onironaute
 23	-34739959115	France	vincent.belrose
 23	-34767116923	France	Onche
+23	-34826432238	France	corentinRoyer
 16	-21240143956	France	mnaji
 16	-26861840110	France	Kiroxas
 12	-3016417898	France	antoineroux
@@ -184,7 +185,6 @@ Score	Penalty	Country	Name
 7	-33403029604	France	romi1502
 7	-33477094571	France	pasthec
 7	-33626261457	France	peb
-7	-33651251162	France	corentinRoyer
 7	-33699390794	France	guy.besseng
 7	-33924266666	France	OoDeLally
 7	-33928364594	France	CalzoneChampiPoivron
@@ -208,10 +208,8 @@ Score	Penalty	Country	Name
 0	0	France	HlibMykhailenko
 0	0	France	Langrognet
 0	0	France	LightSn0w
-0	0	France	Massoud_le_Grand
 0	0	France	Matt74
 0	0	France	Olmin
-0	0	France	OphelieBl
 0	0	France	Stephane_Mouawad
 0	0	France	Theory
 0	0	France	Yagi-san
@@ -220,3 +218,7 @@ Score	Penalty	Country	Name
 0	0	France	nanhopper
 0	0	France	paul.cibier@gmail.com
 0	0	France	proftechnolblanc
+0	0	France	sewingmachine
+0	0	France	HugoBarbaroux
+0	0	France	Massoud_le_Grand
+0	0	France	OphelieBl
