@@ -46,7 +46,9 @@ Score	Penalty	Country	Name
 68	-50772758193	Germany	miss_robot
 68	-51577479252	Germany	.Adrian
 68	-51736361940	Germany	Veladus
+68	-52323054276	Germany	Unlikus
 68	-52573994904	Germany	vanHavel
+68	-52766866630	Germany	lambdapioneer
 61	-47649766708	Germany	maddin
 55	-13590391724	Germany	algomaus
 49	-19748421778	Germany	kschewior
@@ -61,7 +63,6 @@ Score	Penalty	Country	Name
 43	-45617503843	Germany	n0w0rk
 43	-46086662553	Germany	wintermute2048
 43	-48075220123	Germany	LorMam
-43	-49557717416	Germany	lambdapioneer
 43	-50497696088	Germany	debriscloud
 43	-51983710779	Germany	HammerOfThor
 42	-1412145030	Germany	Der.Baer
@@ -134,7 +135,6 @@ Score	Penalty	Country	Name
 42	-41099451368	Germany	Alnice
 42	-41153800251	Germany	jlohse
 42	-42049232178	Germany	eiv
-42	-42242180255	Germany	Unlikus
 42	-42371183932	Germany	yannic
 42	-42416244326	Germany	gasserus
 42	-42821185865	Germany	MadMax97
@@ -265,7 +265,6 @@ Score	Penalty	Country	Name
 23	-43914992098	Germany	omilus
 23	-44597685275	Germany	bendeutz
 23	-45017432622	Germany	albertjentschke@gmail.com
-23	-45017432622	Germany	albertjentschke@gmail.com
 23	-45190475873	Germany	AdamStreck
 23	-45430524130	Germany	Rocketeer
 23	-45505370989	Germany	Katarion
@@ -352,15 +351,15 @@ Score	Penalty	Country	Name
 7	-50670871285	Germany	Trung_X_Hieu
 7	-52027487108	Germany	easy2200ph
 7	-52166817366	Germany	felldom
+7	-52350433873	Germany	Nesbi
 0	0	Germany	0xCAFB
-0	0	Germany	Nesbi
 0	0	Germany	Woingenau
-0	0	Germany	hackerpschorr
-0	0	Germany	miskigolf
-0	0	Germany	oO777Oo
-0	0	Germany	owling
-0	0	Germany	svenibo
-0	0	Germany	PrøCøder
-0	0	Germany	TornaxO7
 0	0	Germany	arangra
 0	0	Germany	friebetill
+0	0	Germany	hackerpschorr
+0	0	Germany	miskigolf
+0	0	Germany	owling
+0	0	Germany	PrøCøder
+0	0	Germany	TornaxO7
+0	0	Germany	oO777Oo
+0	0	Germany	svenibo

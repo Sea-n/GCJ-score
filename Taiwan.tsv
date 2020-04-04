@@ -381,6 +381,7 @@ Score	Penalty	Country	Name
 31	-37165967563	Taiwan	WeiFromTaiwan
 31	-41845469508	Taiwan	StarCoral
 31	-41850376935	Taiwan	chnbin
+31	-52366128984	Taiwan	MorrisW
 30	-5776535626	Taiwan	hsuehmin
 30	-15117282320	Taiwan	browntoad
 30	-25952967319	Taiwan	Edwardlus
@@ -391,6 +392,7 @@ Score	Penalty	Country	Name
 30	-48410588266	Taiwan	ThunderCold
 30	-49810774990	Taiwan	Karinsu
 30	-51970157528	Taiwan	cycatz
+30	-53489746862	Taiwan	WJPei
 26	-32871372366	Taiwan	wenchih
 26	-35412232071	Taiwan	it3
 26	-49877020198	Taiwan	jim800121.chen
@@ -416,9 +418,7 @@ Score	Penalty	Country	Name
 23	-23297756745	Taiwan	danielpclin
 23	-23548121973	Taiwan	D.T.
 23	-24252466441	Taiwan	SwallowLee
-23	-24343540993	Taiwan	WJPei
 23	-24736223791	Taiwan	imshouko
-23	-25511153810	Taiwan	lyc035
 23	-25511153810	Taiwan	lyc035
 23	-25908455881	Taiwan	MiohitoKiri5474
 23	-26182908151	Taiwan	KevinHsieh
@@ -503,7 +503,7 @@ Score	Penalty	Country	Name
 12	-32400218927	Taiwan	Keer23
 12	-39221341974	Taiwan	david2832
 12	-43817015684	Taiwan	zvn2060@gmail.com
-12	-49884286076	Taiwan	MorrisW
+12	-52328068733	Taiwan	PattyHuang
 8	-45640542026	Taiwan	Ilikecode
 7	-3399515393	Taiwan	pasc931
 7	-7129937533	Taiwan	tmt514
@@ -539,7 +539,6 @@ Score	Penalty	Country	Name
 7	-39533805299	Taiwan	PeterD1524
 7	-40612278379	Taiwan	EmperorGunn
 7	-41668442254	Taiwan	Rockphy
-7	-45269665041	Taiwan	drazermega
 7	-47491090714	Taiwan	asd00012334
 7	-48121938399	Taiwan	st9540808
 7	-48151937644	Taiwan	fsh0524
@@ -549,19 +548,18 @@ Score	Penalty	Country	Name
 7	-49979875883	Taiwan	mathtsai
 7	-51133106550	Taiwan	tkain
 7	-51191910060	Taiwan	CrazyYu
-7	-51295256659	Taiwan	PattyHuang
 7	-51607160226	Taiwan	artix
 7	-52001872893	Taiwan	yp155136
 7	-52303238760	Taiwan	YH
 5	-15429974427	Taiwan	alon21034
 0	0	Taiwan	CL.
-0	0	Taiwan	Timothy_Tung
+0	0	Taiwan	NCKU
 0	0	Taiwan	Vicky_0916
 0	0	Taiwan	joric
 0	0	Taiwan	tonyli
+0	0	Taiwan	任生狂
 0	0	Taiwan	JimmyLinYA
-0	0	Taiwan	NCKU
+0	0	Taiwan	Timothy_Tung
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	enumaelish
 0	0	Taiwan	sauder
-0	0	Taiwan	任生狂
