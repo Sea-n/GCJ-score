@@ -20,8 +20,9 @@ Score	Penalty	Country	Name
 100	-61262101402	Russia	moptranzistor
 100	-62101126600	Russia	hellman
 100	-63588536642	Russia	alex.shkarin
-100	-63871065113	Russia	cookiedoth
 100	-64296127813	Russia	DmitryZ
+100	-64769130784	Russia	Kapt
+100	-65026694951	Russia	cookiedoth
 75	-40876707321	Russia	dalex
 75	-61725192601	Russia	pichuser
 75	-62274888414	Russia	evstigneevg
@@ -73,7 +74,6 @@ Score	Penalty	Country	Name
 68	-46551535130	Russia	OlegSmirnov
 68	-47151579428	Russia	Musin
 68	-47194020833	Russia	traylz
-68	-47225747159	Russia	Kapt
 68	-47368416287	Russia	Atos1337
 68	-47543774352	Russia	VulpesCorsac
 68	-47628442482	Russia	avg79
@@ -136,6 +136,7 @@ Score	Penalty	Country	Name
 68	-64339815296	Russia	sokian
 68	-64495903425	Russia	tomatho
 68	-64517845164	Russia	allisyonok
+68	-65518670025	Russia	AndreYY
 68	-66119263200	Russia	helena
 68	-66309691369	Russia	NameNamovich
 61	-37813147694	Russia	caesarsaladdressing
@@ -144,6 +145,7 @@ Score	Penalty	Country	Name
 49	-61498965385	Russia	nikolaynag
 45	-37721495719	Russia	demidenko
 43	-18680295650	Russia	Fesen
+43	-19619724243	Russia	Kogut.Ivan
 43	-19619724243	Russia	Kogut.Ivan
 43	-22779807560	Russia	Cir2100
 43	-23958082648	Russia	robozmey
@@ -455,7 +457,6 @@ Score	Penalty	Country	Name
 42	-61779300244	Russia	vekarpov00
 42	-61803076038	Russia	abccbv1338
 42	-61859882931	Russia	miron239
-42	-62036758998	Russia	AndreYY
 42	-62079276836	Russia	oxcd8o
 42	-62150639012	Russia	agulenko
 42	-62163503585	Russia	Skeef79
@@ -505,6 +506,7 @@ Score	Penalty	Country	Name
 30	-64802170962	Russia	Wizzardo
 26	-43023873121	Russia	cyga
 26	-61314182400	Russia	bsd_conqueror
+24	-32436635187	Russia	manikitos
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
 23	-4611912076	Russia	tutkarma
@@ -627,6 +629,11 @@ Score	Penalty	Country	Name
 7	-64207884619	Russia	AnthonyQuantum
 7	-64621083706	Russia	tanunia
 7	-64678974348	Russia	SergeiF
+7	-64763639693	Russia	CoffeBee
+7	-64772832779	Russia	Shady712
+7	-64773655189	Russia	lordoz
+7	-64842843685	Russia	MaryN
+0	0	Russia	BrokenTimer
 0	0	Russia	DmitriyChikanchi
 0	0	Russia	ITolm
 0	0	Russia	Ilya_Rizhenkov
@@ -634,6 +641,6 @@ Score	Penalty	Country	Name
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
+0	0	Russia	munir_
 0	0	Russia	vlad_is_love
 0	0	Russia	zts3101
-0	0	Russia	munir_
