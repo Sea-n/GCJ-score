@@ -97,6 +97,8 @@ Score	Penalty	Country	Name
 68	-5314746349	United States	porker2008
 68	-5663480361	United States	Kognition
 68	-6097790871	United States	Murphy
+68	-6431419004	United States	nkarpov
+68	-6443089392	United States	aquamongoose
 68	-6798077115	United States	bachung
 68	-6850142076	United States	Twangybeast
 68	-7056565283	United States	djkeyes
@@ -132,7 +134,6 @@ Score	Penalty	Country	Name
 68	-15681344893	United States	hunter1594
 68	-16682867935	United States	mrauen
 68	-16690440670	United States	DaniTunes
-68	-17536370470	United States	saleh99er
 68	-17536370470	United States	saleh99er
 68	-17597805621	United States	thech0sen1
 68	-17753612948	United States	qompute
@@ -788,7 +789,6 @@ Score	Penalty	Country	Name
 42	-26721415361	United States	Weiheng
 42	-26762848533	United States	andrewwu73
 42	-26766028523	United States	dinosaurs
-42	-26766028523	United States	dinosaurs
 42	-26874867400	United States	Infused
 42	-26926414571	United States	Mildew
 42	-27108948046	United States	fcq2004
@@ -1309,7 +1309,6 @@ Score	Penalty	Country	Name
 23	-21440387026	United States	Kailie
 23	-21464025826	United States	kadinzhang
 23	-21779340778	United States	goddice
-23	-21779340778	United States	goddice
 23	-22130292382	United States	j0hnwats0n
 23	-22235022909	United States	nitinankad
 23	-22238211196	United States	Clothilda
@@ -1486,6 +1485,7 @@ Score	Penalty	Country	Name
 23	-59837289682	United States	hseke
 23	-59915385268	United States	DakDak
 23	-60028272799	United States	dhiraj217
+23	-60141832009	United States	abliss
 19	-35617325109	United States	ayushaga
 19	-43265491800	United States	yuran
 19	-59557803458	United States	regnivon
@@ -1665,7 +1665,6 @@ Score	Penalty	Country	Name
 7	-9915146907	United States	joeack99
 7	-10035145206	United States	ryanho
 7	-10389880072	United States	Cavier
-7	-10433078152	United States	abliss
 7	-10458226416	United States	Keenal
 7	-10462010070	United States	matthoare013
 7	-10514603104	United States	jiosephlee
@@ -1868,6 +1867,8 @@ Score	Penalty	Country	Name
 7	-59391140133	United States	lingkunli
 7	-59424352877	United States	Connect4
 7	-59650908545	United States	MoveBrick
+7	-60101417474	United States	bottabing
+7	-60121721031	United States	ynwa_ca
 5	-10274004264	United States	SERH
 5	-13967099147	United States	camsalvinien
 5	-26811780608	United States	rubiel
@@ -1876,17 +1877,13 @@ Score	Penalty	Country	Name
 5	-51327817715	United States	KyleFley
 1	-20780618953	United States	Dishen
 0	0	United States	2096winters
-0	0	United States	AP1217
 0	0	United States	Anonymous_id24
 0	0	United States	Aranjello
 0	0	United States	Benchik
 0	0	United States	BlkStormy
 0	0	United States	BonnieS
 0	0	United States	CalebHabtegebriel
-0	0	United States	Carpiella
-0	0	United States	Cody8
 0	0	United States	Coolsteir
-0	0	United States	CrazyCoder007
 0	0	United States	Creatune
 0	0	United States	Crownless
 0	0	United States	DharmeshGuna
@@ -1894,9 +1891,7 @@ Score	Penalty	Country	Name
 0	0	United States	EZ
 0	0	United States	Ellaphant57
 0	0	United States	Francelia
-0	0	United States	Glengar
 0	0	United States	Green2020
-0	0	United States	Greystor
 0	0	United States	HeatherL
 0	0	United States	Hezz
 0	0	United States	JB.io
@@ -1909,7 +1904,6 @@ Score	Penalty	Country	Name
 0	0	United States	KennedyJohnson1996
 0	0	United States	MAHDI
 0	0	United States	Markovnikov
-0	0	United States	Mayers2003
 0	0	United States	Polavis
 0	0	United States	QuietHope
 0	0	United States	RaiyanAusaf
@@ -1922,10 +1916,8 @@ Score	Penalty	Country	Name
 0	0	United States	Sivarij
 0	0	United States	Sophia_Zhang
 0	0	United States	Sophie000
-0	0	United States	Srikar_Reddy
 0	0	United States	StellaPham
 0	0	United States	SudduK
-0	0	United States	Sxmit777
 0	0	United States	Tanngo
 0	0	United States	TheFrostyUwU
 0	0	United States	ThePebble
@@ -1935,7 +1927,6 @@ Score	Penalty	Country	Name
 0	0	United States	Yung_Gurv
 0	0	United States	ZizhengWang
 0	0	United States	ZyonB
-0	0	United States	abp
 0	0	United States	aelius999
 0	0	United States	afterburnerrrr
 0	0	United States	akcraze03
@@ -1948,8 +1939,6 @@ Score	Penalty	Country	Name
 0	0	United States	attale01
 0	0	United States	attilathekid
 0	0	United States	barthough
-0	0	United States	bl195@duke.edu
-0	0	United States	blaney83
 0	0	United States	bpblakely
 0	0	United States	brettjet
 0	0	United States	budget
@@ -1983,12 +1972,10 @@ Score	Penalty	Country	Name
 0	0	United States	josephsivits
 0	0	United States	joshuamu
 0	0	United States	jwebb1197
-0	0	United States	k77frank@gmail.com
 0	0	United States	kern
 0	0	United States	koranga
 0	0	United States	kschniedergers
 0	0	United States	lavanyavish
-0	0	United States	lee74
 0	0	United States	leo_sippy
 0	0	United States	lgyyyq13
 0	0	United States	lj_yip
@@ -1996,9 +1983,7 @@ Score	Penalty	Country	Name
 0	0	United States	maxsnyder2000
 0	0	United States	mayureshAnand
 0	0	United States	muffinpuffs
-0	0	United States	munibh
 0	0	United States	neelshah400
-0	0	United States	neha_madaram
 0	0	United States	neil58
 0	0	United States	nicklvsa
 0	0	United States	nilchil
@@ -2013,8 +1998,6 @@ Score	Penalty	Country	Name
 0	0	United States	parnian
 0	0	United States	parthonfire
 0	0	United States	patrickqrim
-0	0	United States	periwinkleid@gmail.com
-0	0	United States	pinkzephyr
 0	0	United States	pnapls
 0	0	United States	ricode
 0	0	United States	rithikbansal175@outlook.com
@@ -2022,9 +2005,7 @@ Score	Penalty	Country	Name
 0	0	United States	rpeddakama
 0	0	United States	saichnd
 0	0	United States	scorbunny
-0	0	United States	shauryashekhar
 0	0	United States	skrrtskrrt17
-0	0	United States	stuyen98
 0	0	United States	super_j6
 0	0	United States	suxrob
 0	0	United States	the_em_dawg
@@ -2037,3 +2018,23 @@ Score	Penalty	Country	Name
 0	0	United States	vedant_13
 0	0	United States	vkg815
 0	0	United States	xLany
+0	0	United States	AP1217
+0	0	United States	Carpiella
+0	0	United States	Cody8
+0	0	United States	CrazyCoder007
+0	0	United States	Glengar
+0	0	United States	Greystor
+0	0	United States	Mayers2003
+0	0	United States	Srikar_Reddy
+0	0	United States	Sxmit777
+0	0	United States	abp
+0	0	United States	bl195@duke.edu
+0	0	United States	blaney83
+0	0	United States	k77frank@gmail.com
+0	0	United States	lee74
+0	0	United States	munibh
+0	0	United States	neha_madaram
+0	0	United States	periwinkleid@gmail.com
+0	0	United States	pinkzephyr
+0	0	United States	shauryashekhar
+0	0	United States	stuyen98

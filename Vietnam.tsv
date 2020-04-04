@@ -64,6 +64,7 @@ Score	Penalty	Country	Name
 68	-57603859235	Vietnam	ITMO.heiji
 68	-59055455118	Vietnam	ndkhaivn
 68	-59816142149	Vietnam	nghuy1610
+68	-62261842112	Vietnam	zyenz123
 62	-39900753782	Vietnam	anhnguyenphung
 55	-33141160849	Vietnam	vlc234
 55	-41692166101	Vietnam	PhuongVb
@@ -77,7 +78,6 @@ Score	Penalty	Country	Name
 43	-52897501666	Vietnam	makacha
 43	-53585256199	Vietnam	vedjgnab
 43	-57361183121	Vietnam	iostream
-43	-57626705745	Vietnam	zyenz123
 42	-1676355647	Vietnam	KonaeAkira
 42	-3462440029	Vietnam	whoami
 42	-3937233132	Vietnam	HonaNguyen
@@ -141,6 +141,7 @@ Score	Penalty	Country	Name
 42	-25216700689	Vietnam	l.nhut1998
 42	-25246892344	Vietnam	Manh.Cao.1912
 42	-25325537927	Vietnam	havtt020195
+42	-25460180014	Vietnam	roberto119
 42	-25892693083	Vietnam	rin2401
 42	-26107758012	Vietnam	QUANG
 42	-26756297729	Vietnam	mbfibat
@@ -347,6 +348,8 @@ Score	Penalty	Country	Name
 23	-59410004594	Vietnam	thongbe0
 23	-59579886776	Vietnam	qbinh
 23	-59717491043	Vietnam	fm17
+23	-60107404635	Vietnam	AsLan
+23	-60128250327	Vietnam	Maruusha
 23	-60304410066	Vietnam	MinhTam
 16	-57018256803	Vietnam	CTKB1997
 12	-6687609568	Vietnam	baotong
@@ -394,16 +397,13 @@ Score	Penalty	Country	Name
 7	-55784296339	Vietnam	anhnguyendec6@gmail.com
 7	-56249319179	Vietnam	silverstudytocode
 7	-56329164233	Vietnam	Hd7
-7	-56379908308	Vietnam	Maruusha
 7	-58090779041	Vietnam	longcoder
-7	-58736801242	Vietnam	AsLan
 7	-59016213665	Vietnam	VHPro
 7	-59209002538	Vietnam	LuckyAurora
 7	-59219243596	Vietnam	huyNh
 0	0	Vietnam	AmbroseNTK
-0	0	Vietnam	Masterdee
+0	0	Vietnam	CongKemCoi
 0	0	Vietnam	Nghia99sol
-0	0	Vietnam	SOMETHING
 0	0	Vietnam	VanillaJeje
 0	0	Vietnam	VuNguyen
 0	0	Vietnam	danunu
@@ -413,7 +413,9 @@ Score	Penalty	Country	Name
 0	0	Vietnam	piketrcechillas
 0	0	Vietnam	thangnt99
 0	0	Vietnam	thanhkaiba
-0	0	Vietnam	theedonger
 0	0	Vietnam	tisu190297
-0	0	Vietnam	tructal
 0	0	Vietnam	vinhtran1995
+0	0	Vietnam	Masterdee
+0	0	Vietnam	SOMETHING
+0	0	Vietnam	theedonger
+0	0	Vietnam	tructal

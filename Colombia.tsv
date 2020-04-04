@@ -6,6 +6,7 @@ Score	Penalty	Country	Name
 74	-15730179138	Colombia	manuel30
 74	-17110688588	Colombia	Scano
 74	-29675624719	Colombia	segoto
+74	-60481286470	Colombia	GDAndres98
 68	-8702511689	Colombia	ivancastel
 68	-11985255249	Colombia	l...l
 68	-17884999362	Colombia	mavd091
@@ -58,7 +59,6 @@ Score	Penalty	Country	Name
 42	-40396881196	Colombia	mondragon596
 42	-51849372834	Colombia	kmilichus
 42	-53268271483	Colombia	ricardodps
-42	-54972811636	Colombia	GDAndres98
 42	-56801263291	Colombia	juandrengifo
 31	-14907411614	Colombia	Julti
 31	-55770539378	Colombia	JamerRq
@@ -100,6 +100,8 @@ Score	Penalty	Country	Name
 23	-57033498434	Colombia	black.gersain
 23	-57984040352	Colombia	Waised
 23	-59252975539	Colombia	egaeus
+23	-60124037863	Colombia	S7IVEN
+23	-60339754838	Colombia	DiegoAE
 19	-14625254247	Colombia	T_Crow
 16	-10220492335	Colombia	Tardigrade
 14	-21582157522	Colombia	MaximumPatronus
@@ -151,11 +153,9 @@ Score	Penalty	Country	Name
 7	-52462473796	Colombia	JohanDroid
 7	-54929184122	Colombia	AmOchoat
 7	-56337888947	Colombia	JuanPabloRN30
-7	-57261432713	Colombia	S7IVEN
 7	-57514972622	Colombia	torres
 7	-57519064048	Colombia	WolflyPolo
 7	-57665531611	Colombia	cbdavide
-7	-58225229891	Colombia	DiegoAE
 0	0	Colombia	7yrionLannister
 0	0	Colombia	AlejoWilches05
 0	0	Colombia	Dandarprox
@@ -164,9 +164,9 @@ Score	Penalty	Country	Name
 0	0	Colombia	SkinMan95
 0	0	Colombia	andeley
 0	0	Colombia	deltorosalazar
-0	0	Colombia	gallo-json
 0	0	Colombia	javillamip
-0	0	Colombia	jose4125
 0	0	Colombia	pipe86
+0	0	Colombia	gallo-json
+0	0	Colombia	jose4125
 0	0	Colombia	ragnarth
 0	0	Colombia	zofip
