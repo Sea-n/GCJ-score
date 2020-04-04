@@ -95,6 +95,7 @@ Score	Penalty	Country	Name
 68	-55849187405	Russia	RuslanGatin
 68	-55892652238	Russia	MCPN
 68	-56154524220	Russia	Ignat
+68	-56389314898	Russia	hyperchair
 68	-56499974108	Russia	andrejj
 68	-57371919904	Russia	s20b1Kirka
 68	-57499164913	Russia	sergeykozub
@@ -135,7 +136,6 @@ Score	Penalty	Country	Name
 42	-6105484618	Russia	YOBA
 42	-7077063232	Russia	art87able
 42	-7249375107	Russia	it4kp
-42	-7985877291	Russia	hyperchair
 42	-9211539634	Russia	lostinlogfile
 42	-9314205493	Russia	sievra
 42	-9432019090	Russia	ellisy
@@ -380,6 +380,9 @@ Score	Penalty	Country	Name
 42	-56150260247	Russia	krukovna
 42	-56276900865	Russia	fourteenflames
 42	-56301552929	Russia	Hackerham
+42	-56374180352	Russia	353cerega
+42	-56378929522	Russia	pavlekn
+42	-56413304641	Russia	Icemore
 39	-54126983341	Russia	mamenko
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -398,7 +401,6 @@ Score	Penalty	Country	Name
 30	-54185288972	Russia	smnikita
 30	-56880827008	Russia	TRR53
 26	-43023873121	Russia	cyga
-26	-47015970180	Russia	dzheglov
 26	-56241565060	Russia	nikolaynag
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
@@ -471,14 +473,11 @@ Score	Penalty	Country	Name
 23	-55182927847	Russia	crystalEsser
 23	-55206002724	Russia	vladvlad
 23	-55233827107	Russia	oxcd8o
-23	-55314954934	Russia	Icemore
 23	-55338798344	Russia	BezginaIrina
 23	-55338861072	Russia	abccbv1338
 23	-55404551941	Russia	iakolzin
 23	-55509923393	Russia	adanil
 23	-55614734243	Russia	IgorSmirnov
-23	-55636922804	Russia	353cerega
-23	-55712516040	Russia	pavlekn
 23	-55847020687	Russia	Prostoegor
 23	-55868468612	Russia	rmnnsk
 23	-56134669697	Russia	Kurpilyansky
@@ -519,6 +518,7 @@ Score	Penalty	Country	Name
 7	-51212299314	Russia	kofmanya
 7	-51544165142	Russia	bsd_conqueror
 7	-51872853234	Russia	aid_74
+7	-51872853234	Russia	aid_74
 7	-52569943611	Russia	ambisinistra
 7	-53620515957	Russia	timav566
 7	-53624815779	Russia	pereb4ik
@@ -539,15 +539,14 @@ Score	Penalty	Country	Name
 7	-56276480013	Russia	Endagorion
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Juwbasaurus
-0	0	Russia	Locab
 0	0	Russia	MellowYellow
-0	0	Russia	O_oxana
 0	0	Russia	Romansp
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
-0	0	Russia	mspitb
 0	0	Russia	munir_
 0	0	Russia	ngh7mr3
+0	0	Russia	Locab
+0	0	Russia	O_oxana
+0	0	Russia	mspitb
 0	0	Russia	vlad_is_love
-0	0	Russia	zts3101
