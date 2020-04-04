@@ -55,6 +55,7 @@ Score	Penalty	Country	Name
 68	-45334523757	Russia	Um_nik
 68	-45950531025	Russia	Volkov_Ivan
 68	-46133337262	Russia	StarCuriosity
+68	-46551535130	Russia	OlegSmirnov
 68	-46993303839	Russia	avg79
 68	-47151579428	Russia	Musin
 68	-47194020833	Russia	traylz
@@ -62,6 +63,7 @@ Score	Penalty	Country	Name
 68	-47839365350	Russia	clown_rusofob
 61	-37813147694	Russia	caesarsaladdressing
 49	-43328750136	Russia	ivankff
+49	-46783991504	Russia	Jeannette
 45	-37721495719	Russia	demidenko
 43	-18680295650	Russia	Fesen
 43	-19619724243	Russia	Kogut.Ivan
@@ -72,6 +74,7 @@ Score	Penalty	Country	Name
 43	-41869723925	Russia	s20b1Kirka
 43	-43251998320	Russia	helena
 43	-45266960199	Russia	Arut
+43	-51649344434	Russia	andrejj
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -82,7 +85,6 @@ Score	Penalty	Country	Name
 42	-2398436052	Russia	legendtoday
 42	-2818331936	Russia	Tibik
 42	-2966453926	Russia	reshke
-42	-3048577622	Russia	covid19
 42	-3123989462	Russia	sizzziy
 42	-3147246304	Russia	smirok
 42	-3539853678	Russia	yhn112
@@ -178,7 +180,6 @@ Score	Penalty	Country	Name
 42	-37863210066	Russia	tirlimster
 42	-37890033806	Russia	radmarale
 42	-37922893971	Russia	Denisson
-42	-37943032879	Russia	andrejj
 42	-38025873012	Russia	LinesPrower
 42	-38130862410	Russia	MCPN
 42	-38196634471	Russia	Mboker0109
@@ -214,7 +215,6 @@ Score	Penalty	Country	Name
 42	-42064099086	Russia	fetetriste
 42	-42114957689	Russia	KalininN
 42	-42181226471	Russia	MapLegend
-42	-42214743897	Russia	OlegSmirnov
 42	-42231450756	Russia	divanik
 42	-42391441111	Russia	dkulikova
 42	-42407934807	Russia	RAF96
@@ -281,7 +281,6 @@ Score	Penalty	Country	Name
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
 24	-45526067618	Russia	yulik.daniel
-24	-46047220292	Russia	Jeannette
 23	-4611912076	Russia	tutkarma
 23	-5192007049	Russia	kisel_dmitry
 23	-6472307381	Russia	cdkrot
@@ -341,6 +340,7 @@ Score	Penalty	Country	Name
 23	-46174941915	Russia	ZhukovDmitry
 23	-46281964159	Russia	0442A403
 23	-46482001635	Russia	superkirill
+23	-46545460180	Russia	Protasov
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 16	-45849261976	Russia	BelikovDmitry
@@ -372,7 +372,6 @@ Score	Penalty	Country	Name
 7	-41994994397	Russia	La_Peste
 7	-42615122396	Russia	buldo
 7	-42677603734	Russia	schegolev
-7	-42819231257	Russia	Protasov
 7	-42861619645	Russia	Gogen120
 7	-43141856656	Russia	vmark
 7	-43163528387	Russia	Gadzhiev
@@ -397,15 +396,18 @@ Score	Penalty	Country	Name
 7	-46403646133	Russia	Jonick
 7	-46495115051	Russia	Valentin_E
 7	-46504909975	Russia	TrueAstralpirate
+7	-46538631705	Russia	drozhkov
+7	-46555173067	Russia	superSlippery
+7	-46569642229	Russia	po23111
 7	-46729444502	Russia	sumkincpp
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	ambisinistra
-0	0	Russia	bsd_conqueror
-0	0	Russia	garipovii
-0	0	Russia	munir_
-0	0	Russia	sled
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
 0	0	Russia	Tatyana_611_r
+0	0	Russia	ambisinistra
+0	0	Russia	bsd_conqueror
+0	0	Russia	garipovii
 0	0	Russia	mamenko
 0	0	Russia	mspitb
+0	0	Russia	munir_
+0	0	Russia	sled
