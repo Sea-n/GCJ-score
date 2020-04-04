@@ -202,7 +202,6 @@ Score	Penalty	Country	Name
 43	-22958862006	Japan	wakuwinmail
 43	-23470338951	Japan	dakura
 43	-24071402751	Japan	escgreen
-43	-24071402751	Japan	escgreen
 43	-24372950290	Japan	kzyKT
 43	-26393032454	Japan	yh1224
 43	-26947070061	Japan	kichi2004
@@ -780,6 +779,7 @@ Score	Penalty	Country	Name
 42	-46303956351	Japan	Tomarky
 42	-46307314394	Japan	proribone
 42	-46318908974	Japan	cplusplusonly
+42	-46405505726	Japan	runom
 42	-46430014594	Japan	koujm
 42	-46500696021	Japan	hachian
 42	-47051544349	Japan	komugi
@@ -891,6 +891,7 @@ Score	Penalty	Country	Name
 23	-35694304508	Japan	TechiHikki
 23	-35784065004	Japan	yuki1216
 23	-36339043450	Japan	kilattoeruru
+23	-36567593161	Japan	eomole
 23	-36661982758	Japan	wrist
 23	-36686215458	Japan	btk
 23	-36835885762	Japan	y16a
@@ -924,7 +925,6 @@ Score	Penalty	Country	Name
 23	-44373865415	Japan	Rubikun
 23	-44770232669	Japan	FairyHack
 23	-44948992752	Japan	vzvu3k6k
-23	-45220383076	Japan	runom
 23	-45271603033	Japan	1E60
 23	-45436360216	Japan	KKT89
 23	-45437056376	Japan	minarin0179
@@ -937,6 +937,7 @@ Score	Penalty	Country	Name
 23	-45913166113	Japan	Grenache
 23	-46244649767	Japan	AmiWrong
 23	-46343834745	Japan	reud
+23	-46431578456	Japan	yutaka1999
 23	-46856845218	Japan	toriroro
 16	-5344012579	Japan	Nori
 16	-22982856357	Japan	noribentooooooh
@@ -950,7 +951,6 @@ Score	Penalty	Country	Name
 12	-33637675233	Japan	masa6372
 12	-34918903963	Japan	musaprg
 12	-35249116338	Japan	toto6114
-12	-36027700960	Japan	101001
 12	-36027700960	Japan	101001
 12	-37787984982	Japan	FSM
 12	-38528751935	Japan	indigolain
@@ -974,6 +974,7 @@ Score	Penalty	Country	Name
 7	-28277951496	Japan	Sadaaki
 7	-29820932755	Japan	sandy2008
 7	-29877989857	Japan	ak_chen
+7	-30252456198	Japan	Roooa
 7	-30252456198	Japan	Roooa
 7	-30462173994	Japan	kohbanye
 7	-32643402301	Japan	ziroppe
@@ -1000,13 +1001,10 @@ Score	Penalty	Country	Name
 7	-44468176673	Japan	touyu
 7	-45183851743	Japan	rk912
 7	-45991164493	Japan	canometal
-7	-46085139208	Japan	yutaka1999
 7	-46108089830	Japan	developmaso
 7	-46175100974	Japan	Ryosuke839
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
-5	-45830413004	Japan	akagisefu
-0	0	Japan	Nulkana
 0	0	Japan	Nulkana
 0	0	Japan	Rute_
 0	0	Japan	aki_bayes
@@ -1015,7 +1013,7 @@ Score	Penalty	Country	Name
 0	0	Japan	kinokokaeru
 0	0	Japan	nicolen
 0	0	Japan	purucat
-0	0	Japan	rikupin1105
-0	0	Japan	shukob
 0	0	Japan	sionyan
 0	0	Japan	zezero
+0	0	Japan	rikupin1105
+0	0	Japan	shukob
