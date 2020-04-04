@@ -348,6 +348,7 @@ Score	Penalty	Country	Name
 16	-45849261976	Russia	BelikovDmitry
 12	-32071721332	Russia	letsolum
 12	-45548382857	Russia	asdasda
+12	-46874307612	Russia	kirilldenisov
 7	-870457384	Russia	Romanchenko
 7	-2382733077	Russia	RiaD
 7	-4116303058	Russia	Gassa
@@ -368,6 +369,7 @@ Score	Penalty	Country	Name
 7	-39388686124	Russia	ivan.a.bovin
 7	-39549251451	Russia	adev
 7	-40375334765	Russia	korolaab
+7	-40375334765	Russia	korolaab
 7	-41621428018	Russia	Hypik
 7	-41848229130	Russia	adanil
 7	-41994994397	Russia	La_Peste
@@ -383,7 +385,6 @@ Score	Penalty	Country	Name
 7	-44504598036	Russia	coderofblaviken
 7	-44951953046	Russia	Threeteck
 7	-45094401951	Russia	lozhkarev
-7	-45326022797	Russia	kirilldenisov
 7	-45403200383	Russia	Artklyachin
 7	-45875509678	Russia	DanielNash
 7	-45953793896	Russia	ivankun
@@ -405,15 +406,16 @@ Score	Penalty	Country	Name
 7	-46729444502	Russia	sumkincpp
 7	-46783552506	Russia	Aleksandra9
 7	-46827618110	Russia	klykov
+7	-46901171013	Russia	danilserov
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	MellowYellow
-0	0	Russia	O_oxana
 0	0	Russia	Tatyana_611_r
 0	0	Russia	ambisinistra
-0	0	Russia	bsd_conqueror
 0	0	Russia	garipovii
-0	0	Russia	mamenko
 0	0	Russia	mspitb
 0	0	Russia	munir_
 0	0	Russia	sled
 0	0	Russia	vlad_is_love
+0	0	Russia	MellowYellow
+0	0	Russia	O_oxana
+0	0	Russia	bsd_conqueror
+0	0	Russia	mamenko
