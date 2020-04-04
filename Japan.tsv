@@ -341,7 +341,6 @@ Score	Penalty	Country	Name
 42	-11253064730	Japan	OKCH3COOH
 42	-11291505712	Japan	4eta
 42	-11478875002	Japan	nu50218
-42	-11478875002	Japan	nu50218
 42	-11554847617	Japan	eye.engine
 42	-11736185368	Japan	tsuburin
 42	-11814279651	Japan	siumai
@@ -601,6 +600,7 @@ Score	Penalty	Country	Name
 42	-30367217555	Japan	jyesr
 42	-30564472641	Japan	TumoiYorozu
 42	-30642565173	Japan	y-meguro
+42	-30656186926	Japan	stdll
 42	-30891849297	Japan	maaronG
 42	-30982250731	Japan	ngtkana
 42	-31028533007	Japan	hamath
@@ -897,6 +897,7 @@ Score	Penalty	Country	Name
 42	-61149249446	Japan	div_0x00
 42	-61281150636	Japan	akagisefu
 42	-61313706456	Japan	ransewhale
+42	-61363619412	Japan	tochi
 42	-61666147925	Japan	toriroro
 42	-61690866231	Japan	r.9981
 42	-61703312430	Japan	nolasuz
@@ -1009,7 +1010,6 @@ Score	Penalty	Country	Name
 23	-41491807539	Japan	b_moll
 23	-41878538039	Japan	msgwr
 23	-42684049835	Japan	nepudding
-23	-42684049835	Japan	nepudding
 23	-43890408511	Japan	tempfeil
 23	-44025748480	Japan	Kuraot
 23	-44770232669	Japan	FairyHack
@@ -1042,7 +1042,6 @@ Score	Penalty	Country	Name
 23	-58178384253	Japan	champon
 23	-58226551748	Japan	tttkm
 23	-58324789572	Japan	tetsuma
-23	-58416056170	Japan	tochi
 23	-58465989778	Japan	naho
 23	-58538788770	Japan	ktateish
 23	-58764083484	Japan	xeno14
@@ -1080,6 +1079,7 @@ Score	Penalty	Country	Name
 12	-37787984982	Japan	FSM
 7	-9336878127	Japan	torajiro
 7	-12735303908	Japan	daisyo
+7	-13881393982	Japan	theguy7694
 7	-17226495523	Japan	tyutat
 7	-18769627812	Japan	wolframotoya
 7	-19162317894	Japan	sica0a0
@@ -1123,21 +1123,21 @@ Score	Penalty	Country	Name
 5	-35831969763	Japan	homucatful
 0	0	Japan	ArtifactSauce
 0	0	Japan	KazuYamagiwa
-0	0	Japan	Rute_
-0	0	Japan	aki_bayes
-0	0	Japan	kinokokaeru
-0	0	Japan	lamorak
-0	0	Japan	nicolen
-0	0	Japan	rikupin1105
-0	0	Japan	tarakotarao
 0	0	Japan	Ktya
+0	0	Japan	Rute_
 0	0	Japan	Sampeipei
 0	0	Japan	Sango358
+0	0	Japan	aki_bayes
 0	0	Japan	cossy
 0	0	Japan	donuthole
 0	0	Japan	fashioncrazy66
 0	0	Japan	kei0000
+0	0	Japan	kinokokaeru
+0	0	Japan	lamorak
+0	0	Japan	nicolen
 0	0	Japan	raspi0124
 0	0	Japan	rikupin1105
+0	0	Japan	sableyka
 0	0	Japan	shukob
+0	0	Japan	tarakotarao
 0	0	Japan	zezero
