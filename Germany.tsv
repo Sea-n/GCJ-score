@@ -175,6 +175,7 @@ Score	Penalty	Country	Name
 23	-38941217057	Germany	Jarkob
 23	-39079674877	Germany	Wurzeltroll
 23	-39198062663	Germany	JSNO
+23	-39283672305	Germany	Veladus
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-38278303435	Germany	MadMax97
@@ -206,7 +207,6 @@ Score	Penalty	Country	Name
 7	-38462325813	Germany	leobalduf
 7	-38476831053	Germany	jgroe
 7	-38556879099	Germany	Spacetoaster
-7	-38637959963	Germany	Veladus
 7	-38702221384	Germany	berndboh
 7	-38756803002	Germany	annoraaq
 7	-38779798416	Germany	abaspinar
@@ -214,7 +214,9 @@ Score	Penalty	Country	Name
 7	-38891839469	Germany	Structor
 7	-39083329850	Germany	TimTimolia
 7	-39162223476	Germany	h1k3r
-0	0	Germany	Rocketeer
+7	-39233387228	Germany	Rocketeer
+7	-39276419829	Germany	risteon
+0	0	Germany	svenibo
 0	0	Germany	Thundertron
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
@@ -222,5 +224,4 @@ Score	Penalty	Country	Name
 0	0	Germany	friebetill
 0	0	Germany	iloraC28
 0	0	Germany	leiftw
-0	0	Germany	svenibo
 0	0	Germany	yannic
