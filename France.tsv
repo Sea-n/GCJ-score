@@ -23,6 +23,7 @@ Score	Penalty	Country	Name
 43	-35499401178	France	Blanuis
 43	-36622792387	France	treziac
 43	-37727686619	France	BrunoT
+43	-38607860074	France	QuentinBlampey
 42	-977047005	France	Tahkare
 42	-1842985261	France	Hemitheconyx
 42	-2020420151	France	SalimAboubacar
@@ -75,7 +76,6 @@ Score	Penalty	Country	Name
 42	-33066980824	France	Thomash
 42	-33316124633	France	gdrtf
 42	-33601205977	France	julyen
-42	-33679591079	France	QuentinBlampey
 42	-33718066344	France	astrid
 42	-33735971337	France	lil_meyer
 42	-34459301408	France	ju²
@@ -209,6 +209,7 @@ Score	Penalty	Country	Name
 23	-38238295524	France	alicedub
 23	-38392724876	France	Hboni
 23	-38467019539	France	Rubilmax
+23	-38487648876	France	neomas
 16	-21240143956	France	mnaji
 12	-3016417898	France	antoineroux
 12	-11595584768	France	ayshiff
@@ -247,7 +248,6 @@ Score	Penalty	Country	Name
 7	-37181334366	France	HlibMykhailenko
 7	-37182850616	France	Vinz8
 7	-37191060288	France	brospi
-7	-37451048412	France	neomas
 7	-37463363759	France	ro_obot
 7	-37561187888	France	sewingmachine
 7	-37564045249	France	Olmin
@@ -266,15 +266,13 @@ Score	Penalty	Country	Name
 7	-38183765641	France	SimonD
 7	-38267559685	France	archimist
 5	-37838570501	France	proftechnolblanc
-0	0	France	ElFabino
 0	0	France	ArthurMR
-0	0	France	Benskalz
 0	0	France	Colios13
 0	0	France	DorianNogneng
+0	0	France	ElFabino
 0	0	France	ErwanBn
 0	0	France	LightSn0w
 0	0	France	Loic
-0	0	France	NawfelT
 0	0	France	Oupo
 0	0	France	Stephane_Mouawad
 0	0	France	Yagi-san
@@ -283,3 +281,5 @@ Score	Penalty	Country	Name
 0	0	France	cholaknight
 0	0	France	fab.alchemy
 0	0	France	paul.cibier@gmail.com
+0	0	France	Benskalz
+0	0	France	NawfelT
