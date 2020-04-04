@@ -289,6 +289,7 @@ Score	Penalty	Country	Name
 42	-37146791221	Taiwan	happyx94@gmail.com
 42	-37679355874	Taiwan	jd3
 42	-37943990186	Taiwan	geniusjazz@gmail.com
+42	-39075726602	Taiwan	asas1asas200
 35	-10790768372	Taiwan	n_dao107
 35	-11497219513	Taiwan	utaha
 35	-12288573731	Taiwan	RayWang
@@ -322,11 +323,9 @@ Score	Penalty	Country	Name
 23	-1201981297	Taiwan	betaveros
 23	-4066659574	Taiwan	ThunderCold
 23	-7030038603	Taiwan	Shih
-23	-7510911019	Taiwan	asas1asas200
 23	-7536801181	Taiwan	easyaries
 23	-8338692845	Taiwan	ChangRon
 23	-8549969845	Taiwan	Brian_Lin
-23	-10848384112	Taiwan	KKCWind
 23	-10848384112	Taiwan	KKCWind
 23	-11982213732	Taiwan	IcecreamMaster
 23	-12882814790	Taiwan	ericchiu
@@ -374,7 +373,6 @@ Score	Penalty	Country	Name
 23	-32150329516	Taiwan	JanetLi
 23	-32256557211	Taiwan	Jack_shin_shin
 23	-32412433802	Taiwan	Wen_Yuan
-23	-32440801873	Taiwan	t1016d
 23	-32447757646	Taiwan	YangYangisYou
 23	-32669436117	Taiwan	twweeb
 23	-32843870522	Taiwan	SUNGOD
@@ -475,7 +473,9 @@ Score	Penalty	Country	Name
 7	-38024567272	Taiwan	amoshyc
 7	-38350112751	Taiwan	Archie0129
 5	-15429974427	Taiwan	alon21034
+0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
+0	0	Taiwan	NCKU
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
 0	0	Taiwan	enumaelish
@@ -483,5 +483,3 @@ Score	Penalty	Country	Name
 0	0	Taiwan	tkuo
 0	0	Taiwan	tonyli
 0	0	Taiwan	任生狂
-0	0	Taiwan	CL.
-0	0	Taiwan	NCKU
