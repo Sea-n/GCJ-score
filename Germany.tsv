@@ -84,7 +84,6 @@ Score	Penalty	Country	Name
 42	-35779239319	Germany	Nickname2
 42	-35882420778	Germany	mrMoe
 42	-35958237647	Germany	felixd
-42	-35958237647	Germany	felixd
 42	-36142161543	Germany	laugengebaeck
 42	-36548986435	Germany	bromanz
 42	-37026111930	Germany	rkleberhoff
@@ -123,6 +122,7 @@ Score	Penalty	Country	Name
 42	-41078553823	Germany	tobiwan
 42	-41099451368	Germany	Alnice
 42	-41153800251	Germany	jlohse
+42	-41388660144	Germany	lambdapioneer
 35	-40332107953	Germany	MadMax97
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
@@ -178,7 +178,6 @@ Score	Penalty	Country	Name
 23	-38129630467	Germany	toasty
 23	-38422156214	Germany	taschi
 23	-38485114615	Germany	Kurisu858
-23	-38561089768	Germany	lambdapioneer
 23	-38797764236	Germany	Geser
 23	-38941217057	Germany	Jarkob
 23	-39079674877	Germany	Wurzeltroll
@@ -192,10 +191,12 @@ Score	Penalty	Country	Name
 23	-40400656504	Germany	Fettn
 23	-40644195923	Germany	DavidS
 23	-41022283681	Germany	prmatl
+23	-41182564556	Germany	niktech
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
+16	-41173992880	Germany	Apfeloxid
 12	-37788812071	Germany	peli
-7	-3694352955	Germany	romax
+12	-41180781779	Germany	romax
 7	-8611874358	Germany	ashray_adhikari
 7	-22150836243	Germany	ar_bt
 7	-29952061991	Germany	MarBolCode
@@ -230,7 +231,6 @@ Score	Penalty	Country	Name
 7	-39979779006	Germany	eiv
 7	-40079438190	Germany	HammerOfThor
 7	-40095486787	Germany	mherzberg
-7	-40115211934	Germany	niktech
 7	-40141111466	Germany	ExtendedBNF
 7	-40148227427	Germany	Kuck
 7	-40314761492	Germany	stema
@@ -242,14 +242,14 @@ Score	Penalty	Country	Name
 7	-40887969995	Germany	viso
 7	-40897791498	Germany	ture
 7	-41080147633	Germany	Luxa
-0	0	Germany	albertjentschke@gmail.com
-0	0	Germany	svenibo
 0	0	Germany	Mobo
 0	0	Germany	Spherelix
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
+0	0	Germany	albertjentschke@gmail.com
 0	0	Germany	cadac
 0	0	Germany	friebetill
 0	0	Germany	iloraC28
 0	0	Germany	kechtel
 0	0	Germany	leiftw
+0	0	Germany	svenibo
