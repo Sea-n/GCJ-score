@@ -14,7 +14,7 @@ Score	Penalty	Country	Name
 100	-55603300077	Germany	DrNochi
 100	-58181021162	Germany	vanHavel
 100	-60904284769	Germany	sjvie
-100	-61086044965	Germany	0x544C
+100	-61526875881	Germany	0x544C
 74	-16188514368	Germany	m.mahdi2414
 74	-48947918040	Germany	RezaSi
 74	-54166579152	Germany	algomaus
@@ -66,6 +66,8 @@ Score	Penalty	Country	Name
 68	-58898419406	Germany	wintermute2048
 68	-60283532619	Germany	luisf
 68	-60841870810	Germany	davidKonka
+68	-61103193036	Germany	JdPL
+68	-61847743663	Germany	QBits
 62	-54579145639	Germany	lasse
 61	-47649766708	Germany	maddin
 56	-61446627480	Germany	berndboh
@@ -101,12 +103,12 @@ Score	Penalty	Country	Name
 42	-3006865511	Germany	ende76
 42	-3171143771	Germany	ReactiveMan
 42	-4090878592	Germany	snuyanzin
+42	-6143063967	Germany	janina
 42	-6858389837	Germany	thejonny
 42	-7814674871	Germany	jonasd
 42	-8066952988	Germany	DFrese
 42	-9049588100	Germany	The_K
 42	-9583181265	Germany	Lukas2009
-42	-12308296291	Germany	JdPL
 42	-12756555751	Germany	H1M
 42	-18088700635	Germany	Illiou
 42	-18399212773	Germany	ggerrit
@@ -125,7 +127,6 @@ Score	Penalty	Country	Name
 42	-34078472009	Germany	xyxy98
 42	-34126534468	Germany	Nielss
 42	-34177995508	Germany	DonutsShouldNotHaveFillings
-42	-34352053232	Germany	QBits
 42	-35014533495	Germany	Daniello2000
 42	-35280067576	Germany	L4to
 42	-35779239319	Germany	Nickname2
@@ -264,6 +265,7 @@ Score	Penalty	Country	Name
 42	-60632667655	Germany	ctrlw
 42	-61177921477	Germany	SeeSoftware
 42	-61192950760	Germany	kechtel
+42	-61575713571	Germany	raphinesse
 42	-62014247783	Germany	Sven0311
 42	-62038213998	Germany	omilus
 42	-63524552151	Germany	schweizerm
@@ -323,7 +325,6 @@ Score	Penalty	Country	Name
 23	-47578712780	Germany	nixs
 23	-48168056348	Germany	jano31415
 23	-50134342186	Germany	MrTeX
-23	-50142371779	Germany	raphinesse
 23	-50336503788	Germany	LordBinäreceon
 23	-50761463666	Germany	mmuesly
 23	-51226772415	Germany	devng
@@ -364,6 +365,7 @@ Score	Penalty	Country	Name
 23	-60661017397	Germany	MichaelCodeChampion
 23	-60702679693	Germany	wwjj
 23	-60841456596	Germany	Scanceaparas
+23	-61154136466	Germany	Aefaef
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-45211618878	Germany	NateMate
@@ -379,7 +381,6 @@ Score	Penalty	Country	Name
 7	-35696789595	Germany	Kurtme
 7	-42169748410	Germany	VSanthosh
 7	-42482786741	Germany	Elyasin
-7	-43299244503	Germany	Aefaef
 7	-45170724463	Germany	lenahartmann00
 7	-46688405579	Germany	antonios
 7	-46907238787	Germany	ostrich
@@ -420,3 +421,4 @@ Score	Penalty	Country	Name
 0	0	Germany	starzhinkus
 0	0	Germany	svenibo
 0	0	Germany	tete7777
+0	0	Germany	vgauzzi
