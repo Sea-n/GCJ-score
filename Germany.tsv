@@ -25,6 +25,7 @@ Score	Penalty	Country	Name
 68	-41472413472	Germany	DrNochi
 68	-41741316862	Germany	tob123
 68	-42267911418	Germany	Loak
+68	-42495139438	Germany	rkleberhoff
 61	-18010727605	Germany	maddin
 55	-13590391724	Germany	algomaus
 49	-19748421778	Germany	kschewior
@@ -86,7 +87,6 @@ Score	Penalty	Country	Name
 42	-35958237647	Germany	felixd
 42	-36142161543	Germany	laugengebaeck
 42	-36548986435	Germany	bromanz
-42	-37026111930	Germany	rkleberhoff
 42	-37083416783	Germany	KarlSt
 42	-37296547970	Germany	0x544C
 42	-37546572638	Germany	daniel.werner
@@ -188,7 +188,6 @@ Score	Penalty	Country	Name
 23	-39198062663	Germany	JSNO
 23	-39662237278	Germany	brunken
 23	-39787606284	Germany	Artemis-Skade
-23	-39787606284	Germany	Artemis-Skade
 23	-39945752300	Germany	annoraaq
 23	-39945812208	Germany	berndboh
 23	-40644195923	Germany	DavidS
@@ -211,6 +210,8 @@ Score	Penalty	Country	Name
 23	-42269144087	Germany	NaN
 23	-42291635514	Germany	peli
 23	-42456791411	Germany	Urinstinkt
+23	-42525332010	Germany	risteon
+23	-42567665467	Germany	ture
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-41173992880	Germany	Apfeloxid
@@ -235,7 +236,6 @@ Score	Penalty	Country	Name
 7	-37629074610	Germany	debriscloud
 7	-38056670231	Germany	bavarianquant
 7	-39233387228	Germany	Rocketeer
-7	-39276419829	Germany	risteon
 7	-39463830854	Germany	momapf
 7	-39773426233	Germany	Thundertron
 7	-39949447373	Germany	twuebi
@@ -261,14 +261,14 @@ Score	Penalty	Country	Name
 7	-42473178123	Germany	elle_elena
 7	-42482786741	Germany	Elyasin
 5	-42263654453	Germany	omilus
-0	0	Germany	Sven0311
 0	0	Germany	Mobo
+0	0	Germany	leiftw
+0	0	Germany	Sven0311
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	cadac
 0	0	Germany	fafl
 0	0	Germany	friebetill
 0	0	Germany	iloraC28
-0	0	Germany	leiftw
 0	0	Germany	marschallsteffen@gmail.com
 0	0	Germany	svenibo
