@@ -3,7 +3,7 @@ cd "`dirname $0`"
 
 rm score-*.json
 
-for r in `seq 1 200 20000`; do
+for r in `seq 1 200 40000`; do
 	p="`echo -n '{"min_rank":'$r',"num_consecutive_users":200}' |base64 |tr -d =`"
 	url="https://codejam.googleapis.com/scoreboard/000000000019fd27/poll?p=$p"
 
