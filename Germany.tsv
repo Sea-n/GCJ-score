@@ -29,6 +29,7 @@ Score	Penalty	Country	Name
 42	-3006865511	Germany	ende76
 42	-3171143771	Germany	ReactiveMan
 42	-3691224611	Germany	1b15
+42	-3691224611	Germany	1b15
 42	-4090878592	Germany	snuyanzin
 42	-5175256968	Germany	wintermute2048
 42	-6143063967	Germany	janina
@@ -80,6 +81,7 @@ Score	Penalty	Country	Name
 42	-35779239319	Germany	Nickname2
 42	-35882420778	Germany	mrMoe
 42	-35958237647	Germany	felixd
+42	-36142161543	Germany	laugengebaeck
 31	-16121260545	Germany	ans82
 31	-31247734242	Germany	mohammad71
 30	-15333479241	Germany	drwu
@@ -107,7 +109,6 @@ Score	Penalty	Country	Name
 23	-31246953401	Germany	schlauergerd
 23	-31260983743	Germany	tobiwan
 23	-31279281116	Germany	hello_code_jam
-23	-32290803981	Germany	Neonag
 23	-32575130653	Germany	0x4x3lt3
 23	-32795051092	Germany	Aran
 23	-32957910552	Germany	Technipion
@@ -115,11 +116,9 @@ Score	Penalty	Country	Name
 23	-33535981995	Germany	D0miH
 23	-33598165847	Germany	Andgem
 23	-33773045227	Germany	unreal_like_x
-23	-33773045227	Germany	unreal_like_x
 23	-33865071123	Germany	sebp
 23	-34098431721	Germany	nanoalpaca
 23	-34098791773	Germany	rkleberhoff
-23	-34328350829	Germany	laugengebaeck
 23	-34735811385	Germany	Stefan_
 23	-34816547052	Germany	JonasS
 23	-34887483825	Germany	element314
@@ -137,6 +136,7 @@ Score	Penalty	Country	Name
 23	-35842642960	Germany	aweltsch
 23	-36025359981	Germany	Norbi42
 23	-36073920433	Germany	KarlSt
+23	-36168674237	Germany	schweizerm
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 12	-35682173175	Germany	Tomsi
@@ -158,7 +158,6 @@ Score	Penalty	Country	Name
 7	-33116153650	Germany	MCoder
 7	-33671791149	Germany	Alnice
 7	-33925201724	Germany	romanovma.pookl@gmail.com
-7	-34269757887	Germany	schweizerm
 7	-34315469803	Germany	luftfest
 7	-34330033616	Germany	gasserus
 7	-34649738218	Germany	Wonko
@@ -176,7 +175,8 @@ Score	Penalty	Country	Name
 7	-35800575381	Germany	ilya_maier
 7	-35935134236	Germany	c3b2a1
 7	-35948792428	Germany	Navid_far
+7	-36183257766	Germany	Gorkem
+0	0	Germany	Bugmaker
 0	0	Germany	Geser
 0	0	Germany	bendeutz
 0	0	Germany	leiftw
-0	0	Germany	Bugmaker
