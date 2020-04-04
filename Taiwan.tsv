@@ -362,6 +362,7 @@ Score	Penalty	Country	Name
 23	-28461353573	Taiwan	zkjasoncheng
 23	-28755333029	Taiwan	LittleHare
 23	-28888148006	Taiwan	XDevil
+23	-28888148006	Taiwan	XDevil
 23	-28936025658	Taiwan	SecondX
 23	-28989107798	Taiwan	helenokos
 23	-30183368258	Taiwan	jeeeerrrpop
@@ -369,7 +370,6 @@ Score	Penalty	Country	Name
 23	-30515681993	Taiwan	terryhung28
 23	-31221336685	Taiwan	wwaraceli
 23	-31505878029	Taiwan	Skychaser_Lee
-23	-31863655998	Taiwan	MagicBear
 23	-32150329516	Taiwan	JanetLi
 23	-32256557211	Taiwan	Jack_shin_shin
 23	-32412433802	Taiwan	Wen_Yuan
@@ -400,6 +400,7 @@ Score	Penalty	Country	Name
 23	-37866233115	Taiwan	lost.lamb
 23	-38150027328	Taiwan	stdio2019
 23	-38203498390	Taiwan	YoEugeneHsu
+23	-38543343239	Taiwan	vehemency
 16	-6013659217	Taiwan	JimmyChiu
 16	-16112084208	Taiwan	XxBNOxX
 16	-36876494678	Taiwan	Kiyom99
@@ -407,7 +408,6 @@ Score	Penalty	Country	Name
 12	-16289811543	Taiwan	Rikurai
 12	-23377209486	Taiwan	阿賢
 12	-25602613133	Taiwan	SafiJ
-12	-29010749307	Taiwan	P.Keng
 12	-30366228821	Taiwan	StarCoral
 12	-31254892018	Taiwan	Ricky1121
 12	-32400218927	Taiwan	Keer23
@@ -418,12 +418,14 @@ Score	Penalty	Country	Name
 7	-8857091477	Taiwan	lenchen1112
 7	-11759949458	Taiwan	Flash_theCoder
 7	-11844835614	Taiwan	tobygameac.tw
+7	-13066478561	Taiwan	LudenShark
 7	-13181396469	Taiwan	Suifeng0214
 7	-13478372240	Taiwan	steven.ang
 7	-14562445483	Taiwan	RexII
 7	-15283269228	Taiwan	AIdrifter
 7	-15303922133	Taiwan	howie
 7	-15361688145	Taiwan	Abandonblue
+7	-16186033281	Taiwan	michael54856
 7	-16186033281	Taiwan	michael54856
 7	-17232342591	Taiwan	chia.chia
 7	-17562983533	Taiwan	david2832
@@ -460,7 +462,6 @@ Score	Penalty	Country	Name
 7	-35759465021	Taiwan	pwliao
 7	-35799137210	Taiwan	chnbin
 7	-35840977386	Taiwan	5D
-7	-36745531984	Taiwan	vehemency
 7	-36810814051	Taiwan	ntu519198
 7	-36842321748	Taiwan	alanhc
 7	-37358232576	Taiwan	Yojahuang
@@ -472,6 +473,8 @@ Score	Penalty	Country	Name
 7	-37902769041	Taiwan	Bao_chen
 7	-38024567272	Taiwan	amoshyc
 5	-15429974427	Taiwan	alon21034
+0	0	Taiwan	tonyli
+0	0	Taiwan	任生狂
 0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
 0	0	Taiwan	NCKU
@@ -480,5 +483,3 @@ Score	Penalty	Country	Name
 0	0	Taiwan	enumaelish
 0	0	Taiwan	plusline
 0	0	Taiwan	tkuo
-0	0	Taiwan	tonyli
-0	0	Taiwan	任生狂
