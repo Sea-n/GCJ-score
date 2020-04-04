@@ -298,6 +298,7 @@ Score	Penalty	Country	Name
 42	-39342063523	Taiwan	Kbear
 42	-39502336948	Taiwan	lost.lamb
 42	-39838745777	Taiwan	stdio2019
+42	-40136792252	Taiwan	TheOneisNEO
 42	-40183870514	Taiwan	snoopyisadog
 42	-40289677977	Taiwan	Mango20
 42	-41746138250	Taiwan	guanwen0
@@ -325,6 +326,7 @@ Score	Penalty	Country	Name
 30	-29530857003	Taiwan	Ykhuang0812
 30	-34797246850	Taiwan	0111t
 30	-39941065073	Taiwan	Yojahuang
+30	-40609078658	Taiwan	YanLee
 26	-32871372366	Taiwan	wenchih
 26	-35412232071	Taiwan	it3
 26	-39235673707	Taiwan	chnbin
@@ -393,7 +395,6 @@ Score	Penalty	Country	Name
 23	-35066082182	Taiwan	TwoFourTwo
 23	-35238307774	Taiwan	qqpenguin0411
 23	-35263732697	Taiwan	yogafox
-23	-35264703205	Taiwan	TheOneisNEO
 23	-36218654296	Taiwan	vincent97198
 23	-36413633732	Taiwan	03t
 23	-36535168244	Taiwan	thumper
@@ -402,7 +403,6 @@ Score	Penalty	Country	Name
 23	-37185720963	Taiwan	fereshte
 23	-37241604026	Taiwan	leolun
 23	-37343422135	Taiwan	cyuanor
-23	-37376471945	Taiwan	YanLee
 23	-38203498390	Taiwan	YoEugeneHsu
 23	-38463664039	Taiwan	ntu519198
 23	-38543343239	Taiwan	vehemency
@@ -413,6 +413,7 @@ Score	Penalty	Country	Name
 23	-39640303129	Taiwan	Leon
 23	-39743341140	Taiwan	ShirinLiu
 23	-40106986171	Taiwan	Yazmau
+23	-40131038092	Taiwan	pwliao
 19	-40448430887	Taiwan	Ricky1121
 16	-6013659217	Taiwan	JimmyChiu
 16	-16112084208	Taiwan	XxBNOxX
@@ -465,7 +466,6 @@ Score	Penalty	Country	Name
 7	-35072127228	Taiwan	CharlieChuang
 7	-35467092455	Taiwan	liujack0914
 7	-35668564542	Taiwan	Serge45
-7	-35759465021	Taiwan	pwliao
 7	-35840977386	Taiwan	5D
 7	-36842321748	Taiwan	alanhc
 7	-37378142547	Taiwan	Robin3
@@ -484,13 +484,13 @@ Score	Penalty	Country	Name
 7	-39804811777	Taiwan	alan8585
 7	-39954666291	Taiwan	JiKuai
 5	-15429974427	Taiwan	alon21034
+0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
+0	0	Taiwan	NCKU
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
 0	0	Taiwan	enumaelish
 0	0	Taiwan	plusline
 0	0	Taiwan	tkuo
-0	0	Taiwan	CL.
-0	0	Taiwan	NCKU
 0	0	Taiwan	tonyli
 0	0	Taiwan	任生狂
