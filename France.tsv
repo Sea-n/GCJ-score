@@ -52,7 +52,6 @@ Score	Penalty	Country	Name
 42	-14566544021	France	djawad190@yahoo.fr
 42	-15059945521	France	Qtip
 42	-16659508848	France	CakeAuxAnchois
-42	-16659508848	France	CakeAuxAnchois
 42	-17202081356	France	CéramiqueLimoges
 42	-18832409681	France	Aerosfilis
 42	-20001065168	France	devreeda
@@ -223,6 +222,7 @@ Score	Penalty	Country	Name
 23	-39209473512	France	calimero
 23	-39364980364	France	ro_obot
 23	-39436740398	France	Butanal
+23	-39487235154	France	btvl
 23	-39640924619	France	fab.alchemy
 23	-39889187776	France	akhlif
 16	-21240143956	France	mnaji
@@ -270,7 +270,9 @@ Score	Penalty	Country	Name
 7	-38863968319	France	dknn
 7	-38891362135	France	AdrienVannson
 7	-38952427109	France	FatalityNT
+7	-39478527861	France	2b
 5	-37838570501	France	proftechnolblanc
+0	0	France	NawfelT
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	Boumpteryx
@@ -281,13 +283,11 @@ Score	Penalty	Country	Name
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	Mizzy
-0	0	France	NawfelT
 0	0	France	Nurenai
 0	0	France	Oupo
 0	0	France	Pigloo
 0	0	France	Stephane_Mouawad
 0	0	France	Yagi-san
-0	0	France	btvl
 0	0	France	c0lt_dgtl
 0	0	France	cholaknight
 0	0	France	deplanty
