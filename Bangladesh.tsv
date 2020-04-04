@@ -151,6 +151,7 @@ Score	Penalty	Country	Name
 42	-34825563865	Bangladesh	emama
 42	-34832524910	Bangladesh	mushahid
 42	-34896826962	Bangladesh	rahat_chy
+42	-34991176885	Bangladesh	Basic_Jahid
 31	-22886844552	Bangladesh	ashik_jiddney
 31	-26174629651	Bangladesh	Dahy
 31	-27381692536	Bangladesh	Pure.Protea.RoMeO
@@ -275,7 +276,6 @@ Score	Penalty	Country	Name
 23	-30031070248	Bangladesh	Sabbir.Hasan
 23	-30045380267	Bangladesh	Farhan11
 23	-30141412461	Bangladesh	Tura_Code
-23	-30144969610	Bangladesh	Basic_Jahid
 23	-30197677181	Bangladesh	Mehmet
 23	-30242224351	Bangladesh	shahed95
 23	-30243550324	Bangladesh	mkbashar
@@ -339,6 +339,7 @@ Score	Penalty	Country	Name
 23	-34757607800	Bangladesh	farabi_shafkat
 23	-34788252656	Bangladesh	io.shanto
 23	-34801965332	Bangladesh	GlitchBox
+23	-34960030504	Bangladesh	moidda
 19	-3459897851	Bangladesh	sajibreadd
 19	-15322214966	Bangladesh	Nahid36
 19	-32960341544	Bangladesh	Rajib_119
@@ -399,9 +400,9 @@ Score	Penalty	Country	Name
 12	-34665288047	Bangladesh	Sahaun
 12	-34688466807	Bangladesh	Dufaux
 12	-34759425105	Bangladesh	moshiur066
+12	-34988829605	Bangladesh	Sakib310
 7	-910131108	Bangladesh	newb_ie
 7	-1051744864	Bangladesh	hemel18681
-7	-1149068193	Bangladesh	moidda
 7	-1156099103	Bangladesh	B_I_P_U_L
 7	-1188025583	Bangladesh	Rahat22
 7	-1299580214	Bangladesh	RakiB
@@ -502,7 +503,6 @@ Score	Penalty	Country	Name
 7	-26962661881	Bangladesh	_ajax
 7	-26986973062	Bangladesh	D_147
 7	-27008156579	Bangladesh	Hasan1971
-7	-27218668607	Bangladesh	Sakib310
 7	-27316249922	Bangladesh	Hasan_Saju
 7	-27331134099	Bangladesh	Dovrak
 7	-27395349735	Bangladesh	Istiak516
@@ -633,13 +633,18 @@ Score	Penalty	Country	Name
 5	-8804159238	Bangladesh	Chinmoy.bbpi
 5	-10480223219	Bangladesh	nahid84
 0	0	Bangladesh	Afeef906
+0	0	Bangladesh	Cloud105
+0	0	Bangladesh	Didar.Islam
+0	0	Bangladesh	SaykaT
+0	0	Bangladesh	esanalok
+0	0	Bangladesh	hasan_munsi
+0	0	Bangladesh	mubinakib
+0	0	Bangladesh	ujas
 0	0	Bangladesh	Arafat6462
 0	0	Bangladesh	Ashiq_Madridista
 0	0	Bangladesh	BasharBhuiyan
 0	0	Bangladesh	Bekon0700
-0	0	Bangladesh	Cloud105
 0	0	Bangladesh	CoderSultan
-0	0	Bangladesh	Didar.Islam
 0	0	Bangladesh	Disha_20
 0	0	Bangladesh	FahimMuntashir
 0	0	Bangladesh	FahimWHHP
@@ -651,7 +656,6 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	RiyadHaque
 0	0	Bangladesh	Roni95
 0	0	Bangladesh	Saidul_Islam
-0	0	Bangladesh	SaykaT
 0	0	Bangladesh	ShiblyRahman
 0	0	Bangladesh	Suraiya_Jabin
 0	0	Bangladesh	TRAPCODER
@@ -668,11 +672,9 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	efat
 0	0	Bangladesh	esanalok
 0	0	Bangladesh	farhan99
-0	0	Bangladesh	hasan_munsi
 0	0	Bangladesh	hazzazbinfaiz
 0	0	Bangladesh	joker.rashed
 0	0	Bangladesh	mspartho
-0	0	Bangladesh	mubinakib
 0	0	Bangladesh	nahid007
 0	0	Bangladesh	nazmul98
 0	0	Bangladesh	nohai
@@ -685,7 +687,6 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	shahriarraka
 0	0	Bangladesh	sheikhalamin
 0	0	Bangladesh	sumaia
-0	0	Bangladesh	ujas
 0	0	Bangladesh	unicornova
 0	0	Bangladesh	urahamat01
 0	0	Bangladesh	wuz

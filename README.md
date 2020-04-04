@@ -1,5 +1,11 @@
+# Google Code Jam 2020 Qual Round Scoreboard
+
+
+[🌏 World](ALL.tsv)
+
 [🇹🇼 Taiwan](Taiwan.tsv)
 
+### Other Countries
 + [🇦🇺 Australia](Australia.tsv)
 + [🇧🇩 Bangladesh](Bangladesh.tsv)
 + [🇧🇷 Brazil](Brazil.tsv)
