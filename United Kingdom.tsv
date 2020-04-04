@@ -71,6 +71,7 @@ Score	Penalty	Country	Name
 42	-43278220623	United Kingdom	valmed
 42	-43401699758	United Kingdom	tamionv
 42	-43414439659	United Kingdom	maxhort
+42	-43779236800	United Kingdom	Nikaustr
 42	-43809757857	United Kingdom	Mikov
 38	-35523770172	United Kingdom	SpaceDog
 35	-42395160805	United Kingdom	ananos
@@ -82,7 +83,6 @@ Score	Penalty	Country	Name
 26	-42244910501	United Kingdom	NikolaYolov
 24	-37312182434	United Kingdom	Quantum_Graviton
 23	-2729982882	United Kingdom	Vishal.D
-23	-3518532624	United Kingdom	Nikaustr
 23	-3558695349	United Kingdom	CharlesTam
 23	-4112623752	United Kingdom	MericAlex
 23	-4267919616	United Kingdom	timothy-ch-cheung
@@ -129,6 +129,7 @@ Score	Penalty	Country	Name
 23	-43334488543	United Kingdom	THJSmith
 23	-43370563355	United Kingdom	Feadoor
 23	-43448792426	United Kingdom	fergal.duggan99@gmail.com
+23	-43539899597	United Kingdom	ProgramPaNo
 12	-42433262791	United Kingdom	Brickjammer
 12	-42716071278	United Kingdom	mclaughlan.iain@gmail.com
 12	-43200972224	United Kingdom	hxuanhung
@@ -148,7 +149,6 @@ Score	Penalty	Country	Name
 7	-24165776312	United Kingdom	Aasrith1906
 7	-25937133295	United Kingdom	JordanTay
 7	-27297563564	United Kingdom	tnc1997
-7	-30408667527	United Kingdom	ProgramPaNo
 7	-32272129593	United Kingdom	hamishpk
 7	-32283652938	United Kingdom	Dolbz
 7	-34765179484	United Kingdom	zahl
@@ -171,14 +171,20 @@ Score	Penalty	Country	Name
 7	-43020121309	United Kingdom	pighead10
 7	-43102863694	United Kingdom	pkpan
 0	0	United Kingdom	AdamJewell
+0	0	United Kingdom	Keshav1999
 0	0	United Kingdom	B3141
 0	0	United Kingdom	BenJamesMurray
 0	0	United Kingdom	Fathinah
+0	0	United Kingdom	Grigorov
 0	0	United Kingdom	KilianSL
+0	0	United Kingdom	Mateuszwlo
+0	0	United Kingdom	Meemog
 0	0	United Kingdom	Nivedark
 0	0	United Kingdom	SimonJCobb
 0	0	United Kingdom	bobbobety
 0	0	United Kingdom	cameronshepherd
+0	0	United Kingdom	cmacmillan1
+0	0	United Kingdom	ctpeepee
 0	0	United Kingdom	davidepollicino2015@gmail.com
 0	0	United Kingdom	earthsmt16
 0	0	United Kingdom	finngagliano30@googlemail.com
@@ -188,7 +194,3 @@ Score	Penalty	Country	Name
 0	0	United Kingdom	stavrospod
 0	0	United Kingdom	yashwina
 0	0	United Kingdom	zaidjaria
-0	0	United Kingdom	Grigorov
-0	0	United Kingdom	Keshav1999
-0	0	United Kingdom	Meemog
-0	0	United Kingdom	cmacmillan1
