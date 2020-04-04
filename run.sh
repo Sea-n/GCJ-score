@@ -14,5 +14,6 @@ done
 wait
 
 cat score-*.json \
-	|jq -r '.user_scores[] |[.rank, .score_1, .country, .displayname] |@tsv' \
-	|sort -n > score.tsv
+	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
+	|sort -n \
+	|cut -d $'\t' -f 2- > score.tsv
