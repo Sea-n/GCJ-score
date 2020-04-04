@@ -371,6 +371,7 @@ Score	Penalty	Country	Name
 42	-16819848273	Japan	ttkkggww
 42	-17051320662	Japan	simamumu
 42	-17082722996	Japan	yehara
+42	-17237942853	Japan	schwarzahl
 42	-17260664504	Japan	AokabiC
 42	-17336894449	Japan	masutech16
 42	-17367270930	Japan	opt
@@ -393,7 +394,6 @@ Score	Penalty	Country	Name
 42	-18587463964	Japan	tokoharu_
 42	-18604424934	Japan	junppp_0827
 42	-18705934623	Japan	Pro_ktmr
-42	-18857954906	Japan	dekokun
 42	-18857954906	Japan	dekokun
 42	-18930607282	Japan	lemon_
 42	-18991968252	Japan	midori27
@@ -809,12 +809,13 @@ Score	Penalty	Country	Name
 42	-49182865669	Japan	ytrm
 42	-49710831414	Japan	toma25
 42	-49939779295	Japan	tamacjp
+42	-50700189265	Japan	HIR180
+42	-50704759387	Japan	vtr_coder
 42	-51260442817	Japan	chakku_000
 42	-53539959341	Japan	jackee777
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
 35	-18676756225	Japan	noimi
-35	-20643303655	Japan	majiang
 35	-20643303655	Japan	majiang
 35	-23105114698	Japan	LinusMK
 35	-30938932714	Japan	nomeaning
@@ -870,14 +871,12 @@ Score	Penalty	Country	Name
 23	-7842845519	Japan	ritzcr
 23	-7914189493	Japan	nyuge
 23	-9853599353	Japan	kaih
-23	-9853599353	Japan	kaih
 23	-10795447308	Japan	y.k
 23	-13295298844	Japan	higa
 23	-15716966010	Japan	Kawazoe
 23	-16573274733	Japan	Mohanad
 23	-17487978947	Japan	maru65536
 23	-17716199208	Japan	nomikura
-23	-19384785859	Japan	ysanopp
 23	-19581001882	Japan	ueda.keisuke
 23	-20059118265	Japan	toyama
 23	-20878883199	Japan	X_Drake
@@ -948,8 +947,6 @@ Score	Penalty	Country	Name
 23	-48197015197	Japan	minszsz
 23	-48289214340	Japan	kohbanye
 23	-48539369758	Japan	kinsei0916
-23	-49274040242	Japan	vtr_coder
-23	-50262486047	Japan	HIR180
 23	-50573123025	Japan	kurakura
 23	-50616493697	Japan	goodbaton
 23	-50695779539	Japan	ororog
@@ -1017,7 +1014,6 @@ Score	Penalty	Country	Name
 7	-46108089830	Japan	developmaso
 7	-48169389081	Japan	mike-sino
 7	-48680843745	Japan	yaegashi
-7	-48705183253	Japan	ororog
 7	-49975344461	Japan	whisper0077
 7	-50100152923	Japan	st2
 7	-50234249307	Japan	wikrsh
@@ -1026,8 +1022,11 @@ Score	Penalty	Country	Name
 7	-50536634236	Japan	nawta
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
+0	0	Japan	MAKO
 0	0	Japan	Rute_
 0	0	Japan	aki_bayes
+0	0	Japan	cossy
+0	0	Japan	donuthole
 0	0	Japan	hgemini
 0	0	Japan	kinokokaeru
 0	0	Japan	nicolen
@@ -1035,10 +1034,6 @@ Score	Penalty	Country	Name
 0	0	Japan	rikupin1105
 0	0	Japan	rokulo
 0	0	Japan	shukob
-0	0	Japan	tsukiyotake
-0	0	Japan	zezero
-0	0	Japan	MAKO
-0	0	Japan	cossy
-0	0	Japan	donuthole
 0	0	Japan	sionyan
+0	0	Japan	tsukiyotake
 0	0	Japan	zezero
