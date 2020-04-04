@@ -15,6 +15,7 @@ Score	Penalty	Country	Name
 100	-58181021162	Germany	vanHavel
 100	-60904284769	Germany	sjvie
 100	-61526875881	Germany	0x544C
+75	-63420406170	Germany	HammerOfThor
 74	-16188514368	Germany	m.mahdi2414
 74	-48947918040	Germany	RezaSi
 74	-54166579152	Germany	algomaus
@@ -91,7 +92,6 @@ Score	Penalty	Country	Name
 43	-40146570549	Germany	PFischbeck
 43	-48075220123	Germany	LorMam
 43	-50497696088	Germany	debriscloud
-43	-51983710779	Germany	HammerOfThor
 43	-53396677567	Germany	kerpoo
 43	-54468988071	Germany	1b15
 43	-55303534696	Germany	sbarlabanov
@@ -104,6 +104,7 @@ Score	Penalty	Country	Name
 43	-61822981443	Germany	Luz_K
 43	-62482134240	Germany	Gullydeckel
 43	-63117167299	Germany	Jasdefer
+43	-63338930093	Germany	InfectedBytes
 43	-65224136041	Germany	Thundertron
 42	-1412145030	Germany	Der.Baer
 42	-2472209061	Germany	eriksuenderhauf
@@ -179,6 +180,7 @@ Score	Penalty	Country	Name
 42	-44718519688	Germany	rmeertens
 42	-45242496810	Germany	rr13
 42	-45284116800	Germany	toasty
+42	-45284116800	Germany	toasty
 42	-45800939284	Germany	Garrus
 42	-46072703805	Germany	mpt2
 42	-46251139097	Germany	AlexZorn
@@ -198,6 +200,7 @@ Score	Penalty	Country	Name
 42	-48370532904	Germany	sebp
 42	-48863203290	Germany	Astrocyte
 42	-48913456661	Germany	Callidior
+42	-48916309105	Germany	h1k3r
 42	-48916309105	Germany	h1k3r
 42	-49353150023	Germany	jgroe
 42	-49398452012	Germany	prmatl
@@ -226,7 +229,6 @@ Score	Penalty	Country	Name
 42	-53376176040	Germany	stf
 42	-53426615943	Germany	Ballala
 42	-53666960642	Germany	Spherelix
-42	-53706988670	Germany	InfectedBytes
 42	-53746240792	Germany	globalundo
 42	-53807210613	Germany	U1
 42	-53866866492	Germany	fischerp
@@ -287,6 +289,7 @@ Score	Penalty	Country	Name
 42	-63218043531	Germany	Rocketeer
 42	-63524552151	Germany	schweizerm
 42	-63553557245	Germany	mrbch
+42	-63980315419	Germany	SgtMA5B
 42	-64092976709	Germany	albertjentschke@gmail.com
 42	-64279491033	Germany	niktech
 42	-65634148939	Germany	benleb
@@ -361,7 +364,6 @@ Score	Penalty	Country	Name
 23	-59558758338	Germany	L#8253
 23	-60081070377	Germany	Mudasir
 23	-60194096329	Germany	multi_method_man
-23	-60205594658	Germany	SgtMA5B
 23	-60250304692	Germany	elle_elena
 23	-60285354041	Germany	maf-soft
 23	-60528996105	Germany	flackbash
@@ -417,18 +419,18 @@ Score	Penalty	Country	Name
 7	-62543810635	Germany	ben.natura@gmail.com
 7	-63056948487	Germany	DK56_T
 0	0	Germany	Cherry507
-0	0	Germany	Raixor
-0	0	Germany	Sasae001
-0	0	Germany	Woingenau
-0	0	Germany	friebetill
-0	0	Germany	svenibo
-0	0	Germany	tete7777
 0	0	Germany	CipheredCoder
 0	0	Germany	PrøCøder
+0	0	Germany	Raixor
+0	0	Germany	Sasae001
 0	0	Germany	TornaxO7
+0	0	Germany	Woingenau
 0	0	Germany	arangra
 0	0	Germany	dschir
+0	0	Germany	friebetill
 0	0	Germany	miskigolf
 0	0	Germany	ndrshrzg
 0	0	Germany	pp93
 0	0	Germany	starzhinkus
+0	0	Germany	svenibo
+0	0	Germany	tete7777
