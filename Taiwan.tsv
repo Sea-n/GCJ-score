@@ -88,7 +88,6 @@ Score	Penalty	Country	Name
 68	-46699199640	Taiwan	GGJHONG
 68	-46883274372	Taiwan	Yazmau
 68	-47621066875	Taiwan	8e7
-68	-47691765258	Taiwan	iPeter
 68	-48803214518	Taiwan	yysung
 68	-49081098505	Taiwan	jcaosola
 68	-49257902982	Taiwan	wiwiho
@@ -112,7 +111,6 @@ Score	Penalty	Country	Name
 68	-57037466569	Taiwan	yrclamb
 68	-57141940358	Taiwan	vehemency
 68	-57475984412	Taiwan	yangerma
-62	-43204502598	Taiwan	billy4195su
 56	-27062324822	Taiwan	JeffreyHo
 56	-55523095103	Taiwan	hankluo6
 55	-38024134115	Taiwan	HDC
@@ -129,6 +127,7 @@ Score	Penalty	Country	Name
 43	-50051483189	Taiwan	MarkYu
 43	-51980280968	Taiwan	10eipeip
 43	-52976825822	Taiwan	CharlieChuang
+43	-53206509150	Taiwan	ElitE_MING
 43	-53206509150	Taiwan	ElitE_MING
 43	-54324755643	Taiwan	AChueh
 43	-54585636565	Taiwan	hysoka79
@@ -156,6 +155,7 @@ Score	Penalty	Country	Name
 42	-9441532198	Taiwan	lightbulb12294
 42	-9508154665	Taiwan	royyaha
 42	-10221650705	Taiwan	liao119
+42	-10276511301	Taiwan	wth
 42	-10276511301	Taiwan	wth
 42	-10682777670	Taiwan	joannewolf
 42	-11010378178	Taiwan	hiltarc
@@ -396,6 +396,7 @@ Score	Penalty	Country	Name
 42	-56306370466	Taiwan	ericchiu
 42	-56431525702	Taiwan	RanceJen
 42	-56932264375	Taiwan	Reasoncs00
+42	-57046894452	Taiwan	harrykou1
 42	-57127068572	Taiwan	KKCWind
 42	-57207344411	Taiwan	PattyHuang
 42	-57246796164	Taiwan	yao11617
@@ -418,6 +419,7 @@ Score	Penalty	Country	Name
 31	-41845469508	Taiwan	StarCoral
 31	-41850376935	Taiwan	chnbin
 31	-57069544798	Taiwan	Rockphy
+31	-57343833699	Taiwan	阿賢
 30	-5776535626	Taiwan	hsuehmin
 30	-15117282320	Taiwan	browntoad
 30	-29530857003	Taiwan	Ykhuang0812
@@ -433,8 +435,6 @@ Score	Penalty	Country	Name
 26	-32871372366	Taiwan	wenchih
 26	-49877020198	Taiwan	jim800121.chen
 26	-52422467743	Taiwan	dongFIN
-24	-35225790747	Taiwan	jonson0505
-24	-38194468600	Taiwan	charlie0414
 24	-35225790747	Taiwan	jonson0505
 24	-38194468600	Taiwan	charlie0414
 24	-55400526256	Taiwan	Ilikecode
@@ -460,6 +460,7 @@ Score	Penalty	Country	Name
 23	-25908455881	Taiwan	MiohitoKiri5474
 23	-26182908151	Taiwan	KevinHsieh
 23	-27264866454	Taiwan	CharlesLien
+23	-27462057755	Taiwan	curry0622
 23	-27557464129	Taiwan	sofia.k_0426
 23	-27805382078	Taiwan	joeythegod
 23	-28461353573	Taiwan	zkjasoncheng
@@ -476,7 +477,6 @@ Score	Penalty	Country	Name
 23	-34649928997	Taiwan	ATing
 23	-34782236716	Taiwan	jackkuo
 23	-35066082182	Taiwan	TwoFourTwo
-23	-35066082182	Taiwan	TwoFourTwo
 23	-35238307774	Taiwan	qqpenguin0411
 23	-36676694975	Taiwan	pjammer
 23	-37241604026	Taiwan	leolun
@@ -487,6 +487,7 @@ Score	Penalty	Country	Name
 23	-39743341140	Taiwan	ShirinLiu
 23	-42043737117	Taiwan	june_waves
 23	-42622795840	Taiwan	lai.eling22@gmail.com
+23	-42799797576	Taiwan	Bao_chen
 23	-43607205062	Taiwan	oscarchichun
 23	-43992339491	Taiwan	kcl
 23	-45627016628	Taiwan	Archie0129
@@ -534,7 +535,6 @@ Score	Penalty	Country	Name
 16	-16112084208	Taiwan	XxBNOxX
 16	-49879611677	Taiwan	Yac10086
 16	-54183280606	Taiwan	Ocean_Surf
-12	-23377209486	Taiwan	阿賢
 12	-25602613133	Taiwan	SafiJ
 12	-29010749307	Taiwan	P.Keng
 12	-32400218927	Taiwan	Keer23
@@ -561,12 +561,10 @@ Score	Penalty	Country	Name
 7	-24449334041	Taiwan	uuddlrlrba
 7	-28534047524	Taiwan	tobyshen
 7	-29695793068	Taiwan	YPL
-7	-29695793068	Taiwan	YPL
 7	-32085040865	Taiwan	liao.jason2
 7	-33023335525	Taiwan	ytshih
 7	-34246387375	Taiwan	jasperlin1996
 7	-36842321748	Taiwan	alanhc
-7	-37577686488	Taiwan	ericx
 7	-38894048578	Taiwan	Airs
 7	-39533805299	Taiwan	PeterD1524
 7	-40612278379	Taiwan	EmperorGunn
@@ -584,17 +582,17 @@ Score	Penalty	Country	Name
 7	-56832913880	Taiwan	qbane
 5	-15429974427	Taiwan	alon21034
 5	-55094400999	Taiwan	sauder
-0	0	Taiwan	Vicky_0916
-0	0	Taiwan	joric
-0	0	Taiwan	cosecantTW
 0	0	Taiwan	enumaelish
-0	0	Taiwan	tonyli
+0	0	Taiwan	smile1973
+0	0	Taiwan	starzodiac
 0	0	Taiwan	任生狂
 0	0	Taiwan	JimmyLinYA
 0	0	Taiwan	NCKU
 0	0	Taiwan	Timothy_Tung
+0	0	Taiwan	Vicky_0916
 0	0	Taiwan	cmes31419
+0	0	Taiwan	cosecantTW
+0	0	Taiwan	joric
 0	0	Taiwan	lo8172
-0	0	Taiwan	smile1973
-0	0	Taiwan	starzodiac
+0	0	Taiwan	tonyli
 0	0	Taiwan	tsai_yayun

@@ -91,6 +91,7 @@ Score	Penalty	Country	Name
 68	-54473731928	Russia	Pennyroyal_tea
 68	-55078160322	Russia	yarrr
 68	-55293647372	Russia	ivan.a.bovin
+68	-55293647372	Russia	ivan.a.bovin
 68	-55406576845	Russia	Jonick
 68	-55675578617	Russia	allisyonok
 68	-55849187405	Russia	RuslanGatin
@@ -119,6 +120,7 @@ Score	Penalty	Country	Name
 43	-50077561002	Russia	pichuser@mail.ru
 43	-50303009660	Russia	kronos
 43	-52950530772	Russia	Kurt11
+43	-53182297311	Russia	wlesavo
 43	-53182297311	Russia	wlesavo
 43	-53879192316	Russia	Vasha_Kiska_Est_Irisku
 43	-55598990843	Russia	DanielNash
@@ -392,6 +394,7 @@ Score	Penalty	Country	Name
 42	-56936153696	Russia	vld
 42	-56939880425	Russia	klimser
 42	-57010504841	Russia	kkarpea
+42	-57038328434	Russia	Endagorion
 42	-57419125139	Russia	kpilyugin
 39	-54126983341	Russia	mamenko
 35	-30640710308	Russia	DmitryGrigorev
@@ -415,7 +418,6 @@ Score	Penalty	Country	Name
 26	-47015970180	Russia	dzheglov
 26	-56241565060	Russia	nikolaynag
 24	-32436635187	Russia	manikitos
-24	-39641023469	Russia	sevlll
 24	-39641023469	Russia	sevlll
 23	-4611912076	Russia	tutkarma
 23	-13912068325	Russia	Mr.Sirius
@@ -452,11 +454,11 @@ Score	Penalty	Country	Name
 23	-48145386631	Russia	sumkincpp
 23	-48377291452	Russia	Gadzhiev
 23	-48742618391	Russia	SeeeRGo
+23	-48753713823	Russia	klykov
 23	-48869173685	Russia	coderofblaviken
 23	-48874126559	Russia	Wizzardo
 23	-50640402866	Russia	lozhkarev
 23	-50716324567	Russia	schegolev
-23	-52043235850	Russia	Dodolphin
 23	-52213738727	Russia	Natalya.Ginzburg
 23	-52305790629	Russia	Quelanor
 23	-52350356122	Russia	Angrad
@@ -490,10 +492,10 @@ Score	Penalty	Country	Name
 23	-56450934586	Russia	dashakisik
 23	-56451815610	Russia	fudail
 23	-56492472065	Russia	wosarat
-23	-56566942406	Russia	Endagorion
 23	-56602942209	Russia	AndrewOvv
 23	-56966846155	Russia	okwedook
 23	-57011040254	Russia	vupornikov@gmail.com
+23	-57103584373	Russia	DmitriyV
 20	-40291858831	Russia	dimitribelikov
 16	-49687781436	Russia	Wataru
 16	-52277519074	Russia	sled
@@ -512,7 +514,6 @@ Score	Penalty	Country	Name
 7	-34760561781	Russia	Petyzzz
 7	-37663330346	Russia	lessmeaning
 7	-37852883070	Russia	aperfilyev
-7	-37852883070	Russia	aperfilyev
 7	-41621428018	Russia	Hypik
 7	-41994994397	Russia	La_Peste
 7	-42615122396	Russia	buldo
@@ -521,7 +522,6 @@ Score	Penalty	Country	Name
 7	-46538631705	Russia	drozhkov
 7	-47874230551	Russia	Tatyana_611_r
 7	-49921688569	Russia	ksvadim
-7	-50229623269	Russia	DmitriyV
 7	-51086721544	Russia	DeGriz
 7	-51212299314	Russia	kofmanya
 7	-51544165142	Russia	bsd_conqueror
@@ -545,16 +545,17 @@ Score	Penalty	Country	Name
 7	-56835319006	Russia	tomatho
 7	-56974093309	Russia	borisbarkov
 7	-57029226371	Russia	ZAB
-0	0	Russia	Locab
-0	0	Russia	artempavlov
-0	0	Russia	zts3101
+7	-57099383981	Russia	s_ah_onissuiy
+0	0	Russia	Juwbasaurus
 0	0	Russia	munir_
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	Juwbasaurus
+0	0	Russia	Locab
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
+0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
 0	0	Russia	mspitb
 0	0	Russia	ngh7mr3
 0	0	Russia	vlad_is_love
+0	0	Russia	zts3101
