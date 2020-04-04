@@ -134,6 +134,9 @@ Score	Penalty	Country	Name
 42	-35089622919	Russia	shart23
 42	-35185272856	Russia	Vasha_Kiska_Est_Irisku
 42	-35323397261	Russia	i_vain
+42	-35384169487	Russia	NDamirov
+42	-35407614121	Russia	alex.shkarin
+42	-35421584004	Russia	opukittpceno_hhr
 42	-35571614646	Russia	s20b1Kirka
 42	-35592002436	Russia	3_IQ
 35	-30640710308	Russia	DmitryGrigorev
@@ -170,13 +173,11 @@ Score	Penalty	Country	Name
 23	-33617597065	Russia	sergeykozub
 23	-33853169000	Russia	SendThemToHell
 23	-33997241204	Russia	RuslanGatin
-23	-33997970333	Russia	opukittpceno_hhr
 23	-34044710647	Russia	igorock
 23	-34147355440	Russia	ivankff
 23	-34165350545	Russia	SolemnVisitor
 23	-34283461122	Russia	hardliner
 23	-34333219701	Russia	tirlimster
-23	-34423265422	Russia	NDamirov
 23	-34423627364	Russia	nxblnd
 23	-34449911914	Russia	vrungel
 23	-34506249486	Russia	VenRock
@@ -185,7 +186,6 @@ Score	Penalty	Country	Name
 23	-34672279330	Russia	slizkov
 23	-34678397272	Russia	Kapt
 23	-34731998027	Russia	pikmike
-23	-34916072587	Russia	alex.shkarin
 23	-34954878765	Russia	Pryanik
 23	-35059184495	Russia	cezarnik
 23	-35091620290	Russia	Ista
@@ -201,7 +201,6 @@ Score	Penalty	Country	Name
 12	-34003873365	Russia	cop
 12	-34064697646	Russia	riuzmukhametov
 7	-870457384	Russia	Romanchenko
-7	-2250841238	Russia	madn
 7	-2250841238	Russia	madn
 7	-2382733077	Russia	RiaD
 7	-2597332981	Russia	Morfos
@@ -230,8 +229,9 @@ Score	Penalty	Country	Name
 7	-35057032184	Russia	ikomlyakov
 7	-35271061811	Russia	avg79
 7	-35273184519	Russia	frisvee
+0	0	Russia	vmark
+0	0	Russia	zile
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	dimitribelikov
 0	0	Russia	garipovii
 0	0	Russia	ivan.chepiga
-0	0	Russia	vmark
