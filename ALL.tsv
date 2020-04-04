@@ -372,6 +372,7 @@ Score	Penalty	Country	Name
 81	-29534804676	New Zealand	Procrat
 81	-37952715374	Taiwan	FanFly
 81	-38678010430	Vietnam	Kanon.Nakagawa
+81	-45198261202	Taiwan	SorahISA
 75	-6165626586	United States	PavelChadnov
 75	-6461727605	India	CrapTheCoder
 75	-7942492494	Indonesia	JoshuaEvan
@@ -452,6 +453,8 @@ Score	Penalty	Country	Name
 75	-43764231764	India	Devam_1310
 75	-44103140107	India	heisenberg_270
 75	-44142445644	India	Coder_Uday
+75	-44451918233	India	arshit_b
+75	-44535086651	India	GTGSTG
 74	-2550385572	India	TheDark_Knight
 74	-3123884644	United States	eyg
 74	-4280362581	Egypt	Bohoty
@@ -515,7 +518,6 @@ Score	Penalty	Country	Name
 74	-16672363368	United States	LinkedListMan
 74	-16838174696	South Korea	yungkk87
 74	-16997844723	United States	Jacky_Zheng
-74	-17100168238	India	GTGSTG
 74	-17110688588	Colombia	Scano
 74	-17168697010	Hong Kong	lunaticalized
 74	-17258026925	Egypt	MohamedSameh
@@ -763,8 +765,10 @@ Score	Penalty	Country	Name
 74	-43857665441	China	compthu
 74	-43952542431	United States	OCC_Coder
 74	-43956074620	India	skylags
+74	-43997378165	India	akSingh
 74	-44025323415	South Korea	tmil
 74	-44040298823	India	dharmaraj_82
+74	-44550933278	India	Devi_Prasad
 74	-44659079797	India	ayushheritage18@gmail.com
 74	-44973531384	India	nik2020
 68	-2725597913	United States	ekzhang
@@ -1883,11 +1887,13 @@ Score	Penalty	Country	Name
 68	-43616353171	Hong Kong	hailstone
 68	-43662767663	India	faizan2700
 68	-43697315770	South Korea	philip1998
+68	-43814210446	India	AshishGupta
 68	-43912412449	Germany	silicontaiga
 68	-43940139515	China	funer
 68	-43976670309	Russia	azukun
 68	-43993566002	Hong Kong	Hubert
 68	-44037722927	South Korea	ktjooho
+68	-44040391633	India	404_brain_not_found
 68	-44052414840	India	tanmay2625
 68	-44146688609	India	gaurasha
 68	-44330652096	China	sunxuhao
@@ -1986,9 +1992,9 @@ Score	Penalty	Country	Name
 55	-42660784091	Hong Kong	btsrpg
 55	-42685543606	Bangladesh	ashiknur
 55	-42943859816	India	Sreeja971
+55	-44800744401	India	akry
 52	-18201927929	South Korea	mhazor
 52	-31199486501	United States	stormageddon
-49	-7093450390	Taiwan	SorahISA
 49	-7168014628	United States	btjanaka
 49	-9095584758	United States	j.parker.garrison
 49	-16515203829	United States	dvargas92495
@@ -2233,7 +2239,6 @@ Score	Penalty	Country	Name
 43	-26947070061	Japan	kichi2004
 43	-27067001191	India	piyush1305
 43	-27386545241	Canada	Drevnij
-43	-27435981394	India	arshit_b
 43	-27554650373	India	cjchirag7
 43	-27576373411	Cuba	yordanlp
 43	-27594186588	India	yadav.vaibhav
@@ -2504,7 +2509,6 @@ Score	Penalty	Country	Name
 43	-42028810125	Japan	zer0-star
 43	-42038842222	India	Mayuresh_Patle
 43	-42040121031	India	bpk199
-43	-42088713782	India	404_brain_not_found
 43	-42130680231	Italy	giuspeppe94
 43	-42136542502	India	KC64
 43	-42151914926	India	AyushKapoor
@@ -2578,6 +2582,7 @@ Score	Penalty	Country	Name
 43	-44458000072	Sri Lanka	Kahawala
 43	-44488566935	India	bansalraghav19
 43	-44499185337	India	thekushalghosh
+43	-44573739085	South Korea	bosslormak
 43	-44800361707	India	dev_m_i
 43	-44828573584	Vietnam	nghuy1610
 43	-44836787861	India	Harsh1868
@@ -4199,6 +4204,7 @@ Score	Penalty	Country	Name
 42	-14225257246	China	cwystc
 42	-14238711406	Indonesia	RC's
 42	-14238816067	Ukraine	ab_google_code
+42	-14241697012	Singapore	skytect
 42	-14250116775	Vietnam	incenger
 42	-14252139205	India	nitin_98
 42	-14264025347	South Korea	raararaara
@@ -4398,7 +4404,6 @@ Score	Penalty	Country	Name
 42	-15808689705	United States	RandomCode123
 42	-15809887875	South Korea	Namkyu
 42	-15810820907	China	deepworm
-42	-15812504801	Japan	syu-ki
 42	-15812504801	Japan	syu-ki
 42	-15825072898	India	Ajit.
 42	-15827296469	China	xiaodao
@@ -5376,7 +5381,6 @@ Score	Penalty	Country	Name
 42	-22866765395	South Korea	yongjun18
 42	-22879858148	United States	vincentni
 42	-22901980582	Netherlands	TomasMIka
-42	-22902128250	India	AshishGupta
 42	-22906769372	China	han777404
 42	-22907124545	Brazil	JMarcos
 42	-22909428294	Argentina	eugenus
@@ -5446,7 +5450,6 @@ Score	Penalty	Country	Name
 42	-23226790327	China	HansLjy
 42	-23237437017	United States	morezash
 42	-23239802560	India	subhadeep.ghosh
-42	-23241802025	India	akSingh
 42	-23249669432	United States	Charlie_Xu
 42	-23264543219	India	primalCoder07
 42	-23280348529	Taiwan	KronisYEH
@@ -6411,7 +6414,6 @@ Score	Penalty	Country	Name
 42	-28485714325	India	Sasi222
 42	-28489203164	Sri Lanka	Pulasthi
 42	-28499870116	Taiwan	alter027
-42	-28503014482	South Korea	bosslormak
 42	-28506324591	India	shashikdm
 42	-28513069978	India	AdMenon_
 42	-28515448182	Albania	geri13
@@ -7411,7 +7413,6 @@ Score	Penalty	Country	Name
 42	-32106433919	Japan	Naoki08
 42	-32110739178	India	L_I_Erq34
 42	-32111263295	India	dnpshuser
-42	-32115806813	India	Devi_Prasad
 42	-32116693533	India	MyStache
 42	-32121436637	United Kingdom	BorisDeletic
 42	-32121847945	India	ved@123
@@ -10949,13 +10950,29 @@ Score	Penalty	Country	Name
 42	-43542294325	Czech Republic	avakar
 42	-43545626096	Israel	StavH
 42	-43545673696	Russia	StatujaLeha
+42	-43549018916	India	Devanshi_37
+42	-43552389684	India	mohitchandrak
+42	-43553832104	Taiwan	wwaraceli
+42	-43554092477	Russia	vmos1999
+42	-43556815614	Switzerland	lorenzo.laneve
 42	-43564986637	India	adikrsingh
 42	-43568521471	Kyrgyzstan	jpjfa6
 42	-43573422906	China	zzzzzq
+42	-43577637508	Russia	e.r.
+42	-43587471574	Russia	Dima.Cat.2016
+42	-43590264009	Japan	imulan
+42	-43595590617	Taiwan	kamyu
 42	-43596927263	Ukraine	Yamatan
 42	-43600547357	India	AnkurChourasia
+42	-43601671368	Bangladesh	shakil.ahamed
 42	-43602254513	India	praveenojha33
+42	-43603456970	India	monstar
+42	-43603778030	India	Dishant_18
+42	-43606873433	Brazil	dilsonguim
+42	-43611776245	India	IronBlooded
+42	-43615480833	India	pushpanshuranjansingh
 42	-43616594325	Greece	Blah.
+42	-43620563276	India	mohnishsalian
 42	-43640592490	India	pranat_sharma1
 42	-43657693188	Vietnam	javanerverdie
 42	-43672867105	Germany	drwu
@@ -10973,11 +10990,17 @@ Score	Penalty	Country	Name
 42	-43761039674	India	ArthiSiva
 42	-43779236800	United Kingdom	Nikaustr
 42	-43789568993	India	rohithreddy
+42	-43804400574	India	Anurag1299
 42	-43806832171	Australia	Nick.babaki
+42	-43809749347	Croatia	Lovro
 42	-43809757857	United Kingdom	Mikov
+42	-43812226401	Ukraine	SAeed
 42	-43815202035	India	Avi_Sri
+42	-43820841123	South Korea	b1ackhand
 42	-43821575067	India	Los17
 42	-43831082243	Czech Republic	kseii
+42	-43838981843	Bangladesh	saadi_23
+42	-43853175801	Norway	qt_
 42	-43855747277	Germany	MustafaBerkayMutlu
 42	-43860575924	India	CodingMushroom
 42	-43874430680	Russia	ArtNext
@@ -11002,6 +11025,9 @@ Score	Penalty	Country	Name
 42	-44226092437	India	Shriamrut
 42	-44227328055	India	pranitchawla
 42	-44230067702	Thailand	Kannnnn
+42	-44271518074	Sri Lanka	Rishoban
+42	-44311922612	India	Ts27
+42	-44324670651	China	FrankOnly
 42	-44347168894	India	satyamization
 42	-44466350981	France	pogozio
 42	-44469796130	Bangladesh	ASM_ATIKUR
@@ -11014,7 +11040,9 @@ Score	Penalty	Country	Name
 42	-44658298356	India	Techpro3425
 42	-44694458694	India	greatwhite
 42	-44719467888	India	souravmunjal
+42	-44758425404	India	Devanshi345
 42	-45002807676	France	levantuan
+42	-45010955374	Vietnam	Ghost96
 42	-45400929379	Australia	missFibonacci
 42	-45616235012	Japan	yamamu
 42	-45951641469	United States	vrun
@@ -11164,6 +11192,7 @@ Score	Penalty	Country	Name
 35	-43614610450	India	Ayush1290
 35	-43630320319	India	u_amit
 35	-45099523433	India	NCV_1199
+35	-45475304646	Israel	MoloxMBA
 33	-34710217619	India	anayk
 33	-38396046573	China	absi2011
 33	-40368409996	China	wenwenwang
@@ -11422,6 +11451,7 @@ Score	Penalty	Country	Name
 31	-43309205940	India	AgentNihal
 31	-43315585501	India	Shubhams07
 31	-43536479903	India	I_Love_Totoro
+31	-43589483407	South Korea	kriii
 30	-2690405364	United States	12tqian
 30	-2941427654	India	air3healer
 30	-3264533258	Czech Republic	OpeningNew
@@ -11767,8 +11797,10 @@ Score	Penalty	Country	Name
 30	-43586632646	India	Aryan_Sapra280
 30	-43632936800	India	bhattvicky7473@gmail.com
 30	-43698300235	Philippines	verngutz
+30	-43744347244	Vietnam	tnlong1997
 30	-43752827046	India	jindevaishnavi
 30	-43774183236	Japan	paotan
+30	-43798284641	Bangladesh	Badhansen
 30	-43832650569	India	codesavyani
 30	-44630799281	India	NitpLucifer
 26	-3214056588	United States	madhav2302
@@ -11927,7 +11959,6 @@ Score	Penalty	Country	Name
 26	-42434987744	India	snk255
 26	-42562056757	India	anandks
 26	-42624551625	India	Sirna
-26	-42683232546	South Korea	kriii
 26	-42691625019	Germany	momapf
 26	-42725475851	India	DeathstrokeRaj
 26	-42812443053	India	Ananya114
@@ -11946,6 +11977,7 @@ Score	Penalty	Country	Name
 26	-43455465895	India	Rawhattt
 26	-43472765403	India	unworthy_dude
 26	-43486037269	India	suksham
+26	-43557518749	China	sumuzhe
 26	-43734644603	Bangladesh	Torxebec
 26	-44324800517	Indonesia	afaji321
 26	-44942657255	Ukraine	gena
@@ -12169,7 +12201,6 @@ Score	Penalty	Country	Name
 23	-4250416684	United States	rzhu04
 23	-4261674455	Australia	AncoraImparo
 23	-4267919616	United Kingdom	timothy-ch-cheung
-23	-4302513151	India	akry
 23	-4308826262	United Kingdom	llyfrglas
 23	-4365956926	United States	Rkman
 23	-4378806316	South Africa	GMeyer
@@ -12568,8 +12599,6 @@ Score	Penalty	Country	Name
 23	-9397612642	India	sumukhaithal6
 23	-9401653521	Uruguay	matiascc
 23	-9417671860	Egypt	AmrAdelKhalil
-23	-9432327139	Bangladesh	Mustakim
-23	-9447694302	New Zealand	Knob
 23	-9498170489	United States	KevinFallon
 23	-9498471769	India	Megha.Ch
 23	-9513904091	China	julian.gu99
@@ -12768,6 +12797,8 @@ Score	Penalty	Country	Name
 23	-12201494103	Spain	jacrdeveloper
 23	-12211604189	Mexico	itzelb
 23	-12223361412	United States	apgpsoop
+23	-12234635118	India	rajasekhar2307
+23	-12243856851	India	suyash_khare
 23	-12234635118	India	rajasekhar2307
 23	-12243856851	India	suyash_khare
 23	-12254889423	India	Avi1999
@@ -13071,7 +13102,6 @@ Score	Penalty	Country	Name
 23	-17128624794	India	praveen_chiliveri
 23	-17134032696	United States	sagnick
 23	-17167054066	China	Grani
-23	-17184237495	India	pushpanshuranjansingh
 23	-17199011429	Algeria	IlSaggioVecchino
 23	-17206140026	Egypt	saraA
 23	-17225963867	Egypt	Best_Sponge
@@ -13169,7 +13199,6 @@ Score	Penalty	Country	Name
 23	-18501892307	India	fial
 23	-18510285170	India	DineshShinde
 23	-18521565975	Vietnam	Justin
-23	-18535162088	India	Surbhi-Nair
 23	-18542404792	Australia	lucky962
 23	-18544535017	India	neonkalra
 23	-18561773922	China	2691506563@qq.com
@@ -13570,6 +13599,7 @@ Score	Penalty	Country	Name
 23	-23393094560	India	ankush121998
 23	-23394250784	India	jithendrakoleti
 23	-23407324345	India	rahulrai
+23	-23407324345	India	rahulrai
 23	-23417053314	Peru	srlps
 23	-23426803890	China	ZJQhcho
 23	-23432434347	Japan	jackee777
@@ -13898,7 +13928,6 @@ Score	Penalty	Country	Name
 23	-26367486661	China	Flary
 23	-26370426458	India	aanu1143
 23	-26372271218	India	PrasannaSai
-23	-26375753243	China	FrankOnly
 23	-26387502696	India	GOPI511
 23	-26390880208	Vietnam	Zer0397
 23	-26390948961	India	Aditya_Kaushik
@@ -14106,7 +14135,6 @@ Score	Penalty	Country	Name
 23	-27705718514	India	Jahnavi_M
 23	-27705780048	India	Code_Warrior
 23	-27706415973	Sri Lanka	dunu008
-23	-27709427757	Bangladesh	saadi_23
 23	-27726644180	China	HTang
 23	-27728928001	India	JARVIS1729
 23	-27742454100	India	rbjoshi1309
@@ -14171,7 +14199,6 @@ Score	Penalty	Country	Name
 23	-28192466974	India	sandhu0402
 23	-28193855121	Pakistan	Algo_Geeks
 23	-28195632325	India	devender123
-23	-28219680093	Japan	aircon
 23	-28220016911	Switzerland	ann137
 23	-28231355235	India	sumanta1234
 23	-28250460556	India	mohantadala
@@ -14264,7 +14291,6 @@ Score	Penalty	Country	Name
 23	-28781523376	India	myself_chirag
 23	-28782087937	India	Creator5923
 23	-28783695104	India	Vaibhavgoyal02498
-23	-28783936667	India	Ts27
 23	-28784505625	India	HeathCliff
 23	-28784537153	India	aswintechguy
 23	-28785053554	India	Code_aashi
@@ -14372,6 +14398,7 @@ Score	Penalty	Country	Name
 23	-29509736679	India	GSK
 23	-29511244176	India	_SaMmY_
 23	-29542348788	India	pranitnigde
+23	-29566446181	India	Jeet611
 23	-29566446181	India	Jeet611
 23	-29568398231	Japan	mkmkmk
 23	-29579633453	India	kulden04
@@ -14572,7 +14599,6 @@ Score	Penalty	Country	Name
 23	-30842899608	India	avpk
 23	-30850060819	Malaysia	Vincent1218
 23	-30855045605	Pakistan	bilalbro
-23	-30858674003	India	TejaswiniSangana
 23	-30868731119	Sri Lanka	Piumal1999
 23	-30874055511	India	shail31
 23	-30874330470	India	vishalyadav0804@gmail.com
@@ -14640,7 +14666,6 @@ Score	Penalty	Country	Name
 23	-31206772073	India	rishabh99
 23	-31213787402	India	solved_it_!!
 23	-31213929654	India	sagarNagrani
-23	-31221336685	Taiwan	wwaraceli
 23	-31236505952	India	mukulchaturvedi382@gmail.com
 23	-31240041941	India	badayayash
 23	-31240818225	India	tushar20
@@ -14773,6 +14798,7 @@ Score	Penalty	Country	Name
 23	-31964133949	Japan	akihanari
 23	-31965019084	India	vaibhavpuri32@gmail.com
 23	-31971759682	India	vatsalkevadiya
+23	-31975672255	India	Swapnil_99007
 23	-31975672255	India	Swapnil_99007
 23	-31982432363	Vietnam	romqn1999
 23	-31986694735	United States	soumyab
@@ -14937,7 +14963,6 @@ Score	Penalty	Country	Name
 23	-32951412080	India	majorssn
 23	-32957910552	Germany	Technipion
 23	-32961137751	India	HardikHarti
-23	-32985581177	South Korea	b1ackhand
 23	-33016080844	China	rosalio
 23	-33031941515	India	nmnnhr
 23	-33040922485	India	deepjuly90
@@ -14956,7 +14981,6 @@ Score	Penalty	Country	Name
 23	-33105420458	India	rjt_seth
 23	-33106875377	Canada	edy3
 23	-33108152988	Ukraine	qwertyk
-23	-33110114770	Bangladesh	Badhansen
 23	-33116582724	Vietnam	AnthonyLe
 23	-33119406706	India	Hrishabh1729
 23	-33126347044	India	Veenanitk
@@ -15075,7 +15099,6 @@ Score	Penalty	Country	Name
 23	-33749160515	India	Tejasvi_murukuri
 23	-33756411322	India	wingman__7
 23	-33760482556	India	ez4CP
-23	-33767526114	Sri Lanka	Rishoban
 23	-33769710800	India	khush_1904
 23	-33772703710	India	ShivangiMishra_09
 23	-33776378813	India	shailesh99
@@ -15086,7 +15109,6 @@ Score	Penalty	Country	Name
 23	-33795079314	India	sahaniarjun
 23	-33796805916	India	Sagar_C
 23	-33801285605	Argentina	Mayla10
-23	-33802512186	Vietnam	Ghost96
 23	-33811660294	Cambodia	sokheng
 23	-33817409814	India	aditya_vik
 23	-33824573123	India	Simreeta
@@ -15411,7 +15433,6 @@ Score	Penalty	Country	Name
 23	-35574377316	India	thinWhiteDuke
 23	-35575679809	United Kingdom	bat34
 23	-35585528537	India	ankit_groot
-23	-35590444294	Vietnam	tnlong1997
 23	-35593492229	India	themarauder
 23	-35595369102	India	piyushgrv
 23	-35597282990	India	thor_12
@@ -15573,13 +15594,11 @@ Score	Penalty	Country	Name
 23	-36373148885	India	dattalasurkar
 23	-36374083081	Bangladesh	Imrankabir
 23	-36384404553	India	W47
-23	-36390283580	India	Anurag1299
 23	-36390684660	India	sanchitminda
 23	-36405688556	India	alphatrance
 23	-36413633732	Taiwan	03t
 23	-36413964126	Bangladesh	shihabsikder
 23	-36421216329	France	elxse
-23	-36423069459	Mongolia	SaruulbuyanMunkhtur
 23	-36425076123	Hong Kong	dandarawy
 23	-36436249544	South Korea	chahong
 23	-36447812607	India	i_am_ironMan
@@ -15779,6 +15798,7 @@ Score	Penalty	Country	Name
 23	-37279792496	United States	Xunl
 23	-37290583672	India	Suraj_Patil
 23	-37290930245	Poland	patryk.k
+23	-37293607860	France	nanhopper
 23	-37293607860	France	nanhopper
 23	-37300119428	France	OphelieBl
 23	-37307207426	India	Bimal
@@ -16053,7 +16073,6 @@ Score	Penalty	Country	Name
 23	-38489003844	India	Anujmundra
 23	-38492455790	South Africa	Issssaaaaaaaaaaaaaahhhhhhhhhhh
 23	-38501692809	India	senbonzakura_k
-23	-38509302043	India	IronBlooded
 23	-38512965306	India	code_struck
 23	-38515107609	Israel	shmeni
 23	-38517535102	India	Sasank_1829
@@ -16300,7 +16319,6 @@ Score	Penalty	Country	Name
 23	-39468310877	South Korea	jygsim
 23	-39469001163	Indonesia	evanarlian
 23	-39469668590	India	ch.yasaswini
-23	-39472748060	India	mohitchandrak
 23	-39474841267	Switzerland	gGil
 23	-39479032221	India	JeevanJyot
 23	-39480087681	India	Tacomaster62
@@ -16315,7 +16333,6 @@ Score	Penalty	Country	Name
 23	-39516312672	South Korea	MagicDog
 23	-39517871876	India	Hamza314159
 23	-39521490678	India	cbyte
-23	-39523584525	Russia	Dima.Cat.2016
 23	-39523619642	India	dhanraj322
 23	-39524488513	India	samjoe
 23	-39524895377	India	ettamsettySaiDheeraj
@@ -16382,7 +16399,6 @@ Score	Penalty	Country	Name
 23	-39697299758	India	BeeepBeeep
 23	-39699103983	India	Cheenusoni
 23	-39699382801	Singapore	Aadit
-23	-39703097211	India	Ashusoni2211
 23	-39705753066	India	dedsec_29
 23	-39715307468	India	harshoo3
 23	-39715434514	India	Arjun2908
@@ -16412,7 +16428,6 @@ Score	Penalty	Country	Name
 23	-39806771152	Sri Lanka	MadDinu
 23	-39807209827	India	ak-bhatia
 23	-39809621377	India	sourabhgome
-23	-39809641493	Israel	MoloxMBA
 23	-39817131650	India	mohdsadiq058
 23	-39828130719	India	Vizay08
 23	-39832638879	India	SuryanshSangwan
@@ -16421,7 +16436,6 @@ Score	Penalty	Country	Name
 23	-39845007976	India	csahu3008
 23	-39852293947	New Zealand	tom7496@gmail.com
 23	-39853452008	Denmark	tp2750
-23	-39853458729	India	Devanshi_37
 23	-39858886736	India	DevChauhan
 23	-39864237115	India	amucoder
 23	-39866666059	Italy	mscuttari
@@ -16513,7 +16527,6 @@ Score	Penalty	Country	Name
 23	-40134219792	India	Venkatraj
 23	-40137620771	India	Sufy++
 23	-40138897887	India	Shailu_99
-23	-40141112855	Ukraine	SAeed
 23	-40141239582	India	Shubham0706
 23	-40143319002	Luxembourg	fitashulhaq@hotmail.com
 23	-40147972341	India	adroitanubhav
@@ -16586,6 +16599,7 @@ Score	Penalty	Country	Name
 23	-40434256763	India	Devaishi.Tiwari
 23	-40437455037	United States	Bryan004
 23	-40440548528	India	Naga_Nikhil
+23	-40440548528	India	Naga_Nikhil
 23	-40447265350	India	Spartas
 23	-40449724383	Sri Lanka	chathulanka
 23	-40451188349	India	vikuman
@@ -16621,7 +16635,6 @@ Score	Penalty	Country	Name
 23	-40566976634	India	Ankit02
 23	-40572330708	United States	MinasTirith
 23	-40573109135	India	garvitasinghvi
-23	-40574373744	Bangladesh	shakil.ahamed
 23	-40583805517	India	abhinesh
 23	-40584258441	India	royal_1456
 23	-40587626141	Japan	sasaki0487
@@ -16630,13 +16643,11 @@ Score	Penalty	Country	Name
 23	-40617913066	India	rupinderg00
 23	-40624090677	India	swaraj.renghe
 23	-40626515538	India	Ingenium1729
-23	-40628116211	Croatia	Lovro
 23	-40633139143	India	aadhart
 23	-40644011969	India	shivam1297
 23	-40644343151	India	DivyanshuJain
 23	-40644468525	Turkey	AlpAribal
 23	-40649938309	India	skywalker_
-23	-40654241551	Switzerland	lorenzo.laneve
 23	-40654797117	Spain	imharvol
 23	-40658712557	India	salonimundra4
 23	-40664251038	Malaysia	FishDinner
@@ -16746,7 +16757,6 @@ Score	Penalty	Country	Name
 23	-41010905055	India	chits
 23	-41010932002	Tunisia	Volgin
 23	-41015785593	Czech Republic	myke_
-23	-41019798763	Russia	e.r.
 23	-41019911739	Israel	Shrimmyboy
 23	-41021320611	Bulgaria	svkolev
 23	-41022283681	Germany	prmatl
@@ -16891,7 +16901,6 @@ Score	Penalty	Country	Name
 23	-41408075857	India	Lovish_22
 23	-41409789873	India	ashishgupta20
 23	-41410594068	India	bhavyak99
-23	-41411110565	Japan	imulan
 23	-41413079161	India	advenchaa
 23	-41420421534	Egypt	HassanRezk
 23	-41422064714	India	akshita007
@@ -16947,7 +16956,6 @@ Score	Penalty	Country	Name
 23	-41580298274	Russia	Alexiski
 23	-41582210957	Decline to Answer	NewPlayer
 23	-41586924457	India	prtk_pandit
-23	-41589668475	India	monstar
 23	-41594356700	India	KnightKnight27
 23	-41603808797	India	agsidd10
 23	-41604896199	France	mitsubachimaya
@@ -16988,7 +16996,6 @@ Score	Penalty	Country	Name
 23	-41705314894	Czech Republic	Fila
 23	-41706975385	India	shivahuja
 23	-41708246529	India	TheAura
-23	-41711235823	India	Devanshi345
 23	-41712163714	China	+
 23	-41712726240	India	noice.and.smort
 23	-41726649056	India	jaastha86
@@ -17003,7 +17010,6 @@ Score	Penalty	Country	Name
 23	-41742821444	Hong Kong	Holicklis
 23	-41745715633	India	UmaSaisree_123
 23	-41749286081	Bangladesh	Sakib310
-23	-41754145323	India	mohnishsalian
 23	-41758159336	Azerbaijan	Lenur
 23	-41770990217	Malaysia	howsiyu
 23	-41773441319	India	mishra-tanay
@@ -17020,7 +17026,6 @@ Score	Penalty	Country	Name
 23	-41804276473	India	rachanaJ
 23	-41804767224	India	sid_tripathi
 23	-41806417255	France	caspanif
-23	-41806903653	Brazil	dilsonguim
 23	-41807786903	India	shubham_2503
 23	-41809466549	India	raman22feb1988
 23	-41809539258	India	Ananya_jain
@@ -17131,7 +17136,6 @@ Score	Penalty	Country	Name
 23	-42080228754	India	Haritha011
 23	-42088336350	India	arrow_t
 23	-42090358443	India	Shivam8307
-23	-42100562349	Russia	vmos1999
 23	-42101324484	India	sunsh1ne
 23	-42102694461	India	foolmarshal
 23	-42104345717	China	liyongqishiwo
@@ -17478,7 +17482,6 @@ Score	Penalty	Country	Name
 23	-43016605588	India	hellohound
 23	-43019759347	India	sorthi
 23	-43019840829	France	Uriopass
-23	-43020379567	India	Dishant_18
 23	-43020506376	India	Stark16
 23	-43021582829	Decline to Answer	spavel
 23	-43024051587	India	eNJay
@@ -17493,7 +17496,6 @@ Score	Penalty	Country	Name
 23	-43059652190	India	drowsy
 23	-43061763083	Poland	rforrester
 23	-43067015675	Switzerland	giadu
-23	-43068553083	Norway	qt_
 23	-43070648757	Australia	WarwickThug
 23	-43071686779	Ukraine	manfrommoon
 23	-43072089775	Vietnam	N4M
@@ -17680,15 +17682,48 @@ Score	Penalty	Country	Name
 23	-43528482151	India	Ananthanarayanan
 23	-43535575484	India	MagnusJackson
 23	-43539899597	United Kingdom	ProgramPaNo
-23	-43546101894	Taiwan	kamyu
 23	-43546275522	India	piyush110
 23	-43546893682	Bangladesh	shahan
 23	-43547500484	Japan	suna
+23	-43549521528	Venezuela	ruvasqm
+23	-43550772995	India	akhil
+23	-43552053355	India	spooky__boogie
 23	-43556659844	Netherlands	Nde-wild
+23	-43558707718	Hungary	Mizso
+23	-43559435155	India	nitish235
 23	-43559736333	South Korea	FabulousK
+23	-43562564780	Lithuania	THoVer
+23	-43563789496	India	sjteckers
+23	-43565255446	India	jeevanmali
+23	-43565697710	India	Tejas#
+23	-43567634094	Russia	Stasana
+23	-43567673394	India	pruthvi0105
+23	-43570959681	India	shravanshyamshetty
+23	-43572155440	Hong Kong	Ceric
+23	-43573478052	Israel	gilbe
+23	-43574771606	India	parth546
+23	-43577835546	Bangladesh	HAL-9000
+23	-43580287498	Romania	casian
+23	-43584894899	Spain	vodor
+23	-43586445221	India	Tanvi_Garg
+23	-43589900601	Egypt	ahm.kam92@gmail.com
+23	-43593709744	India	softhax
+23	-43593867808	Thailand	B-4
+23	-43596479508	India	21171_somesh
+23	-43596639791	India	bagga007
+23	-43597644839	India	Pooji_11
 23	-43598604011	India	dankcoder
+23	-43598685925	Israel	evp
+23	-43601085859	Germany	Gorkem
+23	-43607205062	Taiwan	oscarchichun
 23	-43607957871	India	Finding_Infinity
+23	-43612008896	India	aaronstone
+23	-43612643314	United Kingdom	gc.code
+23	-43618049928	Japan	ksaw
 23	-43618898768	India	Niteshnanda02
+23	-43619343557	India	ramrathi
+23	-43621588314	India	RAJNEESH3.1428
+23	-43621679708	Ukraine	flyb1z0n@gmail.com
 23	-43626937116	India	Soham1192k
 23	-43639043093	Egypt	AhmedYousry
 23	-43646827186	Israel	etluir
@@ -17707,15 +17742,27 @@ Score	Penalty	Country	Name
 23	-43767977000	Italy	valerio.massimo
 23	-43781692768	Germany	cadac
 23	-43785936534	Hong Kong	llwong
+23	-43794158336	Bangladesh	fahimfarhan
 23	-43814459754	Thailand	Zanmato
+23	-43838331595	France	Tewdrig
+23	-43840003472	Ukraine	den_di
+23	-43845479085	Thailand	Nonira
+23	-43854137221	India	Kunal_76
+23	-43856487363	India	exception
+23	-43858504450	India	ar26
 23	-43878775410	Ukraine	okosiakova
 23	-44012957793	India	SuhasHegde
 23	-44025748480	Japan	Kuraot
+23	-44031114350	India	ManasaUdathu
 23	-44078055868	Israel	jinksbot
 23	-44232489163	India	rajeshwar1993
+23	-44579205223	India	krishnam_rathi
 23	-44669683716	Romania	Kiri01
 23	-44781963871	India	AJ13683
+23	-44800832325	India	serialgeek
+23	-45252907774	India	satyamshree22
 23	-45375198404	India	nfsboy
+23	-46972226837	India	abdullah_omer
 20	-40291858831	Russia	dimitribelikov
 19	-6714835449	India	BRTA
 19	-8106623481	Canada	MelMatt
@@ -17755,7 +17802,6 @@ Score	Penalty	Country	Name
 19	-40448430887	Taiwan	Ricky1121
 19	-40960792215	India	Newbie358
 19	-41390143473	India	akshat98
-19	-41512281346	China	sumuzhe
 19	-41757067337	India	kabir_roop
 19	-42323129812	Bangladesh	Takik
 19	-42382611638	India	indirectonly8
@@ -17942,7 +17988,6 @@ Score	Penalty	Country	Name
 16	-41946715377	India	Manish2511
 16	-42013624127	Hungary	matyusmilan
 16	-42218980779	India	paras1010
-16	-42281363716	India	ramrathi
 16	-42464681281	India	AakashA
 16	-42486235265	Singapore	abogushevsky
 16	-42518427602	India	codenoob22
@@ -17954,7 +17999,6 @@ Score	Penalty	Country	Name
 16	-42798278675	India	Sindhura123
 16	-42870326906	India	@pujitha
 16	-42878704948	India	tibialAcorn98
-16	-42928929625	India	sjteckers
 16	-42953551482	Vietnam	songoku2002
 16	-42956998208	Germany	mpt2
 16	-42962694486	India	anshulgarg
@@ -17970,6 +18014,7 @@ Score	Penalty	Country	Name
 16	-43437836012	India	Praveenjoshi
 16	-43513037664	Germany	BananaNosh
 16	-43527501561	India	bhupinder2121221
+16	-43569218442	India	sumedh_a_k
 14	-8731058168	Egypt	GeekNinja
 14	-9511774645	Belgium	Thierry14
 14	-13305701837	India	Abhi_Rathour
@@ -18407,7 +18452,6 @@ Score	Penalty	Country	Name
 12	-32722442096	United States	lobo78
 12	-32774502873	India	aayushdubey.2
 12	-32792222397	India	gayatrireddy
-12	-32793701127	India	serialgeek
 12	-32868181565	Israel	Roibaron
 12	-32953685914	Hong Kong	LambdaHK
 12	-32980885885	China	RWBY_LJX
@@ -18517,7 +18561,6 @@ Score	Penalty	Country	Name
 12	-36755430787	Jordan	Hamzza
 12	-36821784141	India	suvidha
 12	-36864364853	India	ajtg08021996
-12	-36885242638	India	krishnam_rathi
 12	-36906971182	India	decy
 12	-36927599549	Bangladesh	tareqjoy
 12	-36973154592	China	Exile0623
@@ -18556,12 +18599,6 @@ Score	Penalty	Country	Name
 12	-37999722036	India	NamanMarvel
 12	-38037750365	India	BunnyPrince
 12	-38076788859	India	Issue
-12	-38080971679	India	artlup
-12	-38105125429	India	kharsh032
-12	-38214092887	Morocco	Redones
-12	-38232244397	India	Gary115
-12	-38249225446	India	Praveenax
-12	-38312151066	Italy	viciopoli
 12	-38348015831	India	ravikj17
 12	-38354105670	India	Rinzler123
 12	-38388047997	India	sunilbajpai
@@ -18618,7 +18655,6 @@ Score	Penalty	Country	Name
 12	-39685663173	India	AnandRaj001
 12	-39750682008	India	avi15
 12	-39756497698	Turkey	HOsenses
-12	-39768179927	India	satyamshree22
 12	-39790493738	Romania	tudorgalatan
 12	-39797998758	India	IamAditya
 12	-39815760829	India	Anikett
@@ -18754,11 +18790,15 @@ Score	Penalty	Country	Name
 12	-42516142876	India	Manvirthecoder
 12	-42535336815	India	Enigma1729
 12	-42540183632	Hungary	kalmantas
-12	-42548861925	Bangladesh	fahimfarhan
 12	-42550032456	Lithuania	raskana
 12	-42583950514	India	VAMSIJANAKIRAM
 12	-42620587974	India	paras15
 12	-42644933575	Oman	N33R4J
+12	-42654726060	India	rustagishubhi
+12	-42662510279	India	mann2108
+12	-42673490704	India	MCL_35
+12	-42687115980	India	rishabmsaini
+12	-42694196550	South Africa	marlan
 12	-42654726060	India	rustagishubhi
 12	-42662510279	India	mann2108
 12	-42673490704	India	MCL_35
@@ -18773,7 +18813,6 @@ Score	Penalty	Country	Name
 12	-42788478101	India	kahitriShrini
 12	-42819176561	India	Sdsv
 12	-42834369317	India	lokij17
-12	-42840949284	India	ManasaUdathu
 12	-42858415446	India	XlR8eR
 12	-42876623496	Indonesia	donbasta
 12	-42894320118	India	Dattu219
@@ -18794,7 +18833,6 @@ Score	Penalty	Country	Name
 12	-43200972224	United Kingdom	hxuanhung
 12	-43265774019	India	mikku18
 12	-43276240305	India	Naveenraj
-12	-43291896450	India	exception
 12	-43293696714	India	sushmaunnibhavi
 12	-43316702276	India	Sankalan7
 12	-43335524666	India	eulerx
@@ -18806,7 +18844,6 @@ Score	Penalty	Country	Name
 12	-43386732386	Italy	antmesch
 12	-43395126830	Ukraine	iSlava
 12	-43415166980	India	dhirajfx3
-12	-43438734286	Ukraine	den_di
 12	-43446880501	India	chikkuttan
 12	-43450356406	Australia	kalyke
 12	-43458824844	India	ujjk2910
@@ -18818,9 +18855,12 @@ Score	Penalty	Country	Name
 12	-43505251377	India	predator1999
 12	-43541241577	China	BossRao
 12	-43562549792	Turkey	Emrekilinc
+12	-43568833088	India	Fearless26
+12	-43606326354	Turkey	pastirma
+12	-43615129522	Kazakhstan	yernar
 12	-43634208708	India	Ronan_Jehnna
 12	-43691848885	Taiwan	c88tm
-12	-45814801567	India	abdullah_omer
+12	-44093229531	India	harsh9500
 8	-17192558426	Australia	PyGeek03
 8	-35461657501	India	pragyachik
 8	-42570061173	Philippines	stPio
@@ -19359,11 +19399,6 @@ Score	Penalty	Country	Name
 7	-7949349870	Colombia	SantiagoOcampoOrrego
 7	-7960245901	India	manju786
 7	-8003798852	United States	pfflanders
-7	-8034191382	Tunisia	omran
-7	-8064444547	Argentina	AgustinaSander
-7	-8068788717	United States	cherry324
-7	-8106393945	India	emiya_007
-7	-8108602432	United States	malcolmcanterbury
 7	-8114262670	India	ajaymodi
 7	-8116670570	India	Locura
 7	-8139140472	India	madhan_google
@@ -19426,7 +19461,6 @@ Score	Penalty	Country	Name
 7	-8979492489	United States	rwhitman2017
 7	-8991435761	Peru	roypalacios
 7	-9004580337	United States	svellal@gmail.com
-7	-9029481023	France	Tewdrig
 7	-9054171079	Brazil	rennanrocha
 7	-9056810874	South Africa	bytethepeach
 7	-9058096171	United States	neuhaus17
@@ -19565,6 +19599,11 @@ Score	Penalty	Country	Name
 7	-12036895770	India	Deep_s
 7	-12083659801	United States	tameema
 7	-12111285232	Colombia	black.gersain
+7	-12006077469	United States	Jayavardhani
+7	-12008209571	India	patidarparas13
+7	-12036895770	India	Deep_s
+7	-12083659801	United States	tameema
+7	-12111285232	Colombia	black.gersain
 7	-12118046594	Switzerland	Souchti
 7	-12130980755	Indonesia	derricklim
 7	-12141492455	Brazil	HugoLeo
@@ -19669,7 +19708,6 @@ Score	Penalty	Country	Name
 7	-14087670764	United States	captaincrash123
 7	-14102774940	Mexico	betojulio
 7	-14121566586	United States	RutujaRane
-7	-14178455874	India	jeevanmali
 7	-14212332359	India	kp99
 7	-14273453637	Philippines	Yum098
 7	-14299320810	India	Younoknowme
@@ -19735,7 +19773,6 @@ Score	Penalty	Country	Name
 7	-15371984763	China	zealscott
 7	-15433372356	United States	crosby87
 7	-15439634584	India	PiBi
-7	-15442442201	Venezuela	ruvasqm
 7	-15457625387	India	prerit_2001
 7	-15463259511	Bolivia	lusho2_0
 7	-15467123485	Colombia	Dualker
@@ -20152,7 +20189,6 @@ Score	Penalty	Country	Name
 7	-21691708821	India	vedantm24
 7	-21700324658	China	tctco
 7	-21701571984	India	avradip08
-7	-21706894796	India	harsh9500
 7	-21718535679	Mexico	Dambrocio
 7	-21753251266	India	nicannk
 7	-21753974581	India	Sahhill
@@ -20163,11 +20199,6 @@ Score	Penalty	Country	Name
 7	-21799514846	India	Coding_ninja
 7	-21820926596	Kazakhstan	kaskabayev
 7	-21820952945	United States	sambuddhabasu1
-7	-21828582390	India	aditya_221
-7	-21836018798	Mexico	Tony_toga
-7	-21837655833	India	Harshk
-7	-21838901045	Nepal	Rabin007
-7	-21839298425	India	DeepanshuNikhil
 7	-21845294357	United States	totzke
 7	-21854162496	India	Srinidhi.C
 7	-21857804698	Taiwan	dongFIN
@@ -20363,6 +20394,11 @@ Score	Penalty	Country	Name
 7	-24040279983	Australia	__jordanu
 7	-24049303532	United States	yh3226
 7	-24053448047	India	dhruv120399
+7	-24062293096	India	MohitThorat
+7	-24067954086	India	mr_bist
+7	-24072520587	Sri Lanka	Thiwanka
+7	-24077267431	India	metalcoder@1997
+7	-24085428081	India	samyakjain30
 7	-24062293096	India	MohitThorat
 7	-24067954086	India	mr_bist
 7	-24072520587	Sri Lanka	Thiwanka
@@ -20590,7 +20626,6 @@ Score	Penalty	Country	Name
 7	-26236721677	Saudi Arabia	Joe'sBoilingPoint
 7	-26243794776	Japan	Reider
 7	-26246486442	India	kun925
-7	-26247945486	India	parth546
 7	-26249411928	India	osb13
 7	-26252134546	India	danielpushparaj
 7	-26264068941	India	priyansh22
@@ -21339,7 +21374,6 @@ Score	Penalty	Country	Name
 7	-31409246305	South Korea	jeonghwa
 7	-31409848049	India	aumverma
 7	-31414399114	India	YaSunMil
-7	-31422464856	India	shravanshyamshetty
 7	-31422968469	Mexico	Oxim
 7	-31438397831	India	soumyajit__sen
 7	-31440784085	India	say_ch_ee_zz
@@ -21467,7 +21501,6 @@ Score	Penalty	Country	Name
 7	-32286120965	India	BhavanshuJain
 7	-32291558785	Bangladesh	_labib
 7	-32299647518	India	yaman007
-7	-32309605585	India	RAJNEESH3.1428
 7	-32322681716	Mexico	josecarlosgarcia
 7	-32325856031	India	MD_Puneeth
 7	-32330161180	India	Yadavji
@@ -21476,7 +21509,6 @@ Score	Penalty	Country	Name
 7	-32339758330	India	blanc251299
 7	-32342614485	Vietnam	vinhle
 7	-32343843832	India	hitmen
-7	-32344744201	Taiwan	oscarchichun
 7	-32355178817	India	advir
 7	-32359842888	India	sreechaitanya.y@gmail.com
 7	-32364487875	India	garou
@@ -21767,10 +21799,6 @@ Score	Penalty	Country	Name
 7	-34116097506	India	rj_jain_me
 7	-34126371370	China	ywk
 7	-34128012075	India	ajnirp
-7	-34137074327	Poland	Delcior
-7	-34139545614	India	BhawanaWadhwani
-7	-34139565609	Australia	Rakshithr
-7	-34146247031	India	YashKo
 7	-34152588851	United States	yinda
 7	-34154885366	India	Saboss
 7	-34155222057	India	paul.xerexes07
@@ -21801,7 +21829,6 @@ Score	Penalty	Country	Name
 7	-34325024424	Bangladesh	ahmfuad
 7	-34325668294	Bangladesh	flash_7
 7	-34326236236	Indonesia	yanuar
-7	-34332026986	India	aaronstone
 7	-34336047323	India	Chihnitha
 7	-34338714283	India	pankaj201234
 7	-34343425841	Indonesia	Clapie
@@ -21932,7 +21959,6 @@ Score	Penalty	Country	Name
 7	-35041362368	India	sagar_badiyani
 7	-35050211321	Poland	mdragula
 7	-35054141594	India	rishabh_runwal
-7	-35057100053	India	Tejas#
 7	-35075364395	Greece	yannisvl
 7	-35075802058	South Africa	Marelette
 7	-35076577325	India	foool
@@ -21969,6 +21995,10 @@ Score	Penalty	Country	Name
 7	-35329423384	India	goku1999
 7	-35337533965	India	MyChin
 7	-35347359938	Bangladesh	Bekon0700
+7	-35347371779	India	pujith22
+7	-35353077139	India	sanyamg08
+7	-35355862830	India	KiraYagamI
+7	-35365158054	United Kingdom	JuliaTatad
 7	-35347371779	India	pujith22
 7	-35353077139	India	sanyamg08
 7	-35355862830	India	KiraYagamI
@@ -22116,7 +22146,6 @@ Score	Penalty	Country	Name
 7	-36164227892	India	JaYdiP
 7	-36179815568	Bangladesh	PiasRoY
 7	-36182490100	India	pranav1812
-7	-36183257766	Germany	Gorkem
 7	-36186642354	Thailand	Tarang.j
 7	-36187887573	India	TheAdityashukla
 7	-36189935055	India	namrohit
@@ -22164,7 +22193,6 @@ Score	Penalty	Country	Name
 7	-36511956963	United States	masudhasan
 7	-36527556275	India	Jhon-snow
 7	-36528410746	India	ooz
-7	-36533167252	India	Fearless26
 7	-36543003923	Bangladesh	mrhabib990
 7	-36545599401	Albania	MarinMaksutaj
 7	-36555778482	United States	username0875
@@ -22257,7 +22285,6 @@ Score	Penalty	Country	Name
 7	-37065093253	Bangladesh	mh_khan
 7	-37067371510	India	MuniRK
 7	-37067645888	Hungary	CSoB
-7	-37067816225	Israel	evp
 7	-37068358394	India	satwato
 7	-37080413263	India	Rubina156
 7	-37085070864	Israel	OrEliP
@@ -22528,7 +22555,6 @@ Score	Penalty	Country	Name
 7	-38512803945	India	vastue
 7	-38516464869	India	sh00nya
 7	-38517249478	India	Appy2000
-7	-38517571810	India	akhil
 7	-38519414845	Bangladesh	rakinrkz
 7	-38520300614	Bangladesh	ashraful9194
 7	-38523415284	Ukraine	acnipih
@@ -22770,7 +22796,6 @@ Score	Penalty	Country	Name
 7	-39737740629	South Korea	Ryudnar
 7	-39743298581	India	imabhi7728
 7	-39743384691	India	rutvik_chauhan
-7	-39760751317	India	Tanvi_Garg
 7	-39762428370	Lithuania	n3ziniuka5
 7	-39767146312	China	shehebe
 7	-39769404018	India	Redemptioner
@@ -22934,11 +22959,9 @@ Score	Penalty	Country	Name
 7	-40440915095	India	apurvakb
 7	-40442546065	India	shiva2601
 7	-40450249881	India	codeSilver
-7	-40452478837	India	Kunal_76
 7	-40455884150	Bangladesh	ahnaf_41
 7	-40457474040	South Africa	smQQth
 7	-40459882641	India	rineeth_007
-7	-40460151923	Turkey	pastirma
 7	-40460950007	Zimbabwe	malvinnyahwai
 7	-40462764108	India	SivapriyaDreamer
 7	-40462924674	India	Kunaltaylor
@@ -22999,6 +23022,11 @@ Score	Penalty	Country	Name
 7	-40661299921	India	jagadjaina06@
 7	-40662397841	India	iamapoorva
 7	-40663345008	India	Dhurka
+7	-40667848404	India	Deenadayal
+7	-40671774477	Finland	YtalYa
+7	-40674849705	India	0nurag
+7	-40676632380	India	Gijdufudeyg
+7	-40681219036	India	suni27
 7	-40684305310	France	v-perez
 7	-40685466907	United States	robcas
 7	-40688446183	India	Pradeep12
@@ -23017,7 +23045,6 @@ Score	Penalty	Country	Name
 7	-40730310736	India	_jyo_
 7	-40732853546	India	Sabuit
 7	-40733721006	Bangladesh	saffatbokul
-7	-40753084049	Lithuania	THoVer
 7	-40756366505	Italy	Giulio
 7	-40757041060	India	shreyaasharma
 7	-40758265449	India	karthik_28
@@ -23042,7 +23069,6 @@ Score	Penalty	Country	Name
 7	-40855550547	India	visluck
 7	-40860722784	France	Eigho
 7	-40862550566	India	Ktm17
-7	-40862569484	India	softhax
 7	-40868049624	China	To_Themoon
 7	-40868881419	India	shadowroot
 7	-40869251935	Bangladesh	maruf_rahad
@@ -23087,7 +23113,6 @@ Score	Penalty	Country	Name
 7	-40995750617	Hong Kong	xavhl
 7	-41003621376	India	rootedguy24
 7	-41025064946	Hungary	BeniEgressy
-7	-41027614034	India	21171_somesh
 7	-41028644784	India	kalaivanan
 7	-41030057313	Bangladesh	Rabrab
 7	-41030302122	India	bot_vig
@@ -23124,7 +23149,6 @@ Score	Penalty	Country	Name
 7	-41116505782	Croatia	kaizokuLucy
 7	-41119858869	Indonesia	Demonster
 7	-41121142659	Japan	RogueEngineer
-7	-41124675017	Hungary	Mizso
 7	-41130378689	India	rahulsingh_r_
 7	-41130438954	India	siraj19176
 7	-41134243081	India	Vamjangi
@@ -23151,12 +23175,10 @@ Score	Penalty	Country	Name
 7	-41198926405	India	Saketh1605
 7	-41200541611	United States	andrew.ainbinder@gmail.com
 7	-41202589909	Hong Kong	cheungjai909
-7	-41206208130	Kazakhstan	yernar
 7	-41212968158	India	Safari_Mesh
 7	-41215921574	India	Sakshi75
 7	-41217623089	India	souravmishra110
 7	-41219213768	Switzerland	csapra
-7	-41220769578	India	nitish235
 7	-41221920070	India	ShobhitRamChaurasiya
 7	-41224515572	India	saquelain_hack_786
 7	-41224665378	India	sramanujan
@@ -23169,7 +23191,6 @@ Score	Penalty	Country	Name
 7	-41251699615	Serbia	Lazar_Mancic
 7	-41254188256	Bangladesh	Ssshanto
 7	-41254195326	Romania	Tralius
-7	-41261336095	Spain	vodor
 7	-41268932303	Bangladesh	farhan132
 7	-41269559896	India	anmolgoel4567
 7	-41272012430	India	Shubh1812
@@ -23178,9 +23199,6 @@ Score	Penalty	Country	Name
 7	-41289037942	Bangladesh	joynahiid
 7	-41289443322	India	5crub
 7	-41292117145	India	trustedtraitor
-7	-41293034895	Romania	casian
-7	-41293773471	India	zephyr97
-7	-41297650796	Poland	janwawruszczak1998
 7	-41306137952	India	pr2201
 7	-41308817736	Romania	Jackstil
 7	-41310585842	France	lifeofsmiith
@@ -23192,13 +23210,7 @@ Score	Penalty	Country	Name
 7	-41331465613	India	arun22
 7	-41331846321	France	Zhayrgh
 7	-41339432249	Lithuania	HabaBaba
-7	-41352898946	Thailand	B-4
 7	-41353588044	India	arnab.ghosh
-7	-41355425116	Germany	rmeertens
-7	-41357742146	Egypt	mostafa_9a7c2
-7	-41360673491	Italy	stefanov
-7	-41363399130	Bangladesh	Hillol_Talukdar
-7	-41363766065	Poland	var_random
 7	-41355425116	Germany	rmeertens
 7	-41357742146	Egypt	mostafa_9a7c2
 7	-41360673491	Italy	stefanov
@@ -23340,7 +23352,6 @@ Score	Penalty	Country	Name
 7	-41712861343	France	Braxxe
 7	-41713152280	India	Kartik1234
 7	-41719382541	India	SravsSravani
-7	-41720206323	Hong Kong	Ceric
 7	-41720888838	Israel	Mortalegacy
 7	-41723766199	India	kibi11
 7	-41723910184	Bangladesh	miton
@@ -23348,7 +23359,6 @@ Score	Penalty	Country	Name
 7	-41728009481	India	Mondal10
 7	-41730112812	Algeria	idtoufik
 7	-41730422134	India	MalayP98
-7	-41731710550	India	pruthvi0105
 7	-41735550886	India	saumyasinghz
 7	-41737927828	India	vinayvinnu
 7	-41742100678	Belgium	MrBurpy
@@ -23387,7 +23397,8 @@ Score	Penalty	Country	Name
 7	-41835796754	India	abhishekUpmanyu
 7	-41837777472	India	sahiljena
 7	-41840047025	India	aniket007
-7	-41842314774	Bangladesh	HAL-9000
+7	-41843848326	India	ry7mih
+7	-41848229130	Russia	adanil
 7	-41843848326	India	ry7mih
 7	-41848229130	Russia	adanil
 7	-41853172601	Bangladesh	Ruman_Hossain
@@ -23478,7 +23489,6 @@ Score	Penalty	Country	Name
 7	-42086978458	India	aashray
 7	-42091857385	India	SLR1999
 7	-42091930099	India	ViswaVarunDurvasula
-7	-42093407131	Egypt	ahm.kam92@gmail.com
 7	-42093542445	Ukraine	EKCIMEP
 7	-42094001371	Vietnam	texturer
 7	-42094594650	Bangladesh	Sukarna_Paul
@@ -23525,7 +23535,6 @@ Score	Penalty	Country	Name
 7	-42174174910	Sri Lanka	Cazci269
 7	-42175863686	South Korea	AnotherMo
 7	-42178584142	Taiwan	sshung
-7	-42186275011	United Kingdom	gc.code
 7	-42188815982	Ukraine	ptkvsk
 7	-42188980055	India	Yaswanth_Vattigunta
 7	-42189027509	India	Hatti
@@ -23633,8 +23642,6 @@ Score	Penalty	Country	Name
 7	-42482786741	Germany	Elyasin
 7	-42484098013	Denmark	NeFaX
 7	-42485856228	India	yogeshk4124
-7	-42486170046	Japan	ksaw
-7	-42486931008	Russia	Stasana
 7	-42488442846	Japan	tempfeil
 7	-42493825752	Sri Lanka	DSGimhana
 7	-42494434295	Ukraine	yskatarenko
@@ -23661,7 +23668,6 @@ Score	Penalty	Country	Name
 7	-42567588591	India	rajatjain101
 7	-42573849898	Belgium	Cbcasper
 7	-42577090305	Estonia	kenzhemir
-7	-42577473044	Ukraine	flyb1z0n@gmail.com
 7	-42578195851	India	garvit347
 7	-42585130805	India	]theCodeCzar
 7	-42586092395	India	avi43
@@ -23822,7 +23828,6 @@ Score	Penalty	Country	Name
 7	-42936566590	India	younus_md
 7	-42936695744	India	Manognasai_kolluri
 7	-42940436430	India	ParidhiSaxena
-7	-42942358751	Israel	gilbe
 7	-42942656593	India	v_v__devil
 7	-42943175468	India	PrasDixit
 7	-42945002987	France	EtherealUnagi
@@ -23884,7 +23889,6 @@ Score	Penalty	Country	Name
 7	-43064257087	Netherlands	dtrtrujillo
 7	-43068868992	India	bikram947
 7	-43069286746	Sweden	TobiasGlimmerfors
-7	-43075366696	India	spooky__boogie
 7	-43078702548	China	jackyan
 7	-43079177866	France	peddp9
 7	-43080886630	India	Duneja
@@ -23971,7 +23975,6 @@ Score	Penalty	Country	Name
 7	-43248144327	India	babyShark
 7	-43253919477	India	Tantalizer
 7	-43264695862	India	ayush99
-7	-43265441315	Thailand	Nonira
 7	-43266713510	India	g_m_s_nhbh
 7	-43267697230	Netherlands	Babz
 7	-43270500234	Slovakia	MiKra
@@ -24038,7 +24041,6 @@ Score	Penalty	Country	Name
 7	-43399841618	India	bubbyrohan
 7	-43400427419	India	shaunaq
 7	-43406877948	Ukraine	JustNadya
-7	-43407856151	India	bagga007
 7	-43408752399	Bulgaria	ha1vanka
 7	-43410360736	India	shubhhxmxx
 7	-43416391062	China	small_ling
@@ -24107,10 +24109,41 @@ Score	Penalty	Country	Name
 7	-43543054814	India	msms0505
 7	-43543204043	India	ashwanisrivastava
 7	-43543854962	India	ashishcoder
-7	-43546027026	India	Pooji_11
 7	-43547112509	India	mhardik003
+7	-43553301907	Russia	VArtem
+7	-43556162777	Tunisia	Hypatia
+7	-43556396876	India	harshitjaiswal27
+7	-43557541828	France	Morantxu
+7	-43561491599	India	mishra_jr.10
+7	-43563083472	India	hemantjoshi_123
+7	-43563185671	France	Tchou
+7	-43564781940	India	papi_chulo
+7	-43565104456	South Korea	jsohn
+7	-43568163532	China	kyonma
+7	-43569979470	Réunion	Marc974
+7	-43572892750	Estonia	Io
+7	-43572906581	Egypt	kareemfikry
+7	-43575118957	India	sahilshelangia
+7	-43577527355	India	Unny
+7	-43579632933	India	HardCoderr
+7	-43580154286	India	baghel_vikas
+7	-43587361815	South Korea	Angk
+7	-43591335457	Spain	Apa_Law
+7	-43597476999	Poland	VVz
+7	-43604836231	Russia	Murat
+7	-43606011430	India	suyasht99
+7	-43607569534	India	arora.shbm@gmail.com
+7	-43609146638	India	Anushkadubey
+7	-43609213917	India	Shahraaz
+7	-43609297576	South Africa	CodeRinger
+7	-43609748604	Netherlands	Cheeseit
+7	-43610547547	India	Zoravar_311
+7	-43611161610	India	Ambiencee
+7	-43612271764	Kazakhstan	fleur101
 7	-43641314624	India	SakshiGoel
 7	-43742129785	India	Harsh_HP
+7	-43792238231	New Zealand	prinseskat@gmail.com
+7	-43815861923	India	prashoo
 7	-43910532271	India	tanishq77
 7	-43993074129	India	M_a_v_e_r_i_c_k
 7	-44243145536	India	sameer2001
@@ -24160,238 +24193,433 @@ Score	Penalty	Country	Name
 5	-39514933480	Bangladesh	Talha999
 5	-39983078961	India	DEFAULT
 5	-40081152856	Malaysia	Johnas
-0	0	Afghanistan	ryhj
-0	0	Argentina	straza
-0	0	Bangladesh	RiyadHaque
-0	0	Bangladesh	arfin
-0	0	Bangladesh	farhan99
-0	0	Bangladesh	nazmul_anik
-0	0	Belarus	Artem_Galk
-0	0	Cape Verde	wagner_centeio
-0	0	China	1134953287@qq.com
-0	0	China	2624539241@qq.com
-0	0	China	Danielwang
-0	0	China	Lexaaa
-0	0	China	Lucas_wang
-0	0	China	jimmylai20001014@gmail.com
-0	0	Egypt	Salma.Hassan
-0	0	France	DorianNogneng
-0	0	France	c0lt_dgtl
-0	0	France	diodfr
-0	0	Greece	akisl
-0	0	Greece	thstamod
-0	0	Hong Kong	chunlam
-0	0	Hong Kong	normankong
-0	0	Hong Kong	percywtc
-0	0	India	06_kKage
-0	0	India	ABHRADIPTA
-0	0	India	Aditya1911
-0	0	India	Aditya22
-0	0	India	Anushkadubey
-0	0	India	AruneshK12
-0	0	India	Asticsco1324
-0	0	India	Atusha
-0	0	India	Ayush3982
-0	0	India	Ayushb07
-0	0	India	Bharath22
-0	0	India	Brijesh0808
-0	0	India	ChaitanyaT
-0	0	India	Chaitanyabsprip
-0	0	India	DINESH1021
-0	0	India	DarkKnight69
-0	0	India	Dark_shadow
-0	0	India	DeepikaBagaria
-0	0	India	Fauzdar
-0	0	India	Galaxy-Xmen
-0	0	India	GauravGulati
-0	0	India	Genesys_Coder
-0	0	India	Gopalk
-0	0	India	Hashtocode
-0	0	India	Hercules1010
-0	0	India	Ishanu
-0	0	India	Jaganaut_14
-0	0	India	Kasif
-0	0	India	Kuldeep20203
-0	0	India	LOHITAA
-0	0	India	Lekha18
-0	0	India	Neha_L
-0	0	India	NikitaB
-0	0	India	Nitin@123
-0	0	India	Patrick@12345
-0	0	India	Pranayreddy
-0	0	India	Prathyushadevara
-0	0	India	PujaSriSai
-0	0	India	PyBreaker
-0	0	India	PythionC
-0	0	India	Rahul2907
-0	0	India	Rahul_raj
-0	0	India	Rinivalaparla
-0	0	India	SIvayuVI
-0	0	India	SanketUmredkar
-0	0	India	SatyamRathod
-0	0	India	Saugata579
-0	0	India	ShineStar
-0	0	India	Shivanichinnu
-0	0	India	Shubham1121
-0	0	India	Siddhantkamat
-0	0	India	Simritha
-0	0	India	Smarty.Dev
-0	0	India	Snehalchaudhari
-0	0	India	Ssantosh12
-0	0	India	Sujoy_Seal
-0	0	India	Supdup
-0	0	India	Thilakreddy
-0	0	India	UNKNOWNcoder
-0	0	India	Ujju9945
-0	0	India	VARTUAL
-0	0	India	VaibhavSh24
-0	0	India	Vamsi123456
-0	0	India	Vansjaliya
-0	0	India	Vasvi.sood
-0	0	India	Vempati@puji
-0	0	India	VibhuVflo
-0	0	India	Vijya
-0	0	India	Vikash2020
-0	0	India	VivekS10
-0	0	India	Vtf05
-0	0	India	Womega
-0	0	India	YashTyagi0
-0	0	India	_cutalesious
-0	0	India	aadi2001
-0	0	India	akash1812
-0	0	India	algds
-0	0	India	almas_khan
-0	0	India	ameydev
-0	0	India	anand_kumar
-0	0	India	ankit7455
-0	0	India	ashwanisrivastava
-0	0	India	avcbcoder
-0	0	India	chakz
-0	0	India	charan_kazuto
-0	0	India	codejacker
-0	0	India	deepikathokala123@gmail.com
-0	0	India	evoque67
-0	0	India	gaganswarnkar
-0	0	India	gitarani227@gmail.com
-0	0	India	goldiebadjate
-0	0	India	hanakotoba
-0	0	India	harshitkumar
-0	0	India	impossibleshadowstorm
-0	0	India	invincible555
-0	0	India	jeevesh_1387
-0	0	India	kbh
-0	0	India	krunalkharat
-0	0	India	krushang
-0	0	India	kshyamano
-0	0	India	langan
-0	0	India	mayank98108@gmail.com
-0	0	India	mee1993
-0	0	India	nagasriram
-0	0	India	nikitaGautam
-0	0	India	ninja496
-0	0	India	nitingupta315
-0	0	India	nj323232
-0	0	India	okgoogle
-0	0	India	ontheqt
-0	0	India	parveeen
-0	0	India	prinku970
-0	0	India	pujithaasre
-0	0	India	rahuldashore
-0	0	India	ravi324
-0	0	India	s@mhith@
-0	0	India	sai_kiran_111904
-0	0	India	sakilapeddi
-0	0	India	sanskriti0512
-0	0	India	satwikj9584
-0	0	India	shammianand
-0	0	India	shashank73
-0	0	India	shiv@ds48
-0	0	India	singh.pushpraj088@gmail.com
-0	0	India	smkghs02
-0	0	India	soniya66
-0	0	India	sourav.saha40@gmail.com
-0	0	India	sreemo
-0	0	India	sunnny007
-0	0	India	tanmaychandra017
-0	0	India	upDown80
-0	0	India	utsav1k
-0	0	India	vemuripoojitha
-0	0	Indonesia	Azzzx
-0	0	Indonesia	khoer52
-0	0	Italy	aaandri98
-0	0	Japan	shukob
-0	0	Kenya	kajm
-0	0	Kyrgyzstan	Dan1k
-0	0	Lithuania	kaminskas.tomas@gmail.com
-0	0	Malaysia	rongshiu
-0	0	Mauritius	Mehfouz
-0	0	Netherlands	Hemantchamp
-0	0	Nigeria	HannahAde
-0	0	Nigeria	IAIP
-0	0	Pakistan	Cryptoman
-0	0	Pakistan	itsmuhammad
-0	0	Philippines	Colie
-0	0	Poland	konrre
-0	0	Poland	scezar
-0	0	Portugal	matgm
-0	0	Romania	Danu4
-0	0	Russia	garipovii
-0	0	South Africa	Tumi
-0	0	South Korea	3to15gram
-0	0	South Korea	Xeroxy
-0	0	South Korea	baactree
-0	0	South Korea	nawees
-0	0	Spain	alvarogonzalezsotillo
-0	0	Tunisia	AhedBahri
-0	0	Tunisia	Yashiro03
-0	0	Turkey	cefatihozturk
-0	0	Uganda	MUST
-0	0	United Kingdom	AdamJewell
-0	0	United Kingdom	Keshav1999
-0	0	United States	AP1217
-0	0	United States	Carpiella
-0	0	United States	CrazyCoder007
-0	0	United States	Glengar
-0	0	United States	Greystor
-0	0	United States	KennedyJohnson1996
-0	0	United States	Sxmit777
-0	0	United States	hossain.mazhar@hotmail.com
-0	0	United States	k77frank@gmail.com
-0	0	United States	lee74
-0	0	United States	valkyriewarrior
-0	0	Zimbabwe	kyerise
 5	-40125679972	India	soumi7
 5	-40401276262	India	KushCoder
 5	-40941834209	Turkey	neoluyo
 5	-41027259571	India	y022
 5	-42014871301	Italy	serfra
 5	-42858871292	India	renit12
+5	-43590807232	India	parsifal
 1	-20780618953	United States	Dishen
 1	-26358901067	India	_Yash_
 1	-33551112963	South Korea	return_zero
 1	-35356791211	India	sparkythepro
-0	0	Afghanistan	+1+
+1	-43610992297	India	kufing_bitch
 0	0	Afghanistan	Fazlullahmamond
+0	0	Argentina	brigoni
+0	0	Argentina	mrpig
+0	0	Australia	AntonPolkanov
+0	0	Austria	matzi4
+0	0	Bangladesh	Afeef906
+0	0	Bangladesh	Didar.Islam
+0	0	Bangladesh	Mahadi-Shadhin
+0	0	Bangladesh	Rintarou
+0	0	Bangladesh	Roni95
+0	0	Bangladesh	aitvet
+0	0	Bangladesh	faisalshawon
+0	0	Bangladesh	hasan_munsi
+0	0	Bangladesh	mfctanzim_00
+0	0	Bangladesh	montaqiumtanjil
+0	0	Bangladesh	mubinakib
+0	0	Bangladesh	ujas
+0	0	Belarus	shelenium
+0	0	Brazil	Ziguirifow
+0	0	Brazil	edukure
+0	0	Brazil	felipe-miranda
+0	0	Cameroon	spykid10005
+0	0	Canada	SaberMansour
+0	0	Chile	sergioeabarcaf
+0	0	China	CoderCheng
+0	0	China	LuckyMouse
+0	0	China	ccsu_cat
+0	0	China	why19981001@outlook.com
+0	0	China	yinyuecho
+0	0	Colombia	SkinMan95
+0	0	Colombia	zofip
+0	0	Côte d'Ivoire	marcaureln
+0	0	Egypt	Mag92
+0	0	Egypt	MrCake
+0	0	France	Benskalz
+0	0	France	Laurent_Dubois
+0	0	France	Mizzy
+0	0	France	matousso
+0	0	Germany	TornaxO7
+0	0	Germany	leiftw
+0	0	Ghana	k.daduam
+0	0	Hong Kong	StarBurstPlus
+0	0	India	<ad>
+0	0	India	ANURAG_GOJE
+0	0	India	AVIX
+0	0	India	Abdulrahaman
+0	0	India	Abhinaba006
+0	0	India	Abhinaya_v
+0	0	India	Aditya1197
+0	0	India	Aditya3672
+0	0	India	Ajay2440
+0	0	India	Akankshagupta
+0	0	India	Akhilesh_21
+0	0	India	Akshita1
+0	0	India	Ales
+0	0	India	AlgoRhythm
+0	0	India	Amankashyap
+0	0	India	Aneesh25861
+0	0	India	Anmol0599
+0	0	India	AnmolGairola
+0	0	India	Anshuman1510
+0	0	India	Anusha_Komatineni
+0	0	India	ArchanGhosh
+0	0	India	Archana@1
+0	0	India	AresFury
+0	0	India	Aryan2504
+0	0	India	Ashu@1234
+0	0	India	Ashudada
+0	0	India	Atharv711
+0	0	India	Avin_091
+0	0	India	Avishek_0204
+0	0	India	Batflarrow
+0	0	India	Bhuviiii
+0	0	India	Bl4nk
+0	0	India	Chir999
+0	0	India	Circevector
+0	0	India	Coder_2000
+0	0	India	Cyberwizard
+0	0	India	DarthHazard
+0	0	India	Deep_Chaklasiya
+0	0	India	DeepanshuJ000
+0	0	India	Diptanshu18232
+0	0	India	Duttabhishek_32
+0	0	India	Friday07
+0	0	India	Ganglord
+0	0	India	Gaurav09
+0	0	India	Hari1708
+0	0	India	HarshRat
+0	0	India	Harsha31
+0	0	India	Harshillalka
+0	0	India	Harsu1304
+0	0	India	Hksingh4545
+0	0	India	Itachi99
+0	0	India	Its_harshita
+0	0	India	J.j.
+0	0	India	JahnaviJuluri
+0	0	India	Jeegar
+0	0	India	Jituoo7
+0	0	India	Kamujulasrikar14@gmail.com
+0	0	India	Keerthanapravallika
+0	0	India	KhNikh
+0	0	India	Khyati_99
+0	0	India	Kvnaidu
+0	0	India	Light_Gremory
+0	0	India	Light_yagami
+0	0	India	MM123455
+0	0	India	Magiiciian
+0	0	India	Mahesh767
+0	0	India	MainSeaMonster
+0	0	India	Malini_D
+0	0	India	Manasee1
+0	0	India	Mani_Vinodh
+0	0	India	Masumi
+0	0	India	Meenakshiiyer
+0	0	India	Mk930186
+0	0	India	MohammedFaizanMohiuddin
+0	0	India	MohanGowdaH
+0	0	India	MohsinSiddi
+0	0	India	Neil_9
+0	0	India	Nib
+0	0	India	Niteshbiwal
+0	0	India	Nitish1101
+0	0	India	PRIYVRAT
+0	0	India	ParjanyaACoder
+0	0	India	Patil92
+0	0	India	Pavan9
+0	0	India	PayalKhattri
+0	0	India	PersieMohit
+0	0	India	Piyushalone
+0	0	India	Prady9
+0	0	India	Prathyu0398
+0	0	India	PraveenSaiSanthosh
+0	0	India	PundirSachin
+0	0	India	RAHULP
+0	0	India	RK1611
+0	0	India	Red_Devil
+0	0	India	Rgujarathi
+0	0	India	RiddhiSanghvi
+0	0	India	Rishiy29
+0	0	India	Rj0110
+0	0	India	Rockstar.XX7
+0	0	India	Rushikesh746
+0	0	India	SC7
+0	0	India	Sage725
+0	0	India	Sahil_Tripathi
+0	0	India	Saiprashanth
+0	0	India	Sanks19
+0	0	India	Satish09
+0	0	India	Saurabh_gupta
+0	0	India	Sayan_alan
+0	0	India	Scoder08
+0	0	India	ShadyAddie
+0	0	India	ShagunBidawatka
+0	0	India	Shajee.Mathi
+0	0	India	Shubham37
+0	0	India	SidCode
+0	0	India	Sngrmk
+0	0	India	Sohal_5k5
+0	0	India	Somya_Agr
+0	0	India	Sonam_Singh
+0	0	India	Sourjya
+0	0	India	Sunny1052
+0	0	India	Tanmaya_Jain
+0	0	India	Tejasri.B.N
+0	0	India	Thamizhselvams
+0	0	India	TheRooftopElf
+0	0	India	Time_traveller
+0	0	India	Uday113
+0	0	India	Unnisa
+0	0	India	VINAYA
+0	0	India	Vaishnavi@85
+0	0	India	VangaRinkigoud
+0	0	India	Vardhan142
+0	0	India	Vetrivel3
+0	0	India	VikiShivBhakt
+0	0	India	Vydehi
+0	0	India	Vyshnavikolli
+0	0	India	Yoganrusimhaa
+0	0	India	Zeeshan_19
+0	0	India	_ankita_
+0	0	India	aaryanreddy_
+0	0	India	abhishekslal
+0	0	India	abinash129
+0	0	India	aeman_khadijah
+0	0	India	agrawalg125
+0	0	India	aish9
+0	0	India	akshraa
+0	0	India	aldrinJenson
+0	0	India	amar@123
+0	0	India	amarsemwal
+0	0	India	ammu007
+0	0	India	amulyaammu
+0	0	India	andeyashwanth
+0	0	India	ankitrj
+0	0	India	aparnadev
+0	0	India	arjunglal
+0	0	India	arpancodes
+0	0	India	ash-rick
+0	0	India	ashu_gate22
+0	0	India	ayushsaini1607
+0	0	India	beracah
+0	0	India	bhajanlal
+0	0	India	cashew
+0	0	India	christeph
+0	0	India	cybertrone
+0	0	India	dharanipeyyala
+0	0	India	divyanshuparihar
+0	0	India	divyarepaka18
+0	0	India	dylan7_7rdgz
+0	0	India	echo-864
+0	0	India	ekesh`
+0	0	India	frost23
+0	0	India	g1coder
+0	0	India	gairicksaha
+0	0	India	ganpa
+0	0	India	geeteekayedla
+0	0	India	glalit3654@gmail.com
+0	0	India	goswamiakash066@gmail.com
+0	0	India	gourgan
+0	0	India	govinda_107
+0	0	India	guptabharat
+0	0	India	harsh_thoriya
+0	0	India	harshamankal
+0	0	India	harshavardhanreddy
+0	0	India	hereissdb
+0	0	India	himanshu2310
+0	0	India	hritikraj31
+0	0	India	im_ankit
+0	0	India	impruthvipatel
+0	0	India	indu_P
+0	0	India	jaatcoder
+0	0	India	js25
+0	0	India	k16
+0	0	India	kabi.beastboy
+0	0	India	kanha2503
+0	0	India	karthikgs
+0	0	India	kbhv
+0	0	India	kermit7315
+0	0	India	koulsensei
+0	0	India	kriti786
+0	0	India	m9ah9
+0	0	India	mahajanhm
+0	0	India	maityz
+0	0	India	manasajwalia
+0	0	India	maxaiz
+0	0	India	mdsohailsanadi
+0	0	India	meet_gamdha
+0	0	India	mvadlamudi
+0	0	India	nandishbhayani
+0	0	India	nishchayp
+0	0	India	npraneeth_21
+0	0	India	pagar_maithreyi
+0	0	India	papa_ji
+0	0	India	pavanbolli
+0	0	India	pramatma
+0	0	India	praneetdebnath
+0	0	India	programmer007
+0	0	India	pruthvirajkottigari@gmail.com
+0	0	India	rafi_uzzaman
+0	0	India	ragingmonster
+0	0	India	raguram
+0	0	India	rajatbajpai33
+0	0	India	rishabhkalra96
+0	0	India	rkat7
+0	0	India	rntalele
+0	0	India	sagnik20
+0	0	India	sainpratyaksh@gmail.com
+0	0	India	salonii13
+0	0	India	satyanarayan
+0	0	India	sejalgoyal
+0	0	India	sgtheller
+0	0	India	shankha123
+0	0	India	sharmaashish710
+0	0	India	shivani860
+0	0	India	shubhi.sethi
+0	0	India	singhvishwejeet04
+0	0	India	sjrs_27
+0	0	India	small_brain
+0	0	India	smitshah2206
+0	0	India	sowjanyaoggu
+0	0	India	sravan1045
+0	0	India	sriramsbkarur
+0	0	India	star_anuj007
+0	0	India	sujay1707
+0	0	India	sujoyroy99
+0	0	India	sumanth_chowdary
+0	0	India	suraj.web
+0	0	India	sush22dew
+0	0	India	udbhavgovil
+0	0	India	vijay_cyril
+0	0	India	virajdalvi
+0	0	India	vishal693
+0	0	India	vm7
+0	0	India	warfighter77806
+0	0	India	yash2711
+0	0	India	yashi_chourasiya
+0	0	India	yashmvora
+0	0	India	yatharthagarwal
+0	0	Indonesia	DeviAnggita
+0	0	Indonesia	andrewtjen
+0	0	Indonesia	zarados
+0	0	Ireland	MaguireJack
+0	0	Israel	UltraExtreme
+0	0	Italy	Damiano_Amici
+0	0	Italy	Umby89
+0	0	Italy	enricocagliari
+0	0	Italy	simolanzi
+0	0	Japan	Nulkana
+0	0	Japan	donuthole
+0	0	Japan	sionyan
+0	0	Mexico	Rulas99
+0	0	Mexico	lbaymax
+0	0	Morocco	hzghari
+0	0	Nepal	SalmanAnsari
+0	0	Nepal	coderRishi
+0	0	Netherlands	jdonszelmann
+0	0	Netherlands	tuan9999
+0	0	New Zealand	UnlimitedFrames
+0	0	Nigeria	Tecnosam
+0	0	Pakistan	HulkTron
+0	0	Pakistan	Mujahid
+0	0	Peru	Scoffield
+0	0	Peru	ZzzandyzzZ
+0	0	Portugal	caldasdeoliveira
+0	0	Portugal	joaobernardo01
+0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	munir_
+0	0	Russia	sled
+0	0	Rwanda	K-wachira
+0	0	Singapore	Prof_X
+0	0	Singapore	ken.ang
+0	0	South Korea	GiYeon
+0	0	South Korea	LrLr
+0	0	South Korea	bluezery
+0	0	South Korea	cantapiya
+0	0	South Korea	강동훈
+0	0	Spain	alsanan
+0	0	Spain	juan
+0	0	Sri Lanka	<crypter/>
+0	0	Sri Lanka	PrabasHana
+0	0	Sri Lanka	Soma@@
+0	0	Sri Lanka	slahiruc
+0	0	Sweden	Gouranga
+0	0	Taiwan	NCKU
+0	0	Taiwan	enumaelish
+0	0	Taiwan	任生狂
+0	0	Thailand	JobOrangeFox
+0	0	Thailand	Klur
+0	0	Thailand	MonoPeelz
+0	0	Tunisia	Bl4ck44
+0	0	Tunisia	Shurima
+0	0	Turkey	UtkuUyar
+0	0	Turkey	ercecan99
+0	0	Ukraine	mariamisoieva
+0	0	Ukraine	neurodeep
+0	0	United Kingdom	BenJamesMurray
+0	0	United Kingdom	oliver.hines
+0	0	United Kingdom	yashwina
+0	0	United States	2096winters
+0	0	United States	Aranjello
+0	0	United States	BlkStormy
+0	0	United States	Dynamoo
+0	0	United States	EZ
+0	0	United States	Ellaphant57
+0	0	United States	JB.io
+0	0	United States	Jessmer
+0	0	United States	Jihye7373
+0	0	United States	JoseC3276
+0	0	United States	KamalH04
+0	0	United States	Sandkoan
+0	0	United States	SudduK
+0	0	United States	Thi0908
+0	0	United States	abp
+0	0	United States	anirudhramesh
+0	0	United States	arctan03
+0	0	United States	attilathekid
+0	0	United States	bl195@duke.edu
+0	0	United States	bpblakely
+0	0	United States	darshan_sol
+0	0	United States	jameschu123
+0	0	United States	jwebb1197
+0	0	United States	kern
+0	0	United States	nneka
+0	0	United States	parthonfire
+0	0	United States	periwinkleid@gmail.com
+0	0	United States	rahuln2
+0	0	United States	ricode
+0	0	United States	rithikbansal175@outlook.com
+0	0	United States	rpeddakama
+0	0	United States	stuyen98
+0	0	United States	suxrob
+0	0	United States	vkg815
+0	0	Vietnam	Dragon2fly
+0	0	Vietnam	thangnt99
+0	0	Afghanistan	+1+
+0	0	Afghanistan	ryhj
 0	0	Algeria	Laminechelagha
 0	0	Algeria	Lazalokmane
 0	0	Algeria	Oum_Asma
+0	0	Algeria	aymenkhernane
 0	0	Algeria	proudlock
 0	0	Algeria	walidzw
 0	0	American Samoa	ffffffffffff
 0	0	Angola	pedroadilson513@gmail.com
 0	0	Argentina	Jsaporiti
 0	0	Argentina	Jstrah
-0	0	Argentina	brigoni
 0	0	Argentina	carlosmgc2003
 0	0	Argentina	danicattaneob
 0	0	Argentina	gonzacap
 0	0	Argentina	milimoreno
-0	0	Argentina	mrpig
+0	0	Argentina	straza
 0	0	Argentina	tomy00019
 0	0	Armenia	Manukyan1
 0	0	Armenia	abbaskhalaji
 0	0	Australia	(OvO)
-0	0	Australia	AntonPolkanov
 0	0	Australia	Cade51
 0	0	Australia	DHo
 0	0	Australia	Dominicdaoyuanyang
@@ -24405,18 +24633,15 @@ Score	Penalty	Country	Name
 0	0	Australia	jmango
 0	0	Australia	mhwdvs
 0	0	Austria	bash-it
-0	0	Austria	matzi4
 0	0	Azerbaijan	Nijad
 0	0	Azerbaijan	drake1212
 0	0	Azerbaijan	ramileagle
 0	0	Bangladesh	4P0N
-0	0	Bangladesh	Afeef906
 0	0	Bangladesh	Arafat6462
 0	0	Bangladesh	Ashiq_Madridista
 0	0	Bangladesh	BasharBhuiyan
 0	0	Bangladesh	Cloud105
 0	0	Bangladesh	CoderSultan
-0	0	Bangladesh	Didar.Islam
 0	0	Bangladesh	DodoBird
 0	0	Bangladesh	FahimMuntashir
 0	0	Bangladesh	FahimWHHP
@@ -24426,12 +24651,10 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	LED420
 0	0	Bangladesh	MAhinRAiYan
 0	0	Bangladesh	MD_Shifat_Hasan
-0	0	Bangladesh	Mahadi-Shadhin
 0	0	Bangladesh	Md.Shakil9
+0	0	Bangladesh	NafizAnam
 0	0	Bangladesh	Rafee139
-0	0	Bangladesh	Rintarou
 0	0	Bangladesh	RiyadHaque
-0	0	Bangladesh	Roni95
 0	0	Bangladesh	SAYEM_1526
 0	0	Bangladesh	Saidul_Islam
 0	0	Bangladesh	SaykaT
@@ -24444,22 +24667,20 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	Virusmhr
 0	0	Bangladesh	Wasi0569
 0	0	Bangladesh	Zafrinzara
+0	0	Bangladesh	[Galib]
 0	0	Bangladesh	_mukim_
 0	0	Bangladesh	absarrahman
-0	0	Bangladesh	aitvet
+0	0	Bangladesh	arfin
 0	0	Bangladesh	dream.to
 0	0	Bangladesh	efat
 0	0	Bangladesh	esanalok
-0	0	Bangladesh	faisalshawon
-0	0	Bangladesh	hasan_munsi
+0	0	Bangladesh	farhan99
 0	0	Bangladesh	hazzazbinfaiz
 0	0	Bangladesh	joker.rashed
-0	0	Bangladesh	mfctanzim_00
-0	0	Bangladesh	montaqiumtanjil
 0	0	Bangladesh	mspartho
-0	0	Bangladesh	mubinakib
 0	0	Bangladesh	nahid007
 0	0	Bangladesh	nazmul98
+0	0	Bangladesh	nazmul_anik
 0	0	Bangladesh	nohai
 0	0	Bangladesh	omifarhan_75
 0	0	Bangladesh	ovibaidya72
@@ -24469,11 +24690,10 @@ Score	Penalty	Country	Name
 0	0	Bangladesh	shahriarraka
 0	0	Bangladesh	sheikhalamin
 0	0	Bangladesh	sumaia
-0	0	Bangladesh	ujas
 0	0	Bangladesh	unicornova
 0	0	Bangladesh	urahamat01
 0	0	Bangladesh	wuz
-0	0	Belarus	shelenium
+0	0	Belarus	Artem_Galk
 0	0	Belgium	DuVillage
 0	0	Belgium	EmmaVdw
 0	0	Belgium	Vador
@@ -24484,10 +24704,8 @@ Score	Penalty	Country	Name
 0	0	Brazil	LPerin
 0	0	Brazil	PeetaCalou
 0	0	Brazil	XicoDeAltos
-0	0	Brazil	Ziguirifow
 0	0	Brazil	brenotx
 0	0	Brazil	edukure
-0	0	Brazil	felipe-miranda
 0	0	Brazil	grisotto
 0	0	Brazil	julianafpaulo
 0	0	Brazil	mvivas19
@@ -24503,7 +24721,6 @@ Score	Penalty	Country	Name
 0	0	Cameroon	Angelo01
 0	0	Cameroon	condorSolo
 0	0	Cameroon	spicerom
-0	0	Cameroon	spykid10005
 0	0	Canada	Abhan
 0	0	Canada	Ariannafoo
 0	0	Canada	Boostbull
@@ -24515,8 +24732,6 @@ Score	Penalty	Country	Name
 0	0	Canada	Pokejft
 0	0	Canada	Priyank_Patel
 0	0	Canada	ProdigyGod
-0	0	Canada	SaberMansour
-0	0	Canada	aakarimin
 0	0	Canada	amunden04
 0	0	Canada	bugslayer
 0	0	Canada	devodev
@@ -24528,20 +24743,24 @@ Score	Penalty	Country	Name
 0	0	Canada	r2munjal
 0	0	Canada	thebloodymoustache
 0	0	Canada	thisisarsh
+0	0	Cape Verde	wagner_centeio
 0	0	Chile	AnitaPacheco
 0	0	Chile	SirMeto
-0	0	Chile	sergioeabarcaf
+0	0	China	1134953287@qq.com
 0	0	China	25hua
+0	0	China	2624539241@qq.com
 0	0	China	577237093@qq.com
-0	0	China	CoderCheng
+0	0	China	Danielwang
 0	0	China	HTongC
 0	0	China	Hiroki39
 0	0	China	LeoN
+0	0	China	Lexaaa
+0	0	China	Lucas_wang
 0	0	China	LuckyMouse
 0	0	China	NUISTgwx
 0	0	China	ZA139
 0	0	China	bulldozer
-0	0	China	ccsu_cat
+0	0	China	glazialuna
 0	0	China	jimmylai20001014@gmail.com
 0	0	China	lchen7889
 0	0	China	leogle
@@ -24549,8 +24768,6 @@ Score	Penalty	Country	Name
 0	0	China	rosaLo
 0	0	China	ruiruifeng
 0	0	China	wenyi
-0	0	China	why19981001@outlook.com
-0	0	China	yinyuecho
 0	0	China	自闭
 0	0	Colombia	7yrionLannister
 0	0	Colombia	AlejoWilches05
@@ -24558,16 +24775,13 @@ Score	Penalty	Country	Name
 0	0	Colombia	Dandarprox
 0	0	Colombia	JohnnyQuintero
 0	0	Colombia	Paulimol
-0	0	Colombia	SkinMan95
 0	0	Colombia	deltorosalazar
 0	0	Colombia	javillamip
 0	0	Colombia	pipe86
 0	0	Colombia	ragnarth
-0	0	Colombia	zofip
 0	0	Croatia	dendri
 0	0	Cuba	HSequeda
 0	0	Czech Republic	Jakoma02
-0	0	Côte d'Ivoire	marcaureln
 0	0	Decline to Answer	KevinyWu
 0	0	Decline to Answer	Saidbek
 0	0	Decline to Answer	aeae
@@ -24575,6 +24789,7 @@ Score	Penalty	Country	Name
 0	0	Denmark	Benjihboy
 0	0	Denmark	ChronoCollusion
 0	0	Ecuador	dnlnav
+0	0	Ecuador	wildanvin
 0	0	Egypt	Abanob_abu
 0	0	Egypt	AhmedRamdan
 0	0	Egypt	Ahmed_Ashraf
@@ -24583,11 +24798,10 @@ Score	Penalty	Country	Name
 0	0	Egypt	Eshiba
 0	0	Egypt	Gneedy
 0	0	Egypt	KarimN
-0	0	Egypt	Mag92
 0	0	Egypt	MazenIbrahim
-0	0	Egypt	MrCake
 0	0	Egypt	Nour_Eldien
 0	0	Egypt	Rana.20
+0	0	Egypt	Salma.Hassan
 0	0	Egypt	Yousef_Hassan
 0	0	Egypt	ahmedacm04
 0	0	Egypt	ahmedhazem
@@ -24597,23 +24811,20 @@ Score	Penalty	Country	Name
 0	0	Egypt	modsaid
 0	0	Egypt	momousa1997
 0	0	Egypt	uniqueinx
-0	0	Estonia	Io
 0	0	Estonia	Matrix278
 0	0	Finland	pauvictor@gmail.com
 0	0	France	ArthurMR
-0	0	France	Benskalz
 0	0	France	Boumpteryx
 0	0	France	Colios13
+0	0	France	DorianNogneng
 0	0	France	Kandhum
-0	0	France	Laurent_Dubois
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaTTs
-0	0	France	Mizzy
-0	0	France	Morantxu
 0	0	France	Pigloo
-0	0	France	Tchou
+0	0	France	c0lt_dgtl
 0	0	France	cigix
+0	0	France	diodfr
 0	0	France	matousso
 0	0	France	mo4J
 0	0	France	paul.cibier@gmail.com
@@ -24621,58 +24832,59 @@ Score	Penalty	Country	Name
 0	0	Georgia	ZeK1ng
 0	0	Germany	Mobo
 0	0	Germany	PrøCøder
-0	0	Germany	TornaxO7
+0	0	Germany	RolfRico
 0	0	Germany	Woingenau
 0	0	Germany	clr
 0	0	Germany	fafl
 0	0	Germany	friebetill
 0	0	Germany	iloraC28
-0	0	Germany	leiftw
 0	0	Germany	marschallsteffen@gmail.com
 0	0	Germany	svenibo
-0	0	Ghana	k.daduam
 0	0	Greece	CBn
 0	0	Greece	KaiKalaProgrammer
 0	0	Greece	Nikitas_Maragkos
 0	0	Greece	Reps
 0	0	Greece	Tsiompanis
 0	0	Greece	UrbanLife
+0	0	Greece	akisl
 0	0	Greece	iliasdimi
 0	0	Greece	jimycool
 0	0	Greece	not_last
+0	0	Greece	thstamod
 0	0	Guatemala	AlexRedle
 0	0	Hong Kong	CKJack
 0	0	Hong Kong	PG20
-0	0	Hong Kong	StarBurstPlus
+0	0	Hong Kong	chunlam
 0	0	Hong Kong	cyt_2020
 0	0	Hong Kong	jimmysyw
+0	0	Hong Kong	normankong
+0	0	Hong Kong	percywtc
 0	0	Hungary	Choronzon
 0	0	Hungary	Krisz97
 0	0	Hungary	Shiundu
 0	0	Iceland	Eyleifur
 0	0	India	#SUBHAM
+0	0	India	06_kKage
 0	0	India	15Vaibhav
 0	0	India	17R21A04F1
 0	0	India	18bce112
 0	0	India	2112
 0	0	India	26Aish
-0	0	India	<ad>
 0	0	India	@SG
 0	0	India	@d!t!
 0	0	India	@rohit_2597
 0	0	India	@vinayak
 0	0	India	A1011
 0	0	India	AA11
+0	0	India	ABHRADIPTA
 0	0	India	AIcoDerzz
 0	0	India	AK_47
 0	0	India	ALpk26
 0	0	India	AMAN2241
-0	0	India	ANURAG_GOJE
 0	0	India	APJKODI
 0	0	India	ARK5797
 0	0	India	ASCoder01
 0	0	India	ASH@2
-0	0	India	AVIX
 0	0	India	AadityaPBurujwale
 0	0	India	AakashChahal
 0	0	India	Aalu_Albin
@@ -24680,12 +24892,9 @@ Score	Penalty	Country	Name
 0	0	India	Aashik15
 0	0	India	Aata
 0	0	India	Abcxyz123
-0	0	India	Abdulrahaman
 0	0	India	Abh8shek
 0	0	India	Abhi9great
-0	0	India	Abhinaba006
 0	0	India	Abhinav_2314
-0	0	India	Abhinaya_v
 0	0	India	AbhishekPandey
 0	0	India	Abijeethvasra
 0	0	India	Abishek123
@@ -24697,79 +24906,61 @@ Score	Penalty	Country	Name
 0	0	India	Adi_kabra
 0	0	India	Aditi1917
 0	0	India	Aditi_15
-0	0	India	Aditya1197
-0	0	India	Aditya3672
+0	0	India	Aditya22
 0	0	India	Adityapawar
 0	0	India	Adityavid
 0	0	India	Advaith_4
 0	0	India	Afaque_Anwar_Azad
 0	0	India	Agnish
 0	0	India	Aish987
-0	0	India	Ajay2440
 0	0	India	Ajay2529
 0	0	India	AjayJagini
 0	0	India	AjuJoy
 0	0	India	Akanksh99
 0	0	India	Akanksha_Nath
-0	0	India	Akankshagupta
 0	0	India	Akash10
 0	0	India	Akash9039
 0	0	India	Akhilaki322
 0	0	India	Akhilandeswari
-0	0	India	Akhilesh_21
 0	0	India	Akshat_Jain
 0	0	India	Akshay1902
 0	0	India	AkshayJain
-0	0	India	Akshita1
 0	0	India	Aksthecoder
-0	0	India	Ales
-0	0	India	AlgoRhythm
 0	0	India	Aman@404
 0	0	India	AmanKothari
-0	0	India	Amankashyap
-0	0	India	Ambiencee
 0	0	India	Amit10
 0	0	India	Amogh80808
 0	0	India	Anbarasu.P
 0	0	India	Anchal.Kharwar
-0	0	India	Aneesh25861
 0	0	India	Anindya7168610
 0	0	India	Anirbansadhukhan
 0	0	India	Anj@li
 0	0	India	Anjali1578
 0	0	India	Ankit3014
-0	0	India	Anmol0599
-0	0	India	AnmolGairola
-0	0	India	Anshuman1510
+0	0	India	AnshPasari
 0	0	India	Anshupriya
 0	0	India	Anudeepa
 0	0	India	AnujSingh2k
 0	0	India	Anuj_Garg
 0	0	India	Anujsharma
 0	0	India	Anur@g
-0	0	India	Anusha_Komatineni
 0	0	India	Apollo2
 0	0	India	ArVa
-0	0	India	ArchanGhosh
-0	0	India	Archana@1
 0	0	India	Archit2509
 0	0	India	ArchitG358
-0	0	India	AresFury
 0	0	India	Arkoprovo_Das
 0	0	India	Arpit0903
 0	0	India	Arpitkhandelwal
 0	0	India	Artiparmar
-0	0	India	Aryan2504
+0	0	India	AruneshK12
 0	0	India	Ash_Hendrix
-0	0	India	Ashu@1234
-0	0	India	Ashudada
 0	0	India	Asmans
 0	0	India	Asmita_M
 0	0	India	Asthaagarwal20
-0	0	India	Atharv711
-0	0	India	Avin_091
-0	0	India	Avishek_0204
+0	0	India	Asticsco1324
+0	0	India	Atusha
 0	0	India	Ayan_Roy
+0	0	India	Ayush3982
 0	0	India	Ayushb07
 0	0	India	Ayushi1810
 0	0	India	B.bhargavi
@@ -24781,24 +24972,25 @@ Score	Penalty	Country	Name
 0	0	India	Balaji1209
 0	0	India	Bappu
 0	0	India	Bassa
-0	0	India	Batflarrow
+0	0	India	Bharath22
 0	0	India	Bhargav@2000
 0	0	India	BhashithaJagarlamudi
 0	0	India	Bhavanabhavs
 0	0	India	Bhavesh_Kankani
 0	0	India	Bhavnish
-0	0	India	Bhuviiii
-0	0	India	Bl4nk
 0	0	India	Blesseymaria
 0	0	India	Bobby47
 0	0	India	Boda_Durgesh
 0	0	India	Books
 0	0	India	BornMiner
 0	0	India	BraveStone
+0	0	India	Brijesh0808
 0	0	India	Brutalprophetme
 0	0	India	CK19
 0	0	India	C_agrahar
 0	0	India	CaptainZod
+0	0	India	ChaitanyaT
+0	0	India	Chaitanyabsprip
 0	0	India	Chandrasekhar3899
 0	0	India	Chandu.thottempudi
 0	0	India	Chandu111999
@@ -24806,32 +24998,30 @@ Score	Penalty	Country	Name
 0	0	India	Chaos@RT
 0	0	India	Charan678
 0	0	India	Cheryldsouza
-0	0	India	Chir999
 0	0	India	ChiñU
-0	0	India	Circevector
 0	0	India	Codarmaxxx
 0	0	India	CodeDawg
 0	0	India	CodeInBrackets
-0	0	India	Coder_2000
 0	0	India	CodingSGuru
 0	0	India	Comrade1007
 0	0	India	Couch_poatao29
+0	0	India	CrazyCoder8
 0	0	India	Crazycrow
-0	0	India	Cyberwizard
 0	0	India	D4rk4rmy
+0	0	India	DINESH1021
 0	0	India	DKparihar
 0	0	India	Dan666
+0	0	India	DarkKnight69
+0	0	India	Dark_shadow
 0	0	India	Darkstar159
 0	0	India	Darpanjbora
 0	0	India	DarthBenro008
-0	0	India	DarthHazard
 0	0	India	Dasharna
 0	0	India	Dbhffd
 0	0	India	DeathStroke94
 0	0	India	Debojit90
-0	0	India	Deep_Chaklasiya
-0	0	India	DeepanshuJ000
 0	0	India	Deepika13
+0	0	India	DeepikaBagaria
 0	0	India	Dev@Kalyan
 0	0	India	DevHX
 0	0	India	DevKumar
@@ -24844,39 +25034,39 @@ Score	Penalty	Country	Name
 0	0	India	Dictator_SP
 0	0	India	Dillu12
 0	0	India	DindiDivya
-0	0	India	Diptanshu18232
 0	0	India	DivyaSriMerugumala
 0	0	India	DoMDoM
 0	0	India	DonaMaria
 0	0	India	Doooooom
 0	0	India	Dreamcatcher23
 0	0	India	Dulera
-0	0	India	Duttabhishek_32
 0	0	India	EGG
 0	0	India	EdogawaConan
 0	0	India	Esoteriikos
 0	0	India	Factician
 0	0	India	Faranheit
+0	0	India	Fauzdar
 0	0	India	Fauzia_66
 0	0	India	FirstSoldier
 0	0	India	Frank359
 0	0	India	Freaking_Slayer123
-0	0	India	Friday07
 0	0	India	G1Unknown
 0	0	India	Gaayi
+0	0	India	Galaxy-Xmen
 0	0	India	GamerGokul
-0	0	India	Ganglord
 0	0	India	GaurangBhatt
-0	0	India	Gaurav09
+0	0	India	GauravGulati
 0	0	India	Gaurav_pandey.1
 0	0	India	GautamV
 0	0	India	GayathriMallavarapu
 0	0	India	Gayatri_M_
 0	0	India	Geass
+0	0	India	Genesys_Coder
 0	0	India	Go_Wind
 0	0	India	Go_code
 0	0	India	Goka_Jashuva
 0	0	India	Goku@123
+0	0	India	Gopalk
 0	0	India	Gourav@197
 0	0	India	GunjeetSinghBawa
 0	0	India	Gupta.Shantanu6
@@ -24884,8 +25074,6 @@ Score	Penalty	Country	Name
 0	0	India	HITESH_TILWANI
 0	0	India	H_PATEL
 0	0	India	Haindhs
-0	0	India	HardCoderr
-0	0	India	Hari1708
 0	0	India	Hari2502
 0	0	India	HariPriyaGudimetla
 0	0	India	Hariom1509
@@ -24897,43 +25085,39 @@ Score	Penalty	Country	Name
 0	0	India	HarshRat
 0	0	India	HarshSaroha
 0	0	India	HarshVardhanGuleria
-0	0	India	Harsha31
 0	0	India	Harsha9494
-0	0	India	Harshillalka
 0	0	India	HarshitShah
 0	0	India	HarshitaM
 0	0	India	HarshithaReddy
 0	0	India	Harshitha_k
-0	0	India	Harsu1304
+0	0	India	Hashtocode
 0	0	India	HeapKing
+0	0	India	Hela27
 0	0	India	Hemant_kajal
+0	0	India	Hercules1010
 0	0	India	Himanshi77
-0	0	India	Hksingh4545
 0	0	India	Hrk_7287
 0	0	India	Hrushikesh111
 0	0	India	Hrushyang
 0	0	India	Hustler@123
 0	0	India	IamMad
 0	0	India	Inar
+0	0	India	Ishanu
 0	0	India	Ishitaj14
 0	0	India	IshuKumar
-0	0	India	Itachi99
 0	0	India	Itachi_Minato
-0	0	India	Its_harshita
-0	0	India	J.j.
 0	0	India	J_K
+0	0	India	Jaganaut_14
 0	0	India	Jahanvi_09
-0	0	India	JahnaviJuluri
 0	0	India	Janagam
 0	0	India	Jardan
 0	0	India	JayanthAkash
 0	0	India	JayanthRagav
 0	0	India	Jayasree_2972
 0	0	India	Jayeshmirchandani
-0	0	India	Jeegar
+0	0	India	Jds1999
 0	0	India	Jeena9991
 0	0	India	Jerry95
-0	0	India	Jituoo7
 0	0	India	Johnwick
 0	0	India	K-Kirito
 0	0	India	K..V.V.HARIKRISHNAREDDY
@@ -24946,7 +25130,6 @@ Score	Penalty	Country	Name
 0	0	India	Kaleem_007
 0	0	India	Kalesha.iit
 0	0	India	KalistoKaran
-0	0	India	Kamujulasrikar14@gmail.com
 0	0	India	Kanisht
 0	0	India	Kannanspeedy
 0	0	India	KaranPradhan
@@ -24954,11 +25137,9 @@ Score	Penalty	Country	Name
 0	0	India	Karthick986
 0	0	India	Karuppan
 0	0	India	Kashishbhandula112@gmail.com
+0	0	India	Kasif
 0	0	India	KaushikAgrawal002
 0	0	India	KazNavi
-0	0	India	Keerthanapravallika
-0	0	India	KhNikh
-0	0	India	Khyati_99
 0	0	India	Kickstartabhi
 0	0	India	King101
 0	0	India	Kiran007
@@ -24970,35 +25151,34 @@ Score	Penalty	Country	Name
 0	0	India	Kriti12
 0	0	India	KshitijBhadradwaj
 0	0	India	KshitizLakandri
+0	0	India	Kuldeep20203
 0	0	India	Kuldeepbairwa
 0	0	India	KunalTyagi
 0	0	India	KuroMK
 0	0	India	Kushaljamadagni
 0	0	India	KushwahaMudit
 0	0	India	Kusu
-0	0	India	Kvnaidu
 0	0	India	L@lith0903
+0	0	India	LOHITAA
 0	0	India	Lakshya612
 0	0	India	Lakshya_5905
 0	0	India	Lasieeya
 0	0	India	Laya4@
 0	0	India	Learner9
-0	0	India	Leela@228
+0	0	India	Lekha18
 0	0	India	Leonifer
 0	0	India	LifeLongLearner
-0	0	India	Light_Gremory
-0	0	India	Light_yagami
 0	0	India	Likhithasharma
 0	0	India	Lisa2905
 0	0	India	Lokeshb72
 0	0	India	Loki55
 0	0	India	Loop1019
+0	0	India	Lovejeet
 0	0	India	Lowkeyprofile2
 0	0	India	Luv23
 0	0	India	Luvkumar
 0	0	India	MANISHCHAUHAN
 0	0	India	MANUSHREE
-0	0	India	MM123455
 0	0	India	MSD_07
 0	0	India	MT_26042000
 0	0	India	MUSTAFA32
@@ -25006,20 +25186,14 @@ Score	Penalty	Country	Name
 0	0	India	Mactavish31
 0	0	India	Madara007
 0	0	India	Madhumitha18
-0	0	India	Magiiciian
 0	0	India	Mahakk
-0	0	India	Mahesh767
 0	0	India	MaheshThalluri
 0	0	India	Maheshrp
-0	0	India	MainSeaMonster
 0	0	India	Mainak559
-0	0	India	Malini_D
 0	0	India	MananAgg
 0	0	India	MananJhaveri
 0	0	India	Manasa15
-0	0	India	Manasee1
 0	0	India	Mandadiprathyusha
-0	0	India	Mani_Vinodh
 0	0	India	Manikiran9596
 0	0	India	Manishthilagar
 0	0	India	Maniswa
@@ -25028,25 +25202,19 @@ Score	Penalty	Country	Name
 0	0	India	Mario_Vishal
 0	0	India	Maryjane
 0	0	India	MasterNinja
-0	0	India	Masumi
 0	0	India	MayankSingh17
 0	0	India	Mayankgupta7
 0	0	India	Mayur_Pawar
 0	0	India	MedaboinaSneha
-0	0	India	Meenakshiiyer
 0	0	India	Meenamma
 0	0	India	Megha103
 0	0	India	Mighamaria
 0	0	India	Mihirpatel
 0	0	India	Minato_01
 0	0	India	Mishra04
-0	0	India	Mk930186
-0	0	India	MohammedFaizanMohiuddin
-0	0	India	MohanGowdaH
 0	0	India	MohanaMadhuVamsi
 0	0	India	Mohini_Dangi
 0	0	India	Mohitbjha17
-0	0	India	MohsinSiddi
 0	0	India	Mojo_Ji
 0	0	India	Mokshith
 0	0	India	Mounika80
@@ -25065,24 +25233,22 @@ Score	Penalty	Country	Name
 0	0	India	NaveenLeo7
 0	0	India	NeelSave
 0	0	India	Neel_Gandhi
-0	0	India	Neil_9
+0	0	India	Neha_L
 0	0	India	NelsonRaj48
 0	0	India	Nezuko_2001
-0	0	India	Nib
 0	0	India	Nick98
 0	0	India	Night_carol
 0	0	India	Niki_here
+0	0	India	NikitaB
 0	0	India	Nirmit1509
-0	0	India	Niteshbiwal
+0	0	India	Nitin@123
 0	0	India	Nitinshah
-0	0	India	Nitish1101
 0	0	India	Nitra_dubey
 0	0	India	Niv123
 0	0	India	NoCool
 0	0	India	NoelJacob
 0	0	India	NukeDrake14
 0	0	India	PACHIGOLLA_HEMANTH
-0	0	India	PRIYVRAT
 0	0	India	PRatyusHA
 0	0	India	PSN221B
 0	0	India	P_S_Y_
@@ -25092,39 +25258,34 @@ Score	Penalty	Country	Name
 0	0	India	Parallax007
 0	0	India	Parameswar
 0	0	India	Parbat
-0	0	India	ParjanyaACoder
 0	0	India	ParthGoyal
 0	0	India	ParthMakadiya298
 0	0	India	Parzival010
 0	0	India	Parzivall
-0	0	India	Patil92
+0	0	India	Patrick@12345
 0	0	India	PaulieCoder
-0	0	India	Pavan9
 0	0	India	Pavan_Siddharth
+0	0	India	PavankalyanInugurthi
 0	0	India	Pavi1705
-0	0	India	PayalKhattri
 0	0	India	Pcp
 0	0	India	PercyJ@ckson
 0	0	India	Perhaw
-0	0	India	PersieMohit
 0	0	India	Phantom_Monsta
 0	0	India	Pinkysingh.com
 0	0	India	Piyush1807
 0	0	India	Piyush59
-0	0	India	Piyushalone
 0	0	India	Poojangi
-0	0	India	Prady9
 0	0	India	Pragati2108
 0	0	India	Prajwal20
 0	0	India	Prakharpandey
 0	0	India	Pram2803
-0	0	India	Prathyu0398
+0	0	India	Pranayreddy
+0	0	India	Prathyushadevara
 0	0	India	Pratik20202
 0	0	India	Pratik94
 0	0	India	Pratyush021
 0	0	India	Praveen@24
 0	0	India	PraveenKumawat
-0	0	India	PraveenSaiSanthosh
 0	0	India	Praveen_vk
 0	0	India	PravinAsp
 0	0	India	Preet1910
@@ -25132,21 +25293,22 @@ Score	Penalty	Country	Name
 0	0	India	ProClasic
 0	0	India	Pro_snady
 0	0	India	Psycho_Engineer
-0	0	India	PundirSachin
+0	0	India	PujaSriSai
 0	0	India	Purav04
+0	0	India	PyBreaker
+0	0	India	PythionC
 0	0	India	Quanta03
-0	0	India	RAHULP
 0	0	India	RAMA5
 0	0	India	RANAKUMAR
 0	0	India	RAS215
 0	0	India	RJ218
 0	0	India	RK12
-0	0	India	RK1611
 0	0	India	ROWDY
 0	0	India	RUCHITKUMAR
 0	0	India	RVSDINESH
 0	0	India	Rahul0498
 0	0	India	Rahul2002
+0	0	India	Rahul2907
 0	0	India	RahulBansal
 0	0	India	Rahul_raj
 0	0	India	Rajamuthukumaran
@@ -25159,28 +25321,22 @@ Score	Penalty	Country	Name
 0	0	India	Raviduttsharma
 0	0	India	Razikar
 0	0	India	Rcane
-0	0	India	Red_Devil
 0	0	India	ReddyN07
 0	0	India	Reeva
 0	0	India	Remo_dark
-0	0	India	Rgujarathi
 0	0	India	Ribtas007
 0	0	India	Richi007
 0	0	India	Ricky2000
-0	0	India	RiddhiSanghvi
 0	0	India	Rinivalaparla
 0	0	India	Rishi158
 0	0	India	RishithaPendyala
-0	0	India	Rishiy29
 0	0	India	Rishu*
 0	0	India	Rithi_01
 0	0	India	Ritushree1234
 0	0	India	Riyaaa
-0	0	India	Rj0110
 0	0	India	Rjain2421
 0	0	India	Robin271
 0	0	India	RobotX95
-0	0	India	Rockstar.XX7
 0	0	India	Rohan1904
 0	0	India	Rohit29mehta
 0	0	India	RolloTomasi
@@ -25191,17 +25347,15 @@ Score	Penalty	Country	Name
 0	0	India	Rwresham
 0	0	India	S7a2ad
 0	0	India	SAISATISH
-0	0	India	SC7
 0	0	India	SGAGANKUMAR
 0	0	India	SHANMOHD
+0	0	India	SIvayuVI
 0	0	India	SRIJAN
 0	0	India	SRITEJ
 0	0	India	SUMITRA
 0	0	India	Sabbellamanisha
 0	0	India	SachinPandey
-0	0	India	Sage725
 0	0	India	Sahaja_reddy
-0	0	India	Sahil_Tripathi
 0	0	India	Sahithi.muchipalli
 0	0	India	Sahithya16
 0	0	India	Sai@1085
@@ -25211,12 +25365,11 @@ Score	Penalty	Country	Name
 0	0	India	Sai_Kumar
 0	0	India	Sainithin
 0	0	India	Sainty
-0	0	India	Saiprashanth
 0	0	India	Sairajkodilkar
 0	0	India	Sairaksha
 0	0	India	Saiteja1
+0	0	India	Saivarma2000
 0	0	India	Saksham312
-0	0	India	Sakshi-Sutar
 0	0	India	Samuel_Sanjog
 0	0	India	Samyucktha
 0	0	India	SandeepCH
@@ -25228,26 +25381,20 @@ Score	Penalty	Country	Name
 0	0	India	Sankar_desamsetti
 0	0	India	Sankeerthana428
 0	0	India	Sanket20jain
-0	0	India	Sanks19
+0	0	India	SanketUmredkar
 0	0	India	Sanny085
 0	0	India	SanpuiRonak
 0	0	India	Sanumohamed
 0	0	India	Sarish
 0	0	India	SatakshiGarg
-0	0	India	Satish09
+0	0	India	SatyamRathod
+0	0	India	Saugata579
 0	0	India	Saurabh121
 0	0	India	Saurabh3516
-0	0	India	Saurabh_gupta
-0	0	India	Sayan_alan
 0	0	India	Sayan_surya99
 0	0	India	Sayanchowdhury02
-0	0	India	Scoder08
 0	0	India	Sejaljain
 0	0	India	Shaaru
-0	0	India	ShadyAddie
-0	0	India	ShagunBidawatka
-0	0	India	Shahraaz
-0	0	India	Shajee.Mathi
 0	0	India	Shalk
 0	0	India	Shambhavishrivastavass
 0	0	India	Shanthosh_Khan
@@ -25258,34 +25405,35 @@ Score	Penalty	Country	Name
 0	0	India	Shd0w.exe
 0	0	India	ShelCode.07
 0	0	India	Shilpu
+0	0	India	ShineStar
 0	0	India	Shiv0396
 0	0	India	Shiv3107
 0	0	India	Shiv_Ankit
 0	0	India	Shivamtiwari
 0	0	India	Shivani.Vemuganti
 0	0	India	ShivaniMukka
+0	0	India	Shivanichinnu
 0	0	India	ShobhiT
 0	0	India	Shraddhaa05
 0	0	India	Shubham05178
-0	0	India	Shubham37
+0	0	India	Shubham1121
 0	0	India	Shubhamgp8991
 0	0	India	Shubhamj__
 0	0	India	Shyamsai
 0	0	India	Shyni12
-0	0	India	SidCode
 0	0	India	Sid_08
+0	0	India	Siddhantkamat
 0	0	India	Siddheshwar
 0	0	India	Siddhu6
+0	0	India	Simritha
 0	0	India	Singaram
+0	0	India	Smarty.Dev
 0	0	India	SmartyPants
 0	0	India	SnehAgg
+0	0	India	Snehalchaudhari
 0	0	India	Sngrmk
-0	0	India	Sohal_5k5
 0	0	India	SomethingCreative
-0	0	India	Somya_Agr
-0	0	India	Sonam_Singh
 0	0	India	Soumik43
-0	0	India	Sourjya
 0	0	India	Sowjii
 0	0	India	SpecAscension
 0	0	India	SravanMaximus
@@ -25294,6 +25442,7 @@ Score	Penalty	Country	Name
 0	0	India	Sri_Sri
 0	0	India	Sridatta198
 0	0	India	Sriram003
+0	0	India	Ssantosh12
 0	0	India	StellarSM
 0	0	India	StrEsther
 0	0	India	Strange_Likhith
@@ -25310,9 +25459,9 @@ Score	Penalty	Country	Name
 0	0	India	Suhaas_19
 0	0	India	Suhana_11
 0	0	India	Suhit1
-0	0	India	Sumit2798
+0	0	India	Sujoy_Seal
 0	0	India	Sumukhmlohit
-0	0	India	Sunny1052
+0	0	India	Supdup
 0	0	India	SurajG
 0	0	India	Surajsrinivasan
 0	0	India	Surbhi1210
@@ -25329,92 +25478,90 @@ Score	Penalty	Country	Name
 0	0	India	TJ7
 0	0	India	TOCSI
 0	0	India	Tagra-Sahab
-0	0	India	Tan1502
-0	0	India	Tanmaya_Jain
 0	0	India	Taralathasri
 0	0	India	Tariq455
 0	0	India	TaruRaj888
-0	0	India	Tejasri.B.N
 0	0	India	Tejasurve
 0	0	India	Tejaswi@25
 0	0	India	Teju444
 0	0	India	Tejusimhadri
 0	0	India	Tekkie
-0	0	India	Thamizhselvams
 0	0	India	Thanos_with_gauntlet
-0	0	India	TheRooftopElf
 0	0	India	Thelazyhuman
-0	0	India	Time_traveller
+0	0	India	Thilakreddy
 0	0	India	Tusha
-0	0	India	Uday113
+0	0	India	UNKNOWNcoder
+0	0	India	Ujju9945
 0	0	India	Umika
-0	0	India	Unnisa
 0	0	India	Uthamn
 0	0	India	Utkarsshhh
 0	0	India	Uttej897
 0	0	India	VAMSIMPVN
-0	0	India	VINAYA
+0	0	India	VARTUAL
 0	0	India	VINAYAKMB
 0	0	India	VMSONANI
 0	0	India	Vaibhav01
 0	0	India	Vaibhav3009
 0	0	India	Vaibhav84235
+0	0	India	VaibhavSh24
 0	0	India	Vaibhavi_Udani
 0	0	India	Vaibhavs
 0	0	India	Vaishali1312
-0	0	India	Vaishnavi@85
+0	0	India	Vamsi123456
 0	0	India	Vamsi1507
 0	0	India	VamsiManda
-0	0	India	VangaRinkigoud
 0	0	India	VanishreeVenugopal
-0	0	India	Vardhan142
+0	0	India	Vansjaliya
+0	0	India	Vasvi.sood
 0	0	India	Vedant_07
 0	0	India	Vedant_Wankhade
 0	0	India	Veejnas7
+0	0	India	Vempati@puji
 0	0	India	Venuka
 0	0	India	Veron
-0	0	India	Vetrivel3
+0	0	India	VibhuVflo
 0	0	India	Vibo
 0	0	India	Vick26
 0	0	India	Vicky@123
 0	0	India	Videsde
+0	0	India	Vijya
 0	0	India	Vikas187
-0	0	India	VikiShivBhakt
+0	0	India	Vikash2020
 0	0	India	VinaY
 0	0	India	VinayCyber
 0	0	India	Vinsmokesanji1
 0	0	India	VishalKaushik0804
 0	0	India	VivekPyda
-0	0	India	Vydehi
+0	0	India	VivekS10
+0	0	India	Vtf05
 0	0	India	Vynex
-0	0	India	Vyshnavikolli
 0	0	India	Walker22
 0	0	India	White_wolf
+0	0	India	Womega
 0	0	India	Xakep_8
 0	0	India	Xps_2000
 0	0	India	Yadavshivpal
 0	0	India	Yasasvi
 0	0	India	YashKalyan
+0	0	India	YashTyagi0
 0	0	India	Yashlightning
 0	0	India	Yashu_m
 0	0	India	Yashy92297
 0	0	India	YoYoGamma
-0	0	India	Yoganrusimhaa
 0	0	India	ZINGSWAY
 0	0	India	Zach
 0	0	India	ZaheerAbbas
 0	0	India	Zaper
 0	0	India	Zargon00
-0	0	India	Zeeshan_19
 0	0	India	Zeus746589
 0	0	India	Zoeb
 0	0	India	_JoKeR_
 0	0	India	__lit__
-0	0	India	_ankita_
 0	0	India	_chinmay
+0	0	India	_cutalesious
 0	0	India	_mittal_
+0	0	India	aadi2001
 0	0	India	aanchal_n
-0	0	India	aaryanreddy_
 0	0	India	aayushbachwana
 0	0	India	abeer__Dubey
 0	0	India	abhi_eagle
@@ -25423,9 +25570,7 @@ Score	Penalty	Country	Name
 0	0	India	abhishek99
 0	0	India	abhishek_kumar_mandal
 0	0	India	abhishekagrawalkumar
-0	0	India	abhishekslal
 0	0	India	abhivarn
-0	0	India	abinash129
 0	0	India	abrarsaifudheen
 0	0	India	abu_zer
 0	0	India	adarshmishra0004
@@ -25438,38 +25583,34 @@ Score	Penalty	Country	Name
 0	0	India	aditya_ag16
 0	0	India	adnan5178
 0	0	India	ae6ec
-0	0	India	aeman_khadijah
 0	0	India	ag5613
 0	0	India	ag9991323
-0	0	India	agrawalg125
-0	0	India	aish9
 0	0	India	aj211298
 0	0	India	ajinkya_3833
 0	0	India	akash1810
+0	0	India	akash1812
 0	0	India	akhil_00
 0	0	India	akku2508
-0	0	India	akshraa
 0	0	India	akumar14
-0	0	India	aldrinJenson
 0	0	India	alexsparrow
+0	0	India	algds
+0	0	India	almas_khan
 0	0	India	aman0456
 0	0	India	aman1191
 0	0	India	amanp3761@gmail.com
 0	0	India	amanpotdar
-0	0	India	amar@123
 0	0	India	amaresh_nara
-0	0	India	amarsemwal
-0	0	India	ammu007
-0	0	India	amulyaammu
-0	0	India	andeyashwanth
+0	0	India	ameydev
+0	0	India	ams7
+0	0	India	anand_kumar
 0	0	India	ani64
 0	0	India	aniiket
 0	0	India	animeshn153
 0	0	India	anjali7038
 0	0	India	ankalampranitha@gmail.com
+0	0	India	ankit7455
 0	0	India	ankit_007
 0	0	India	ankitnamdeo34
-0	0	India	ankitrj
 0	0	India	anmol0709
 0	0	India	anshu!
 0	0	India	anshulg954
@@ -25482,23 +25623,17 @@ Score	Penalty	Country	Name
 0	0	India	anurag4512
 0	0	India	anuragshukla11112001@gmail.com
 0	0	India	anusha26
-0	0	India	aparnadev
 0	0	India	apurvahegde
 0	0	India	arjun166
-0	0	India	arjungarg
-0	0	India	arjunglal
 0	0	India	arjunsunilkumar
-0	0	India	arpancodes
 0	0	India	arpit2438735@gmail.com
 0	0	India	arsh9806
 0	0	India	arun07aj
 0	0	India	arunkannanvvta
 0	0	India	arunsridher
-0	0	India	ash-rick
 0	0	India	ashfaq28010
 0	0	India	ashishhota
 0	0	India	ashrithareddy8
-0	0	India	ashu_gate22
 0	0	India	asimmitra447@gmail.com
 0	0	India	aslam.pro
 0	0	India	asmit
@@ -25507,6 +25642,7 @@ Score	Penalty	Country	Name
 0	0	India	atmos
 0	0	India	atul2608
 0	0	India	avanish789
+0	0	India	avcbcoder
 0	0	India	avhi_007
 0	0	India	avi25597
 0	0	India	aviral.sharma.012
@@ -25515,12 +25651,9 @@ Score	Penalty	Country	Name
 0	0	India	ayushim
 0	0	India	ayushisachan
 0	0	India	ayushlodha07
-0	0	India	ayushsaini1607
 0	0	India	azm0_0
 0	0	India	be_awesome
-0	0	India	beracah
 0	0	India	bestiptx99
-0	0	India	bhajanlal
 0	0	India	bhanu_jaiswal
 0	0	India	bharathmanvas
 0	0	India	bhargavkesa
@@ -25535,15 +25668,16 @@ Score	Penalty	Country	Name
 0	0	India	bright_hamdan
 0	0	India	bttmndl
 0	0	India	burntGarlic
-0	0	India	cashew
 0	0	India	ch33kuu
+0	0	India	chakz
 0	0	India	chandu11
+0	0	India	charan_kazuto
 0	0	India	cheersanimesh
 0	0	India	chetangupta29@gmail.com
 0	0	India	choudharyarjun423@gmail.com
-0	0	India	christeph
 0	0	India	classicalfreak
 0	0	India	codeamit
+0	0	India	codejacker
 0	0	India	coder1gautam
 0	0	India	coder404
 0	0	India	coderdeath
@@ -25551,7 +25685,6 @@ Score	Penalty	Country	Name
 0	0	India	cooldude6969
 0	0	India	cooldude6996
 0	0	India	copperLegend
-0	0	India	cybertrone
 0	0	India	d2001patel
 0	0	India	daarkbot
 0	0	India	dana_paani
@@ -25563,6 +25696,7 @@ Score	Penalty	Country	Name
 0	0	India	debanjanab
 0	0	India	debojyoti
 0	0	India	decocse
+0	0	India	deepikathokala123@gmail.com
 0	0	India	deeppatel1204
 0	0	India	deepya
 0	0	India	devang_gupta
@@ -25573,20 +25707,14 @@ Score	Penalty	Country	Name
 0	0	India	devu2456
 0	0	India	dgkddgk
 0	0	India	dhananjayvarma
-0	0	India	dharanipeyyala
 0	0	India	dhwani1806
 0	0	India	divi2468
-0	0	India	divyanshuparihar
-0	0	India	divyarepaka18
 0	0	India	divybajpai
 0	0	India	djbange
 0	0	India	dpatil1808
 0	0	India	dravisha
 0	0	India	durgaprasadnaik
 0	0	India	dutta_prateek
-0	0	India	dylan7_7rdgz
-0	0	India	echo-864
-0	0	India	ekesh`
 0	0	India	espada4
 0	0	India	eswar99
 0	0	India	eva9188
@@ -25598,33 +25726,27 @@ Score	Penalty	Country	Name
 0	0	India	firster
 0	0	India	foxtron
 0	0	India	freakgod
-0	0	India	frost23
-0	0	India	g1coder
 0	0	India	gadsater
-0	0	India	gairicksaha
+0	0	India	gaganswarnkar
 0	0	India	gamer_wizard
-0	0	India	ganpa
 0	0	India	gargshrey
+0	0	India	garvitas
 0	0	India	gauravgarg48
 0	0	India	gauravpandey
-0	0	India	geeteekayedla
 0	0	India	geetha_kavuri
 0	0	India	geniusCodes
 0	0	India	girishCoder
-0	0	India	glalit3654@gmail.com
+0	0	India	gitarani227@gmail.com
 0	0	India	gokulkannan
-0	0	India	goswamiakash066@gmail.com
+0	0	India	goldiebadjate
 0	0	India	gourav_1312
-0	0	India	gourgan
 0	0	India	gourisruthi22@gmail.com
-0	0	India	govinda_107
 0	0	India	gowthi99
 0	0	India	grc_sr
 0	0	India	greynsmile
 0	0	India	gsayantan
 0	0	India	gta123
 0	0	India	gtarun047@gmail.com
-0	0	India	guptabharat
 0	0	India	gurrrung
 0	0	India	hades007
 0	0	India	hahaharshita
@@ -25634,10 +25756,8 @@ Score	Penalty	Country	Name
 0	0	India	harish_197
 0	0	India	haritha44
 0	0	India	harrydbst
-0	0	India	harsh_thoriya
-0	0	India	harshamankal
-0	0	India	harshavardhanreddy
 0	0	India	harshit020810
+0	0	India	harshitkumar
 0	0	India	harshphogat
 0	0	India	harshva89
 0	0	India	hashichemnad
@@ -25645,28 +25765,23 @@ Score	Penalty	Country	Name
 0	0	India	haswanth89
 0	0	India	heismr_I
 0	0	India	hemanth_raj
-0	0	India	hemantjoshi_123
-0	0	India	hereissdb
 0	0	India	hiero_crypt
 0	0	India	hikky
 0	0	India	himakarganesh
 0	0	India	himanshu2310
 0	0	India	hitanshusoni
 0	0	India	hrithik007
-0	0	India	hritikraj31
 0	0	India	htaed1990@gmail.com
 0	0	India	iAkhil
 0	0	India	i_am_vishal
 0	0	India	iamASB
 0	0	India	ibrahimmir11
 0	0	India	ideysubham
-0	0	India	ihuntu
 0	0	India	iiverveii
 0	0	India	imAshwinJ
-0	0	India	im_ankit
-0	0	India	impruthvipatel
-0	0	India	indu_P
+0	0	India	impossibleshadowstorm
 0	0	India	infoscion
+0	0	India	invincible555
 0	0	India	invincible_one
 0	0	India	iqbal6025
 0	0	India	iqra13
@@ -25674,7 +25789,6 @@ Score	Penalty	Country	Name
 0	0	India	its_processor
 0	0	India	its_zayn
 0	0	India	itsme_ng
-0	0	India	jaatcoder
 0	0	India	jainAaishi
 0	0	India	jain_anushree
 0	0	India	jan4
@@ -25685,29 +25799,26 @@ Score	Penalty	Country	Name
 0	0	India	jc11499
 0	0	India	jcool
 0	0	India	jculli
+0	0	India	jeevesh_1387
 0	0	India	jemis
 0	0	India	jerryjasmine
 0	0	India	jjjeshua
 0	0	India	jk1807
 0	0	India	jpsuthar
-0	0	India	js25
 0	0	India	junkie_with_code@123
 0	0	India	just_bring_it
 0	0	India	jyotigarg224@gmail.com
 0	0	India	jyotisharda
 0	0	India	k16
-0	0	India	kabi.beastboy
 0	0	India	kabilan45
 0	0	India	kabirulhassan
 0	0	India	kacharianimesh
 0	0	India	kajal222
 0	0	India	kalidarsh
-0	0	India	kanha2503
 0	0	India	kanu7
 0	0	India	karthi31342keyan
 0	0	India	karthik6117
 0	0	India	karthikeyan_01
-0	0	India	karthikgs
 0	0	India	kartikcodes
 0	0	India	kartikeya2323
 0	0	India	kathanki
@@ -25715,21 +25826,20 @@ Score	Penalty	Country	Name
 0	0	India	kaustav96
 0	0	India	kb9101
 0	0	India	kbh
-0	0	India	kbhv
-0	0	India	kermit7315
 0	0	India	ketaki
 0	0	India	khannaprateek
 0	0	India	kimjongun
 0	0	India	kiruthigat
 0	0	India	kkeyan931
 0	0	India	komaltalwar18
-0	0	India	koulsensei
 0	0	India	koushikavuppala4
 0	0	India	kranIn
 0	0	India	krati_mitra
 0	0	India	krishnateja.koppu
 0	0	India	krisn_t07
-0	0	India	kriti786
+0	0	India	krunalkharat
+0	0	India	krushang
+0	0	India	kshyamano
 0	0	India	ksreevamsi32
 0	0	India	kunal07
 0	0	India	kundan07bhaiya@gmail.com
@@ -25737,20 +25847,17 @@ Score	Penalty	Country	Name
 0	0	India	kush8292
 0	0	India	kushal.p13
 0	0	India	kushi20
+0	0	India	langan
 0	0	India	lasyamohan
 0	0	India	lellel
 0	0	India	leobarnabas@gmail.com
 0	0	India	logic_lover
 0	0	India	lp
-0	0	India	m9ah9
 0	0	India	mYTH_Forest
 0	0	India	m_13
 0	0	India	madhulakkoju
-0	0	India	mahajanhm
 0	0	India	mahendar
 0	0	India	mahii26
-0	0	India	maityz
-0	0	India	manasajwalia
 0	0	India	manavlohiya0@gmail.com
 0	0	India	mangal22
 0	0	India	manik_taneja3
@@ -25760,9 +25867,11 @@ Score	Penalty	Country	Name
 0	0	India	mastermind_muzaffar
 0	0	India	maxaiz
 0	0	India	mayank57
+0	0	India	mayank98108@gmail.com
 0	0	India	mayankkabra
+0	0	India	mayurdeep
 0	0	India	mdsohailsanadi
-0	0	India	meet_gamdha
+0	0	India	mee1993
 0	0	India	mihir8758
 0	0	India	minashaw
 0	0	India	mishalraj17@gmail.com
@@ -25781,8 +25890,8 @@ Score	Penalty	Country	Name
 0	0	India	mvadlamudi
 0	0	India	n_s_k
 0	0	India	nadu555
+0	0	India	nagasriram
 0	0	India	nalin94
-0	0	India	nandishbhayani
 0	0	India	narmada_5_23
 0	0	India	navya53
 0	0	India	navya_19
@@ -25797,26 +25906,28 @@ Score	Penalty	Country	Name
 0	0	India	nikiprajapati
 0	0	India	nikitaGautam
 0	0	India	nims
+0	0	India	ninja496
 0	0	India	nipunsinghal
-0	0	India	nishchayp
 0	0	India	nithyaasworld
+0	0	India	nitingupta315
 0	0	India	nitishaagarwal
+0	0	India	nj323232
 0	0	India	noobmaniac
 0	0	India	noorasfatima
-0	0	India	npraneeth_21
 0	0	India	nrjain77
 0	0	India	nvs
+0	0	India	okgoogle
 0	0	India	okvpa
 0	0	India	omsai123
 0	0	India	onkar26
-0	0	India	pagar_maithreyi
+0	0	India	ontheqt
 0	0	India	pankaush12
-0	0	India	papa_ji
 0	0	India	parag03
 0	0	India	parineekhara@gmail.com
 0	0	India	parthchudasama
+0	0	India	parveeen
+0	0	India	pathade02@gmail.com
 0	0	India	patjee
-0	0	India	pavanbolli
 0	0	India	perdisco
 0	0	India	pheonixking
 0	0	India	pooja2020
@@ -25825,39 +25936,34 @@ Score	Penalty	Country	Name
 0	0	India	prafulla_15
 0	0	India	prakashsuriya1095@gmail.com
 0	0	India	prakhar1123
-0	0	India	pramatma
 0	0	India	pramod_24
 0	0	India	pramodkolte
-0	0	India	praneetdebnath
 0	0	India	prasannabhat018
-0	0	India	prashoo
 0	0	India	prateek_joshi
 0	0	India	pratikb2805
+0	0	India	pratyushjain
 0	0	India	praveenbiz
 0	0	India	prince1910981562
 0	0	India	princu8051
+0	0	India	prinku970
 0	0	India	prishu123
 0	0	India	priya.saxena3@gmail.com
 0	0	India	priyankavangapandu
 0	0	India	pro.cat.stinator
-0	0	India	programmer007
 0	0	India	pruthvi00007
-0	0	India	pruthvirajkottigari@gmail.com
+0	0	India	pujithaasre
 0	0	India	pupscub
 0	0	India	puranjaymishra
 0	0	India	putta.tilak@gmail.com
 0	0	India	r_k
 0	0	India	radhikagounder
 0	0	India	radorexx
-0	0	India	rafi_uzzaman
-0	0	India	ragingmonster
 0	0	India	ragnarok604
-0	0	India	raguram
+0	0	India	rahuldashore
 0	0	India	raj74878
 0	0	India	raja2000
 0	0	India	rajamishra
 0	0	India	rajat43689
-0	0	India	rajatbajpai33
 0	0	India	rajesh5
 0	0	India	rajviv
 0	0	India	ramchandanivaibhav
@@ -25865,6 +25971,7 @@ Score	Penalty	Country	Name
 0	0	India	ranjith_1012
 0	0	India	ransomwillsome
 0	0	India	rash23
+0	0	India	ravi324
 0	0	India	reaper1802
 0	0	India	redox4942
 0	0	India	reisezer
@@ -25873,13 +25980,10 @@ Score	Penalty	Country	Name
 0	0	India	riajha
 0	0	India	ridsera
 0	0	India	rishabh23
-0	0	India	rishabhkalra96
 0	0	India	rishi22rs
 0	0	India	rishu*1234
 0	0	India	riya0306
-0	0	India	rkat7
 0	0	India	rkk28
-0	0	India	rntalele
 0	0	India	rohan3301
 0	0	India	rohitm17
 0	0	India	rohitnar
@@ -25891,46 +25995,45 @@ Score	Penalty	Country	Name
 0	0	India	rupindr
 0	0	India	rushabhshah309
 0	0	India	rvineet
+0	0	India	s@mhith@
 0	0	India	sPriyank
-0	0	India	sagnik20
 0	0	India	sahil321
 0	0	India	sahukunal261
 0	0	India	sai764
 0	0	India	sai@1998
+0	0	India	sai_kiran_111904
 0	0	India	saiaakaashk1997@gmail.com
 0	0	India	saichandugudala
 0	0	India	saikat.karfa
 0	0	India	saikumar826
 0	0	India	saimanojchalla
 0	0	India	sain
-0	0	India	sainpratyaksh@gmail.com
 0	0	India	saisriharshakoppolu
-0	0	India	salonii13
+0	0	India	sakilapeddi
 0	0	India	sam0211
 0	0	India	sameer.shrestha
+0	0	India	samiparna
 0	0	India	samyakjain
 0	0	India	sandyjlll
 0	0	India	sanjeethit_tcs
 0	0	India	sank8dalvi
+0	0	India	sanskriti0512
 0	0	India	sarora1
+0	0	India	satwikj9584
 0	0	India	satyahbp
 0	0	India	satyamkumarverman
-0	0	India	satyanarayan
 0	0	India	sawan27
 0	0	India	sawdah_hani
 0	0	India	saxena11ashish
 0	0	India	sd327
 0	0	India	sdoshi983
-0	0	India	sejalgoyal
 0	0	India	sgmankar
-0	0	India	sgtheller
 0	0	India	shadow21
 0	0	India	shamal
+0	0	India	shammianand
 0	0	India	shank511
-0	0	India	shankha123
 0	0	India	shanmukh.talisetty
 0	0	India	shantanugupta
-0	0	India	sharmaashish710
 0	0	India	sharmarajdaksh
 0	0	India	sharsha315
 0	0	India	shas0999
@@ -25941,8 +26044,8 @@ Score	Penalty	Country	Name
 0	0	India	shashi_chandra
 0	0	India	shawnSAKA
 0	0	India	shayaan
+0	0	India	shiv@ds48
 0	0	India	shivangini23
-0	0	India	shivani860
 0	0	India	shreya.pawaskar
 0	0	India	shreyapathak
 0	0	India	shreyasb_2001
@@ -25955,7 +26058,6 @@ Score	Penalty	Country	Name
 0	0	India	shubh_10_7
 0	0	India	shubh_4901
 0	0	India	shubham_yadav
-0	0	India	shubhi.sethi
 0	0	India	shubhika511
 0	0	India	sid262000
 0	0	India	sidd363
@@ -25964,44 +26066,38 @@ Score	Penalty	Country	Name
 0	0	India	siddhu@73
 0	0	India	sidhbti
 0	0	India	simrannsrivastava
+0	0	India	singh.pushpraj088@gmail.com
 0	0	India	singhalparas28
-0	0	India	singhvishwejeet04
 0	0	India	sirichandana
-0	0	India	sjrs_27
 0	0	India	skifunction
 0	0	India	skr2
 0	0	India	sm25manas
-0	0	India	small_brain
 0	0	India	smevada
-0	0	India	smitshah2206
+0	0	India	smkghs02
 0	0	India	snehkothari1@gmail.com
 0	0	India	sohamb01
 0	0	India	someone0101
+0	0	India	soniya66
 0	0	India	soujanyareddycp@gmail.com
-0	0	India	sowjanyaoggu
+0	0	India	sourav.saha40@gmail.com
 0	0	India	sp2001
-0	0	India	sravan1045
+0	0	India	sreemo
 0	0	India	srideepkar
-0	0	India	sriramsbkarur
 0	0	India	sristi
 0	0	India	sshagarwal
-0	0	India	star_anuj007
 0	0	India	starbolt
 0	0	India	steverogers07
 0	0	India	stuti_sehgal
 0	0	India	subhambarman
 0	0	India	sudo.dev
-0	0	India	sujay1707
-0	0	India	sujoyroy99
-0	0	India	sumanth_chowdary
 0	0	India	sumusdy
-0	0	India	suraj.web
+0	0	India	sunnny007
 0	0	India	suru1206
 0	0	India	sush22dew
 0	0	India	sushmaswaraj
-0	0	India	suyasht99
 0	0	India	swarup9927
 0	0	India	swathi99
+0	0	India	tanmaychandra017
 0	0	India	tarak8535
 0	0	India	taslim0343
 0	0	India	techcoder
@@ -26018,10 +26114,11 @@ Score	Penalty	Country	Name
 0	0	India	trk_17
 0	0	India	tumun
 0	0	India	ud26022000
-0	0	India	udbhavgovil
 0	0	India	unite3
 0	0	India	unvieux
+0	0	India	upDown80
 0	0	India	utathya
+0	0	India	utsav1k
 0	0	India	v.s.vignesh
 0	0	India	vaibhav.lakhotia
 0	0	India	vaibhavb1998
@@ -26029,19 +26126,18 @@ Score	Penalty	Country	Name
 0	0	India	vamsinarkedimilli
 0	0	India	varun626
 0	0	India	varunb08
+0	0	India	vemuripoojitha
 0	0	India	venkat_kishan
 0	0	India	venkatesh799
 0	0	India	venomcoder1998
 0	0	India	verma_nishika
 0	0	India	vidiyala99
 0	0	India	vijay-nallagatla
-0	0	India	vijay_cyril
 0	0	India	vinaydama
 0	0	India	vinitagarwal
 0	0	India	vip.r2399
-0	0	India	virajdalvi
+0	0	India	virxng
 0	0	India	vishak103
-0	0	India	vishal693
 0	0	India	vishu98
 0	0	India	vishwa_shah
 0	0	India	viswa2401
@@ -26051,23 +26147,19 @@ Score	Penalty	Country	Name
 0	0	India	viwekraj
 0	0	India	vkpchhowdary
 0	0	India	vkvikram
-0	0	India	vm7
 0	0	India	vmanish
+0	0	India	vold_la
 0	0	India	vsk3011
 0	0	India	vyshnav
 0	0	India	walter.white
-0	0	India	warfighter77806
 0	0	India	wdavinash
 0	0	India	while__t--
 0	0	India	white_eagle
 0	0	India	whybangad
-0	0	India	yash2711
 0	0	India	yash9274
 0	0	India	yashagarwal001
 0	0	India	yashi07
 0	0	India	yashi_chourasiya
-0	0	India	yashmvora
-0	0	India	yatharthagarwal
 0	0	India	yuva587
 0	0	India	yvask
 0	0	India	zErO
@@ -26075,25 +26167,23 @@ Score	Penalty	Country	Name
 0	0	India	zishanAhmed
 0	0	India	🇹²
 0	0	Indonesia	Andfxx27
-0	0	Indonesia	DeviAnggita
+0	0	Indonesia	Azzzx
 0	0	Indonesia	Dhikri
 0	0	Indonesia	Rachmat_arief_murditanto
 0	0	Indonesia	Tantanmian
-0	0	Indonesia	andrewtjen
-0	0	Indonesia	ariputraananda
 0	0	Indonesia	cendydwie
 0	0	Indonesia	hafidhs27
 0	0	Indonesia	hendry
+0	0	Indonesia	khoer52
 0	0	Indonesia	kickme
 0	0	Indonesia	nazwagodean
 0	0	Indonesia	rizqyep
 0	0	Indonesia	ronaudinho
 0	0	Indonesia	teakay
 0	0	Indonesia	yusufsaputra
-0	0	Indonesia	zarados
 0	0	Indonesia	zunafif
-0	0	Ireland	MaguireJack
 0	0	Ireland	PhiXYZ
+0	0	Ireland	caolanfleming@googlemail.com
 0	0	Israel	Buzhen
 0	0	Israel	DEZ
 0	0	Israel	EliKarasik
@@ -26101,14 +26191,12 @@ Score	Penalty	Country	Name
 0	0	Israel	LazerCat
 0	0	Israel	MaximKoshel
 0	0	Israel	NoCake
-0	0	Israel	UltraExtreme
 0	0	Israel	linorp
-0	0	Italy	Damiano_Amici
+0	0	Israel	yahavx
 0	0	Italy	Filippozanna
 0	0	Italy	TheCino
-0	0	Italy	Umby89
+0	0	Italy	aaandri98
 0	0	Italy	alfredokcl
-0	0	Italy	enricocagliari
 0	0	Italy	g.mancini
 0	0	Italy	kingk85
 0	0	Italy	lucianoq
@@ -26117,17 +26205,14 @@ Score	Penalty	Country	Name
 0	0	Italy	pier
 0	0	Italy	retr00h
 0	0	Italy	sillypepti
-0	0	Italy	simolanzi
-0	0	Japan	Nulkana
 0	0	Japan	Rute_
 0	0	Japan	Tomarky
 0	0	Japan	aki_bayes
 0	0	Japan	cossy
-0	0	Japan	donuthole
 0	0	Japan	kinokokaeru
 0	0	Japan	nicolen
 0	0	Japan	rikupin1105
-0	0	Japan	sionyan
+0	0	Japan	shukob
 0	0	Japan	touyu
 0	0	Japan	zezero
 0	0	Jordan	OJAA
@@ -26136,49 +26221,47 @@ Score	Penalty	Country	Name
 0	0	Kazakhstan	Diana.Tech.Bakery
 0	0	Kazakhstan	dina_m
 0	0	Kazakhstan	gulnaz_zh
+0	0	Kenya	kajm
 0	0	Kenya	skngetich
+0	0	Kyrgyzstan	Dan1k
 0	0	Lebanon	Charbel
 0	0	Lebanon	jadmog
+0	0	Lithuania	kaminskas.tomas@gmail.com
 0	0	Lithuania	simonatumenaite
 0	0	Lithuania	tsuki
 0	0	Malaysia	kintuchintu
 0	0	Malaysia	loganetraa
+0	0	Malaysia	rongshiu
 0	0	Malaysia	yzlai
 0	0	Mauritania	Fatoom
+0	0	Mauritius	Mehfouz
 0	0	Mauritius	xelab04
 0	0	Mexico	Eddie2809
 0	0	Mexico	Erberth
 0	0	Mexico	FAVA
 0	0	Mexico	GustavoZA
 0	0	Mexico	Gusvega
-0	0	Mexico	Rulas99
 0	0	Mexico	fershady19
-0	0	Mexico	lbaymax
 0	0	Mexico	pao.gh
 0	0	Morocco	KhalilOS
 0	0	Morocco	Youssef_MSF
 0	0	Morocco	de.er
 0	0	Morocco	freemorocoder
-0	0	Morocco	hzghari
 0	0	Morocco	nouraellm
 0	0	Morocco	syrow001
-0	0	Nepal	SalmanAnsari
-0	0	Nepal	coderRishi
 0	0	Nepal	hackuwa
 0	0	Nepal	saurav44
-0	0	Netherlands	Cheeseit
+0	0	Netherlands	Hemantchamp
 0	0	Netherlands	Ionas
 0	0	Netherlands	Thystler
-0	0	Netherlands	jdonszelmann
-0	0	Netherlands	tuan9999
 0	0	New Zealand	Aquinas
 0	0	New Zealand	Marshall25
-0	0	New Zealand	UnlimitedFrames
-0	0	New Zealand	prinseskat@gmail.com
 0	0	Nigeria	Adedayo
 0	0	Nigeria	Alhaji123
 0	0	Nigeria	BJ1729
+0	0	Nigeria	HannahAde
 0	0	Nigeria	Hopizzy01
+0	0	Nigeria	IAIP
 0	0	Nigeria	Impeccable
 0	0	Nigeria	OmoJay
 0	0	Nigeria	Tdaycode
@@ -26189,49 +26272,50 @@ Score	Penalty	Country	Name
 0	0	Nigeria	oshalusijohn@gmail.com
 0	0	Nigeria	s1ntaxe770r
 0	0	Norway	Maren
-0	0	Norway	aksland
 0	0	Norway	dalexd
+0	0	Norway	meowzies
 0	0	Pakistan	AbdullahK047
 0	0	Pakistan	Areeb610
 0	0	Pakistan	Cheema
+0	0	Pakistan	Cryptoman
 0	0	Pakistan	Eqan
 0	0	Pakistan	Fam@H302
 0	0	Pakistan	GoldMUsamaMurtaza786GoldMUsama
 0	0	Pakistan	Hamza420
-0	0	Pakistan	HulkTron
 0	0	Pakistan	Ihtisham
-0	0	Pakistan	Mujahid
 0	0	Pakistan	Muneeba
 0	0	Pakistan	genzubi
 0	0	Pakistan	huza
 0	0	Pakistan	idron
+0	0	Pakistan	itsmuhammad
 0	0	Pakistan	khan_zunnash
 0	0	Pakistan	mehdi99
 0	0	Pakistan	zee0075
 0	0	Palestine	Ruwaa400
-0	0	Peru	Scoffield
-0	0	Peru	ZzzandyzzZ
 0	0	Peru	f1729
 0	0	Peru	jesersu
+0	0	Philippines	Colie
 0	0	Philippines	Jeremiah
 0	0	Philippines	KenMores
 0	0	Philippines	brianxfury
 0	0	Poland	Sallach21
+0	0	Poland	konrre
 0	0	Poland	mgkiler
 0	0	Poland	mihahauke
+0	0	Poland	scezar
 0	0	Portugal	Micael
 0	0	Portugal	SamuelKun
 0	0	Portugal	TofuLynx
 0	0	Portugal	brunorodrigues355
-0	0	Portugal	caldasdeoliveira
 0	0	Portugal	isabelportugal
-0	0	Portugal	joaobernardo01
 0	0	Portugal	joaofcmb
+0	0	Portugal	matgm
 0	0	Portugal	xamas
 0	0	Puerto Rico	AgustinBarreto
 0	0	Puerto Rico	LV
 0	0	Qatar	nahidofficial1996
 0	0	Romania	Arccaelt
+0	0	Romania	Danu4
 0	0	Romania	Danut1445
 0	0	Romania	DavidBalan
 0	0	Romania	Malizia
@@ -26240,27 +26324,21 @@ Score	Penalty	Country	Name
 0	0	Romania	Walterrr
 0	0	Romania	bcm-wolf
 0	0	Romania	gabid08
-0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Larantan
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
-0	0	Russia	VArtem
+0	0	Russia	Tatyana_611_r
 0	0	Russia	ambisinistra
-0	0	Russia	glebsasmsonov
+0	0	Russia	garipovii
 0	0	Russia	mspitb
-0	0	Russia	munir_
-0	0	Russia	sled
-0	0	Rwanda	K-wachira
 0	0	Saudi Arabia	Jetbaz
 0	0	Senegal	KandeAbdoul
 0	0	Singapore	Chunxin
 0	0	Singapore	GregC
 0	0	Singapore	Junray
 0	0	Singapore	Prat0411
-0	0	Singapore	Prof_X
 0	0	Singapore	Zing._.
 0	0	Singapore	ggoh29
-0	0	Singapore	ken.ang
 0	0	Singapore	quangrau
 0	0	Singapore	sunshinepower01
 0	0	Singapore	tzz
@@ -26271,49 +26349,46 @@ Score	Penalty	Country	Name
 0	0	South Africa	Chappie9
 0	0	South Africa	Morne
 0	0	South Africa	Sizzles
+0	0	South Africa	Tumi
 0	0	South Africa	dotCoder
 0	0	South Africa	thinus.potgieter@gmail.com
 0	0	South Korea	0xF4D3C0D3
+0	0	South Korea	3to15gram
 0	0	South Korea	Croquis
 0	0	South Korea	Cuws
 0	0	South Korea	GiYeon
-0	0	South Korea	LrLr
 0	0	South Korea	Nsoo
 0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
 0	0	South Korea	Summoner1343
+0	0	South Korea	Xeroxy
 0	0	South Korea	YONG_HWAN
+0	0	South Korea	baactree
 0	0	South Korea	bluefortress24
-0	0	South Korea	bluezery
-0	0	South Korea	cantapiya
 0	0	South Korea	cozyncoze@gmail.com
 0	0	South Korea	ilhan.ryu
 0	0	South Korea	indexxlim
 0	0	South Korea	koreabell
 0	0	South Korea	leoJeong
+0	0	South Korea	nawees
 0	0	South Korea	nickjung
 0	0	South Korea	spillink
 0	0	South Korea	swcunba
-0	0	South Korea	강동훈
 0	0	Spain	Godiez
 0	0	Spain	Pablo-NotFound
-0	0	Spain	alsanan
+0	0	Spain	alvarogonzalezsotillo
 0	0	Spain	charlyybcn
 0	0	Spain	dirigity
 0	0	Spain	fran2009
 0	0	Spain	jrapadog
-0	0	Spain	juan
 0	0	Spain	leoguercio
 0	0	Spain	picamà
 0	0	Spain	yabirgb
-0	0	Sri Lanka	<crypter/>
 0	0	Sri Lanka	Naanbanda
 0	0	Sri Lanka	Neva
-0	0	Sri Lanka	PrabasHana
 0	0	Sri Lanka	Rubika
 0	0	Sri Lanka	Samare
 0	0	Sri Lanka	Shaaali
-0	0	Sri Lanka	Soma@@
 0	0	Sri Lanka	Thujitha
 0	0	Sri Lanka	isuru21524
 0	0	Sri Lanka	knbrothers
@@ -26321,23 +26396,17 @@ Score	Penalty	Country	Name
 0	0	Sri Lanka	lashewi
 0	0	Sri Lanka	pamathi
 0	0	Sri Lanka	ravindutbandara
-0	0	Sri Lanka	slahiruc
-0	0	Sweden	Gouranga
 0	0	Sweden	PapaSmurf
+0	0	Sweden	TeachMeToAim
+0	0	Sweden	johanj93
 0	0	Switzerland	WannabeEhrenmann
 0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
-0	0	Taiwan	NCKU
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
-0	0	Taiwan	enumaelish
 0	0	Taiwan	joric
 0	0	Taiwan	tonyli
-0	0	Taiwan	任生狂
 0	0	Tajikistan	hamroz
-0	0	Thailand	JobOrangeFox
-0	0	Thailand	Klur
-0	0	Thailand	MonoPeelz
 0	0	Thailand	NattapolV
 0	0	Thailand	Tem
 0	0	Thailand	bankzxcv@gmail.com
@@ -26345,13 +26414,13 @@ Score	Penalty	Country	Name
 0	0	Thailand	siraben
 0	0	Thailand	tum32192
 0	0	Tunisia	AamaraMaher
-0	0	Tunisia	Bl4ck44
+0	0	Tunisia	AhedBahri
 0	0	Tunisia	Chocolate32
 0	0	Tunisia	FZT
 0	0	Tunisia	Hajjem
 0	0	Tunisia	Kishiman
 0	0	Tunisia	Mohamed.Ferchichi
-0	0	Tunisia	Shurima
+0	0	Tunisia	Yashiro03
 0	0	Tunisia	amine.essefi
 0	0	Tunisia	elwiss
 0	0	Tunisia	irontigran
@@ -26360,30 +26429,29 @@ Score	Penalty	Country	Name
 0	0	Turkey	Kavraz
 0	0	Turkey	Muzeyyen
 0	0	Turkey	QuisatzHaderah
-0	0	Turkey	UtkuUyar
-0	0	Turkey	ercecan99
+0	0	Turkey	cefatihozturk
 0	0	Turkey	mehmetalpsumer
 0	0	Turkey	rwer
 0	0	Turkey	semihsenel
 0	0	Turkey	tuperman
 0	0	Turkey	turkuaz
 0	0	Turkey	ugurkkkkkk
+0	0	Uganda	MUST
 0	0	Ukraine	AndrewGumenyk
 0	0	Ukraine	JakeTheEmperor
 0	0	Ukraine	VeronikaPykhnei
 0	0	Ukraine	Vitali_96
 0	0	Ukraine	alex_chorni
 0	0	Ukraine	dolphin7
-0	0	Ukraine	mariamisoieva
-0	0	Ukraine	neurodeep
 0	0	Ukraine	v_nataliia
 0	0	Ukraine	voltron
 0	0	Ukraine	why2sexy
 0	0	United Arab Emirates	Rockycrab
+0	0	United Kingdom	AdamJewell
 0	0	United Kingdom	B3141
-0	0	United Kingdom	BenJamesMurray
 0	0	United Kingdom	Fathinah
 0	0	United Kingdom	Grigorov
+0	0	United Kingdom	Keshav1999
 0	0	United Kingdom	KilianSL
 0	0	United Kingdom	Mateuszwlo
 0	0	United Kingdom	Meemog
@@ -26398,35 +26466,28 @@ Score	Penalty	Country	Name
 0	0	United Kingdom	finngagliano30@googlemail.com
 0	0	United Kingdom	jazかれた
 0	0	United Kingdom	melissaho97
-0	0	United Kingdom	oliver.hines
 0	0	United Kingdom	stavrospod
-0	0	United Kingdom	yashwina
 0	0	United Kingdom	zaidjaria
-0	0	United States	2096winters
+0	0	United States	AP1217
 0	0	United States	Anonymous_id24
-0	0	United States	Aranjello
 0	0	United States	Benchik
-0	0	United States	BlkStormy
 0	0	United States	BonnieS
 0	0	United States	Byhong
 0	0	United States	CalebHabtegebriel
+0	0	United States	Carpiella
 0	0	United States	Chee
 0	0	United States	Cody8
+0	0	United States	CrazyCoder007
 0	0	United States	Creatune
 0	0	United States	Crownless
 0	0	United States	DharmeshGuna
-0	0	United States	Dynamoo
-0	0	United States	EZ
-0	0	United States	Ellaphant57
 0	0	United States	Francelia
+0	0	United States	Glengar
+0	0	United States	Greystor
 0	0	United States	HeatherL
 0	0	United States	Hezz
-0	0	United States	JB.io
 0	0	United States	JacobSage
-0	0	United States	Jessmer
-0	0	United States	Jihye7373
-0	0	United States	JoseC3276
-0	0	United States	KamalH04
+0	0	United States	KennedyJohnson1996
 0	0	United States	Mayers2003
 0	0	United States	Polavis
 0	0	United States	QuietHope
@@ -26434,18 +26495,16 @@ Score	Penalty	Country	Name
 0	0	United States	Ravede2021
 0	0	United States	RonitPrasadWGP
 0	0	United States	Sam12342453t
-0	0	United States	Sandkoan
 0	0	United States	Sheth_Of_SiliconValley
 0	0	United States	Sivarij
 0	0	United States	Sophia_Zhang
 0	0	United States	Sophie000
 0	0	United States	Srikar_Reddy
 0	0	United States	StellaPham
-0	0	United States	SudduK
+0	0	United States	Sxmit777
 0	0	United States	Tanngo
 0	0	United States	TheFrostyUwU
 0	0	United States	ThePebble
-0	0	United States	Thi0908
 0	0	United States	Veekae
 0	0	United States	Wadhwani
 0	0	United States	Yung_Gurv
@@ -26457,25 +26516,20 @@ Score	Penalty	Country	Name
 0	0	United States	akcraze03
 0	0	United States	alyssahuang
 0	0	United States	anikethsuresh
-0	0	United States	anirudhramesh
-0	0	United States	arctan03
 0	0	United States	arnavreddy
 0	0	United States	ashreed
 0	0	United States	attale01
-0	0	United States	attilathekid
 0	0	United States	baby.g
 0	0	United States	barthough
 0	0	United States	bho01
-0	0	United States	bl195@duke.edu
-0	0	United States	bpblakely
 0	0	United States	brettjet
 0	0	United States	budget
 0	0	United States	ca$hmoneyclark
 0	0	United States	chiragzq
 0	0	United States	danc2
-0	0	United States	darshan_sol
 0	0	United States	defaultedshy
 0	0	United States	derek_ly56
+0	0	United States	desidude96
 0	0	United States	dev101010
 0	0	United States	dman
 0	0	United States	edmundburke
@@ -26484,8 +26538,8 @@ Score	Penalty	Country	Name
 0	0	United States	fanwu_1980
 0	0	United States	gkh
 0	0	United States	helpful
+0	0	United States	hossain.mazhar@hotmail.com
 0	0	United States	jackfri
-0	0	United States	jameschu123
 0	0	United States	javalanche
 0	0	United States	jayala29
 0	0	United States	jbpop
@@ -26494,10 +26548,10 @@ Score	Penalty	Country	Name
 0	0	United States	jks316
 0	0	United States	jonathanhou
 0	0	United States	joshuamu
-0	0	United States	jwebb1197
-0	0	United States	kern
+0	0	United States	k77frank@gmail.com
 0	0	United States	kschniedergers
 0	0	United States	lavanyavish
+0	0	United States	lee74
 0	0	United States	leo_sippy
 0	0	United States	lj_yip
 0	0	United States	maxsnyder2000
@@ -26509,35 +26563,26 @@ Score	Penalty	Country	Name
 0	0	United States	nicklvsa
 0	0	United States	nilchil
 0	0	United States	nlebowi
-0	0	United States	nneka
 0	0	United States	ntrueb2
 0	0	United States	nuBee
-0	0	United States	parthonfire
 0	0	United States	patrickqrim
-0	0	United States	periwinkleid@gmail.com
-0	0	United States	rahuln2
-0	0	United States	ricode
-0	0	United States	rithikbansal175@outlook.com
 0	0	United States	robertvictoreen
 0	0	United States	rohitpatwa
 0	0	United States	royxu1029
-0	0	United States	rpeddakama
 0	0	United States	scorbunny
 0	0	United States	sestinj
 0	0	United States	shauryashekhar
 0	0	United States	skrrtskrrt17
-0	0	United States	stuyen98
-0	0	United States	suxrob
 0	0	United States	the_em_dawg
+0	0	United States	theta
 0	0	United States	tk0221
 0	0	United States	tristanphan
 0	0	United States	tybot
+0	0	United States	valkyriewarrior
 0	0	United States	vedant_13
-0	0	United States	vkg815
 0	0	United States	xLany
 0	0	Uruguay	alemag1986
 0	0	Uzbekistan	Rasul24
-0	0	Vietnam	Dragon2fly
 0	0	Vietnam	NamikazeMinato
 0	0	Vietnam	SOMETHING
 0	0	Vietnam	VanillaJeje
@@ -26546,7 +26591,7 @@ Score	Penalty	Country	Name
 0	0	Vietnam	joker.tainguyen
 0	0	Vietnam	kite
 0	0	Vietnam	piketrcechillas
-0	0	Vietnam	thangnt99
 0	0	Vietnam	theedonger
 0	0	Vietnam	tisu190297
 0	0	Zambia	Jonnesny
+0	0	Zimbabwe	kyerise

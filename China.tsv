@@ -1023,6 +1023,7 @@ Score	Penalty	Country	Name
 42	-43516363236	China	Codeoos
 42	-43573422906	China	zzzzzq
 42	-43692791877	China	denniszhou
+42	-44324670651	China	FrankOnly
 35	-9868869318	China	wuzhengkai
 35	-11166394585	China	1849285087
 35	-16488987811	China	jcvb
@@ -1083,6 +1084,7 @@ Score	Penalty	Country	Name
 26	-32817838316	China	feifanz 86
 26	-37189816534	China	2894403794@qq.com
 26	-39544000145	China	hwizard
+26	-43557518749	China	sumuzhe
 24	-7053945345	China	kjdsafio
 23	-1853905938	China	The__Flash
 23	-3785693451	China	will800228@gmail.com
@@ -1144,7 +1146,6 @@ Score	Penalty	Country	Name
 23	-26259053091	China	zy
 23	-26288722486	China	Dem0ns
 23	-26367486661	China	Flary
-23	-26375753243	China	FrankOnly
 23	-26421686401	China	edc
 23	-26504283571	China	shixiaoyu
 23	-26567171177	China	Cunzhe
@@ -1235,7 +1236,6 @@ Score	Penalty	Country	Name
 23	-43152724876	China	uuzlovetree
 23	-43255695042	China	haining
 23	-43261374885	China	potatomato
-19	-41512281346	China	sumuzhe
 16	-31364068466	China	mvclove
 16	-35289345635	China	IMeanGabriel
 16	-38959652119	China	HallStattMia
@@ -1396,23 +1396,27 @@ Score	Penalty	Country	Name
 7	-43329349881	China	Mingyi
 7	-43416391062	China	small_ling
 7	-43487535306	China	juruo
-0	0	China	1134953287@qq.com
-0	0	China	2624539241@qq.com
-0	0	China	Danielwang
-0	0	China	Lexaaa
-0	0	China	Lucas_wang
-0	0	China	jimmylai20001014@gmail.com
-0	0	China	25hua
-0	0	China	577237093@qq.com
+7	-43568163532	China	kyonma
 0	0	China	CoderCheng
+0	0	China	LuckyMouse
+0	0	China	ccsu_cat
+0	0	China	why19981001@outlook.com
+0	0	China	yinyuecho
+0	0	China	1134953287@qq.com
+0	0	China	25hua
+0	0	China	2624539241@qq.com
+0	0	China	577237093@qq.com
+0	0	China	Danielwang
 0	0	China	HTongC
 0	0	China	Hiroki39
 0	0	China	LeoN
+0	0	China	Lexaaa
+0	0	China	Lucas_wang
 0	0	China	LuckyMouse
 0	0	China	NUISTgwx
 0	0	China	ZA139
 0	0	China	bulldozer
-0	0	China	ccsu_cat
+0	0	China	glazialuna
 0	0	China	jimmylai20001014@gmail.com
 0	0	China	lchen7889
 0	0	China	leogle
@@ -1420,6 +1424,4 @@ Score	Penalty	Country	Name
 0	0	China	rosaLo
 0	0	China	ruiruifeng
 0	0	China	wenyi
-0	0	China	why19981001@outlook.com
-0	0	China	yinyuecho
 0	0	China	自闭

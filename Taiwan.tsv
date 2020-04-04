@@ -19,6 +19,7 @@ Score	Penalty	Country	Name
 100	-42705054626	Taiwan	progheal
 100	-44068119775	Taiwan	mi.
 81	-37952715374	Taiwan	FanFly
+81	-45198261202	Taiwan	SorahISA
 75	-32529665539	Taiwan	zxcand
 75	-34730265634	Taiwan	clive819
 75	-35426303587	Taiwan	ccbeginner
@@ -75,7 +76,6 @@ Score	Penalty	Country	Name
 56	-27062324822	Taiwan	JeffreyHo
 56	-39874124950	Taiwan	hankluo6
 55	-38024134115	Taiwan	HDC
-49	-7093450390	Taiwan	SorahISA
 49	-42460190775	Taiwan	teacup123123
 43	-6381912765	Taiwan	seankhliao@gmail.com
 43	-24250723204	Taiwan	note35
@@ -313,6 +313,8 @@ Score	Penalty	Country	Name
 42	-42101486847	Taiwan	CharlieChuang
 42	-42142578855	Taiwan	YanLee
 42	-42733726142	Taiwan	jw910731
+42	-43553832104	Taiwan	wwaraceli
+42	-43595590617	Taiwan	kamyu
 35	-10790768372	Taiwan	n_dao107
 35	-11497219513	Taiwan	utaha
 35	-12288573731	Taiwan	RayWang
@@ -386,7 +388,6 @@ Score	Penalty	Country	Name
 23	-30183368258	Taiwan	jeeeerrrpop
 23	-30412369440	Taiwan	flyingmars
 23	-30515681993	Taiwan	terryhung28
-23	-31221336685	Taiwan	wwaraceli
 23	-31505878029	Taiwan	Skychaser_Lee
 23	-31863655998	Taiwan	MagicBear
 23	-32150329516	Taiwan	JanetLi
@@ -432,7 +433,7 @@ Score	Penalty	Country	Name
 23	-43073502494	Taiwan	QAOOOOO
 23	-43180521160	Taiwan	praesepe
 23	-43225819156	Taiwan	piepie01
-23	-43546101894	Taiwan	kamyu
+23	-43607205062	Taiwan	oscarchichun
 19	-40448430887	Taiwan	Ricky1121
 19	-44901750141	Taiwan	Eric_Chu
 16	-6013659217	Taiwan	JimmyChiu
@@ -474,7 +475,6 @@ Score	Penalty	Country	Name
 7	-29403127617	Taiwan	YSTsai
 7	-29695793068	Taiwan	YPL
 7	-32085040865	Taiwan	liao.jason2
-7	-32344744201	Taiwan	oscarchichun
 7	-32692821403	Taiwan	jim800121.chen
 7	-33023335525	Taiwan	ytshih
 7	-34246387375	Taiwan	jasperlin1996
@@ -508,12 +508,12 @@ Score	Penalty	Country	Name
 7	-43210795321	Taiwan	Karinsu
 7	-43477753052	Taiwan	tkuo
 5	-15429974427	Taiwan	alon21034
+0	0	Taiwan	NCKU
+0	0	Taiwan	enumaelish
+0	0	Taiwan	任生狂
 0	0	Taiwan	CL.
 0	0	Taiwan	JimmyLinYA
-0	0	Taiwan	NCKU
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
-0	0	Taiwan	enumaelish
 0	0	Taiwan	joric
 0	0	Taiwan	tonyli
-0	0	Taiwan	任生狂
