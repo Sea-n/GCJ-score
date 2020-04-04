@@ -87,7 +87,6 @@ Score	Penalty	Country	Name
 68	-52187985955	Russia	Arut
 68	-52548798385	Russia	PavelKunyavskiy
 68	-52586479528	Russia	Kostroma
-68	-53729893711	Russia	gleb.astashkin
 68	-53755226804	Russia	Gassa
 68	-54282552604	Russia	DmitryZ
 68	-55078160322	Russia	yarrr
@@ -410,6 +409,7 @@ Score	Penalty	Country	Name
 42	-57932641293	Russia	fudail
 42	-57971110977	Russia	AndrewOvv
 42	-58130137475	Russia	borisbarkov
+42	-58325060559	Russia	crystalEsser
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
@@ -424,7 +424,6 @@ Score	Penalty	Country	Name
 30	-44690324278	Russia	sergeif
 30	-48704784136	Russia	asdasda
 30	-52711687768	Russia	klimoza
-30	-53142124666	Russia	AnnaVosh
 30	-53142124666	Russia	AnnaVosh
 30	-54185288972	Russia	smnikita
 30	-56880827008	Russia	TRR53
@@ -487,7 +486,6 @@ Score	Penalty	Country	Name
 23	-53756701429	Russia	Delockle
 23	-54037683241	Russia	Helgui
 23	-54822758496	Russia	vctr16
-23	-55182927847	Russia	crystalEsser
 23	-55206002724	Russia	vladvlad
 23	-55233827107	Russia	oxcd8o
 23	-55338798344	Russia	BezginaIrina
@@ -505,6 +503,8 @@ Score	Penalty	Country	Name
 23	-57697917873	Russia	timav566
 23	-57712019147	Russia	ZAB
 23	-57720539749	Russia	s_ah_onissuiy
+23	-58296529288	Russia	AndreYY
+23	-58360413527	Russia	amir1muratov@gmail.com
 20	-40291858831	Russia	dimitribelikov
 16	-49687781436	Russia	Wataru
 16	-52277519074	Russia	sled
@@ -548,17 +548,15 @@ Score	Penalty	Country	Name
 7	-55880144113	Russia	semenova_n
 7	-56650369368	Russia	Romansp
 7	-57320103568	Russia	Mrsky
-7	-57361221074	Russia	AndreYY
 7	-57672482502	Russia	nikolay-pv
 7	-57781452682	Russia	92plus2
-7	-57869724078	Russia	amir1muratov@gmail.com
 7	-57942455388	Russia	fineguy
 7	-57974110570	Russia	DmitRiy
 7	-58012806977	Russia	yorky
 7	-58066017010	Russia	grandrust
 7	-58183855258	Russia	SYury
 7	-58247293886	Russia	sokian
-0	0	Russia	ASoboll
+7	-58312528341	Russia	ASoboll
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Juwbasaurus
 0	0	Russia	Locab
@@ -569,7 +567,7 @@ Score	Penalty	Country	Name
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
 0	0	Russia	mspitb
-0	0	Russia	munir_
 0	0	Russia	ngh7mr3
 0	0	Russia	vlad_is_love
 0	0	Russia	zts3101
+0	0	Russia	munir_
