@@ -16,6 +16,7 @@ Score	Penalty	Country	Name
 74	-40108733328	Vietnam	Lightmoon
 74	-40530408642	Vietnam	Maripium
 74	-41877294928	Vietnam	krilzo
+74	-43510317674	Vietnam	vdat
 68	-5414529503	Vietnam	baohiep
 68	-13922301583	Vietnam	TungMPhung
 68	-14038516067	Vietnam	neko_nyaa
@@ -173,7 +174,6 @@ Score	Penalty	Country	Name
 42	-35989193481	Vietnam	chaupham
 42	-36357920647	Vietnam	lamvh
 42	-36942342263	Vietnam	duchk
-42	-37085534033	Vietnam	vdat
 42	-37397644488	Vietnam	bao_do
 42	-37433823394	Vietnam	anhkha2003
 42	-37457731332	Vietnam	duc121503
@@ -323,7 +323,6 @@ Score	Penalty	Country	Name
 7	-34980130600	Vietnam	SonTungMTP
 7	-35907527121	Vietnam	Lân
 7	-36429193067	Vietnam	khiem2105
-7	-37476908771	Vietnam	ToMoClone
 7	-39915661077	Vietnam	Tandat
 7	-40783825450	Vietnam	hanguyen221
 7	-40945527658	Vietnam	ITMO.heiji
@@ -331,9 +330,9 @@ Score	Penalty	Country	Name
 7	-41704296017	Vietnam	ntbanit
 7	-42094001371	Vietnam	texturer
 7	-42831132887	Vietnam	icrackan
+0	0	Vietnam	VanillaJeje
 0	0	Vietnam	NamikazeMinato
 0	0	Vietnam	SOMETHING
-0	0	Vietnam	VanillaJeje
 0	0	Vietnam	danunu
 0	0	Vietnam	helloworld1101
 0	0	Vietnam	joker.tainguyen
