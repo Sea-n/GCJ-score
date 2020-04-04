@@ -24,7 +24,7 @@ Score	Penalty	Country	Name
 74	-59502561291	Brazil	nubro
 74	-63728259785	Brazil	joaoayalla19
 74	-64870214640	Brazil	Carlos_Cabral
-74	-64902627590	Brazil	Guilherme_Cabral
+74	-65286853612	Brazil	Guilherme_Cabral
 68	-6293928287	Brazil	kobus
 68	-6464715379	Brazil	dukilee
 68	-8525982940	Brazil	kerven
@@ -138,7 +138,6 @@ Score	Penalty	Country	Name
 42	-15399637692	Brazil	mikaelmello
 42	-15611259723	Brazil	jgsp2
 42	-15701089812	Brazil	docardoso
-42	-16289494410	Brazil	C_Sky
 42	-16329008236	Brazil	rodolfoams
 42	-16355632561	Brazil	KenMatsumoto
 42	-16635224345	Brazil	Nson
@@ -169,6 +168,7 @@ Score	Penalty	Country	Name
 42	-26021504758	Brazil	dCamargo
 42	-27637359731	Brazil	Megamiun
 42	-29993508579	Brazil	brunayfy
+42	-30018095577	Brazil	leaomatheus
 42	-31409122164	Brazil	G3WS_Sir_Renan
 42	-32723745523	Brazil	Thiagohnc
 42	-33262347694	Brazil	snipa
@@ -337,7 +337,6 @@ Score	Penalty	Country	Name
 23	-63233393888	Brazil	quirinoflavio
 23	-63905344776	Brazil	d0ugr0ck
 23	-64158203327	Brazil	pedrolino
-23	-64158203327	Brazil	pedrolino
 23	-64194603599	Brazil	giovcandido
 23	-64371814261	Brazil	davimedio01
 23	-64567676697	Brazil	ayrtonandrade
@@ -420,10 +419,11 @@ Score	Penalty	Country	Name
 7	-64506829490	Brazil	edukure
 7	-64508699107	Brazil	IManifold
 7	-64752216056	Brazil	jzhi
+7	-65049577252	Brazil	raphaelrbr
+5	-65043583148	Brazil	EmanuelBruno
 0	0	Brazil	Ancogamer
 0	0	Brazil	HenriqueMat
 0	0	Brazil	JMorand
-0	0	Brazil	KaioTakuma
 0	0	Brazil	LPerin
 0	0	Brazil	MatheusDiógenesAndrade
 0	0	Brazil	PeetaCalou
@@ -431,6 +431,7 @@ Score	Penalty	Country	Name
 0	0	Brazil	XicoDeAltos
 0	0	Brazil	Ziguirifow
 0	0	Brazil	brenotx
+0	0	Brazil	felipe-miranda
 0	0	Brazil	grisotto
 0	0	Brazil	joaoweissmann
 0	0	Brazil	julianafpaulo
@@ -443,4 +444,4 @@ Score	Penalty	Country	Name
 0	0	Brazil	timeToCode
 0	0	Brazil	vicnetto
 0	0	Brazil	vilelabruno
-0	0	Brazil	felipe-miranda
+0	0	Brazil	KaioTakuma
