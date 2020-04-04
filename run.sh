@@ -14,10 +14,16 @@ done
 
 wait
 
+echo 'Rank\tScore\tPenalty\tCountry\tName' > score.tsv
+echo 'Rank\tScore\tPenalty\tCountry\tName' > score-taiwan.tsv
+
 cat score-*.json \
 	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
 	|sort -n \
-	|cut -d $'\t' -f 2- > score.tsv
+	|cut -d $'\t' -f 2- >> score.tsv
+
+grep -P '\tTaiwan\t' score.tsv >> score-taiwan.tsv
 
 git add .
 git commit -m "`date '+%b %d  %H:%M'`"
+git push
