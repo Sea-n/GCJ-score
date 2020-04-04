@@ -14,6 +14,7 @@ Score	Penalty	Country	Name
 100	-55603300077	Germany	DrNochi
 100	-58181021162	Germany	vanHavel
 100	-60904284769	Germany	sjvie
+100	-61086044965	Germany	0x544C
 74	-16188514368	Germany	m.mahdi2414
 74	-48947918040	Germany	RezaSi
 74	-54166579152	Germany	algomaus
@@ -40,7 +41,6 @@ Score	Penalty	Country	Name
 68	-45935261210	Germany	DavidS
 68	-46087454523	Germany	eth42
 68	-46671470322	Germany	Noobie_99
-68	-47356173225	Germany	0x544C
 68	-48042393426	Germany	Fettn
 68	-48487737754	Germany	Jukamala
 68	-49454150268	Germany	Auenwald
@@ -89,7 +89,9 @@ Score	Penalty	Country	Name
 43	-55599344688	Germany	FinnM
 43	-55659035783	Germany	22slin22
 43	-60617650796	Germany	Andgem
+43	-60880798799	Germany	nicolask
 43	-60987952935	Germany	Eogwyn
+43	-65224136041	Germany	Thundertron
 42	-1412145030	Germany	Der.Baer
 42	-2472209061	Germany	eriksuenderhauf
 42	-2931265992	Germany	saeissl
@@ -129,7 +131,6 @@ Score	Penalty	Country	Name
 42	-35958237647	Germany	felixd
 42	-36142161543	Germany	laugengebaeck
 42	-36548986435	Germany	bromanz
-42	-37083416783	Germany	KarlSt
 42	-37583363997	Germany	schlauergerd
 42	-37738152851	Germany	geekerio
 42	-37978790796	Germany	JonasS
@@ -189,7 +190,6 @@ Score	Penalty	Country	Name
 42	-47966880505	Germany	ChristianM
 42	-47979399863	Germany	element314
 42	-48059426849	Germany	iloraC28
-42	-48186133853	Germany	Thundertron
 42	-48370532904	Germany	sebp
 42	-48863203290	Germany	Astrocyte
 42	-48913456661	Germany	Callidior
@@ -212,7 +212,6 @@ Score	Penalty	Country	Name
 42	-50620344314	Germany	HotLava
 42	-50987690699	Germany	strider29
 42	-51454405087	Germany	Kurisu858
-42	-51878062094	Germany	nicolask
 42	-51928341001	Germany	thomas_gaertner
 42	-52208754942	Germany	Mobo
 42	-52398773198	Germany	duckladydinh
@@ -278,7 +277,6 @@ Score	Penalty	Country	Name
 31	-58558064488	Germany	ar_bt
 31	-59469293028	Germany	tobikongzi
 30	-42379237760	Germany	mrbch
-30	-50078833257	Germany	d.a.v.i.d
 30	-54941131270	Germany	annoraaq
 30	-58701392158	Germany	s1e2b3i4
 30	-61509186673	Germany	Arlind
@@ -389,8 +387,6 @@ Score	Penalty	Country	Name
 7	-52350433873	Germany	Nesbi
 7	-53894987385	Germany	Aikazumi
 7	-54835295794	Germany	magicMuscle
-7	-54899056267	Germany	loisroyce
-7	-54904187416	Germany	nuke2night
 7	-54910612018	Germany	fraens
 7	-56269544103	Germany	TombRaider
 7	-56504337046	Germany	rajeev.cse.imps@gmail.com
@@ -405,6 +401,7 @@ Score	Penalty	Country	Name
 7	-60398240075	Germany	mcjones
 7	-60603468703	Germany	StefDude
 7	-60703611451	Germany	Kathi
+0	0	Germany	AndreasBaum
 0	0	Germany	PrøCøder
 0	0	Germany	Raixor
 0	0	Germany	TornaxO7
@@ -413,9 +410,8 @@ Score	Penalty	Country	Name
 0	0	Germany	dschir
 0	0	Germany	friebetill
 0	0	Germany	miskigolf
-0	0	Germany	ndrshrzg
 0	0	Germany	pp93
+0	0	Germany	starzhinkus
 0	0	Germany	svenibo
 0	0	Germany	tete7777
-0	0	Germany	AndreasBaum
-0	0	Germany	starzhinkus
+0	0	Germany	ndrshrzg

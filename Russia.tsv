@@ -18,6 +18,7 @@ Score	Penalty	Country	Name
 100	-58273996318	Russia	Pennyroyal_tea
 100	-58662791128	Russia	Vladimirr.Petrunko
 100	-61262101402	Russia	moptranzistor
+100	-62101126600	Russia	hellman
 75	-40876707321	Russia	dalex
 75	-61725192601	Russia	pichuser
 74	-10186592462	Russia	Torrentov
@@ -70,7 +71,6 @@ Score	Penalty	Country	Name
 68	-47225747159	Russia	Kapt
 68	-47368416287	Russia	Atos1337
 68	-47543774352	Russia	VulpesCorsac
-68	-47592863990	Russia	hellman
 68	-47628442482	Russia	avg79
 68	-47839365350	Russia	clown_rusofob
 68	-47916989383	Russia	Pelmener
@@ -137,6 +137,7 @@ Score	Penalty	Country	Name
 43	-49099317710	Russia	Dima.Cat.2016
 43	-50303009660	Russia	kronos
 43	-52950530772	Russia	Kurt11
+43	-60787564606	Russia	AlexAA20
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -265,7 +266,6 @@ Score	Penalty	Country	Name
 42	-42563668699	Russia	panik
 42	-42606477298	Russia	Daynyus
 42	-42639804501	Russia	demon1999
-42	-42864231670	Russia	AlexAA20
 42	-42906332624	Russia	warriorxk
 42	-43129182183	Russia	kirill.maiantsev
 42	-43166818600	Russia	d_smorodinnikov
@@ -440,6 +440,7 @@ Score	Penalty	Country	Name
 42	-60663901713	Russia	x12
 42	-60672154337	Russia	DmitRiy
 42	-60812706887	Russia	mr_sunshine
+42	-60931281763	Russia	Protasov
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
@@ -486,7 +487,6 @@ Score	Penalty	Country	Name
 23	-45050304715	Russia	gooddok
 23	-45140841266	Russia	not_slacker
 23	-46085459303	Russia	OlgaBel
-23	-46545460180	Russia	Protasov
 23	-47435552581	Russia	serjonya
 23	-47979425017	Russia	Jasnah
 23	-48145386631	Russia	sumkincpp
@@ -589,18 +589,20 @@ Score	Penalty	Country	Name
 7	-60761453472	Russia	tasyaglk
 7	-60798627586	Russia	kittylover
 7	-60835614220	Russia	zubrabubra
+7	-60875070537	Russia	NovikD
+0	0	Russia	DmitriyChikanchi
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	Juwbasaurus
 0	0	Russia	Locab
 0	0	Russia	MellowYellow
 0	0	Russia	Zakamulka
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
-0	0	Russia	h4rdcode
 0	0	Russia	kruall
 0	0	Russia	mspitb
 0	0	Russia	munir_
-0	0	Russia	zts3101
-0	0	Russia	DmitriyChikanchi
-0	0	Russia	O_oxana
 0	0	Russia	ngh7mr3
+0	0	Russia	vlad_is_love
+0	0	Russia	zts3101
+0	0	Russia	Juwbasaurus
+0	0	Russia	O_oxana
+0	0	Russia	h4rdcode
