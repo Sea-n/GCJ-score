@@ -109,6 +109,7 @@ Score	Penalty	Country	Name
 42	-21813808929	Russia	postrazor
 42	-22804544828	Russia	pivizz
 42	-24523959369	Russia	spiderg
+42	-24523959369	Russia	spiderg
 42	-24883607388	Russia	pakhomovee
 42	-24988112678	Russia	despair
 42	-25180912209	Russia	Dilshod
@@ -263,6 +264,8 @@ Score	Penalty	Country	Name
 42	-45433474804	Russia	shade33
 42	-45471281595	Russia	cookiedoth
 42	-45555193494	Russia	empty_walls
+42	-45712113074	Russia	PeregudovSergey
+42	-45903367327	Russia	salyamov
 42	-46075174018	Russia	allvik
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -300,7 +303,6 @@ Score	Penalty	Country	Name
 23	-37435053897	Russia	presnakovoleg
 23	-37820349164	Russia	JPepper
 23	-37914693171	Russia	bac423
-23	-37961051389	Russia	salyamov
 23	-38251044521	Russia	Aritol
 23	-38611526980	Russia	TRR53
 23	-38821782951	Russia	Morfos
@@ -321,7 +323,6 @@ Score	Penalty	Country	Name
 23	-43015646343	Russia	KirillB
 23	-43080411633	Russia	Jeannette
 23	-43211742288	Russia	ViKn
-23	-43865847310	Russia	PeregudovSergey
 23	-43999007620	Russia	VArtem
 23	-44747514646	Russia	omgitspavel
 23	-44984790905	Russia	e_sha
@@ -382,6 +383,7 @@ Score	Penalty	Country	Name
 7	-45326022797	Russia	kirilldenisov
 7	-45403200383	Russia	Artklyachin
 7	-45488093185	Russia	vpike
+0	0	Russia	0442A403
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
