@@ -11,6 +11,7 @@ Score	Penalty	Country	Name
 100	-36037782604	Taiwan	marmot0814
 100	-36423885628	Taiwan	dancooper0705
 100	-36803769398	Taiwan	HanaYukii
+100	-37907601270	Taiwan	yllan
 81	-37952715374	Taiwan	FanFly
 75	-32529665539	Taiwan	zxcand
 75	-34730265634	Taiwan	clive819
@@ -38,7 +39,6 @@ Score	Penalty	Country	Name
 68	-20099306858	Taiwan	Andychen
 68	-20631049670	Taiwan	fro11o
 68	-21349155240	Taiwan	YEE8822
-68	-22737139554	Taiwan	yllan
 68	-23667330123	Taiwan	Yinghao
 68	-24229248874	Taiwan	magonmonkey
 68	-27370757678	Taiwan	jerryyu33
@@ -171,7 +171,6 @@ Score	Penalty	Country	Name
 42	-22037084272	Taiwan	lintseju
 42	-22295970096	Taiwan	ltf0501
 42	-22921378864	Taiwan	baipa
-42	-22984348455	Taiwan	cwliang
 42	-22984348455	Taiwan	cwliang
 42	-23058774408	Taiwan	x94
 42	-23280348529	Taiwan	KronisYEH
@@ -309,6 +308,7 @@ Score	Penalty	Country	Name
 31	-37676390139	Taiwan	Kbear
 31	-37749763971	Taiwan	snoopyisadog
 30	-5776535626	Taiwan	hsuehmin
+30	-5776535626	Taiwan	hsuehmin
 30	-15117282320	Taiwan	browntoad
 30	-25952967319	Taiwan	Edwardlus
 30	-29530857003	Taiwan	Ykhuang0812
@@ -366,7 +366,6 @@ Score	Penalty	Country	Name
 23	-28936025658	Taiwan	SecondX
 23	-28989107798	Taiwan	helenokos
 23	-30183368258	Taiwan	jeeeerrrpop
-23	-30412369440	Taiwan	flyingmars
 23	-30515681993	Taiwan	terryhung28
 23	-31221336685	Taiwan	wwaraceli
 23	-31505878029	Taiwan	Skychaser_Lee
@@ -433,7 +432,6 @@ Score	Penalty	Country	Name
 7	-21096336255	Taiwan	Eric_Chu
 7	-21546314035	Taiwan	allen871219
 7	-21857804698	Taiwan	dongFIN
-7	-22687447470	Taiwan	kaibaooo
 7	-23291136430	Taiwan	thonsha
 7	-24007666394	Taiwan	AlbertHolmes
 7	-24340750254	Taiwan	littlechin
@@ -472,13 +470,15 @@ Score	Penalty	Country	Name
 7	-37707639290	Taiwan	Ele_Ele
 7	-37753043600	Taiwan	Yazmau
 7	-37902769041	Taiwan	Bao_chen
+7	-38024567272	Taiwan	amoshyc
 5	-15429974427	Taiwan	alon21034
-0	0	Taiwan	CL.
-0	0	Taiwan	JimmyLinYA
-0	0	Taiwan	NCKU
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	drazermega
 0	0	Taiwan	enumaelish
 0	0	Taiwan	plusline
+0	0	Taiwan	tkuo
 0	0	Taiwan	tonyli
 0	0	Taiwan	任生狂
+0	0	Taiwan	CL.
+0	0	Taiwan	JimmyLinYA
+0	0	Taiwan	NCKU
