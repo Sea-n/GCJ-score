@@ -13,6 +13,7 @@ Score	Penalty	Country	Name
 68	-18472943841	Germany	narekb95
 68	-22161112582	Germany	jfrech
 68	-27608057845	Germany	eulerscheZahl
+68	-35273813246	Germany	NotMyName
 61	-18010727605	Germany	maddin
 55	-13590391724	Germany	algomaus
 49	-19748421778	Germany	kschewior
@@ -63,7 +64,6 @@ Score	Penalty	Country	Name
 42	-31094236661	Germany	amr962
 42	-31666751641	Germany	Aruscher
 42	-31865058603	Germany	Jasdefer
-42	-32169344144	Germany	NotMyName
 42	-32483678022	Germany	xjcl
 42	-32849190330	Germany	mb706
 42	-33041608131	Germany	marmer
@@ -76,6 +76,7 @@ Score	Penalty	Country	Name
 42	-34383330628	Germany	jgosmann
 42	-35014533495	Germany	Daniello2000
 42	-35217966371	Germany	DrNochi
+42	-35280067576	Germany	L4to
 31	-16121260545	Germany	ans82
 31	-31247734242	Germany	mohammad71
 30	-9248712541	Germany	Nickname2
@@ -90,12 +91,10 @@ Score	Penalty	Country	Name
 23	-3971182890	Germany	mrbch
 23	-4527191469	Germany	LorMam
 23	-4985309834	Germany	Jukamala
-23	-5137539821	Germany	c0nst4ntin
 23	-5353423533	Germany	Luz_K
 23	-8835330106	Germany	ha11owed
 23	-9023697020	Germany	EP26
 23	-9532558576	Germany	geez437
-23	-12308844436	Germany	L4to
 23	-12741973164	Germany	DasMoeh
 23	-14105330715	Germany	Arlind
 23	-15186522478	Germany	endir
@@ -121,6 +120,9 @@ Score	Penalty	Country	Name
 23	-34816547052	Germany	JonasS
 23	-34887483825	Germany	element314
 23	-35073979628	Germany	nilswe
+23	-35233019369	Germany	n0w0rk
+23	-35275790431	Germany	mrMoe
+23	-35282638441	Germany	beesch
 19	-34750416863	Germany	felixd
 16	-35135346158	Germany	flmu
 7	-1358136684	Germany	yoni11
@@ -132,7 +134,6 @@ Score	Penalty	Country	Name
 7	-27974670905	Germany	MartinSeeler
 7	-29952061991	Germany	MarBolCode
 7	-30274553639	Germany	Safadurimo
-7	-30504257934	Germany	n0w0rk
 7	-31076387387	Germany	peli
 7	-31688149333	Germany	Beerjamin
 7	-31899993879	Germany	Gurkinator
@@ -142,7 +143,6 @@ Score	Penalty	Country	Name
 7	-32966676754	Germany	benleb
 7	-33116153650	Germany	MCoder
 7	-33671791149	Germany	Alnice
-7	-33780408976	Germany	beesch
 7	-33925201724	Germany	romanovma.pookl@gmail.com
 7	-33994431931	Germany	Tomsi
 7	-34027199575	Germany	MustafaBerkayMutlu
@@ -158,14 +158,15 @@ Score	Penalty	Country	Name
 7	-34649738218	Germany	Wonko
 7	-34658688475	Germany	taschi
 7	-34795732133	Germany	aweltsch
-7	-34862026022	Germany	mrMoe
 7	-34928060881	Germany	daniel.werner
 7	-35071333886	Germany	Pusteblume
 7	-35096536820	Germany	Fettpet
 7	-35116479997	Germany	KarlSt
+7	-35274910660	Germany	rr13
 0	0	Germany	AeriaGloris
 0	0	Germany	Geser
 0	0	Germany	Kurtme
 0	0	Germany	Pot4t0
+0	0	Germany	bendeutz
 0	0	Germany	ilya_maier
 0	0	Germany	leiftw
