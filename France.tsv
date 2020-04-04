@@ -23,7 +23,6 @@ Score	Penalty	Country	Name
 68	-38233254351	France	marccarre
 68	-39825838477	France	guilhemn
 68	-40326603263	France	Uʻilani
-68	-40326603263	France	Uʻilani
 68	-40896275722	France	Lanfeust
 68	-41923551696	France	sknat
 68	-41992194158	France	morugan
@@ -63,6 +62,7 @@ Score	Penalty	Country	Name
 68	-54606924853	France	pierre.gourseaud
 68	-55224807501	France	Smaragdin
 68	-55278173917	France	BrunoT
+68	-55919127834	France	Nanored
 68	-56896791513	France	PrStirling
 68	-57294091484	France	MrDaiki
 68	-57398509034	France	brospi
@@ -183,7 +183,6 @@ Score	Penalty	Country	Name
 42	-44932808740	France	jonenst
 42	-45002807676	France	levantuan
 42	-45005086565	France	fabien.c
-42	-45083099236	France	Nanored
 42	-45131407333	France	barjonr
 42	-45162631065	France	OphelieBl
 42	-45271652878	France	brurrito
@@ -272,10 +271,11 @@ Score	Penalty	Country	Name
 42	-55172149274	France	GuillaumeK
 42	-55271819750	France	cpicard443
 42	-55602371140	France	WNG
+42	-55911614884	France	gaooosss
 42	-56305925335	France	eloiseb
+42	-57139197694	France	Mobyous
 42	-57557438583	France	fab512
 35	-7375202611	France	Mathisaillot
-35	-51301808842	France	diodfr
 35	-51301808842	France	diodfr
 35	-53152238253	France	rthr
 31	-14280627974	France	Bil1983
@@ -300,7 +300,6 @@ Score	Penalty	Country	Name
 24	-37035751871	France	fcontreras
 24	-41457530784	France	Frelonquai
 23	-1787018867	France	Kelk1
-23	-2130356531	France	Mobyous
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
 23	-4439910630	France	Eluthor
@@ -334,6 +333,7 @@ Score	Penalty	Country	Name
 23	-37715329897	France	Eichhornchen
 23	-37755042442	France	rfrenoy
 23	-38104982705	France	Zozios
+23	-38170561243	France	VinZH
 23	-38170561243	France	VinZH
 23	-38467019539	France	Rubilmax
 23	-38621532529	France	lapsus63
@@ -372,6 +372,7 @@ Score	Penalty	Country	Name
 23	-49460792187	France	Kal0om
 23	-49621841554	France	Eigho
 23	-50094136192	France	cdelabou
+23	-50345554262	France	haroldbouley
 23	-50386813552	France	Rahotop
 23	-50461480504	France	nicogab34
 23	-50521502443	France	xR3m1x
@@ -382,7 +383,6 @@ Score	Penalty	Country	Name
 23	-51985738354	France	PtitBeurre
 23	-52316960331	France	LROTP
 23	-52466720184	France	opnsec
-23	-52534406256	France	gaooosss
 23	-52606539980	France	YouJustLostTheGame
 23	-52877227883	France	etiennek
 23	-52925640228	France	nepotu.
@@ -410,6 +410,7 @@ Score	Penalty	Country	Name
 23	-55402255838	France	ErreurFatale
 23	-55663661307	France	thibaudlabat
 23	-55735126085	France	Sinei
+23	-55918226949	France	bussonp
 16	-21240143956	France	mnaji
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
@@ -420,7 +421,6 @@ Score	Penalty	Country	Name
 12	-46235451110	France	Matt74
 12	-49007093468	France	Tchou
 12	-49548034802	France	Morantxu
-12	-49944322802	France	Pigloo
 12	-50354176185	France	flechter
 12	-51044337900	France	Klu
 7	-2183542384	France	buiquanganh85
@@ -463,7 +463,6 @@ Score	Penalty	Country	Name
 7	-54335013432	France	anatolii_kostrygin
 7	-54353524663	France	TheBichour
 7	-54395439873	France	Petrichoeur
-7	-54688289141	France	bussonp
 7	-54741567326	France	c0lt_dgtl
 7	-54757788096	France	tazalapizza
 7	-54857336964	France	freddyskf
@@ -479,6 +478,7 @@ Score	Penalty	Country	Name
 7	-55739050697	France	arandomstring
 7	-56021923753	France	lance505
 5	-37838570501	France	proftechnolblanc
+0	0	France	Loic
 0	0	France	ArthurMR
 0	0	France	Benskalz
 0	0	France	BigMamadou
@@ -490,7 +490,6 @@ Score	Penalty	Country	Name
 0	0	France	HuGoo
 0	0	France	Kandhum
 0	0	France	LightSn0w
-0	0	France	Loic
 0	0	France	MaieV
 0	0	France	Mizzy
 0	0	France	MrChachou
