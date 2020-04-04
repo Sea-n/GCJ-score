@@ -138,6 +138,7 @@ Score	Penalty	Country	Name
 42	-40989353319	France	pierre.gourseaud
 42	-41082422850	France	oyster_brain
 42	-41260313289	France	archimist
+42	-41323838181	France	xtof.durr
 35	-7375202611	France	Mathisaillot
 31	-14280627974	France	Bil1983
 31	-36546870094	France	Cjdcoy
@@ -147,6 +148,7 @@ Score	Penalty	Country	Name
 30	-34856845674	France	t2cyborg
 30	-37213614855	France	pasthec
 30	-38088175477	France	mj3n
+26	-41335148025	France	HlibMykhailenko
 24	-37035751871	France	fcontreras
 24	-41457530784	France	Frelonquai
 23	-1787018867	France	Kelk1
@@ -233,7 +235,6 @@ Score	Penalty	Country	Name
 23	-40200407356	France	murtiretparpaing
 23	-40396841166	France	barikh
 23	-40492769332	France	cicoub13
-23	-40523283016	France	xtof.durr
 23	-40605794549	France	Anthracite
 23	-40700964747	France	Raphalex
 23	-40808172431	France	FatalityNT
@@ -247,8 +248,11 @@ Score	Penalty	Country	Name
 23	-41161637463	France	Padam_Louis
 23	-41228114206	France	tdcn
 23	-41273810086	France	peejee
+23	-41353045804	France	2b
+23	-41353159266	France	Royale
 16	-21240143956	France	mnaji
 16	-39177363426	France	ElFabino
+16	-41353673689	France	eloiseb
 12	-3016417898	France	antoineroux
 12	-11595584768	France	ayshiff
 12	-17461254601	France	DrissTM
@@ -274,12 +278,10 @@ Score	Penalty	Country	Name
 7	-36359122142	France	Toutatis
 7	-36841819336	France	ALR
 7	-37128560095	France	hugoa
-7	-37181334366	France	HlibMykhailenko
 7	-37584521694	France	farameris
 7	-37632635133	France	Massoud_le_Grand
 7	-38154063281	France	shd33
 7	-38863968319	France	dknn
-7	-39478527861	France	2b
 7	-39528581641	France	NawfelT
 7	-39551273449	France	cholaknight
 7	-39762168338	France	caspanif
@@ -297,7 +299,6 @@ Score	Penalty	Country	Name
 7	-40573977440	France	Kerl
 7	-40594126501	France	darkantoine
 7	-40684305310	France	v-perez
-7	-40766579387	France	Royale
 7	-40789845846	France	jonenst
 7	-40831429197	France	Tanp
 7	-40860722784	France	Eigho
@@ -306,6 +307,8 @@ Score	Penalty	Country	Name
 7	-41109627476	France	Nurenai
 7	-41243384538	France	chevalfoucher
 7	-41271178007	France	3rgo
+7	-41310585842	France	lifeofsmiith
+7	-41331846321	France	Zhayrgh
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
 0	0	France	Benskalz
@@ -321,10 +324,10 @@ Score	Penalty	Country	Name
 0	0	France	Oupo
 0	0	France	Pigloo
 0	0	France	Stephane_Mouawad
-0	0	France	Zhayrgh
 0	0	France	alobabo
+0	0	France	apscst
 0	0	France	c0lt_dgtl
-0	0	France	eloiseb
 0	0	France	matousso
 0	0	France	paul.cibier@gmail.com
 0	0	France	pvaub
+0	0	France	user1337
