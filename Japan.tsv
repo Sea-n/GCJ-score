@@ -270,6 +270,7 @@ Score	Penalty	Country	Name
 42	-5786419631	Japan	season1618
 42	-5887710347	Japan	hknk
 42	-5896117163	Japan	earlgrey_yh
+42	-5938251532	Japan	nogi
 42	-6484380096	Japan	prd_xxx
 42	-6528135823	Japan	edamat
 42	-6756541011	Japan	sylphy
@@ -312,7 +313,6 @@ Score	Penalty	Country	Name
 42	-10663564494	Japan	ScoSa
 42	-10933118722	Japan	T49E2
 42	-11056943124	Japan	nephrologist
-42	-11201824600	Japan	T1610
 42	-11201824600	Japan	T1610
 42	-11253064730	Japan	OKCH3COOH
 42	-11291505712	Japan	4eta
@@ -414,6 +414,7 @@ Score	Penalty	Country	Name
 42	-19004820121	Japan	suzuken_w
 42	-19017693263	Japan	private_yusuke
 42	-19065306830	Japan	S_ZK
+42	-19208135323	Japan	anagohirame
 42	-19218757578	Japan	sbite
 42	-19311652868	Japan	Rssll_Krkgrd
 42	-19462878378	Japan	Yukly
@@ -836,6 +837,7 @@ Score	Penalty	Country	Name
 42	-54718674531	Japan	rickytheta
 42	-54891370755	Japan	jj_
 42	-55273433196	Japan	Programmerryoki
+42	-55441453218	Japan	RTnF
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
 35	-18676756225	Japan	noimi
@@ -876,6 +878,7 @@ Score	Penalty	Country	Name
 30	-33709777048	Japan	amami
 30	-33833407919	Japan	chie
 30	-34020457184	Japan	moscwa
+30	-37515097778	Japan	hiroa
 30	-39833483783	Japan	rkrmr
 30	-41390347159	Japan	ymd2007umd@gmail.com
 30	-41394869790	Japan	jskt
@@ -919,6 +922,7 @@ Score	Penalty	Country	Name
 23	-28219680093	Japan	aircon
 23	-29386509261	Japan	Akamiso
 23	-29568398231	Japan	mkmkmk
+23	-29602254587	Japan	agw02010
 23	-29902151783	Japan	OxOmisosiru
 23	-30409072150	Japan	watabiro
 23	-31022678490	Japan	rokahikou
@@ -983,7 +987,6 @@ Score	Penalty	Country	Name
 23	-54358475612	Japan	sakai
 23	-54384784533	Japan	starwand
 23	-54405777216	Japan	indigolain
-23	-54528080214	Japan	RTnF
 23	-54709933264	Japan	RogueEngineer
 23	-54895560416	Japan	tanitanin
 23	-55128065995	Japan	AlbertZ
@@ -1060,20 +1063,21 @@ Score	Penalty	Country	Name
 7	-54972900878	Japan	hgemini
 7	-55145754756	Japan	miura
 7	-55294052306	Japan	tmsausa
+7	-55472441930	Japan	ljq0002
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
+0	0	Japan	MAKO
 0	0	Japan	Rute_
 0	0	Japan	Sampeipei
-0	0	Japan	cossy
-0	0	Japan	zezero
-0	0	Japan	MAKO
 0	0	Japan	Sango358
 0	0	Japan	aki_bayes
+0	0	Japan	cossy
 0	0	Japan	donuthole
-0	0	Japan	fujiyama
 0	0	Japan	kinokokaeru
 0	0	Japan	lamorak
 0	0	Japan	nicolen
 0	0	Japan	raspi0124
 0	0	Japan	rikupin1105
 0	0	Japan	shukob
+0	0	Japan	zezero
+0	0	Japan	fujiyama

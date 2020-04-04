@@ -87,7 +87,6 @@ Score	Penalty	Country	Name
 43	-54125153056	France	julesmichaud
 43	-54218293569	France	martindevi
 43	-54340004593	France	luctchak
-43	-54340004593	France	luctchak
 43	-55457568911	France	SpaceSheep
 43	-55864241094	France	Kiroxas
 42	-977047005	France	Tahkare
@@ -204,6 +203,7 @@ Score	Penalty	Country	Name
 42	-48186514453	France	Kan1
 42	-48255697061	France	yanndev
 42	-48370128246	France	phh
+42	-48374960724	France	bmartin
 42	-48542494671	France	nghesquier
 42	-48620641284	France	mitsubachimaya
 42	-48643340259	France	cholaknight
@@ -295,7 +295,6 @@ Score	Penalty	Country	Name
 24	-37035751871	France	fcontreras
 24	-41457530784	France	Frelonquai
 23	-1787018867	France	Kelk1
-23	-2130356531	France	Mobyous
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
 23	-4439910630	France	Eluthor
@@ -407,6 +406,7 @@ Score	Penalty	Country	Name
 23	-55315525603	France	f.9m4
 23	-55326149399	France	v-perez
 23	-55402255838	France	ErreurFatale
+23	-55735126085	France	Sinei
 16	-21240143956	France	mnaji
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
@@ -434,7 +434,6 @@ Score	Penalty	Country	Name
 7	-40418773214	France	Da
 7	-41310585842	France	lifeofsmiith
 7	-41976881179	France	Stephane_Mouawad
-7	-41976881179	France	Stephane_Mouawad
 7	-42130706468	France	apscst
 7	-42473195294	France	blackeagle
 7	-42945002987	France	EtherealUnagi
@@ -455,7 +454,6 @@ Score	Penalty	Country	Name
 7	-50983910974	France	machine_hazard
 7	-51408614265	France	Shatalov
 7	-53011007490	France	marc.sun@hotmail.fr
-7	-53265923706	France	Sinei
 7	-53477054000	France	RaphOn
 7	-53529036954	France	LAM
 7	-53886207678	France	AlexSand
@@ -471,12 +469,11 @@ Score	Penalty	Country	Name
 7	-55011398506	France	yanntoque
 7	-55139381503	France	taptap
 7	-55365907666	France	Nechepso
+7	-55477086584	France	Laurent_Roche
+7	-55504489045	France	iwky911@gmail.com
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
-0	0	France	paul.cibier@gmail.com
-0	0	France	theodumont
 0	0	France	Benskalz
-0	0	France	BigMamadou
 0	0	France	Bot2019
 0	0	France	Boumpteryx
 0	0	France	Colios13
@@ -495,8 +492,12 @@ Score	Penalty	Country	Name
 0	0	France	abel0b
 0	0	France	benjlepyreneen
 0	0	France	cigix
-0	0	France	clerendor
 0	0	France	dylankim
 0	0	France	johnrazeur
 0	0	France	lance505
+0	0	France	paul.cibier@gmail.com
 0	0	France	philM
+0	0	France	theodumont
+0	0	France	BigMamadou
+0	0	France	HuGoo
+0	0	France	clerendor
