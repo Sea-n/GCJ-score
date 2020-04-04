@@ -331,6 +331,7 @@ Score	Penalty	Country	Name
 42	-24527037594	South Korea	Stp.Fox
 42	-24542929669	South Korea	powergee
 42	-24558370017	South Korea	hyoputer
+42	-24558370017	South Korea	hyoputer
 42	-24584298166	South Korea	master_of_aggro
 42	-24669772237	South Korea	emphasis10
 42	-24678411601	South Korea	CharleSE
@@ -385,7 +386,6 @@ Score	Penalty	Country	Name
 42	-28721706677	South Korea	sbrus1213
 42	-28772016825	South Korea	korkis
 42	-28926609693	South Korea	iqjumps
-42	-28945177103	South Korea	Evaporation
 42	-29595764087	South Korea	hhaahh
 42	-29798409441	South Korea	lewha0
 42	-29863968885	South Korea	CoChang
@@ -574,6 +574,7 @@ Score	Penalty	Country	Name
 42	-52129483616	South Korea	skeep194
 42	-52387519096	South Korea	hamster
 42	-52484256037	South Korea	Yoonjae
+42	-52680730525	South Korea	uja
 42	-53070301382	South Korea	coolutony
 35	-22739709034	South Korea	exqt
 35	-33328177785	South Korea	accidentallygivenfuck
@@ -592,7 +593,6 @@ Score	Penalty	Country	Name
 30	-16977171879	South Korea	jungw00
 30	-17010279293	South Korea	JooDdae
 30	-20817676892	South Korea	hi_goodnight
-30	-21308141695	South Korea	parkpkww
 30	-25288853103	South Korea	lolahn59
 30	-28050765310	South Korea	Diuven
 30	-28702539499	South Korea	easter3163
@@ -620,7 +620,6 @@ Score	Penalty	Country	Name
 30	-52454602681	South Korea	jake_lee
 26	-32124770455	South Korea	lando
 26	-37980094440	South Korea	beginnerHeo
-26	-51086050750	South Korea	uja
 24	-49269679079	South Korea	kimih12
 23	-3473081552	South Korea	dchoi
 23	-5235299298	South Korea	지나가던한국인01
@@ -878,7 +877,7 @@ Score	Penalty	Country	Name
 7	-52610656291	South Korea	str0ct
 7	-52814641006	South Korea	EBURI
 5	-31464216449	South Korea	Seokjin
-0	0	South Korea	0xF4D3C0D3
+1	-33551112963	South Korea	return_zero
 0	0	South Korea	3to15gram
 0	0	South Korea	B4TT3RY
 0	0	South Korea	Bitlion
@@ -887,13 +886,14 @@ Score	Penalty	Country	Name
 0	0	South Korea	GiYeon
 0	0	South Korea	GuneGune
 0	0	South Korea	ICCHOI
-0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
 0	0	South Korea	Trixmos
 0	0	South Korea	Xeroxy
 0	0	South Korea	YONG_HWAN
 0	0	South Korea	Zirit
 0	0	South Korea	bluefortress24
+0	0	South Korea	bluezery
+0	0	South Korea	cantapiya
 0	0	South Korea	cozyncoze@gmail.com
 0	0	South Korea	holywars
 0	0	South Korea	ilhan.ryu
@@ -902,8 +902,7 @@ Score	Penalty	Country	Name
 0	0	South Korea	leoJeong
 0	0	South Korea	nickjung
 0	0	South Korea	spillink
-0	0	South Korea	swcunba
 0	0	South Korea	강동훈
-1	-33551112963	South Korea	return_zero
-0	0	South Korea	bluezery
-0	0	South Korea	cantapiya
+0	0	South Korea	0xF4D3C0D3
+0	0	South Korea	Ohman
+0	0	South Korea	swcunba

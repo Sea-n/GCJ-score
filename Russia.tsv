@@ -335,7 +335,10 @@ Score	Penalty	Country	Name
 42	-52344945297	Russia	NALP
 42	-52417404951	Russia	Aritol
 42	-52452808040	Russia	Ignat
+42	-52675771667	Russia	andrewzta
 42	-52759222531	Russia	hiot
+42	-53120196030	Russia	Larantan
+42	-53336986118	Russia	Akulyat
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
@@ -400,14 +403,11 @@ Score	Penalty	Country	Name
 23	-49354780796	Russia	kkarpea
 23	-49587595465	Russia	Podzyuban
 23	-49717675755	Russia	superSlippery
-23	-49930279282	Russia	Akulyat
 23	-50375975727	Russia	Slavik.MSU
-23	-50528670825	Russia	Larantan
 23	-50640402866	Russia	lozhkarev
 23	-50716324567	Russia	schegolev
 23	-50716467976	Russia	addict
 23	-50883696043	Russia	kpilyugin
-23	-51141187536	Russia	andrewzta
 23	-51170247038	Russia	corwin001
 23	-51230294405	Russia	Mikcorer
 23	-51297766968	Russia	smplio
@@ -439,6 +439,7 @@ Score	Penalty	Country	Name
 12	-47587983634	Russia	Gogen120
 12	-50935212521	Russia	glebsasmsonov
 12	-52555357211	Russia	Dimitryliss
+12	-52644232734	Russia	koreec
 7	-870457384	Russia	Romanchenko
 7	-2382733077	Russia	RiaD
 7	-4346869152	Russia	zuko3d
@@ -480,7 +481,6 @@ Score	Penalty	Country	Name
 7	-51899422718	Russia	mr_sunshine
 7	-52058569074	Russia	joulej
 7	-52163145848	Russia	Skeef79
-7	-52178758966	Russia	koreec
 7	-52201082770	Russia	praise_x
 7	-52279844272	Russia	AlexanderBashkin
 7	-52423131761	Russia	valery.stromov
@@ -489,11 +489,13 @@ Score	Penalty	Country	Name
 7	-52519751272	Russia	Helgui
 7	-52569943611	Russia	ambisinistra
 7	-52577875220	Russia	Frankenween
+7	-52630437815	Russia	yury.mysin
+0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Juwbasaurus
 0	0	Russia	Kirill8141
 0	0	Russia	Locab
-0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
+0	0	Russia	abccbv1338
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
@@ -503,6 +505,5 @@ Score	Penalty	Country	Name
 0	0	Russia	ngh7mr3
 0	0	Russia	vitkov
 0	0	Russia	vlad_is_love
-0	0	Russia	yury.mysin
 0	0	Russia	zts3101
-0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	MellowYellow
