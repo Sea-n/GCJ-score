@@ -75,6 +75,8 @@ Score	Penalty	Country	Name
 68	-51113221199	Russia	ivankff
 68	-51168940368	Russia	IvanG
 68	-51403988705	Russia	NameNamovich
+68	-51877817547	Russia	ZhukovDmitry
+68	-51896588187	Russia	covid19
 68	-52187985955	Russia	Arut
 68	-53495541429	Russia	empty_walls
 68	-56499974108	Russia	andrejj
@@ -107,7 +109,6 @@ Score	Penalty	Country	Name
 42	-2398436052	Russia	legendtoday
 42	-2818331936	Russia	Tibik
 42	-2966453926	Russia	reshke
-42	-3048577622	Russia	covid19
 42	-3147246304	Russia	smirok
 42	-3539853678	Russia	yhn112
 42	-4522265026	Russia	HNTT
@@ -277,7 +278,6 @@ Score	Penalty	Country	Name
 42	-46329551884	Russia	Murat
 42	-46350289618	Russia	Kear6ai
 42	-46396167545	Russia	_Dragon_
-42	-46774025137	Russia	ZhukovDmitry
 42	-46999104551	Russia	vpike
 42	-47192572679	Russia	grumpy_gordon
 42	-47436137895	Russia	HasegawaNanako
@@ -341,6 +341,7 @@ Score	Penalty	Country	Name
 30	-48704784136	Russia	asdasda
 30	-51376516325	Russia	maximumSHOT
 26	-43023873121	Russia	cyga
+26	-47015970180	Russia	dzheglov
 26	-47015970180	Russia	dzheglov
 26	-51641777482	Russia	wunder9l
 24	-32436635187	Russia	manikitos
@@ -472,12 +473,13 @@ Score	Penalty	Country	Name
 7	-51707786258	Russia	alexmir1
 7	-51770558728	Russia	miron239
 7	-51773660962	Russia	stan.orik
+7	-51872853234	Russia	aid_74
+7	-51899422718	Russia	mr_sunshine
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Kirill8141
 0	0	Russia	Locab
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
-0	0	Russia	aid_74
 0	0	Russia	ambisinistra
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
