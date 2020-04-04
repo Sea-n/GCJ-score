@@ -115,6 +115,7 @@ Score	Penalty	Country	Name
 31	-31247734242	Germany	mohammad71
 30	-15333479241	Germany	drwu
 30	-39715780617	Germany	aweltsch
+30	-40551414502	Germany	jlohse
 26	-34297943341	Germany	fabman
 24	-37313707379	Germany	LorMam
 23	-1601523868	Germany	I3J03RN
@@ -145,7 +146,6 @@ Score	Penalty	Country	Name
 23	-35282638441	Germany	beesch
 23	-35378988477	Germany	eth42
 23	-35473573370	Germany	MustafaBerkayMutlu
-23	-35491429564	Germany	jlohse
 23	-35821418569	Germany	yoni11
 23	-36025359981	Germany	Norbi42
 23	-36168674237	Germany	schweizerm
@@ -181,6 +181,8 @@ Score	Penalty	Country	Name
 23	-39662237278	Germany	brunken
 23	-39787606284	Germany	Artemis-Skade
 23	-39811503041	Germany	lumibons
+23	-39945752300	Germany	annoraaq
+23	-39945812208	Germany	berndboh
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-38278303435	Germany	MadMax97
@@ -210,8 +212,6 @@ Score	Penalty	Country	Name
 7	-38056670231	Germany	bavarianquant
 7	-38476831053	Germany	jgroe
 7	-38556879099	Germany	Spacetoaster
-7	-38702221384	Germany	berndboh
-7	-38756803002	Germany	annoraaq
 7	-38779798416	Germany	abaspinar
 7	-38792787565	Germany	Unlikus
 7	-39083329850	Germany	TimTimolia
@@ -222,14 +222,15 @@ Score	Penalty	Country	Name
 7	-39463830854	Germany	momapf
 7	-39611384701	Germany	Fettn
 7	-39773426233	Germany	Thundertron
+7	-39949447373	Germany	twuebi
+0	0	Germany	friebetill
+0	0	Germany	leiftw
+0	0	Germany	niktech
 0	0	Germany	ExtendedBNF
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	cadac
-0	0	Germany	friebetill
 0	0	Germany	iloraC28
 0	0	Germany	kechtel
-0	0	Germany	leiftw
-0	0	Germany	niktech
 0	0	Germany	svenibo
 0	0	Germany	yannic
