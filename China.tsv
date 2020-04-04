@@ -151,7 +151,6 @@ Score	Penalty	Country	Name
 68	-11237926691	China	OTTFF
 68	-11953572851	China	huzecong
 68	-12086082168	China	xuelei
-68	-12086082168	China	xuelei
 68	-12254381977	China	seanlin
 68	-13005531192	China	JOHNKRAM
 68	-14688342005	China	zixi_cai@berkeley.edu
@@ -650,6 +649,7 @@ Score	Penalty	Country	Name
 42	-24219685654	China	Wilson_Xia
 42	-24249497047	China	lxhgww
 42	-24262329506	China	BoomW
+42	-24343209826	China	Snickeen
 42	-24526897644	China	elfness@163.com
 42	-24627183343	China	sd197555
 42	-24820787563	China	mhy
@@ -1087,7 +1087,6 @@ Score	Penalty	Country	Name
 31	-33694737061	China	axiom
 31	-36158800623	China	zhao_pengfei_nus
 31	-37068401028	China	李云龙我听说你发财了
-31	-37068401028	China	李云龙我听说你发财了
 31	-37107233994	China	emhhbw==
 31	-37370191298	China	chengenhao1
 31	-37773528972	China	Plouter
@@ -1142,7 +1141,6 @@ Score	Penalty	Country	Name
 23	-12366362657	China	王木木
 23	-12416795913	China	Ir1d
 23	-14381976970	China	Chayeen
-23	-14863850334	China	qmwhyf
 23	-14863850334	China	qmwhyf
 23	-15434093977	China	tianyuan
 23	-15798481273	China	miaoa
@@ -1317,7 +1315,6 @@ Score	Penalty	Country	Name
 7	-6353893186	China	yimi
 7	-8369276044	China	xiaomaju
 7	-8684618647	China	centaurus
-7	-8728724225	China	iLtc
 7	-9236604517	China	bixueongyuan@gmail.com
 7	-9456601084	China	Thera
 7	-9660406716	China	FUJIWARA_SAI
@@ -1430,8 +1427,12 @@ Score	Penalty	Country	Name
 7	-45848266123	China	wangchuhao200402210
 7	-45865016015	China	Yee_172
 7	-45907613806	China	DavidGuo
+7	-45953263240	China	dytc
+7	-45981522852	China	goodstudy
 5	-43689450877	China	ja50n
 5	-43953440891	China	CoderCheng
+0	0	China	adahee70
+0	0	China	lchen7889
 0	0	China	1134953287@qq.com
 0	0	China	2546934776@qq.com
 0	0	China	25hua
@@ -1446,14 +1447,12 @@ Score	Penalty	Country	Name
 0	0	China	LuckyMouse
 0	0	China	NUISTgwx
 0	0	China	ZA139
-0	0	China	adahee70
 0	0	China	bulldozer
 0	0	China	ccsu_cat
 0	0	China	cwx
 0	0	China	enterdawn
 0	0	China	glazialuna
 0	0	China	jimmylai20001014@gmail.com
-0	0	China	lchen7889
 0	0	China	leogle
 0	0	China	liziwl
 0	0	China	rosaLo
