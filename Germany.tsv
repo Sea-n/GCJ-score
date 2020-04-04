@@ -45,6 +45,7 @@ Score	Penalty	Country	Name
 43	-43937975574	Germany	Veladus
 43	-44110337315	Germany	petertoth
 43	-45617503843	Germany	n0w0rk
+43	-46086662553	Germany	wintermute2048
 42	-1412145030	Germany	Der.Baer
 42	-2472209061	Germany	eriksuenderhauf
 42	-2931265992	Germany	saeissl
@@ -150,6 +151,8 @@ Score	Penalty	Country	Name
 42	-45397810475	Germany	Neonag
 42	-45800939284	Germany	Garrus
 42	-45982414567	Germany	Auenwald
+42	-46035730475	Germany	HammerOfThor
+42	-46072703805	Germany	mpt2
 42	-47979399863	Germany	element314
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
@@ -212,7 +215,6 @@ Score	Penalty	Country	Name
 23	-41930172863	Germany	Yonav
 23	-41941886548	Germany	Jovi
 23	-41951438668	Germany	thomas_gaertner
-23	-41960322895	Germany	HammerOfThor
 23	-42029926838	Germany	ExtendedBNF
 23	-42039771487	Germany	AlexZorn
 23	-42055407534	Germany	Spacetoaster
@@ -225,7 +227,6 @@ Score	Penalty	Country	Name
 23	-43090598760	Germany	MCoder
 23	-43601085859	Germany	Gorkem
 23	-43781692768	Germany	cadac
-23	-43878633686	Germany	mpt2
 23	-43914992098	Germany	omilus
 23	-44070546533	Germany	Dangooo
 23	-44279340014	Germany	sbarlabanov
@@ -246,6 +247,7 @@ Score	Penalty	Country	Name
 23	-45714505187	Germany	iloraC28
 23	-45878116277	Germany	FinnM
 23	-45888193093	Germany	Michip96
+23	-46051070981	Germany	stema
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-43513037664	Germany	BananaNosh
@@ -268,7 +270,6 @@ Score	Penalty	Country	Name
 7	-37629074610	Germany	debriscloud
 7	-39773426233	Germany	Thundertron
 7	-39949447373	Germany	twuebi
-7	-40314761492	Germany	stema
 7	-41080147633	Germany	Luxa
 7	-41248435561	Germany	s1e2b3i4
 7	-41485033263	Germany	Spherelix
@@ -293,16 +294,16 @@ Score	Penalty	Country	Name
 7	-45435591364	Germany	Callidior
 7	-45437558546	Germany	nixs
 7	-45888964874	Germany	Astrocyte
-0	0	Germany	hackerpschorr
-0	0	Germany	Mobo
 0	0	Germany	MrTeX
 0	0	Germany	PrøCøder
-0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
-0	0	Germany	antonios
 0	0	Germany	clr
 0	0	Germany	friebetill
+0	0	Germany	svenibo
+0	0	Germany	Mobo
+0	0	Germany	TornaxO7
+0	0	Germany	antonios
+0	0	Germany	hackerpschorr
 0	0	Germany	leiftw
 0	0	Germany	mmz
 0	0	Germany	multi_method_man
-0	0	Germany	svenibo
