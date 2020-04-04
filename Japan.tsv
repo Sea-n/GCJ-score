@@ -45,6 +45,7 @@ Score	Penalty	Country	Name
 100	-58927208595	Japan	ast210
 100	-59046016677	Japan	tsutaj
 100	-59765023906	Japan	kappahouse
+100	-61804515908	Japan	tomarint
 100	-63245994499	Japan	Yazaten
 89	-69434487531	Japan	mokazaki923
 75	-17222155067	Japan	Person20
@@ -69,6 +70,7 @@ Score	Penalty	Country	Name
 74	-58602443737	Japan	kou605
 74	-59152997405	Japan	uwi
 74	-60341928929	Japan	外人
+74	-61828352557	Japan	OPhira
 68	-3894264245	Japan	yamunaku
 68	-4903688298	Japan	wagtail
 68	-5487392610	Japan	set0gut1
@@ -79,7 +81,6 @@ Score	Penalty	Country	Name
 68	-7348523625	Japan	sh_mug
 68	-7644306893	Japan	kami634
 68	-9158517257	Japan	sapphire15
-68	-9923832279	Japan	tomarint
 68	-9956557515	Japan	rtia1227
 68	-10300123090	Japan	sansen
 68	-11418496715	Japan	kmjp
@@ -495,7 +496,6 @@ Score	Penalty	Country	Name
 42	-23900005454	Japan	yuuta0909
 42	-23917211310	Japan	cos
 42	-23974743433	Japan	nu4nu
-42	-24318890151	Japan	OPhira
 42	-24423012327	Japan	wattaihei
 42	-24619831472	Japan	Tiramister
 42	-24644276500	Japan	akidai
@@ -901,7 +901,9 @@ Score	Penalty	Country	Name
 42	-61666147925	Japan	toriroro
 42	-61690866231	Japan	r.9981
 42	-61703312430	Japan	nolasuz
+42	-61898566548	Japan	fiord
 42	-62065458019	Japan	py_uni_0
+42	-62171000917	Japan	ccppjsrb
 42	-64390717217	Japan	jskt
 35	-8139934396	Japan	DEGwer
 35	-9945685988	Japan	sash.
@@ -935,7 +937,6 @@ Score	Penalty	Country	Name
 30	-20220304648	Japan	inaty
 30	-21085090946	Japan	sekai
 30	-22782974631	Japan	pitsu
-30	-27344037361	Japan	yi7242
 30	-27642289728	Japan	rootbook43
 30	-29027426923	Japan	Nafmo
 30	-30885861611	Japan	saiton03
@@ -958,7 +959,6 @@ Score	Penalty	Country	Name
 30	-55274500884	Japan	AmiWrong
 30	-59589283378	Japan	yamayama
 26	-42927628267	Japan	granddaifuku
-26	-60305715300	Japan	gobaba
 24	-33847167094	Japan	snakeLegs
 24	-51541512142	Japan	Mazesoba
 23	-2575289112	Japan	kebhr
@@ -1002,6 +1002,7 @@ Score	Penalty	Country	Name
 23	-36686215458	Japan	btk
 23	-36835885762	Japan	y16a
 23	-36935192844	Japan	sakura873
+23	-36935192844	Japan	sakura873
 23	-37050934557	Japan	fiore
 23	-38961368916	Japan	nskznao
 23	-39024661345	Japan	kijuky
@@ -1024,14 +1025,12 @@ Score	Penalty	Country	Name
 23	-52491461299	Japan	purucat
 23	-53077711961	Japan	Hde1911
 23	-53752131273	Japan	reibomaru
-23	-54062380810	Japan	fiord
 23	-54215942616	Japan	hosshii
 23	-54276102238	Japan	naochobin
 23	-54405777216	Japan	indigolain
 23	-54709933264	Japan	RogueEngineer
 23	-54895560416	Japan	tanitanin
 23	-55211832220	Japan	muramasa-r
-23	-55235893940	Japan	ccppjsrb
 23	-55304223136	Japan	canometal
 23	-56492663579	Japan	miura
 23	-57831097769	Japan	qLethon
@@ -1062,6 +1061,7 @@ Score	Penalty	Country	Name
 23	-61819835864	Japan	hgemini
 23	-62484919280	Japan	guracoro
 19	-47253703180	Japan	よーおは
+19	-61906301725	Japan	Ktya
 16	-5344012579	Japan	Nori
 16	-39315134841	Japan	piyonakajima
 16	-41437937608	Japan	Graphium314
@@ -1123,21 +1123,20 @@ Score	Penalty	Country	Name
 5	-35831969763	Japan	homucatful
 0	0	Japan	ArtifactSauce
 0	0	Japan	KazuYamagiwa
-0	0	Japan	Ktya
-0	0	Japan	Rute_
-0	0	Japan	Sampeipei
-0	0	Japan	Sango358
 0	0	Japan	aki_bayes
-0	0	Japan	cossy
-0	0	Japan	donuthole
 0	0	Japan	fashioncrazy66
 0	0	Japan	kei0000
 0	0	Japan	kinokokaeru
 0	0	Japan	lamorak
-0	0	Japan	nicolen
 0	0	Japan	raspi0124
 0	0	Japan	rikupin1105
 0	0	Japan	sableyka
-0	0	Japan	shukob
 0	0	Japan	tarakotarao
+0	0	Japan	Rute_
+0	0	Japan	Sampeipei
+0	0	Japan	Sango358
+0	0	Japan	cossy
+0	0	Japan	donuthole
+0	0	Japan	nicolen
+0	0	Japan	shukob
 0	0	Japan	zezero
