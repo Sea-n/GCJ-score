@@ -245,6 +245,7 @@ Score	Penalty	Country	Name
 62	-35632261992	China	eee123
 62	-39709179387	China	dynmi
 55	-21729976429	China	lzr010506
+55	-38879722951	China	_liet
 55	-40298104430	China	compthu
 49	-29270835847	China	triple__a
 49	-32597734695	China	andy1li
@@ -429,7 +430,6 @@ Score	Penalty	Country	Name
 42	-14439062174	China	heyuhhh
 42	-14443735237	China	superkent
 42	-14516541799	China	Yewen
-42	-14531725499	China	LeoChen
 42	-14542201187	China	Backdoor
 42	-14574352007	China	shallowdream
 42	-14720559575	China	Xiejiadong
@@ -951,9 +951,12 @@ Score	Penalty	Country	Name
 42	-38715177411	China	IEU_123_3
 42	-38806742903	China	TaoSama
 42	-38820119675	China	yidiandian
+42	-38975296386	China	1552382553@qq.com
 42	-38997921923	China	Jhe
 42	-39063432674	China	RoBa
 42	-39077577222	China	+_+
+42	-39165504132	China	Nanlihao
+42	-39664570239	China	fake_fan
 35	-9868869318	China	wuzhengkai
 35	-11166394585	China	1849285087
 35	-16488987811	China	jcvb
@@ -1088,7 +1091,6 @@ Score	Penalty	Country	Name
 23	-26800434147	China	earthk
 23	-26838654649	China	zuanyanshuojia
 23	-27068221385	China	AlexanderZ.Tang
-23	-27129464560	China	_liet
 23	-27641415345	China	yli13
 23	-27693297869	China	huangwc
 23	-27726644180	China	HTang
@@ -1117,6 +1119,7 @@ Score	Penalty	Country	Name
 23	-31656384082	China	one_more_code
 23	-31741098740	China	snophy
 23	-31939270289	China	SilentSelene
+23	-31939270289	China	SilentSelene
 23	-32642759639	China	0w000
 23	-32740843729	China	liyifei_li
 23	-32949546252	China	philippica
@@ -1128,7 +1131,6 @@ Score	Penalty	Country	Name
 23	-33555081442	China	dl16
 23	-33874244168	China	Rocinante
 23	-33889700579	China	Picknight
-23	-34021609725	China	fake_fan
 23	-34463820739	China	M-theory
 23	-34831309312	China	noisycode
 23	-34898007430	China	AwesomeHuang
@@ -1145,9 +1147,7 @@ Score	Penalty	Country	Name
 23	-37320771102	China	IDrandom
 23	-37329813091	China	yy318
 23	-37438555480	China	Altynai.me
-23	-37461643793	China	Nanlihao
 23	-37510490466	China	NietzscheH
-23	-37554068086	China	1552382553@qq.com
 23	-37618634662	China	dssgsra
 23	-37819679766	China	MikeZZZ
 23	-37853905441	China	luckcul
@@ -1167,10 +1167,14 @@ Score	Penalty	Country	Name
 23	-38872734428	China	Gotz_X
 23	-38884674388	China	czb0737@gmail.com
 23	-38909012659	China	WonderZlf
+23	-38950512572	China	jizhenjun
 23	-39059582959	China	xf
+23	-39207541005	China	ouyun
+23	-39212693013	China	lyd
 16	-31364068466	China	mvclove
 16	-31633363006	China	cookiefan
 16	-35289345635	China	IMeanGabriel
+16	-38959652119	China	HallStattMia
 14	-34339983831	China	andylizf
 12	-4691458201	China	WeiBar
 12	-7564322456	China	MorningHan
@@ -1199,7 +1203,6 @@ Score	Penalty	Country	Name
 12	-36291474232	China	Wilder_
 12	-36973154592	China	Exile0623
 12	-37516426897	China	MIKEYYMZY
-12	-38610193707	China	ouyun
 7	-1406473214	China	suqing
 7	-1599848925	China	crawarb
 7	-2252892174	China	nullstellensatz
@@ -1297,13 +1300,11 @@ Score	Penalty	Country	Name
 7	-36319549644	China	chengxvzhishen
 7	-36455844988	China	文治武功
 7	-36703818460	China	EastKing
-7	-36830899195	China	jizhenjun
 7	-36889798063	China	1935706207@qq.com
 7	-37018243909	China	3zair1997
 7	-37158030870	China	+
 7	-37243148107	China	fanqiexi
 7	-37245688483	China	AnnieXYZ
-7	-37388395504	China	lyd
 7	-37489404150	China	Decaku
 7	-37509835499	China	Mirrorera
 7	-37517539185	China	Nick.SHM
@@ -1325,6 +1326,8 @@ Score	Penalty	Country	Name
 7	-38550407488	China	Amadeus_lzy
 7	-38642307913	China	Codeoos
 7	-38686282185	China	view
+7	-38989680707	China	kkry
+7	-38992333631	China	JingLuozz
 0	0	China	1134953287@qq.com
 0	0	China	25hua
 0	0	China	2624539241@qq.com
@@ -1343,7 +1346,6 @@ Score	Penalty	Country	Name
 0	0	China	ccsu_cat
 0	0	China	glazialuna
 0	0	China	jimmylai20001014@gmail.com
-0	0	China	kkry
 0	0	China	lchen7889
 0	0	China	leogle
 0	0	China	liziwl
