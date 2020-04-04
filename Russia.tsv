@@ -317,6 +317,7 @@ Score	Penalty	Country	Name
 42	-50648772359	Russia	cdkrot
 42	-50819809123	Russia	Gleb_Ingman
 42	-50923548350	Russia	Kurt11
+42	-50978696458	Russia	boryan07
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
@@ -328,7 +329,6 @@ Score	Penalty	Country	Name
 30	-48704784136	Russia	asdasda
 26	-43023873121	Russia	cyga
 26	-47015970180	Russia	dzheglov
-26	-50059167040	Russia	boryan07
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
 23	-4611912076	Russia	tutkarma
@@ -394,7 +394,6 @@ Score	Penalty	Country	Name
 23	-49803151045	Russia	po23111
 23	-49930279282	Russia	Akulyat
 23	-50030105005	Russia	kruntuid
-23	-50272715927	Russia	Kurt11
 23	-50375975727	Russia	Slavik.MSU
 23	-50528670825	Russia	Larantan
 23	-50640402866	Russia	lozhkarev
@@ -403,6 +402,7 @@ Score	Penalty	Country	Name
 23	-50736335251	Russia	misha100896
 23	-50883696043	Russia	kpilyugin
 23	-50899258112	Russia	maximumSHOT
+23	-51230294405	Russia	Mikcorer
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 16	-49687781436	Russia	Wataru
@@ -449,7 +449,6 @@ Score	Penalty	Country	Name
 7	-50265116226	Russia	MedvDanil
 7	-50362127264	Russia	andrewzta
 7	-50444123863	Russia	vk91
-7	-50466579656	Russia	Mikcorer
 7	-50589771767	Russia	smplio
 7	-50643377813	Russia	iakolzin
 7	-50740220338	Russia	Vergara7
@@ -457,8 +456,7 @@ Score	Penalty	Country	Name
 7	-50788635056	Russia	Ignat
 7	-50833197035	Russia	fizz.buzz
 7	-50842227607	Russia	Krock21rus
-0	0	Russia	O_oxana
-0	0	Russia	vlad_is_love
+7	-50999039053	Russia	Delockle
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Kirill8141
 0	0	Russia	Locab
@@ -473,3 +471,4 @@ Score	Penalty	Country	Name
 0	0	Russia	mspitb
 0	0	Russia	munir_
 0	0	Russia	sled
+0	0	Russia	vlad_is_love

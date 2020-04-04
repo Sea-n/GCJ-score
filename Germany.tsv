@@ -201,6 +201,9 @@ Score	Penalty	Country	Name
 42	-50592556224	Germany	MCoder
 42	-50599271970	Germany	mhuber
 42	-50620344314	Germany	HotLava
+42	-50936401933	Germany	22slin22
+42	-50987690699	Germany	strider29
+42	-51454405087	Germany	Kurisu858
 42	-51538443430	Germany	kerpoo
 42	-51928341001	Germany	thomas_gaertner
 35	-40640504459	Germany	_MF_
@@ -244,7 +247,6 @@ Score	Penalty	Country	Name
 23	-36698938221	Germany	MartinSeeler
 23	-37827443170	Germany	Pusteblume
 23	-38422156214	Germany	taschi
-23	-38485114615	Germany	Kurisu858
 23	-38797764236	Germany	Geser
 23	-39079674877	Germany	Wurzeltroll
 23	-39198062663	Germany	JSNO
@@ -267,7 +269,6 @@ Score	Penalty	Country	Name
 23	-46051070981	Germany	stema
 23	-46114713935	Germany	dennisroth
 23	-46130990278	Germany	Aliamondo
-23	-46640186854	Germany	strider29
 23	-46707209158	Germany	nicolask
 23	-47160751265	Germany	mlefarov
 23	-47407025333	Germany	Timisorean
@@ -279,7 +280,6 @@ Score	Penalty	Country	Name
 23	-48945284804	Germany	Eogwyn
 23	-49007351769	Germany	blitzliner
 23	-49629814529	Germany	Ballala
-23	-49747908621	Germany	22slin22
 23	-49751751179	Germany	twuebi
 23	-49908978363	Germany	preisi
 23	-49970305743	Germany	casioton
@@ -297,6 +297,7 @@ Score	Penalty	Country	Name
 23	-50761463666	Germany	mmuesly
 23	-50847198950	Germany	__Helge__
 23	-50848103231	Germany	kaenganxt
+23	-50976748506	Germany	MHamed90
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-43513037664	Germany	BananaNosh
@@ -327,7 +328,6 @@ Score	Penalty	Country	Name
 7	-46131547076	Germany	multi_method_man
 7	-46198681914	Germany	devng
 7	-46688405579	Germany	antonios
-7	-46819111328	Germany	MHamed90
 7	-46907238787	Germany	ostrich
 7	-47221653093	Germany	LuzianHahn
 7	-47301536411	Germany	mmz
@@ -346,7 +346,6 @@ Score	Penalty	Country	Name
 7	-50584302224	Germany	InfectedBytes
 7	-50670871285	Germany	Trung_X_Hieu
 7	-50720772094	Germany	qr4
-0	0	Germany	owling
 0	0	Germany	0xCAFB
 0	0	Germany	Nesbi
 0	0	Germany	PrøCøder
@@ -358,4 +357,5 @@ Score	Penalty	Country	Name
 0	0	Germany	hackerpschorr
 0	0	Germany	miskigolf
 0	0	Germany	oO777Oo
+0	0	Germany	owling
 0	0	Germany	svenibo

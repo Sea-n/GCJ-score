@@ -50,6 +50,7 @@ Score	Penalty	Country	Name
 68	-51078708775	France	Thundzz
 68	-51316813394	France	vxgmichel
 68	-51605106276	France	Lairv
+68	-60079807292	France	LuciaVonTelmus
 55	-12302438707	France	Ihzfo
 43	-12327654683	France	Pixep
 43	-18104112102	France	ChrisViking
@@ -66,7 +67,6 @@ Score	Penalty	Country	Name
 43	-49426828581	France	succo
 43	-50658818938	France	loscmatt
 43	-51643050261	France	MrDaiki
-43	-58612117621	France	LuciaVonTelmus
 42	-977047005	France	Tahkare
 42	-1842985261	France	Hemitheconyx
 42	-2020420151	France	SalimAboubacar
@@ -353,6 +353,7 @@ Score	Penalty	Country	Name
 23	-50846620879	France	Wellan89
 23	-50885709205	France	bemethor
 23	-50888012726	France	modaf
+23	-50947570645	France	Limezest
 16	-21240143956	France	mnaji
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
@@ -366,6 +367,7 @@ Score	Penalty	Country	Name
 12	-49548034802	France	Morantxu
 12	-49944322802	France	Pigloo
 12	-50354176185	France	flechter
+12	-51044337900	France	Klu
 7	-2183542384	France	buiquanganh85
 7	-4493581986	France	fou
 7	-5678070320	France	Martial
@@ -398,7 +400,6 @@ Score	Penalty	Country	Name
 7	-46999202678	France	AdrienLopez
 7	-47309237740	France	WNG
 7	-47395518512	France	gomix
-7	-47614800727	France	Limezest
 7	-47697122343	France	Xabi
 7	-48080980810	France	drunkl33
 7	-48215601971	France	cyril.perie96@gmail.com
@@ -430,19 +431,18 @@ Score	Penalty	Country	Name
 7	-50871946802	France	GuillaumeK
 7	-50983910974	France	machine_hazard
 5	-37838570501	France	proftechnolblanc
-0	0	France	Benskalz
-0	0	France	Loic
-0	0	France	Mizzy
-0	0	France	johnrazeur
 0	0	France	ArthurMR
+0	0	France	Benskalz
 0	0	France	Boumpteryx
 0	0	France	Colios13
 0	0	France	DorianNogneng
 0	0	France	Kandhum
 0	0	France	KemJaiH
 0	0	France	LightSn0w
+0	0	France	Loic
 0	0	France	MaTTs
 0	0	France	MaieV
+0	0	France	Mizzy
 0	0	France	RaphOn
 0	0	France	Shatalov
 0	0	France	Stephane_J
@@ -452,4 +452,5 @@ Score	Penalty	Country	Name
 0	0	France	benjlepyreneen
 0	0	France	c0lt_dgtl
 0	0	France	cigix
+0	0	France	johnrazeur
 0	0	France	paul.cibier@gmail.com

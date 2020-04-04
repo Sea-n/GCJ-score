@@ -121,6 +121,7 @@ Score	Penalty	Country	Name
 68	-49987006695	South Korea	man_of_learning
 68	-50828056289	South Korea	Kiimak
 68	-52127946464	South Korea	rikang
+68	-53338230625	South Korea	pica4500
 68	-53896057324	South Korea	ZINC
 56	-41014787033	South Korea	qqqqwwwweeeerrrrtttt
 55	-37560136953	South Korea	jugol
@@ -134,7 +135,6 @@ Score	Penalty	Country	Name
 43	-17612920976	South Korea	dong_hyun
 43	-19633052040	South Korea	zzal_U
 43	-23709074748	South Korea	singleheart
-43	-27811990729	South Korea	pica4500
 43	-28505401412	South Korea	L0TUS
 43	-30560881537	South Korea	haramlee
 43	-30666903051	South Korea	sirius-mhlee
@@ -844,13 +844,9 @@ Score	Penalty	Country	Name
 7	-50754184677	South Korea	Sardine
 7	-50757518255	South Korea	mbox25
 7	-50805645902	South Korea	seokil
+7	-50933559800	South Korea	handsomehan
 7	-51090099919	South Korea	ilover3
 5	-31464216449	South Korea	Seokjin
-0	0	South Korea	GuneGune
-0	0	South Korea	Trixmos
-0	0	South Korea	Wooseok
-0	0	South Korea	handsomehan
-0	0	South Korea	nickjung
 1	-33551112963	South Korea	return_zero
 0	0	South Korea	0xF4D3C0D3
 0	0	South Korea	3to15gram
@@ -858,10 +854,13 @@ Score	Penalty	Country	Name
 0	0	South Korea	Croquis
 0	0	South Korea	Cuws
 0	0	South Korea	GiYeon
+0	0	South Korea	GuneGune
 0	0	South Korea	Korearepresenter
 0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
 0	0	South Korea	Summoner1343
+0	0	South Korea	Trixmos
+0	0	South Korea	Wooseok
 0	0	South Korea	Xeroxy
 0	0	South Korea	YONG_HWAN
 0	0	South Korea	bluefortress24
@@ -873,6 +872,7 @@ Score	Penalty	Country	Name
 0	0	South Korea	junha
 0	0	South Korea	koreabell
 0	0	South Korea	leoJeong
+0	0	South Korea	nickjung
 0	0	South Korea	nogada
 0	0	South Korea	spillink
 0	0	South Korea	swcunba

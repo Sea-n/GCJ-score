@@ -67,6 +67,7 @@ Score	Penalty	Country	Name
 100	-50829372268	China	lucasD
 100	-51970420998	China	_liet
 100	-53161629251	China	mogeli
+100	-53795460685	China	shdut
 81	-26543555992	China	fjzzq2002
 75	-27505331114	China	CCWUCMCTS
 75	-29474477127	China	CYH
@@ -286,7 +287,6 @@ Score	Penalty	Country	Name
 68	-47517717182	China	festony
 68	-48695867002	China	andy1li
 68	-49206222280	China	AndrewX
-68	-49341803224	China	shdut
 68	-49547374540	China	plus2047
 68	-50032535067	China	chaoshxxu
 68	-50264946831	China	guogai
@@ -1124,6 +1124,8 @@ Score	Penalty	Country	Name
 42	-50854315653	China	Lucida
 42	-50855713664	China	crossAutomaton
 42	-50933101363	China	wangchuhao200402210
+42	-50936027219	China	futurew
+42	-51000337914	China	0mzxxzm0
 42	-51063831732	China	PetrichorXjh
 42	-51115434786	China	hncswpy
 42	-51176634703	China	julian.gu99
@@ -1203,6 +1205,7 @@ Score	Penalty	Country	Name
 23	-10581504145	China	ZawesomeLLL
 23	-11257432894	China	xiao_ma_ju
 23	-11612340589	China	qminff
+23	-11817042679	China	yihuicui
 23	-11913139589	China	zxz
 23	-12366362657	China	王木木
 23	-14381976970	China	Chayeen
@@ -1270,7 +1273,6 @@ Score	Penalty	Country	Name
 23	-32740843729	China	liyifei_li
 23	-32949546252	China	philippica
 23	-33016080844	China	rosalio
-23	-33175276886	China	futurew
 23	-33245892997	China	wjh776a68
 23	-33528568705	China	Aminor_z
 23	-34898007430	China	AwesomeHuang
@@ -1319,7 +1321,6 @@ Score	Penalty	Country	Name
 23	-47072002115	China	liantaijie
 23	-47142532613	China	goatzyq
 23	-47485200941	China	Deadcat5
-23	-47951312182	China	0mzxxzm0
 23	-47978966623	China	osayes
 23	-48103847354	China	awake020
 23	-48187240923	China	LuXinyu
@@ -1349,10 +1350,10 @@ Score	Penalty	Country	Name
 23	-50845561150	China	Xubaidu
 23	-50906061142	China	TDteach
 23	-50906871937	China	GloomyMouse
+23	-50923696866	China	tsangshiyuen
 23	-50927289496	China	zhmeng
 19	-46882722360	China	cwx
 16	-35289345635	China	IMeanGabriel
-16	-40061590721	China	wu6shen
 16	-40061590721	China	wu6shen
 16	-49947039409	China	chuoxiaowei
 16	-50507098693	China	Cosert
@@ -1498,14 +1499,10 @@ Score	Penalty	Country	Name
 7	-50771051892	China	chirswa
 7	-50912657045	China	aerer
 7	-50920643221	China	WanchengWildMan
+7	-50943370767	China	chAnge
 7	-50981144531	China	25hua
 5	-43689450877	China	ja50n
 5	-43953440891	China	CoderCheng
-0	0	China	LeoN
-0	0	China	Sherlcok
-0	0	China	wenyi
-0	0	China	wwq
-0	0	China	最菜的仔
 0	0	China	1134953287@qq.com
 0	0	China	2546934776@qq.com
 0	0	China	2624539241@qq.com
@@ -1514,10 +1511,12 @@ Score	Penalty	Country	Name
 0	0	China	Danielwang
 0	0	China	HTongC
 0	0	China	Hiroki39
+0	0	China	LeoN
 0	0	China	Lexaaa
 0	0	China	LiuHu
 0	0	China	Lucas_wang
 0	0	China	LuckyMouse
+0	0	China	Sherlcok
 0	0	China	Voidburn
 0	0	China	ZA139
 0	0	China	adahee70
@@ -1529,5 +1528,9 @@ Score	Penalty	Country	Name
 0	0	China	leogle
 0	0	China	liziwl
 0	0	China	rosaLo
+0	0	China	samuel02px2020
+0	0	China	wenyi
 0	0	China	why19981001@outlook.com
+0	0	China	wwq
 0	0	China	yinyuecho
+0	0	China	最菜的仔
