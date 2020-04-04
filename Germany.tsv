@@ -24,7 +24,6 @@ Score	Penalty	Country	Name
 68	-35273813246	Germany	NotMyName
 68	-35959923479	Germany	FLUXparticle
 68	-37188442406	Germany	Qujja
-68	-39833550445	Germany	mb706
 68	-40715049642	Germany	simorius
 68	-40979404386	Germany	fjuengermann
 68	-41472413472	Germany	DrNochi
@@ -53,6 +52,7 @@ Score	Penalty	Country	Name
 68	-52988903834	Germany	Josaffe
 68	-53460819596	Germany	Neonag
 68	-53864014305	Germany	mherzberg
+68	-54135433070	Germany	marmer
 61	-47649766708	Germany	maddin
 49	-19748421778	Germany	kschewior
 49	-29863646060	Germany	N0WIS
@@ -221,13 +221,13 @@ Score	Penalty	Country	Name
 42	-53706988670	Germany	InfectedBytes
 42	-53746240792	Germany	globalundo
 42	-53866866492	Germany	fischerp
+42	-54162833429	Germany	clr
 42	-55306726250	Germany	Pusteblume
 35	-40640504459	Germany	_MF_
 35	-40778167111	Germany	hatze
 35	-43352976754	Germany	Apfeloxid
 35	-52505751948	Germany	Benjamin2002@gmx.de
 35	-52792712657	Germany	CodeGreg
-35	-53640186088	Germany	clr
 31	-16121260545	Germany	ans82
 31	-31247734242	Germany	mohammad71
 31	-49455357051	Germany	fabman
@@ -358,7 +358,7 @@ Score	Penalty	Country	Name
 7	-53034733330	Germany	owling
 7	-53270518121	Germany	oO777Oo
 7	-53598755504	Germany	theAlkimist
-0	0	Germany	PrøCøder
+7	-53747893598	Germany	jb53
 0	0	Germany	0xCAFB
 0	0	Germany	ChiChuRita
 0	0	Germany	TornaxO7
@@ -366,8 +366,9 @@ Score	Penalty	Country	Name
 0	0	Germany	arangra
 0	0	Germany	friebetill
 0	0	Germany	hackerpschorr
-0	0	Germany	miskigolf
-0	0	Germany	n16h7hunt3r
-0	0	Germany	ndrshrzg
 0	0	Germany	pp93
 0	0	Germany	svenibo
+0	0	Germany	PrøCøder
+0	0	Germany	hackerpschorr
+0	0	Germany	miskigolf
+0	0	Germany	n16h7hunt3r
