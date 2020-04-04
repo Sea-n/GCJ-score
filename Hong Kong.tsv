@@ -23,6 +23,7 @@ Score	Penalty	Country	Name
 74	-42794443508	Hong Kong	kmchau
 74	-47025206751	Hong Kong	billycheung
 74	-50693461856	Hong Kong	tcliu
+74	-54615406817	Hong Kong	Overdog
 68	-11681257361	Hong Kong	Setako
 68	-28301463463	Hong Kong	hamburgerwjx
 68	-29956308845	Hong Kong	ksmai
@@ -123,7 +124,6 @@ Score	Penalty	Country	Name
 42	-47410275361	Hong Kong	khchan123
 42	-47558936061	Hong Kong	augustchaan
 42	-48096345005	Hong Kong	HarryPotPot
-42	-48141662651	Hong Kong	Overdog
 42	-48300917564	Hong Kong	zevcc
 42	-50062183785	Hong Kong	Tinochow9792
 42	-50367656128	Hong Kong	toshi321
@@ -135,6 +135,7 @@ Score	Penalty	Country	Name
 42	-53822745906	Hong Kong	nignucial
 42	-54225585122	Hong Kong	ianmemory
 42	-54393895973	Hong Kong	wchunhei
+42	-54678355987	Hong Kong	hanksCHONG
 35	-35206580415	Hong Kong	phluenam
 35	-45257509342	Hong Kong	kennytang852
 35	-47618522926	Hong Kong	jimmysyw
@@ -169,7 +170,6 @@ Score	Penalty	Country	Name
 23	-43572155440	Hong Kong	Ceric
 23	-44052006848	Hong Kong	richardlyk1108
 23	-45074442028	Hong Kong	squarerootlolly
-23	-45982074552	Hong Kong	hanksCHONG
 23	-48985691473	Hong Kong	instinctuale
 23	-49608682386	Hong Kong	AlexLCH
 23	-50061116233	Hong Kong	yvoniwai
@@ -178,6 +178,7 @@ Score	Penalty	Country	Name
 23	-53670945510	Hong Kong	alex20030190
 23	-54211165934	Hong Kong	ckong
 23	-54272326687	Hong Kong	cheungjai909
+23	-54678252860	Hong Kong	xavhl
 16	-49340608626	Hong Kong	PG20
 12	-38574641337	Hong Kong	RMYF
 12	-48314849244	Hong Kong	aquadoot
@@ -192,7 +193,6 @@ Score	Penalty	Country	Name
 7	-33260309966	Hong Kong	lllc0912
 7	-36009300337	Hong Kong	Samuel_Law
 7	-40524011248	Hong Kong	oscarng
-7	-40995750617	Hong Kong	xavhl
 7	-41956247915	Hong Kong	stevefan1999
 7	-45432987417	Hong Kong	ryanwong113
 7	-49879149830	Hong Kong	chris4540
@@ -204,11 +204,12 @@ Score	Penalty	Country	Name
 7	-54016917685	Hong Kong	Justin1
 7	-54174908714	Hong Kong	tekichan
 7	-54315959653	Hong Kong	calvincheng
+7	-54693697840	Hong Kong	BitDOT
+0	0	Hong Kong	haleyk
+0	0	Hong Kong	cyt_2020
 0	0	Hong Kong	CKJack
 0	0	Hong Kong	Dr.Ray
-0	0	Hong Kong	chunlam
-0	0	Hong Kong	std::runtime_error
 0	0	Hong Kong	Jeff_Magic
-0	0	Hong Kong	cyt_2020
-0	0	Hong Kong	haleyk
+0	0	Hong Kong	chunlam
 0	0	Hong Kong	normankong
+0	0	Hong Kong	std::runtime_error

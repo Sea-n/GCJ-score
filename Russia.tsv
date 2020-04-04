@@ -173,7 +173,6 @@ Score	Penalty	Country	Name
 42	-32298168256	Russia	BlackLunx
 42	-32681811847	Russia	St0rm1la
 42	-32699982023	Russia	JafarBadour
-42	-32786794100	Russia	rust
 42	-33096581493	Russia	Alexey_1814
 42	-33134267303	Russia	ch1hiro
 42	-33363227610	Russia	Dart-Xeyter
@@ -227,7 +226,6 @@ Score	Penalty	Country	Name
 42	-40682768457	Russia	ikomlyakov
 42	-40890919767	Russia	knightL
 42	-41008441998	Russia	IlyaXa
-42	-41135095945	Russia	d3migod
 42	-41135095945	Russia	d3migod
 42	-41228911015	Russia	TyomaR
 42	-41283559646	Russia	Friska123
@@ -365,6 +363,7 @@ Score	Penalty	Country	Name
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
 35	-54587179047	Russia	aokiga
+35	-54587179047	Russia	aokiga
 33	-51411636485	Russia	step_by_step
 31	-32615275115	Russia	agorodnev
 31	-48334571853	Russia	TrueAstralpirate
@@ -432,6 +431,7 @@ Score	Penalty	Country	Name
 23	-52175904663	Russia	fizz.buzz
 23	-52213738727	Russia	Natalya.Ginzburg
 23	-52305790629	Russia	Quelanor
+23	-52350356122	Russia	Angrad
 23	-52352951178	Russia	MedvDanil
 23	-52419201637	Russia	avv
 23	-52461465200	Russia	receed
@@ -516,17 +516,16 @@ Score	Penalty	Country	Name
 7	-54499602027	Russia	dashakisik
 7	-54552443551	Russia	alexey.enkov
 7	-54569116301	Russia	vladvlad
-0	0	Russia	Juwbasaurus
-0	0	Russia	artempavlov
-0	0	Russia	h4rdcode
-0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Locab
 0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
-0	0	Russia	garipovii
+0	0	Russia	artempavlov
 0	0	Russia	mspitb
-0	0	Russia	munir_
-0	0	Russia	ngh7mr3
 0	0	Russia	vitkov
-0	0	Russia	vlad_is_love
 0	0	Russia	zts3101
+0	0	Russia	Juwbasaurus
+0	0	Russia	h4rdcode
+0	0	Russia	ngh7mr3
+0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	garipovii
+0	0	Russia	munir_
