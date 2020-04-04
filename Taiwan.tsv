@@ -283,7 +283,6 @@ Score	Penalty	Country	Name
 42	-33546102123	Taiwan	Hanwen.C
 42	-33729193297	Taiwan	popo55668
 42	-33815811417	Taiwan	steve_h
-42	-33815811417	Taiwan	steve_h
 42	-33839591217	Taiwan	Bor
 42	-33885824804	Taiwan	BlackW
 42	-33898552286	Taiwan	lin_shang
@@ -363,6 +362,7 @@ Score	Penalty	Country	Name
 42	-50896535598	Taiwan	fereshte
 42	-51157660581	Taiwan	pwliao
 42	-51504594637	Taiwan	hyperbola
+42	-51510373484	Taiwan	arctan7680
 42	-51581420939	Taiwan	beatyesterdayJ
 42	-51692713372	Taiwan	XDevil
 42	-52445202239	Taiwan	plusline
@@ -519,7 +519,6 @@ Score	Penalty	Country	Name
 23	-51332878029	Taiwan	yuting
 23	-51832671799	Taiwan	yuchengChen
 23	-52239513657	Taiwan	KzSUPERxWiFi
-23	-52239513657	Taiwan	KzSUPERxWiFi
 23	-52535635828	Taiwan	st9540808
 23	-52553136193	Taiwan	hpc
 23	-52953301693	Taiwan	RexII
@@ -540,10 +539,10 @@ Score	Penalty	Country	Name
 23	-57327536516	Taiwan	PeterD1524
 23	-58174882959	Taiwan	philippeng
 23	-58188855760	Taiwan	johnathan79717
+23	-59211443742	Taiwan	YH
 19	-53721253411	Taiwan	Rice9547
 16	-6013659217	Taiwan	JimmyChiu
 16	-16112084208	Taiwan	XxBNOxX
-16	-49879611677	Taiwan	Yac10086
 16	-58066859313	Taiwan	ganbaranai
 16	-58997311867	Taiwan	cmes31419
 12	-25602613133	Taiwan	SafiJ
@@ -581,7 +580,6 @@ Score	Penalty	Country	Name
 7	-47491090714	Taiwan	asd00012334
 7	-48748069539	Taiwan	ryanovovo
 7	-51607160226	Taiwan	artix
-7	-52303238760	Taiwan	YH
 7	-55173465042	Taiwan	yichun
 7	-55314069457	Taiwan	CML
 7	-55442667355	Taiwan	HunTer
@@ -591,13 +589,11 @@ Score	Penalty	Country	Name
 7	-57331710952	Taiwan	ouo
 7	-57999214800	Taiwan	crazysun
 7	-58146936226	Taiwan	adzen
+7	-59203231154	Taiwan	DeanW
 5	-15429974427	Taiwan	alon21034
-0	0	Taiwan	Vicky_0916
-0	0	Taiwan	smile1973
-0	0	Taiwan	starzodiac
 0	0	Taiwan	JimmyLinYA
-0	0	Taiwan	NCKU
 0	0	Taiwan	Timothy_Tung
+0	0	Taiwan	Vicky_0916
 0	0	Taiwan	cosecantTW
 0	0	Taiwan	enumaelish
 0	0	Taiwan	joric
@@ -605,3 +601,6 @@ Score	Penalty	Country	Name
 0	0	Taiwan	tonyli
 0	0	Taiwan	tsai_yayun
 0	0	Taiwan	任生狂
+0	0	Taiwan	NCKU
+0	0	Taiwan	smile1973
+0	0	Taiwan	starzodiac
