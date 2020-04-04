@@ -61,6 +61,7 @@ Score	Penalty	Country	Name
 43	-39476885342	Russia	MIG29
 43	-41768885258	Russia	azukun
 43	-41869723925	Russia	s20b1Kirka
+43	-43251998320	Russia	helena
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -205,7 +206,6 @@ Score	Penalty	Country	Name
 42	-41283559646	Russia	Friska123
 42	-41389392329	Russia	dmitrydyatlov
 42	-41517583298	Russia	SBOne
-42	-41615822845	Russia	helena
 42	-41753704064	Russia	toxzi
 42	-41768661651	Russia	pikmike
 42	-42064099086	Russia	fetetriste
@@ -230,6 +230,7 @@ Score	Penalty	Country	Name
 42	-43166818600	Russia	d_smorodinnikov
 42	-43201755785	Russia	frisvee
 42	-43223070799	Russia	Pennyroyal_tea
+42	-43454533826	Russia	ilya.a.egorov
 42	-43874430680	Russia	ArtNext
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -244,7 +245,6 @@ Score	Penalty	Country	Name
 23	-5192007049	Russia	kisel_dmitry
 23	-5776672767	Russia	DmitryKh
 23	-6472307381	Russia	cdkrot
-23	-8250484760	Russia	ilya.a.egorov
 23	-13912068325	Russia	Mr.Sirius
 23	-21370252787	Russia	AndreyU
 23	-24224321405	Russia	dva2
@@ -310,6 +310,8 @@ Score	Penalty	Country	Name
 23	-43175559329	Russia	vladklyachin
 23	-43197982179	Russia	isaf27
 23	-43211742288	Russia	ViKn
+23	-43420007473	Russia	yulik.daniel
+23	-43435729870	Russia	Volkov_Ivan
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 12	-32071721332	Russia	letsolum
@@ -343,7 +345,6 @@ Score	Penalty	Country	Name
 7	-41994994397	Russia	La_Peste
 7	-42125575623	Russia	omgitspavel
 7	-42486931008	Russia	Stasana
-7	-42548175211	Russia	yulik.daniel
 7	-42615122396	Russia	buldo
 7	-42677603734	Russia	schegolev
 7	-42779707406	Russia	allvik
@@ -351,15 +352,16 @@ Score	Penalty	Country	Name
 7	-42861619645	Russia	Gogen120
 7	-42871059558	Russia	amisev
 7	-43141856656	Russia	vmark
-7	-43142495083	Russia	Volkov_Ivan
 7	-43163528387	Russia	Gadzhiev
 7	-43209362211	Russia	PeregudovSergey
+7	-43455500523	Russia	dabasov
+7	-43461830001	Russia	BezginaIrina
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Larantan
-0	0	Russia	MellowYellow
+0	0	Russia	O_oxana
 0	0	Russia	ambisinistra
-0	0	Russia	garipovii
 0	0	Russia	glebsasmsonov
 0	0	Russia	mspitb
 0	0	Russia	munir_
-0	0	Russia	O_oxana
+0	0	Russia	sled
+0	0	Russia	garipovii
