@@ -33,6 +33,7 @@ Score	Penalty	Country	Name
 74	-60195072416	Russia	mamenko
 74	-60292808412	Russia	cookiedoth
 74	-61869540122	Russia	kirill.maiantsev
+74	-63372480822	Russia	sievra
 68	-6018723401	Russia	white2302
 68	-11857386562	Russia	Goodhope
 68	-13030718375	Russia	ostroumov
@@ -153,6 +154,7 @@ Score	Penalty	Country	Name
 43	-61875162189	Russia	manoprenko
 43	-61973448263	Russia	kpilyugin
 43	-62298723345	Russia	fizz.buzz
+43	-63478471457	Russia	tomatho
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -169,7 +171,6 @@ Score	Penalty	Country	Name
 42	-7077063232	Russia	art87able
 42	-7249375107	Russia	it4kp
 42	-9211539634	Russia	lostinlogfile
-42	-9314205493	Russia	sievra
 42	-9432019090	Russia	ellisy
 42	-10531600542	Russia	The_Last_Wizard
 42	-10612142078	Russia	rotozoom@gmail.com
@@ -418,7 +419,6 @@ Score	Penalty	Country	Name
 42	-58477678270	Russia	grenlayk
 42	-58510095716	Russia	Kurpilyansky
 42	-58672633294	Russia	KaperD
-42	-58681115032	Russia	tomatho
 42	-58735801603	Russia	Jaodi
 42	-58762666038	Russia	si1x
 42	-58903511173	Russia	s_ah_onissuiy
@@ -467,6 +467,8 @@ Score	Penalty	Country	Name
 42	-62809600552	Russia	MikailBag
 42	-63384809252	Russia	begor
 42	-63402613365	Russia	silly.clown
+42	-63450076035	Russia	Hypik
+42	-63453568629	Russia	AntonyPopovich
 42	-63476213851	Russia	alex700
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -550,11 +552,9 @@ Score	Penalty	Country	Name
 23	-61473923013	Russia	Romansp
 23	-61578189520	Russia	r3t
 23	-61598193944	Russia	mary_poppins-ninja
-23	-61693333624	Russia	AntonyPopovich
 23	-61791887770	Russia	sergeevii123
 23	-61896237438	Russia	zubrabubra
 23	-62015961274	Russia	kruall
-23	-62205339487	Russia	Hypik
 23	-62458889710	Russia	NovikD
 23	-62708542395	Russia	mokhotskiy
 23	-62732058519	Russia	strizh78
@@ -573,6 +573,7 @@ Score	Penalty	Country	Name
 16	-60967408082	Russia	ngh7mr3
 16	-62017777558	Russia	O_oxana
 16	-63454417775	Russia	andymur
+16	-63459997060	Russia	Eran
 12	-46874307612	Russia	kirilldenisov
 12	-47587983634	Russia	Gogen120
 12	-60946084011	Russia	zeliboba
@@ -617,13 +618,13 @@ Score	Penalty	Country	Name
 0	0	Russia	DmitriyChikanchi
 0	0	Russia	ITolm
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	Locab
-0	0	Russia	Wiselogia
 0	0	Russia	Zakamulka
 0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
 0	0	Russia	munir_
-0	0	Russia	resh.root
 0	0	Russia	vlad_is_love
 0	0	Russia	zts3101
+0	0	Russia	Locab
+0	0	Russia	Wiselogia
+0	0	Russia	resh.root
