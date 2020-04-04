@@ -26,6 +26,7 @@ Score	Penalty	Country	Name
 43	-6115758039	Germany	ncrypted
 43	-33134074251	Germany	ArielxX
 43	-36154979879	Germany	alexpopalex
+43	-39787537359	Germany	DrNochi
 42	-1412145030	Germany	Der.Baer
 42	-2472209061	Germany	eriksuenderhauf
 42	-2931265992	Germany	saeissl
@@ -76,7 +77,6 @@ Score	Penalty	Country	Name
 42	-34352053232	Germany	QBits
 42	-34383330628	Germany	jgosmann
 42	-35014533495	Germany	Daniello2000
-42	-35217966371	Germany	DrNochi
 42	-35280067576	Germany	L4to
 42	-35779239319	Germany	Nickname2
 42	-35882420778	Germany	mrMoe
@@ -108,10 +108,13 @@ Score	Penalty	Country	Name
 42	-39313374677	Germany	DShade
 42	-39345569420	Germany	tobitherobot
 42	-39731306528	Germany	brinky
+42	-39755159414	Germany	julii
 42	-39940918179	Germany	unreal_like_x
+42	-40473344093	Germany	miss_robot
 31	-16121260545	Germany	ans82
 31	-31247734242	Germany	mohammad71
 30	-15333479241	Germany	drwu
+30	-39715780617	Germany	aweltsch
 26	-34297943341	Germany	fabman
 24	-37313707379	Germany	LorMam
 23	-1601523868	Germany	I3J03RN
@@ -126,7 +129,6 @@ Score	Penalty	Country	Name
 23	-12741973164	Germany	DasMoeh
 23	-14105330715	Germany	Arlind
 23	-15186522478	Germany	endir
-23	-29282923024	Germany	miss_robot
 23	-30092213573	Germany	Noffi19
 23	-31172595143	Germany	lasse
 23	-31260983743	Germany	tobiwan
@@ -141,12 +143,10 @@ Score	Penalty	Country	Name
 23	-34887483825	Germany	element314
 23	-35073979628	Germany	nilswe
 23	-35282638441	Germany	beesch
-23	-35353258266	Germany	julii
 23	-35378988477	Germany	eth42
 23	-35473573370	Germany	MustafaBerkayMutlu
 23	-35491429564	Germany	jlohse
 23	-35821418569	Germany	yoni11
-23	-35842642960	Germany	aweltsch
 23	-36025359981	Germany	Norbi42
 23	-36168674237	Germany	schweizerm
 23	-36246251966	Germany	delvh
@@ -166,7 +166,6 @@ Score	Penalty	Country	Name
 23	-37897419653	Germany	HKalinke
 23	-38028481211	Germany	Gullydeckel
 23	-38129630467	Germany	toasty
-23	-38191379341	Germany	brinky
 23	-38398786577	Germany	moritzschaefer
 23	-38422156214	Germany	taschi
 23	-38485114615	Germany	Kurisu858
@@ -180,6 +179,7 @@ Score	Penalty	Country	Name
 23	-39562161336	Germany	Structor
 23	-39563138378	Germany	leobalduf
 23	-39662237278	Germany	brunken
+23	-39787606284	Germany	Artemis-Skade
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-38278303435	Germany	MadMax97
@@ -207,7 +207,6 @@ Score	Penalty	Country	Name
 7	-37786671906	Germany	KonradHoeffner
 7	-37837695572	Germany	DavidS
 7	-38056670231	Germany	bavarianquant
-7	-38414028801	Germany	Artemis-Skade
 7	-38476831053	Germany	jgroe
 7	-38556879099	Germany	Spacetoaster
 7	-38702221384	Germany	berndboh
@@ -222,15 +221,15 @@ Score	Penalty	Country	Name
 7	-39463830854	Germany	momapf
 7	-39542071132	Germany	lumibons
 7	-39611384701	Germany	Fettn
-0	0	Germany	ExtendedBNF
-0	0	Germany	Thundertron
+7	-39773426233	Germany	Thundertron
 0	0	Germany	TornaxO7
-0	0	Germany	Woingenau
 0	0	Germany	cadac
 0	0	Germany	friebetill
+0	0	Germany	svenibo
+0	0	Germany	ExtendedBNF
+0	0	Germany	Woingenau
 0	0	Germany	iloraC28
 0	0	Germany	kechtel
 0	0	Germany	leiftw
 0	0	Germany	niktech
-0	0	Germany	svenibo
 0	0	Germany	yannic

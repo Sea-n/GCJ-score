@@ -26,7 +26,6 @@ Score	Penalty	Country	Name
 68	-34022231109	Russia	khalman
 68	-36497599090	Russia	a.nogikh
 68	-37407996280	Russia	awesoon
-68	-37417376640	Russia	NameNamovich
 68	-37440389230	Russia	GRom
 68	-37443334257	Russia	alex.shkarin
 68	-37663110806	Russia	TonySnark
@@ -39,6 +38,7 @@ Score	Penalty	Country	Name
 68	-39177924173	Russia	cmd
 68	-39384827821	Russia	goryinyich
 68	-40622378867	Russia	FelixArg
+68	-41712820849	Russia	NameNamovich
 61	-37813147694	Russia	caesarsaladdressing
 49	-8700425464	Russia	sleirsgoevy@gmail.com
 45	-37721495719	Russia	demidenko
@@ -49,6 +49,7 @@ Score	Penalty	Country	Name
 43	-31494466229	Russia	VulpesCorsac
 43	-31827138369	Russia	mrpast
 43	-39476885342	Russia	MIG29
+43	-40012718393	Russia	dalex
 43	-40106515568	Russia	IvanG
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
@@ -176,17 +177,18 @@ Score	Penalty	Country	Name
 42	-38333411886	Russia	avg79
 42	-38369662058	Russia	riuzmukhametov
 42	-38535927233	Russia	lostbreath
-42	-38914458170	Russia	dalex
 42	-39175976303	Russia	avoronov
 42	-39220459115	Russia	madn
 42	-39261463911	Russia	evstigneevg
 42	-39295775570	Russia	kormyshov
 42	-39635121237	Russia	Ivanforward
+42	-39751843950	Russia	galakt
 42	-39809105317	Russia	clown_rusofob
+42	-40219809170	Russia	dessaber
+42	-40726800066	Russia	Musin
 35	-30640710308	Russia	DmitryGrigorev
 31	-32615275115	Russia	agorodnev
 26	-4939813268	Russia	kirill.maiantsev
-26	-32680061939	Russia	dessaber
 26	-38271698256	Russia	d_smorodinnikov
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
@@ -201,7 +203,6 @@ Score	Penalty	Country	Name
 23	-25575088117	Russia	Daynyus
 23	-26699878275	Russia	hiot
 23	-27082727781	Russia	TriMarco
-23	-27352390244	Russia	m4e5tr0
 23	-29463205784	Russia	panik
 23	-29697312149	Russia	sergeif
 23	-30294713571	Russia	MapLegend
@@ -214,7 +215,6 @@ Score	Penalty	Country	Name
 23	-34147355440	Russia	ivankff
 23	-34283461122	Russia	hardliner
 23	-34449911914	Russia	vrungel
-23	-34544286493	Russia	Musin
 23	-34672279330	Russia	slizkov
 23	-34731998027	Russia	pikmike
 23	-34954878765	Russia	Pryanik
@@ -228,8 +228,8 @@ Score	Penalty	Country	Name
 23	-37196729806	Russia	alliencool
 23	-37315866432	Russia	palevas
 23	-37435053897	Russia	presnakovoleg
+23	-37435053897	Russia	presnakovoleg
 23	-37557259937	Russia	Ekler
-23	-37691754858	Russia	galakt
 23	-37716247576	Russia	Drunkenstein
 23	-37813112124	Russia	olya.masaeva
 23	-37820349164	Russia	JPepper
@@ -239,7 +239,6 @@ Score	Penalty	Country	Name
 23	-38176348015	Russia	allisyonok
 23	-38251044521	Russia	Aritol
 23	-38611526980	Russia	TRR53
-23	-38687413063	Russia	Yurik
 23	-38821782951	Russia	Morfos
 23	-38901924218	Russia	d3migod
 23	-38904785148	Russia	dmkozyrev
@@ -298,9 +297,9 @@ Score	Penalty	Country	Name
 7	-39655531460	Russia	alexX512
 7	-39719455314	Russia	Pennyroyal_tea
 7	-39726969120	Russia	TyomaR
-0	0	Russia	MellowYellow
-0	0	Russia	vmark
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	RAF96
-0	0	Russia	garipovii
 0	0	Russia	mspitb
+0	0	Russia	MellowYellow
+0	0	Russia	garipovii
+0	0	Russia	vmark
