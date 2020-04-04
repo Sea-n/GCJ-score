@@ -13,6 +13,7 @@ Score	Penalty	Country	Name
 100	-53325630718	Germany	lumibons
 100	-55603300077	Germany	DrNochi
 100	-58181021162	Germany	vanHavel
+100	-60904284769	Germany	sjvie
 74	-16188514368	Germany	m.mahdi2414
 74	-48947918040	Germany	RezaSi
 74	-54166579152	Germany	algomaus
@@ -60,7 +61,6 @@ Score	Penalty	Country	Name
 68	-55732733785	Germany	leobalduf
 68	-56070398979	Germany	risteon
 68	-56647805873	Germany	Dukeling
-68	-57505586468	Germany	sjvie
 68	-57595228718	Germany	Aran
 68	-58180568574	Germany	flute42
 68	-58898419406	Germany	wintermute2048
@@ -68,11 +68,11 @@ Score	Penalty	Country	Name
 68	-60841870810	Germany	davidKonka
 62	-54579145639	Germany	lasse
 61	-47649766708	Germany	maddin
+56	-61446627480	Germany	berndboh
 55	-56400784348	Germany	beesch
 49	-19748421778	Germany	kschewior
 49	-29863646060	Germany	N0WIS
 49	-50748597887	Germany	Urinstinkt
-49	-52000552693	Germany	berndboh
 49	-59416036691	Germany	hello_code_jam
 43	-6115758039	Germany	ncrypted
 43	-33134074251	Germany	ArielxX
@@ -89,6 +89,7 @@ Score	Penalty	Country	Name
 43	-55599344688	Germany	FinnM
 43	-55659035783	Germany	22slin22
 43	-60617650796	Germany	Andgem
+43	-60987952935	Germany	Eogwyn
 42	-1412145030	Germany	Der.Baer
 42	-2472209061	Germany	eriksuenderhauf
 42	-2931265992	Germany	saeissl
@@ -218,7 +219,6 @@ Score	Penalty	Country	Name
 42	-52506088183	Germany	Norbi42
 42	-52631844391	Germany	kaenganxt
 42	-52873508178	Germany	ture
-42	-53099533203	Germany	Eogwyn
 42	-53129873158	Germany	ikarus99
 42	-53376176040	Germany	stf
 42	-53426615943	Germany	Ballala
@@ -363,6 +363,7 @@ Score	Penalty	Country	Name
 23	-60433159716	Germany	julianbrost
 23	-60528996105	Germany	flackbash
 23	-60661017397	Germany	MichaelCodeChampion
+23	-60702679693	Germany	wwjj
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-45211618878	Germany	NateMate
@@ -393,7 +394,6 @@ Score	Penalty	Country	Name
 7	-56269544103	Germany	TombRaider
 7	-56504337046	Germany	rajeev.cse.imps@gmail.com
 7	-57221241331	Germany	nedo
-7	-57299276182	Germany	wwjj
 7	-57865093304	Germany	mofef
 7	-58309386135	Germany	hackerpschorr
 7	-58377686921	Germany	tholeg
@@ -404,18 +404,17 @@ Score	Penalty	Country	Name
 7	-60033483276	Germany	munnitz
 7	-60398240075	Germany	mcjones
 7	-60603468703	Germany	StefDude
-0	0	Germany	AndreasBaum
-0	0	Germany	Kathi
 0	0	Germany	PrøCøder
 0	0	Germany	Raixor
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	arangra
 0	0	Germany	dschir
-0	0	Germany	friebetill
-0	0	Germany	ndrshrzg
-0	0	Germany	pp93
-0	0	Germany	starzhinkus
 0	0	Germany	miskigolf
+0	0	Germany	pp93
 0	0	Germany	svenibo
 0	0	Germany	tete7777
+0	0	Germany	AndreasBaum
+0	0	Germany	friebetill
+0	0	Germany	ndrshrzg
+0	0	Germany	starzhinkus
