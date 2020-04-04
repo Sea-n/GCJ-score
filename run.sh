@@ -17,3 +17,6 @@ cat score-*.json \
 	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
 	|sort -n \
 	|cut -d $'\t' -f 2- > score.tsv
+
+git add .
+git commit -m "`date '+%b %d  %H:%M'`"
