@@ -242,6 +242,8 @@ Score	Penalty	Country	Name
 42	-43874430680	Russia	ArtNext
 42	-43943901993	Russia	M.H.
 42	-44123652408	Russia	Um_nik
+42	-44232311968	Russia	agataremedy
+42	-44242393188	Russia	gleb.astashkin
 42	-44807325554	Russia	allisyonok
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
@@ -249,7 +251,6 @@ Score	Penalty	Country	Name
 30	-42936087736	Russia	angry_dmitry
 26	-41523835420	Russia	popenych
 26	-43023873121	Russia	cyga
-24	-32436635187	Russia	manikitos
 24	-32436635187	Russia	manikitos
 24	-39641023469	Russia	sevlll
 23	-4611912076	Russia	tutkarma
@@ -262,6 +263,7 @@ Score	Penalty	Country	Name
 23	-26699878275	Russia	hiot
 23	-27082727781	Russia	TriMarco
 23	-27352390244	Russia	m4e5tr0
+23	-29697312149	Russia	sergeif
 23	-31016654024	Russia	Grey_devil
 23	-31206032579	Russia	durnoy
 23	-32094579196	Russia	_Dragon_
@@ -292,11 +294,9 @@ Score	Penalty	Country	Name
 23	-40269013095	Russia	__ibm__
 23	-40951737029	Russia	deshaion
 23	-40991022508	Russia	kronos
-23	-41115897509	Russia	gleb.astashkin
 23	-41206158179	Russia	ivan.chepiga
 23	-41302621079	Russia	x12
 23	-41580298274	Russia	Alexiski
-23	-41884839033	Russia	agataremedy
 23	-42109270831	Russia	pepegasit
 23	-42270624334	Russia	pal.andreich
 23	-42505157832	Russia	HasegawaNanako
@@ -311,7 +311,6 @@ Score	Penalty	Country	Name
 23	-43015646343	Russia	KirillB
 23	-43080411633	Russia	Jeannette
 23	-43175559329	Russia	vladklyachin
-23	-43211742288	Russia	ViKn
 23	-43211742288	Russia	ViKn
 23	-43420007473	Russia	yulik.daniel
 23	-43567634094	Russia	Stasana
@@ -336,6 +335,7 @@ Score	Penalty	Country	Name
 7	-34669950582	Russia	OlgaBel
 7	-34760561781	Russia	Petyzzz
 7	-36976870062	Russia	dzheglov
+7	-37663330346	Russia	lessmeaning
 7	-37852883070	Russia	aperfilyev
 7	-38184887908	Russia	AnnaBerdichevskaya
 7	-38237283725	Russia	DmitryZ
@@ -367,14 +367,16 @@ Score	Penalty	Country	Name
 7	-44065189453	Russia	gooddok
 7	-44080356441	Russia	IgorI
 7	-44131840117	Russia	PavelKunyavskiy
+7	-44255284861	Russia	e_sha
+7	-44276102863	Russia	cookiedoth
+0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
+0	0	Russia	O_oxana
 0	0	Russia	Tatyana_611_r
+0	0	Russia	coderofblaviken
 0	0	Russia	mamenko
 0	0	Russia	mspitb
-0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	O_oxana
-0	0	Russia	ambisinistra
-0	0	Russia	cookiedoth
-0	0	Russia	garipovii
 0	0	Russia	munir_
 0	0	Russia	sled
+0	0	Russia	ambisinistra
+0	0	Russia	garipovii
