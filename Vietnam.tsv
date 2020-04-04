@@ -276,7 +276,6 @@ Score	Penalty	Country	Name
 30	-15956667356	Vietnam	hieu2004
 30	-25720386926	Vietnam	UncleGrandpa
 30	-30558001787	Vietnam	QuangNguyen
-30	-30558001787	Vietnam	QuangNguyen
 30	-43744347244	Vietnam	tnlong1997
 26	-25623676454	Vietnam	vangtrangtan
 26	-28040366364	Vietnam	huynguyenun
@@ -306,12 +305,14 @@ Score	Penalty	Country	Name
 23	-26608578391	Vietnam	duynbvn
 23	-27581806344	Vietnam	Ryoshou
 23	-27631253777	Vietnam	AlphaAn
+23	-27631253777	Vietnam	AlphaAn
+23	-27909560037	Vietnam	AmyTran
+23	-27916107365	Vietnam	nhoxbypass
 23	-28325331516	Vietnam	CeoLancer1915
 23	-28413994684	Vietnam	khoatran2801
 23	-29824352776	Vietnam	hieule22
 23	-30413719563	Vietnam	ztgb219
 23	-31455820149	Vietnam	minhrongcon2000
-23	-31982432363	Vietnam	romqn1999
 23	-31982432363	Vietnam	romqn1999
 23	-34351242598	Vietnam	Idioter
 23	-34351982038	Vietnam	ATicket
@@ -337,6 +338,7 @@ Score	Penalty	Country	Name
 23	-56353402092	Vietnam	ToMoClone
 23	-56770767233	Vietnam	lantrungseo
 23	-57634472665	Vietnam	rfantic
+23	-57902731330	Vietnam	kuroni
 16	-54090301887	Vietnam	first_pick_invoker
 16	-57018256803	Vietnam	CTKB1997
 12	-6687609568	Vietnam	baotong
@@ -344,7 +346,6 @@ Score	Penalty	Country	Name
 12	-29490747148	Vietnam	txthanh
 12	-33199522505	Vietnam	MinhTam
 12	-33419253298	Vietnam	haipv
-12	-38838571468	Vietnam	Xzero
 12	-40273056753	Vietnam	thuongkenzin
 12	-41043103066	Vietnam	bachdo
 12	-50012541738	Vietnam	fpc_coder
@@ -369,7 +370,6 @@ Score	Penalty	Country	Name
 7	-30606976462	Vietnam	ngctn
 7	-32342614485	Vietnam	vinhle
 7	-34269708088	Vietnam	anlac2359
-7	-35907527121	Vietnam	Lân
 7	-36429193067	Vietnam	khiem2105
 7	-39915661077	Vietnam	Tandat
 7	-44804078010	Vietnam	NamikazeMinato
@@ -394,8 +394,8 @@ Score	Penalty	Country	Name
 0	0	Vietnam	Nghia99sol
 0	0	Vietnam	SOMETHING
 0	0	Vietnam	huyNh
-0	0	Vietnam	theedonger
 0	0	Vietnam	tisu190297
+0	0	Vietnam	tructal
 0	0	Vietnam	AmbroseNTK
 0	0	Vietnam	VanillaJeje
 0	0	Vietnam	danunu
@@ -404,5 +404,5 @@ Score	Penalty	Country	Name
 0	0	Vietnam	midnightforever
 0	0	Vietnam	piketrcechillas
 0	0	Vietnam	thangnt99
-0	0	Vietnam	tructal
+0	0	Vietnam	theedonger
 0	0	Vietnam	vinhtran1995
