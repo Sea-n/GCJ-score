@@ -342,6 +342,7 @@ Score	Penalty	Country	Name
 42	-53052323802	Russia	usertab34
 42	-53120196030	Russia	Larantan
 42	-53336986118	Russia	Akulyat
+42	-53971599504	Russia	maximumSHOT
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 35	-49014275720	Russia	BelikovDmitry
@@ -352,7 +353,6 @@ Score	Penalty	Country	Name
 30	-42936087736	Russia	angry_dmitry
 30	-44690324278	Russia	sergeif
 30	-48704784136	Russia	asdasda
-30	-51376516325	Russia	maximumSHOT
 30	-52711687768	Russia	klimoza
 30	-53142124666	Russia	AnnaVosh
 26	-43023873121	Russia	cyga
@@ -439,6 +439,7 @@ Score	Penalty	Country	Name
 23	-53152069369	Russia	valerashm
 23	-53173476263	Russia	alexmir1
 23	-53178002181	Russia	Dimitryliss
+23	-53271288485	Russia	Frankenween
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 16	-49687781436	Russia	Wataru
@@ -490,14 +491,17 @@ Score	Penalty	Country	Name
 7	-52518877693	Russia	mamenko
 7	-52519751272	Russia	Helgui
 7	-52569943611	Russia	ambisinistra
-7	-52577875220	Russia	Frankenween
 7	-52630437815	Russia	yury.mysin
 7	-52749550683	Russia	Ranis
 7	-53008436715	Russia	klimser
 7	-53085382956	Russia	Y0
+0	0	Russia	Hackerham
 0	0	Russia	Juwbasaurus
+0	0	Russia	Kirill8141
 0	0	Russia	Locab
+0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
+0	0	Russia	artempavlov
 0	0	Russia	garipovii
 0	0	Russia	h4rdcode
 0	0	Russia	male-x
@@ -506,13 +510,9 @@ Score	Penalty	Country	Name
 0	0	Russia	pereb4ik
 0	0	Russia	vitkov
 0	0	Russia	vlad_is_love
-0	0	Russia	zhodmitry
 0	0	Russia	zts3101
-0	0	Russia	Hackerham
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	Kirill8141
-0	0	Russia	MellowYellow
 0	0	Russia	abccbv1338
-0	0	Russia	artempavlov
 0	0	Russia	mspitb
 0	0	Russia	munir_
+0	0	Russia	zhodmitry
