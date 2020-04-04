@@ -31,6 +31,7 @@ Score	Penalty	Country	Name
 68	-43912412449	Germany	silicontaiga
 68	-44237871130	Germany	jgosmann
 68	-44804826052	Germany	mrMoe
+68	-46087454523	Germany	eth42
 61	-18010727605	Germany	maddin
 55	-13590391724	Germany	algomaus
 49	-19748421778	Germany	kschewior
@@ -112,7 +113,6 @@ Score	Penalty	Country	Name
 42	-39731306528	Germany	brinky
 42	-39755159414	Germany	julii
 42	-39940918179	Germany	unreal_like_x
-42	-40018823581	Germany	eth42
 42	-40473344093	Germany	miss_robot
 42	-40510359638	Germany	achm
 42	-40609549355	Germany	moritzschaefer
@@ -154,6 +154,7 @@ Score	Penalty	Country	Name
 30	-41082079624	Germany	luftfest
 30	-42379237760	Germany	mrbch
 26	-34297943341	Germany	fabman
+26	-42691625019	Germany	momapf
 24	-37313707379	Germany	LorMam
 23	-1601523868	Germany	I3J03RN
 23	-2011881900	Germany	alextpf
@@ -229,6 +230,7 @@ Score	Penalty	Country	Name
 23	-44479472177	Germany	chris_daniel
 23	-44597685275	Germany	bendeutz
 23	-44816324260	Germany	mherzberg
+23	-44888929844	Germany	Auenwald
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
 16	-43513037664	Germany	BananaNosh
@@ -246,8 +248,6 @@ Score	Penalty	Country	Name
 7	-35696789595	Germany	Kurtme
 7	-35948792428	Germany	Navid_far
 7	-36593685882	Germany	Pavel85
-7	-37418368720	Germany	hf2000510
-7	-37427274826	Germany	mhuber
 7	-37418368720	Germany	hf2000510
 7	-37427274826	Germany	mhuber
 7	-37629074610	Germany	debriscloud
@@ -283,15 +283,15 @@ Score	Penalty	Country	Name
 7	-44563570949	Germany	Aliamondo
 7	-44724658257	Germany	magula
 7	-44888860733	Germany	jano31415
-0	0	Germany	friebetill
-0	0	Germany	hackerpschorr
-0	0	Germany	jano31415
-0	0	Germany	mmz
-0	0	Germany	svenibo
 0	0	Germany	Mobo
 0	0	Germany	PrøCøder
 0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
 0	0	Germany	clr
+0	0	Germany	d.a.v.i.d
+0	0	Germany	friebetill
+0	0	Germany	hackerpschorr
 0	0	Germany	iloraC28
 0	0	Germany	leiftw
+0	0	Germany	mmz
+0	0	Germany	svenibo
