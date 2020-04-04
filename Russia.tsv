@@ -45,7 +45,6 @@ Score	Penalty	Country	Name
 43	-23958082648	Russia	robozmey
 43	-31494466229	Russia	VulpesCorsac
 43	-31827138369	Russia	mrpast
-43	-31827138369	Russia	mrpast
 42	-945039096	Russia	vintage_Vlad_Makeev
 42	-1127158744	Russia	Jatana
 42	-1355245285	Russia	seemsgoood
@@ -62,6 +61,7 @@ Score	Penalty	Country	Name
 42	-3147246304	Russia	smirok
 42	-3539853678	Russia	yhn112
 42	-4522265026	Russia	HNTT
+42	-4862572920	Russia	AndreySergunin
 42	-4862572920	Russia	AndreySergunin
 42	-4887657719	Russia	Maksim1744
 42	-5675193762	Russia	goryinyich
@@ -245,8 +245,8 @@ Score	Penalty	Country	Name
 23	-38904785148	Russia	dmkozyrev
 19	-35741509027	Russia	dimitribelikov
 16	-38867866144	Russia	Demid
+13	-39285954946	Russia	sevlll
 12	-32071721332	Russia	letsolum
-8	-38561439593	Russia	sevlll
 7	-870457384	Russia	Romanchenko
 7	-2382733077	Russia	RiaD
 7	-4116303058	Russia	Gassa
@@ -285,8 +285,8 @@ Score	Penalty	Country	Name
 7	-38965454635	Russia	IlyaXa
 7	-38990278125	Russia	user32
 0	0	Russia	Ilya_Rizhenkov
-0	0	Russia	MellowYellow
 0	0	Russia	garipovii
 0	0	Russia	ivan.a.bovin
-0	0	Russia	mspitb
 0	0	Russia	vmark
+0	0	Russia	MellowYellow
+0	0	Russia	mspitb
