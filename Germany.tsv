@@ -21,6 +21,7 @@ Score	Penalty	Country	Name
 68	-39833550445	Germany	mb706
 68	-40589350657	Germany	MartinThoma
 68	-40715049642	Germany	simorius
+68	-40979404386	Germany	fjuengermann
 61	-18010727605	Germany	maddin
 55	-13590391724	Germany	algomaus
 49	-19748421778	Germany	kschewior
@@ -97,7 +98,6 @@ Score	Penalty	Country	Name
 42	-38222396370	Germany	n0w0rk
 42	-38264245318	Germany	Sibi
 42	-38435818460	Germany	ilya_maier
-42	-38470911092	Germany	fjuengermann
 42	-38560077298	Germany	Stefan_
 42	-38623928954	Germany	Tomsi
 42	-38795538542	Germany	romanovma.pookl@gmail.com
@@ -132,7 +132,6 @@ Score	Penalty	Country	Name
 23	-1601523868	Germany	I3J03RN
 23	-2011881900	Germany	alextpf
 23	-3749088781	Germany	stiv2804
-23	-3749088781	Germany	stiv2804
 23	-3971182890	Germany	mrbch
 23	-5137539821	Germany	c0nst4ntin
 23	-5353423533	Germany	Luz_K
@@ -151,7 +150,6 @@ Score	Penalty	Country	Name
 23	-32957910552	Germany	Technipion
 23	-33295517653	Germany	ammen99@gmail.com
 23	-33535981995	Germany	D0miH
-23	-33865071123	Germany	sebp
 23	-34098431721	Germany	nanoalpaca
 23	-34887483825	Germany	element314
 23	-35073979628	Germany	nilswe
@@ -182,7 +180,6 @@ Score	Penalty	Country	Name
 23	-38941217057	Germany	Jarkob
 23	-39079674877	Germany	Wurzeltroll
 23	-39198062663	Germany	JSNO
-23	-39562161336	Germany	Structor
 23	-39662237278	Germany	brunken
 23	-39787606284	Germany	Artemis-Skade
 23	-39945752300	Germany	annoraaq
@@ -191,8 +188,10 @@ Score	Penalty	Country	Name
 23	-40098852629	Germany	yannic
 23	-40400656504	Germany	Fettn
 23	-40644195923	Germany	DavidS
+23	-41022283681	Germany	prmatl
 16	-35135346158	Germany	flmu
 16	-35550700804	Germany	Pot4t0
+12	-37788812071	Germany	peli
 12	-37788812071	Germany	peli
 7	-3694352955	Germany	romax
 7	-8611874358	Germany	ashray_adhikari
@@ -216,9 +215,9 @@ Score	Penalty	Country	Name
 7	-37629074610	Germany	debriscloud
 7	-37786671906	Germany	KonradHoeffner
 7	-38056670231	Germany	bavarianquant
+7	-38056670231	Germany	bavarianquant
 7	-38476831053	Germany	jgroe
 7	-38556879099	Germany	Spacetoaster
-7	-38779798416	Germany	abaspinar
 7	-39083329850	Germany	TimTimolia
 7	-39162223476	Germany	h1k3r
 7	-39233387228	Germany	Rocketeer
@@ -232,7 +231,6 @@ Score	Penalty	Country	Name
 7	-40115211934	Germany	niktech
 7	-40141111466	Germany	ExtendedBNF
 7	-40148227427	Germany	Kuck
-7	-40183988368	Germany	prmatl
 7	-40314761492	Germany	stema
 7	-40389038575	Germany	Yonav
 7	-40402490613	Germany	Jovi
@@ -241,12 +239,12 @@ Score	Penalty	Country	Name
 7	-40700711199	Germany	thomas_gaertner
 7	-40887969995	Germany	viso
 7	-40897791498	Germany	ture
-0	0	Germany	TornaxO7
 0	0	Germany	Woingenau
-0	0	Germany	cadac
 0	0	Germany	friebetill
 0	0	Germany	iloraC28
 0	0	Germany	kechtel
-0	0	Germany	Mobo
-0	0	Germany	leiftw
 0	0	Germany	svenibo
+0	0	Germany	Mobo
+0	0	Germany	TornaxO7
+0	0	Germany	cadac
+0	0	Germany	leiftw
