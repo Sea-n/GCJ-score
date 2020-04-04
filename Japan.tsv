@@ -835,9 +835,6 @@ Score	Penalty	Country	Name
 30	-30885861611	Japan	saiton03
 30	-31667994162	Japan	tailed0
 30	-31680390744	Japan	Yangfaust1
-30	-30885861611	Japan	saiton03
-30	-31667994162	Japan	tailed0
-30	-31680390744	Japan	Yangfaust1
 30	-32802390654	Japan	Siiiec
 30	-33664761824	Japan	kei2000
 30	-33709777048	Japan	amami
@@ -853,6 +850,7 @@ Score	Penalty	Country	Name
 30	-44908747832	Japan	peterjussi
 30	-44973277818	Japan	MASATO338
 30	-45933599825	Japan	Sorasky
+30	-45933599825	Japan	Sorasky
 30	-46064688893	Japan	null0124
 26	-37129010567	Japan	Programmerryoki
 26	-42927628267	Japan	granddaifuku
@@ -865,7 +863,6 @@ Score	Penalty	Country	Name
 23	-9853599353	Japan	kaih
 23	-10795447308	Japan	y.k
 23	-13295298844	Japan	higa
-23	-15716966010	Japan	Kawazoe
 23	-16573274733	Japan	Mohanad
 23	-17487978947	Japan	maru65536
 23	-17716199208	Japan	nomikura
@@ -888,6 +885,7 @@ Score	Penalty	Country	Name
 23	-27697946066	Japan	tsunemoto
 23	-27964585644	Japan	ikanago
 23	-28219680093	Japan	aircon
+23	-29386509261	Japan	Akamiso
 23	-29568398231	Japan	mkmkmk
 23	-29602254587	Japan	agw02010
 23	-29902151783	Japan	OxOmisosiru
@@ -1012,8 +1010,8 @@ Score	Penalty	Country	Name
 7	-47777974894	Japan	toma25
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
-0	0	Japan	MAKO
 0	0	Japan	Rute_
+0	0	Japan	MAKO
 0	0	Japan	aki_bayes
 0	0	Japan	cossy
 0	0	Japan	donuthole

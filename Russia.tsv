@@ -43,7 +43,6 @@ Score	Penalty	Country	Name
 68	-41258895800	Russia	NDamirov
 68	-41342444431	Russia	Ista
 68	-42086628524	Russia	IvanG
-68	-42299721433	Russia	NameNamovich
 68	-42419885308	Russia	AlesyaIvanova
 68	-42926645313	Russia	sleirsgoevy@gmail.com
 68	-43347412258	Russia	Maksim1744
@@ -67,6 +66,7 @@ Score	Penalty	Country	Name
 68	-48026924994	Russia	Jeannette
 68	-48467212524	Russia	kulikAlex
 68	-49193383649	Russia	pogodinaE
+68	-51403988705	Russia	NameNamovich
 61	-37813147694	Russia	caesarsaladdressing
 49	-43328750136	Russia	ivankff
 45	-37721495719	Russia	demidenko
@@ -283,12 +283,14 @@ Score	Penalty	Country	Name
 42	-47562047609	Russia	0442A403
 42	-47588838542	Russia	deshaion
 42	-48019784497	Russia	lelkok228
+42	-48060239408	Russia	Valentin_E
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 33	-47481887719	Russia	DmitryZ
 31	-32615275115	Russia	agorodnev
 30	-42936087736	Russia	angry_dmitry
 30	-44690324278	Russia	sergeif
+30	-48704784136	Russia	asdasda
 26	-43023873121	Russia	cyga
 26	-47015970180	Russia	dzheglov
 26	-47725739982	Russia	TrueAstralpirate
@@ -317,6 +319,7 @@ Score	Penalty	Country	Name
 23	-36210226951	Russia	ufimets2
 23	-36500391060	Russia	BugDone
 23	-37196729806	Russia	alliencool
+23	-37315866432	Russia	palevas
 23	-37435053897	Russia	presnakovoleg
 23	-37820349164	Russia	JPepper
 23	-37914693171	Russia	bac423
@@ -348,7 +351,6 @@ Score	Penalty	Country	Name
 23	-46482001635	Russia	superkirill
 23	-46545460180	Russia	Protasov
 23	-46933029811	Russia	ilyausmanov
-23	-46970025737	Russia	Valentin_E
 23	-47100801245	Russia	steiner
 23	-47213519995	Russia	Threeteck
 23	-47219975686	Russia	ivan.a.bovin
@@ -363,7 +365,6 @@ Score	Penalty	Country	Name
 23	-47740877251	Russia	AnnaVosh
 23	-47816418455	Russia	Jonick
 23	-47817458363	Russia	Kostroma
-23	-47873044133	Russia	asdasda
 23	-47979425017	Russia	Jasnah
 23	-48145386631	Russia	sumkincpp
 20	-40291858831	Russia	dimitribelikov
@@ -419,14 +420,16 @@ Score	Penalty	Country	Name
 7	-47808751150	Russia	Podzyuban
 7	-47874230551	Russia	Tatyana_611_r
 7	-48033974499	Russia	si1x
-0	0	Russia	MellowYellow
-0	0	Russia	mamenko
+7	-48062631150	Russia	addict
+7	-48107203816	Russia	SlavaSSU
 0	0	Russia	Ilya_Rizhenkov
+0	0	Russia	mspitb
+0	0	Russia	MellowYellow
 0	0	Russia	O_oxana
 0	0	Russia	ambisinistra
 0	0	Russia	bsd_conqueror
 0	0	Russia	garipovii
-0	0	Russia	mspitb
+0	0	Russia	mamenko
 0	0	Russia	munir_
 0	0	Russia	sled
 0	0	Russia	vlad_is_love
