@@ -67,6 +67,7 @@ Score	Penalty	Country	Name
 43	-37727686619	France	BrunoT
 43	-39974142588	France	lil_meyer
 43	-40420012239	France	Coredmp
+43	-40420012239	France	Coredmp
 43	-41200562022	France	Aerosfilis
 43	-43077164916	France	wenjunGael
 43	-45980203843	France	sewingmachine
@@ -251,6 +252,8 @@ Score	Penalty	Country	Name
 42	-53294481355	France	RayanChikhi
 42	-53449536545	France	chadiem
 42	-53455315083	France	krivonogov
+42	-53543171498	France	Braxxe
+42	-53564690463	France	GarbageCollector
 42	-53723087137	France	Armavica
 42	-54353291113	France	Tanp
 42	-54718519429	France	CalzoneChampiPoivron
@@ -281,7 +284,6 @@ Score	Penalty	Country	Name
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
 23	-4439910630	France	Eluthor
-23	-5696959436	France	Renaud42
 23	-10120860402	France	thisma
 23	-10738985206	France	Gaarayan
 23	-11327734755	France	randcoder
@@ -337,7 +339,6 @@ Score	Penalty	Country	Name
 23	-44363092672	France	thomasdelepine
 23	-44763244743	France	Yohan_Tz
 23	-45032918676	France	thib.c
-23	-45057675369	France	Braxxe
 23	-45207798163	France	tshpak
 23	-45450004575	France	amsecha
 23	-45558115288	France	Oupo
@@ -370,7 +371,6 @@ Score	Penalty	Country	Name
 23	-51594788198	France	Nuparu
 23	-51608960232	France	Xabi
 23	-51625263077	France	Gregczc
-23	-51798455616	France	GarbageCollector
 23	-51985738354	France	PtitBeurre
 23	-51996624450	France	WNG
 23	-52316960331	France	LROTP
@@ -453,6 +453,7 @@ Score	Penalty	Country	Name
 7	-53297231166	France	Marimout
 7	-53351228411	France	brice
 7	-53477054000	France	RaphOn
+7	-53529036954	France	LAM
 5	-37838570501	France	proftechnolblanc
 0	0	France	ArthurMR
 0	0	France	Benskalz
@@ -462,7 +463,6 @@ Score	Penalty	Country	Name
 0	0	France	DorianNogneng
 0	0	France	ElodieT
 0	0	France	Kandhum
-0	0	France	LAM
 0	0	France	LightSn0w
 0	0	France	Loic
 0	0	France	MaTTs
