@@ -78,6 +78,7 @@ Score	Penalty	Country	Name
 42	-13897147772	Egypt	flash906
 42	-14332248866	Egypt	Hayal
 42	-15573789088	Egypt	Ahmed_Alansary
+42	-15573789088	Egypt	Ahmed_Alansary
 42	-16030049894	Egypt	amrhassanAHG
 42	-16032914440	Egypt	Pheonix20
 42	-16140138870	Egypt	hussein_hesham
@@ -302,6 +303,7 @@ Score	Penalty	Country	Name
 23	-63685756732	Egypt	Ahmed_Diab
 23	-63733711617	Egypt	mohamadabdelhakem11
 23	-64348110843	Egypt	mostafa_9a7c2
+23	-64458802884	Egypt	SalahSalem
 16	-2320856213	Egypt	_nada
 14	-8731058168	Egypt	GeekNinja
 12	-2555091978	Egypt	omega_guy
@@ -332,6 +334,7 @@ Score	Penalty	Country	Name
 12	-59128398850	Egypt	islam_tarek
 12	-61617699405	Egypt	abanob.ashraf
 12	-63966692864	Egypt	Rokia
+12	-64463515049	Egypt	We'Am
 7	-421534141	Egypt	GreenNewbie
 7	-533186921	Egypt	amrakmal
 7	-624347627	Egypt	Lo2lo2
@@ -365,7 +368,6 @@ Score	Penalty	Country	Name
 7	-21526605984	Egypt	Mostafa_Abdelghafaar
 7	-22047759965	Egypt	A.Jimmy23
 7	-22724346457	Egypt	Omar_Salama
-7	-24755755997	Egypt	We'Am
 7	-27865157505	Egypt	EngOsm
 7	-28966993082	Egypt	mufawzy
 7	-29223262713	Egypt	AyaHamdy
@@ -393,7 +395,6 @@ Score	Penalty	Country	Name
 7	-52283695737	Egypt	adhamebr
 7	-53458334719	Egypt	nufst
 7	-54087432345	Egypt	mostafa.amer
-7	-54680853204	Egypt	SalahSalem
 7	-54738525389	Egypt	mohandsakr
 7	-54901681950	Egypt	Youka25
 7	-56528710443	Egypt	GaserAshraf
@@ -415,10 +416,9 @@ Score	Penalty	Country	Name
 7	-64094186842	Egypt	omarabdellatif
 7	-64426704628	Egypt	ziad_abdelkader
 5	-64427309384	Egypt	Yasminaaa
-0	0	Egypt	AhmedRamdan
 0	0	Egypt	Abanob_abu
 0	0	Egypt	Abobakr_99
-0	0	Egypt	AnDrEwHaLiEm
+0	0	Egypt	AhmedRamdan
 0	0	Egypt	BedoEbied
 0	0	Egypt	CSseifms
 0	0	Egypt	Eraqi
@@ -432,7 +432,6 @@ Score	Penalty	Country	Name
 0	0	Egypt	Rana.20
 0	0	Egypt	Sabora
 0	0	Egypt	Salma.Hassan
-0	0	Egypt	Yousef_Hassan
 0	0	Egypt	abdallaayman
 0	0	Egypt	ahmedacm04
 0	0	Egypt	ahmedhazem
@@ -442,3 +441,5 @@ Score	Penalty	Country	Name
 0	0	Egypt	invisiblesaad
 0	0	Egypt	momousa1997
 0	0	Egypt	uniqueinx
+0	0	Egypt	AnDrEwHaLiEm
+0	0	Egypt	Yousef_Hassan

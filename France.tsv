@@ -150,6 +150,7 @@ Score	Penalty	Country	Name
 42	-9885415007	France	Ahnimus
 42	-11165158776	France	Tashiqi
 42	-12116060648	France	lopoto
+42	-12116060648	France	lopoto
 42	-13107322041	France	gregoire.lafont
 42	-14566544021	France	djawad190@yahoo.fr
 42	-16659508848	France	CakeAuxAnchois
@@ -370,6 +371,7 @@ Score	Penalty	Country	Name
 23	-1787018867	France	Kelk1
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
+23	-3477151071	France	scottie34
 23	-5696959436	France	Renaud42
 23	-10120860402	France	thisma
 23	-10738985206	France	Gaarayan
@@ -496,6 +498,7 @@ Score	Penalty	Country	Name
 12	-60379739065	France	proftechnolblanc
 12	-60660183627	France	RaphOn
 12	-60665528586	France	HermioneGranger
+12	-64503237144	France	Sevla
 12	-64739221353	France	ben64
 7	-2183542384	France	buiquanganh85
 7	-4493581986	France	fou
@@ -524,7 +527,6 @@ Score	Penalty	Country	Name
 7	-58854877546	France	h1
 7	-59939250445	France	DorianNogneng
 7	-60034640404	France	hyperc
-7	-60690398623	France	Sevla
 7	-61673998351	France	Fab
 7	-61721771355	France	Victoire_tjj
 7	-62104264660	France	Bot2019
@@ -541,8 +543,6 @@ Score	Penalty	Country	Name
 7	-64238216850	France	SuperDupont
 7	-64340667930	France	Niakrais
 7	-64387587553	France	bovary
-0	0	France	paul.cibier@gmail.com
-0	0	France	tinylinux
 0	0	France	Adnane
 0	0	France	ArthurMR
 0	0	France	Auras
@@ -564,13 +564,15 @@ Score	Penalty	Country	Name
 0	0	France	anais.schlienger
 0	0	France	arnaudgourlay
 0	0	France	benjlepyreneen
-0	0	France	cigix
 0	0	France	clematrics
 0	0	France	clerendor
 0	0	France	dylankim
 0	0	France	johnrazeur
 0	0	France	jouzo
 0	0	France	mrcr0que
+0	0	France	paul.cibier@gmail.com
 0	0	France	philM
 0	0	France	sophieribault
 0	0	France	superuH
+0	0	France	tinylinux
+0	0	France	cigix
