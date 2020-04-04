@@ -23,7 +23,7 @@ cat score-*.json \
 
 while read country; do
 	echo $'Score\tPenalty\tCountry\tName' > "$country.tsv"
-	grep -P "\t$country\t" score.tsv >> "$country.tsv"
+	grep -P "\t$country\t" ALL.tsv >> "$country.tsv"
 done < country
 
 git add .
