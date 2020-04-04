@@ -209,7 +209,9 @@ Score	Penalty	Country	Name
 42	-41768661651	Russia	pikmike
 42	-42064099086	Russia	fetetriste
 42	-42114957689	Russia	KalininN
+42	-42135519741	Russia	StarCuriosity
 42	-42181226471	Russia	MapLegend
+42	-42606477298	Russia	Daynyus
 35	-30640710308	Russia	DmitryGrigorev
 35	-40290707673	Russia	Demid
 31	-32615275115	Russia	agorodnev
@@ -225,12 +227,10 @@ Score	Penalty	Country	Name
 23	-5192007049	Russia	kisel_dmitry
 23	-5776672767	Russia	DmitryKh
 23	-6472307381	Russia	cdkrot
-23	-6472307381	Russia	cdkrot
 23	-8250484760	Russia	ilya.a.egorov
 23	-13912068325	Russia	Mr.Sirius
 23	-21370252787	Russia	AndreyU
 23	-24224321405	Russia	dva2
-23	-25575088117	Russia	Daynyus
 23	-26699878275	Russia	hiot
 23	-27082727781	Russia	TriMarco
 23	-27352390244	Russia	m4e5tr0
@@ -278,7 +278,6 @@ Score	Penalty	Country	Name
 23	-41130471421	Russia	dka
 23	-41132380841	Russia	OlegSmirnov
 23	-41206158179	Russia	ivan.chepiga
-23	-41240237337	Russia	StarCuriosity
 23	-41302621079	Russia	x12
 23	-41417255228	Russia	dkulikova
 23	-41580298274	Russia	Alexiski
@@ -291,6 +290,7 @@ Score	Penalty	Country	Name
 23	-42021129732	Russia	warriorxk
 23	-42100562349	Russia	vmos1999
 23	-42109270831	Russia	pepegasit
+23	-42170288601	Russia	StatujaLeha
 20	-40291858831	Russia	dimitribelikov
 16	-41422394893	Russia	ityrov
 12	-32071721332	Russia	letsolum
@@ -322,7 +322,6 @@ Score	Penalty	Country	Name
 7	-39549251451	Russia	adev
 7	-40375334765	Russia	korolaab
 7	-40472426890	Russia	shade33
-7	-40576557232	Russia	StatujaLeha
 7	-40630280576	Russia	KirillB
 7	-40929214269	Russia	dasha02.08
 7	-41349614292	Russia	APT-EHOT
@@ -339,13 +338,14 @@ Score	Penalty	Country	Name
 7	-42010406164	Russia	alkr
 7	-42062114014	Russia	Jeannette
 7	-42067825025	Russia	smnikita
-0	0	Russia	buldo
-0	0	Russia	garipovii
-0	0	Russia	omgitspavel
-0	0	Russia	vmark
+7	-42125575623	Russia	omgitspavel
+7	-42615122396	Russia	buldo
 0	0	Russia	Gogen120
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	MellowYellow
 0	0	Russia	Stasana
+0	0	Russia	garipovii
 0	0	Russia	glebsasmsonov
 0	0	Russia	mspitb
+0	0	Russia	vmark
+0	0	Russia	yulik.daniel
