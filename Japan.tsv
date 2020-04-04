@@ -26,6 +26,7 @@ Score	Penalty	Country	Name
 75	-17222155067	Japan	Person20
 75	-25144458615	Japan	tetsuro1919
 75	-35681279923	Japan	nonsava
+75	-35996430292	Japan	teruss
 75	-36602295185	Japan	polyomino.24
 74	-8105180279	Japan	Tonegawa
 74	-13619910273	Japan	SCL
@@ -137,7 +138,6 @@ Score	Penalty	Country	Name
 43	-16979029077	Japan	kyon2326
 43	-18371096810	Japan	ecto0310
 43	-18617922632	Japan	nejineji
-43	-21229683150	Japan	teruss
 43	-21563810526	Japan	kotamanegi
 43	-21779158753	Japan	sky58
 43	-22684070878	Japan	masafumi
@@ -164,6 +164,7 @@ Score	Penalty	Country	Name
 43	-33857683757	Japan	nuts1216
 43	-34807269047	Japan	Nickle
 43	-35026424169	Japan	tkmst201
+43	-37034305536	Japan	Sairi
 42	-1891271914	Japan	physics0523
 42	-1908679151	Japan	x20
 42	-2169019762	Japan	TMJN
@@ -331,7 +332,6 @@ Score	Penalty	Country	Name
 42	-17927774885	Japan	YTA
 42	-17936151308	Japan	keymoon
 42	-17946315662	Japan	gotoloop
-42	-18107522140	Japan	Sairi
 42	-18368779186	Japan	mickie895
 42	-18433985614	Japan	zaki_joho_
 42	-18479713732	Japan	juppy
@@ -787,13 +787,13 @@ Score	Penalty	Country	Name
 23	-35472748702	Japan	ryo_n
 23	-35538018517	Japan	ikasashi
 23	-35551110780	Japan	shiraishi
+23	-35624236610	Japan	Eulderna
 16	-5344012579	Japan	Nori
 16	-22982856357	Japan	noribentooooooh
 16	-26460315682	Japan	Keroru
 16	-27564534732	Japan	cielavenir
 12	-12484628497	Japan	tokizo
 12	-21925903990	Japan	aki-nasu
-12	-22418294292	Japan	otacake
 12	-28303256561	Japan	proproping
 12	-31660775588	Japan	sakura873
 12	-31935333942	Japan	y16a
@@ -832,7 +832,6 @@ Score	Penalty	Country	Name
 7	-26243794776	Japan	Reider
 7	-27222752712	Japan	ty70
 7	-27512981163	Japan	Hamukichi
-7	-27821228751	Japan	Eulderna
 7	-28277951496	Japan	Sadaaki
 7	-28769066604	Japan	tunehira
 7	-29820932755	Japan	sandy2008
@@ -868,13 +867,17 @@ Score	Penalty	Country	Name
 7	-35554053619	Japan	holeguma
 7	-35598509113	Japan	paotan
 7	-35599144250	Japan	MASATO338
+7	-35622672786	Japan	sifi_border
+7	-35645394451	Japan	claw88
+7	-35654522240	Japan	Nyaan
 7	-35770401872	Japan	Kuraot
 5	-20592198897	Japan	haruka2003
 0	0	Japan	aki_bayes
-0	0	Japan	homucatful
-0	0	Japan	nicolen
+0	0	Japan	hakuchan
 0	0	Japan	piyonakajima
 0	0	Japan	shukob
 0	0	Japan	sionyan
+0	0	Japan	tomerun
+0	0	Japan	homucatful
+0	0	Japan	nicolen
 0	0	Japan	zezero
-0	0	Japan	donuthole
