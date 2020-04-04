@@ -130,7 +130,6 @@ Score	Penalty	Country	Name
 42	-7645453099	Canada	0xFF
 42	-7712685247	Canada	BoGang
 42	-8168308337	Canada	RunGood
-42	-8168308337	Canada	RunGood
 42	-8872234788	Canada	mavlee
 42	-9374085171	Canada	4fecta
 42	-9401978524	Canada	Supermac30
@@ -266,6 +265,7 @@ Score	Penalty	Country	Name
 42	-62982911353	Canada	Halogen
 42	-63106438003	Canada	stoness
 42	-63196102973	Canada	JRSpencer
+42	-63354898878	Canada	vguo
 42	-63482536118	Canada	LOLWHATOMGBBQ
 42	-63933093198	Canada	Eizhen
 42	-64905986070	Canada	protopotato
@@ -323,6 +323,7 @@ Score	Penalty	Country	Name
 23	-10579229027	Canada	PandHas
 23	-11176316728	Canada	eelectronn
 23	-11405136036	Canada	MrSiliconGuy
+23	-12418288951	Canada	s@nky
 23	-13369921005	Canada	BettyChang
 23	-13540316703	Canada	yxy10a
 23	-14250349462	Canada	vEver
@@ -380,7 +381,6 @@ Score	Penalty	Country	Name
 23	-60907771052	Canada	Tezvaz
 23	-60965997474	Canada	DavinderSinghKharoud
 23	-61266549705	Canada	Bob_Eh
-23	-61895919551	Canada	vguo
 23	-62079116345	Canada	duncans
 23	-62312170146	Canada	hoodev490
 23	-62573468994	Canada	obDann
@@ -395,7 +395,6 @@ Score	Penalty	Country	Name
 16	-24333283634	Canada	Metty
 16	-53104561010	Canada	in-gote
 12	-4546782388	Canada	Tiagof99
-12	-5261339821	Canada	Garlof
 12	-5261339821	Canada	Garlof
 12	-11569146273	Canada	hyunuk
 12	-12206753354	Canada	kkalathil
@@ -481,8 +480,7 @@ Score	Penalty	Country	Name
 7	-63144233063	Canada	JWalmsley
 7	-63185300101	Canada	bradley19brown
 7	-63352187968	Canada	mb
-0	0	Canada	SaberMansour
-0	0	Canada	aakarimin
+7	-63362585264	Canada	jksaunders
 0	0	Canada	AMartin223
 0	0	Canada	Abhan
 0	0	Canada	Ariannafoo
@@ -495,6 +493,8 @@ Score	Penalty	Country	Name
 0	0	Canada	Pokejft
 0	0	Canada	Priyank_Patel
 0	0	Canada	ProdigyGod
+0	0	Canada	SaberMansour
+0	0	Canada	aakarimin
 0	0	Canada	amunden04
 0	0	Canada	bugslayer
 0	0	Canada	devodev
@@ -509,6 +509,7 @@ Score	Penalty	Country	Name
 0	0	Canada	purpls
 0	0	Canada	r2munjal
 0	0	Canada	sitruc
+0	0	Canada	t-rev
 0	0	Canada	thebloodymoustache
 0	0	Canada	thisisarsh
 0	0	Canada	yz1001
