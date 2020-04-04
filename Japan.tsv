@@ -45,6 +45,7 @@ Score	Penalty	Country	Name
 74	-37470319750	Japan	hkawaguc
 74	-39276082508	Japan	peichan13
 74	-39666467475	Japan	tko919
+74	-43129056320	Japan	akachocobo
 74	-43683904605	Japan	cake.senbei
 68	-3894264245	Japan	yamunaku
 68	-4903688298	Japan	wagtail
@@ -244,6 +245,7 @@ Score	Penalty	Country	Name
 42	-7851315453	Japan	enookckor
 42	-8012484034	Japan	bbge
 42	-8261986176	Japan	uturyo27182
+42	-8362975473	Japan	_uenoku
 42	-8362975473	Japan	_uenoku
 42	-8386876137	Japan	hartman819
 42	-8410717604	Japan	shop_one
@@ -512,7 +514,6 @@ Score	Penalty	Country	Name
 42	-27694410130	Japan	ysystem
 42	-27770727035	Japan	Neyo
 42	-27816089846	Japan	phyllo
-42	-27816089846	Japan	phyllo
 42	-27830242946	Japan	misora192
 42	-27897703149	Japan	universato
 42	-27910032442	Japan	yamamoto
@@ -711,7 +712,6 @@ Score	Penalty	Country	Name
 42	-40633989921	Japan	outk
 42	-40674586654	Japan	kenimo
 42	-40684917331	Japan	ameise
-42	-40693650888	Japan	akachocobo
 42	-40736706218	Japan	comssa
 42	-40966090031	Japan	nxteru
 42	-41183243956	Japan	cympfh
@@ -894,7 +894,10 @@ Score	Penalty	Country	Name
 23	-42166955649	Japan	rowr
 23	-42179959230	Japan	msiro
 23	-42483183414	Japan	uo_ta
+23	-42680673182	Japan	lyoz
+23	-42684049835	Japan	nepudding
 23	-42772543530	Japan	komugi
+16	-5344012579	Japan	Nori
 16	-5344012579	Japan	Nori
 16	-22982856357	Japan	noribentooooooh
 16	-39315134841	Japan	piyonakajima
@@ -921,7 +924,6 @@ Score	Penalty	Country	Name
 7	-17382905422	Japan	granddaifuku
 7	-18769627812	Japan	wolframotoya
 7	-19162317894	Japan	sica0a0
-7	-20559663329	Japan	nepudding
 7	-20728520928	Japan	negatimo
 7	-21622863125	Japan	M4c4r0m
 7	-23010150503	Japan	manabu
@@ -960,7 +962,6 @@ Score	Penalty	Country	Name
 7	-41533038024	Japan	yutaono
 7	-41602443041	Japan	amana
 7	-41796803031	Japan	ytsutsu
-7	-41819131649	Japan	lyoz
 7	-41901850838	Japan	reibomaru
 7	-42144471044	Japan	hiroaki0615
 7	-42269602743	Japan	at0x0ft
@@ -970,6 +971,8 @@ Score	Penalty	Country	Name
 7	-42488442846	Japan	tempfeil
 7	-42490689709	Japan	sono8
 7	-42540799248	Japan	tomoto
+7	-42656228743	Japan	31536000
+7	-42709294041	Japan	pedish
 5	-20592198897	Japan	haruka2003
 5	-35831969763	Japan	homucatful
 0	0	Japan	Nulkana
@@ -978,8 +981,8 @@ Score	Penalty	Country	Name
 0	0	Japan	donuthole
 0	0	Japan	kinokokaeru
 0	0	Japan	nicolen
+0	0	Japan	rikupin1105
 0	0	Japan	sionyan
 0	0	Japan	touyu
 0	0	Japan	zezero
-0	0	Japan	rikupin1105
 0	0	Japan	shukob
