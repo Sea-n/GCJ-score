@@ -110,7 +110,6 @@ Score	Penalty	Country	Name
 23	-3281694358	France	sliard
 23	-3422163592	France	coderYoda
 23	-3477151071	France	scottie34
-23	-4439910630	France	Eluthor
 23	-4667605382	France	mHelba
 23	-5696959436	France	Renaud42
 23	-5924047810	France	shftd
@@ -166,6 +165,7 @@ Score	Penalty	Country	Name
 23	-35876104185	France	Dodouce
 23	-35935224979	France	MCube
 23	-35996922534	France	ppleboss
+23	-35999394432	France	HugoBarbaroux
 23	-36130909557	France	AndreLaxe
 16	-21240143956	France	mnaji
 16	-34902334065	France	Greglama
@@ -175,7 +175,6 @@ Score	Penalty	Country	Name
 12	-26731140368	France	Cjdcoy
 12	-35452855632	France	Seb314
 8	-32207543685	France	Frelonquai
-7	-841718915	France	peejee
 7	-1149947034	France	Optidad
 7	-1627788795	France	Ghostoplo
 7	-2183542384	France	buiquanganh85
@@ -203,7 +202,6 @@ Score	Penalty	Country	Name
 7	-34662176665	France	rfrenoy
 7	-34947052199	France	pierre.gourseaud
 7	-34972193755	France	Addoula88
-7	-34978124714	France	HugoBarbaroux
 7	-35081712578	France	Matt74
 7	-35245502285	France	Ogdentrod
 7	-35338340404	France	stephkyl
@@ -212,10 +210,14 @@ Score	Penalty	Country	Name
 7	-35484962043	France	nanhopper
 7	-35600255197	France	Rubilmax
 7	-35881142374	France	LeBossMax2
+7	-35969432336	France	OphelieBl
+7	-36013891627	France	Butanal
+7	-36037858612	France	rechaniz
 7	-36137141010	France	Langrognet
-0	0	France	ArthurMR
 0	0	France	Benskalz
-0	0	France	Butanal
+0	0	France	Stephane_Mouawad
+0	0	France	farameris
+0	0	France	ArthurMR
 0	0	France	Bybuu
 0	0	France	Colios13
 0	0	France	DorianNogneng
@@ -224,16 +226,13 @@ Score	Penalty	Country	Name
 0	0	France	LightSn0w
 0	0	France	Massoud_le_Grand
 0	0	France	Olmin
-0	0	France	OphelieBl
 0	0	France	Oupo
-0	0	France	Stephane_Mouawad
 0	0	France	Theory
 0	0	France	Yagi-san
 0	0	France	_At0m
 0	0	France	btvl
 0	0	France	c0lt_dgtl
 0	0	France	cholaknight
-0	0	France	farameris
 0	0	France	oyster_brain
 0	0	France	paul.cibier@gmail.com
 0	0	France	proftechnolblanc

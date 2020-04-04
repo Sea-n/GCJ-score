@@ -79,6 +79,7 @@ Score	Penalty	Country	Name
 68	-34229404643	South Korea	SongC
 68	-34383139683	South Korea	Jhuni
 68	-34981127888	South Korea	OnePunch
+68	-39037802904	South Korea	dotoleeoak
 52	-18201927929	South Korea	mhazor
 49	-28913614558	South Korea	yooyou7
 49	-34001521934	South Korea	Lovinix
@@ -89,7 +90,6 @@ Score	Penalty	Country	Name
 43	-14645431878	South Korea	ijleesw
 43	-17612920976	South Korea	dong_hyun
 43	-19633052040	South Korea	zzal_U
-43	-20985255807	South Korea	dotoleeoak
 43	-23709074748	South Korea	singleheart
 43	-26938238359	South Korea	Einstrasse
 43	-27811990729	South Korea	pica4500
@@ -342,7 +342,6 @@ Score	Penalty	Country	Name
 42	-27666416474	South Korea	bsyun0571
 42	-27696217371	South Korea	juney
 42	-27703312049	South Korea	GodHyum
-42	-27714214431	South Korea	Scripter36
 42	-27905171518	South Korea	xxjjvxb
 42	-27910584363	South Korea	PublicCoding
 42	-27970533393	South Korea	LeeYong
@@ -450,6 +449,7 @@ Score	Penalty	Country	Name
 30	-29892784238	South Korea	Supreme
 30	-34049106350	South Korea	Alko
 30	-35654986097	South Korea	absee
+30	-36662215363	South Korea	niley
 30	-36908288847	South Korea	HenryK
 26	-32124770455	South Korea	lando
 23	-3473081552	South Korea	dchoi
@@ -525,6 +525,7 @@ Score	Penalty	Country	Name
 23	-28626150688	South Korea	jiyeon
 23	-29006181999	South Korea	david1403
 23	-29133526066	South Korea	c4big2
+23	-29133526066	South Korea	c4big2
 23	-29181429188	South Korea	namwoong
 23	-29330506531	South Korea	MathAmp
 23	-30001916013	South Korea	702fbtngus
@@ -534,7 +535,6 @@ Score	Penalty	Country	Name
 23	-30583949413	South Korea	SeongYunKim
 23	-30721380963	South Korea	rabierre2
 23	-30782846846	South Korea	play55
-23	-30832629474	South Korea	niley
 23	-30838073038	South Korea	jade_
 23	-30868018504	South Korea	Edgar.Kim
 23	-31071739788	South Korea	fxpark@naver.com
@@ -578,6 +578,8 @@ Score	Penalty	Country	Name
 23	-35730679132	South Korea	JJun
 23	-35801007811	South Korea	adgdsda
 23	-35950709556	South Korea	mydragon
+23	-35972752549	South Korea	Rebel_lion
+23	-36028533777	South Korea	jwyang
 23	-36522711687	South Korea	SAGONG
 16	-16758161920	South Korea	ys57
 16	-19752178453	South Korea	shadowcat02
@@ -601,6 +603,7 @@ Score	Penalty	Country	Name
 7	-1383064929	South Korea	vivi88
 7	-1985039269	South Korea	dfltzp
 7	-2166552262	South Korea	JunoJunho
+7	-2971991053	South Korea	hinge
 7	-2971991053	South Korea	hinge
 7	-6014522754	South Korea	Hyeran
 7	-6288201644	South Korea	coco_17
@@ -650,7 +653,6 @@ Score	Penalty	Country	Name
 7	-31409246305	South Korea	jeonghwa
 7	-31680151834	South Korea	ssecom
 7	-31692727591	South Korea	wjdtjdtn1211
-7	-31865736218	South Korea	Rebel_lion
 7	-31963949412	South Korea	liontting
 7	-32339684964	South Korea	애기곰
 7	-32519794188	South Korea	galbae
@@ -666,7 +668,6 @@ Score	Penalty	Country	Name
 7	-34031211406	South Korea	Hyperbolic
 7	-34076149571	South Korea	chahong
 7	-34388485082	South Korea	vehua
-7	-34467583497	South Korea	jwyang
 7	-34486040222	South Korea	tacromacro
 7	-34572581809	South Korea	joosjuliet
 7	-34669197222	South Korea	donggggas
@@ -687,15 +688,20 @@ Score	Penalty	Country	Name
 7	-35842457424	South Korea	ijna
 7	-35874305694	South Korea	ultrahee
 7	-35898988665	South Korea	baesw
+7	-36009744038	South Korea	recoprin
+7	-36013620174	South Korea	rhfktj
+7	-36038185320	South Korea	kwanghoon
 5	-31464216449	South Korea	Seokjin
+0	0	South Korea	LrLr
+0	0	South Korea	iloveyou
 1	-33551112963	South Korea	return_zero
 0	0	South Korea	0xF4D3C0D3
 0	0	South Korea	3to15gram
 0	0	South Korea	AniminA
+0	0	South Korea	Chacham
 0	0	South Korea	Croquis
 0	0	South Korea	Cuws
 0	0	South Korea	GiYeon
-0	0	South Korea	LrLr
 0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
 0	0	South Korea	Xeroxy
@@ -705,12 +711,10 @@ Score	Penalty	Country	Name
 0	0	South Korea	cantapiya
 0	0	South Korea	cozyncoze@gmail.com
 0	0	South Korea	ilhan.ryu
-0	0	South Korea	iloveyou
 0	0	South Korea	indexxlim
 0	0	South Korea	jamjami
 0	0	South Korea	jihwanK
 0	0	South Korea	koreabell
-0	0	South Korea	kwanghoon
 0	0	South Korea	leoJeong
 0	0	South Korea	nickjung
 0	0	South Korea	sionYami
