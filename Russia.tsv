@@ -103,7 +103,6 @@ Score	Penalty	Country	Name
 68	-57370464097	Russia	vivanov
 68	-57371919904	Russia	s20b1Kirka
 68	-57499164913	Russia	sergeykozub
-68	-58435165074	Russia	maximumSHOT
 61	-37813147694	Russia	caesarsaladdressing
 49	-53600532290	Russia	dimaoq
 45	-37721495719	Russia	demidenko
@@ -396,6 +395,8 @@ Score	Penalty	Country	Name
 42	-57119387465	Russia	Dodolphin
 42	-57120353419	Russia	rmnnsk
 42	-57221390444	Russia	HolkinPV
+42	-57276627003	Russia	praise_x
+42	-57339551681	Russia	KirillB
 42	-57419125139	Russia	kpilyugin
 39	-54126983341	Russia	mamenko
 35	-30640710308	Russia	DmitryGrigorev
@@ -442,7 +443,6 @@ Score	Penalty	Country	Name
 23	-41206158179	Russia	ivan.chepiga
 23	-41302621079	Russia	x12
 23	-42959833249	Russia	APT-EHOT
-23	-43015646343	Russia	KirillB
 23	-43211742288	Russia	ViKn
 23	-44747514646	Russia	omgitspavel
 23	-44984790905	Russia	e_sha
@@ -474,7 +474,6 @@ Score	Penalty	Country	Name
 23	-53453967826	Russia	dmikarpoff
 23	-53469924496	Russia	Vergara7
 23	-53497455087	Russia	Skeef79
-23	-53721650867	Russia	praise_x
 23	-53756701429	Russia	Delockle
 23	-53775226115	Russia	dkirienko
 23	-54037683241	Russia	Helgui
@@ -497,6 +496,7 @@ Score	Penalty	Country	Name
 23	-57103584373	Russia	DmitriyV
 23	-57179597110	Russia	alexey.enkov
 23	-57211457921	Russia	tomatho
+23	-57344001372	Russia	borisbarkov
 20	-40291858831	Russia	dimitribelikov
 16	-49687781436	Russia	Wataru
 16	-52277519074	Russia	sled
@@ -527,7 +527,6 @@ Score	Penalty	Country	Name
 7	-51212299314	Russia	kofmanya
 7	-51544165142	Russia	bsd_conqueror
 7	-51872853234	Russia	aid_74
-7	-52569943611	Russia	ambisinistra
 7	-53620515957	Russia	timav566
 7	-53624815779	Russia	pereb4ik
 7	-53675666975	Russia	male-x
@@ -542,9 +541,9 @@ Score	Penalty	Country	Name
 7	-56471988804	Russia	xnynzn
 7	-56647167031	Russia	Jaodi
 7	-56650369368	Russia	Romansp
-7	-56974093309	Russia	borisbarkov
 7	-57029226371	Russia	ZAB
 7	-57099383981	Russia	s_ah_onissuiy
+7	-57320103568	Russia	Mrsky
 0	0	Russia	Ilya_Rizhenkov
 0	0	Russia	Juwbasaurus
 0	0	Russia	Locab
