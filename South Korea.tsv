@@ -15,6 +15,7 @@ Score	Penalty	Country	Name
 100	-32069681799	South Korea	jwvg0425
 100	-34127455198	South Korea	clarion
 100	-34359040149	South Korea	jrguyyoo
+75	-34942995999	South Korea	janush
 74	-6192075275	South Korea	Kimcoding
 74	-14076982069	South Korea	shmallow
 74	-14763005380	South Korea	Desertship02
@@ -93,7 +94,6 @@ Score	Penalty	Country	Name
 43	-26938238359	South Korea	Einstrasse
 43	-27811990729	South Korea	pica4500
 43	-28505401412	South Korea	L0TUS
-43	-30560785648	South Korea	janush
 43	-30560881537	South Korea	haramlee
 43	-30666903051	South Korea	sirius-mhlee
 43	-30678577822	South Korea	jaehoj
@@ -442,6 +442,7 @@ Score	Penalty	Country	Name
 30	-28702539499	South Korea	easter3163
 30	-29892784238	South Korea	Supreme
 30	-34049106350	South Korea	Alko
+30	-36908288847	South Korea	HenryK
 26	-32124770455	South Korea	lando
 23	-3473081552	South Korea	dchoi
 23	-5235299298	South Korea	지나가던한국인01
@@ -449,7 +450,6 @@ Score	Penalty	Country	Name
 23	-7102768224	South Korea	hon9
 23	-7503043711	South Korea	csjun
 23	-7508153427	South Korea	Subaaam
-23	-8136052218	South Korea	HenryK
 23	-8282174838	South Korea	myfriendprintf
 23	-8302586609	South Korea	quatremains
 23	-8518454272	South Korea	whitecloud
@@ -568,6 +568,7 @@ Score	Penalty	Country	Name
 23	-34352407412	South Korea	enterkey
 23	-34427397134	South Korea	ggyool
 23	-34554945639	South Korea	moorlio179
+23	-35038806107	South Korea	HanGG
 23	-35469387764	South Korea	dundae
 16	-16758161920	South Korea	ys57
 16	-19752178453	South Korea	shadowcat02
@@ -599,6 +600,7 @@ Score	Penalty	Country	Name
 7	-10746189829	South Korea	gyannee
 7	-12231524442	South Korea	WD26
 7	-12394087154	South Korea	sunho
+7	-12394087154	South Korea	sunho
 7	-12706680639	South Korea	tgkei
 7	-12832325147	South Korea	CrazYoung
 7	-13647200882	South Korea	GolDenBA
@@ -620,7 +622,6 @@ Score	Penalty	Country	Name
 7	-27412554794	South Korea	exp15
 7	-27647944558	South Korea	Yunicode
 7	-27934032465	South Korea	GOM
-7	-28222210638	South Korea	HanGG
 7	-28235705284	South Korea	justkook
 7	-28262983948	South Korea	wooooooood
 7	-28409402644	South Korea	jkim0222
@@ -672,16 +673,15 @@ Score	Penalty	Country	Name
 7	-34916882679	South Korea	JJun
 7	-34970356652	South Korea	MagicDog
 7	-34997465881	South Korea	Rhcsky
+7	-35003278364	South Korea	Zergling
+7	-35077771762	South Korea	CheolJu
 5	-31464216449	South Korea	Seokjin
 1	-33551112963	South Korea	return_zero
-0	0	South Korea	GiYeon
-0	0	South Korea	bluezery
 0	0	South Korea	cantapiya
-0	0	South Korea	강동훈
 0	0	South Korea	0xF4D3C0D3
 0	0	South Korea	3to15gram
-0	0	South Korea	CheolJu
 0	0	South Korea	Cuws
+0	0	South Korea	GiYeon
 0	0	South Korea	LrLr
 0	0	South Korea	Ohman
 0	0	South Korea	Seoyeon
@@ -689,6 +689,7 @@ Score	Penalty	Country	Name
 0	0	South Korea	YONG_HWAN
 0	0	South Korea	baactree
 0	0	South Korea	baesw
+0	0	South Korea	bluezery
 0	0	South Korea	cozyncoze@gmail.com
 0	0	South Korea	ilhan.ryu
 0	0	South Korea	iloveyou
@@ -702,3 +703,4 @@ Score	Penalty	Country	Name
 0	0	South Korea	nickjung
 0	0	South Korea	swcunba
 0	0	South Korea	ultrahee
+0	0	South Korea	강동훈
