@@ -52,6 +52,7 @@ Score	Penalty	Country	Name
 68	-51316813394	France	vxgmichel
 68	-51605106276	France	Lairv
 68	-51687708877	France	fstark
+68	-51971108189	France	etienne.thiery
 68	-57294091484	France	MrDaiki
 68	-60079807292	France	LuciaVonTelmus
 55	-12302438707	France	Ihzfo
@@ -179,7 +180,6 @@ Score	Penalty	Country	Name
 42	-45162631065	France	OphelieBl
 42	-45244277761	France	Kerl
 42	-45271652878	France	brurrito
-42	-45494271256	France	etienne.thiery
 42	-46293783260	France	hugoa
 42	-46590730268	France	sliard
 42	-46640857781	France	Uriopass
@@ -232,6 +232,8 @@ Score	Penalty	Country	Name
 42	-51552265855	France	SimonD
 42	-51722546998	France	Bisou
 42	-51864845681	France	tdcn
+42	-51947986612	France	matteodelabre
+42	-51971594675	France	modaf
 42	-52174985867	France	bemethor
 42	-52280698323	France	TwsThomas
 42	-52646110515	France	Nurenai
@@ -251,6 +253,7 @@ Score	Penalty	Country	Name
 30	-48772983159	France	Mosca
 30	-50944579815	France	Tanp
 30	-51379056332	France	AZERTY
+26	-52207285692	France	rh
 26	-52339736966	France	namoz
 24	-37035751871	France	fcontreras
 24	-41457530784	France	Frelonquai
@@ -316,7 +319,6 @@ Score	Penalty	Country	Name
 23	-43130909513	France	deplanty
 23	-43505909627	France	SebleSebastien
 23	-43689017443	France	NawfelT
-23	-43739375151	France	matteodelabre
 23	-43838331595	France	Tewdrig
 23	-44143268758	France	peddp9
 23	-44189524520	France	JaiX
@@ -355,7 +357,6 @@ Score	Penalty	Country	Name
 23	-50697184408	France	krivonogov
 23	-50740338809	France	floriangagnadre
 23	-50846620879	France	Wellan89
-23	-50888012726	France	modaf
 23	-50947570645	France	Limezest
 23	-51198569467	France	jenthomas
 23	-51293731476	France	yarzinthe
@@ -366,6 +367,9 @@ Score	Penalty	Country	Name
 23	-51608960232	France	Xabi
 23	-51625263077	France	Gregczc
 23	-51798455616	France	GarbageCollector
+23	-51977061499	France	jmazon
+23	-51985738354	France	PtitBeurre
+23	-51996624450	France	WNG
 16	-21240143956	France	mnaji
 16	-41633658935	France	user1337
 16	-45472810836	France	matousso
@@ -390,7 +394,6 @@ Score	Penalty	Country	Name
 7	-37632635133	France	Massoud_le_Grand
 7	-39778525801	France	lrdoz
 7	-39837869029	France	valocheTheHacker
-7	-40041306185	France	PtitBeurre
 7	-40418773214	France	Da
 7	-40684305310	France	v-perez
 7	-41310585842	France	lifeofsmiith
@@ -408,12 +411,10 @@ Score	Penalty	Country	Name
 7	-46533348484	France	MajorShepard
 7	-46833497846	France	Jahz
 7	-46999202678	France	AdrienLopez
-7	-47309237740	France	WNG
 7	-47395518512	France	gomix
 7	-48080980810	France	drunkl33
 7	-48215601971	France	cyril.perie96@gmail.com
 7	-48595001283	France	opnsec
-7	-49408281909	France	rh
 7	-49558454342	France	tjamat
 7	-49790101454	France	LROTP
 7	-49877539161	France	etiennek
@@ -434,7 +435,6 @@ Score	Penalty	Country	Name
 7	-51205994157	France	f.9m4
 7	-51408614265	France	Shatalov
 7	-51502579958	France	RayanChikhi
-7	-51560237882	France	jmazon
 7	-51593476797	France	gaooosss
 7	-51709116260	France	cpicard443
 7	-51844295071	France	briag
@@ -461,6 +461,7 @@ Score	Penalty	Country	Name
 0	0	France	c0lt_dgtl
 0	0	France	cigix
 0	0	France	clerendor
+0	0	France	ice.guillaume
 0	0	France	johnrazeur
 0	0	France	paul.cibier@gmail.com
 0	0	France	philM
