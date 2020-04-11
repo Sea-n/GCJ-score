@@ -3,9 +3,10 @@ Score	Penalty	Country	Name
 100	-4592418455	Brazil	tfgg
 100	-4843028426	Brazil	brunomont
 100	-5737223858	Brazil	Lawliet2908
-82	-4939785168	Brazil	bira37
 82	-4968534865	Brazil	rafaelgo2
-77	-4235806013	Brazil	LeoRiether
+82	-5524585684	Brazil	LeoRiether
+82	-5756328805	Brazil	bira37
+77	-5074950253	Brazil	SchF_
 65	-4037507395	Brazil	Kallaseldor
 65	-4946669848	Brazil	FMota
 65	-5161454042	Brazil	wilwxk
@@ -24,6 +25,11 @@ Score	Penalty	Country	Name
 63	-5020976746	Brazil	rods
 63	-5062917304	Brazil	ffao
 63	-5155460686	Brazil	rodz
+63	-5308289158	Brazil	felipefcw
+63	-5455152677	Brazil	gustavolima00
+63	-5491210364	Brazil	Gapinho
+63	-5504924475	Brazil	lucas3h
+63	-5536698690	Brazil	ivanilos
 63	-5970225888	Brazil	viniciusth
 45	-3248672790	Brazil	yurisantamarina
 45	-3570569889	Brazil	Arkham_Knight
@@ -32,9 +38,9 @@ Score	Penalty	Country	Name
 45	-4408840373	Brazil	pauloamed
 45	-5014775936	Brazil	ViniciusCabessa
 45	-5225061283	Brazil	BrunoTissei
+45	-5252515131	Brazil	lamartine.cb
 45	-5497164283	Brazil	giovaneaf
 40	-3502937531	Brazil	lincolnx
-40	-3856394978	Brazil	SchF_
 40	-4834796623	Brazil	gcgm
 40	-4848372107	Brazil	LeticiaFCS
 37	-3661979282	Brazil	NatanSG
@@ -45,7 +51,6 @@ Score	Penalty	Country	Name
 35	-3321975691	Brazil	NelsonGomesNeto
 35	-3391974258	Brazil	jps12
 35	-3944400290	Brazil	eduardocesb
-35	-4002097188	Brazil	lamartine.cb
 35	-4160022996	Brazil	pedroh
 35	-4306698326	Brazil	dorime
 35	-4618884623	Brazil	DiegoBZ
@@ -63,7 +68,6 @@ Score	Penalty	Country	Name
 28	-1903164437	Brazil	ErikMorbach
 28	-1918535382	Brazil	tubone
 28	-1957399482	Brazil	lucsturci
-28	-2095268791	Brazil	ivanilos
 28	-2359516919	Brazil	reiracofage
 28	-2381772598	Brazil	leonardoblanger
 28	-2386840201	Brazil	Rebeca
@@ -73,12 +77,8 @@ Score	Penalty	Country	Name
 28	-2555769468	Brazil	rafaeldaigo
 28	-2576591810	Brazil	iamavalon
 28	-2613645887	Brazil	juarez.paulino
-28	-2745262888	Brazil	Gapinho
 28	-2763303271	Brazil	rodrigozhou
-28	-2787952965	Brazil	felipefcw
 28	-2796261567	Brazil	Ovelha66
-28	-2816285697	Brazil	lucas3h
-28	-2999266801	Brazil	gustavolima00
 28	-3049427005	Brazil	gustavo_m32
 28	-3208495832	Brazil	luiz.py
 28	-3224005316	Brazil	Bigg_
@@ -145,6 +145,8 @@ Score	Penalty	Country	Name
 5	-4905567709	Brazil	mikaelmello
 5	-4937636790	Brazil	snipa
 5	-5144877788	Brazil	rogerp4ssos
+5	-5694052798	Brazil	tiagomariinhoo
+5	-5750077558	Brazil	gvilardefarias
 3	-2558226993	Brazil	deneribeiro
 3	-3486626440	Brazil	Staticdev
 3	-4991533886	Brazil	Xixila
@@ -153,8 +155,10 @@ Score	Penalty	Country	Name
 0	0	Brazil	GiulianoPrado
 0	0	Brazil	JoaoLucas
 0	0	Brazil	Leandro_Rocha
+0	0	Brazil	LeaoL
 0	0	Brazil	Leonardo_Paes
 0	0	Brazil	MaxWillf
+0	0	Brazil	PedroX345
 0	0	Brazil	ReneArgento
 0	0	Brazil	Shell17
 0	0	Brazil	TQuicks
@@ -167,8 +171,9 @@ Score	Penalty	Country	Name
 0	0	Brazil	christeta
 0	0	Brazil	docardoso
 0	0	Brazil	e.luna
-0	0	Brazil	gvilardefarias
+0	0	Brazil	gmelosc
 0	0	Brazil	hugo.cabral
+0	0	Brazil	iduleba
 0	0	Brazil	joaoayalla19
 0	0	Brazil	lam5
 0	0	Brazil	marcos_hc
@@ -180,7 +185,4 @@ Score	Penalty	Country	Name
 0	0	Brazil	rlfquatro
 0	0	Brazil	rodolfoams
 0	0	Brazil	silviasfon
-0	0	Brazil	tiagomariinhoo
 0	0	Brazil	tutss
-0	0	Brazil	PedroX345
-0	0	Brazil	gmelosc
