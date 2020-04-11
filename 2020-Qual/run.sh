@@ -20,6 +20,8 @@ cat score-*.json \
 	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
 	|sort -n >> ALL.tsv
 
+head -n13001 ALL.tsv > ALL-top13000.tsv
+
 while read country; do
 	echo $'Rank\tScore\tPenalty\tCountry\tName' > "$country.tsv"
 	grep -P "\t$country\t" ALL.tsv >> "$country.tsv"

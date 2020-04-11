@@ -14,14 +14,14 @@ Apr 11 2020, 01:00 - Apr 11 2020, 03:30  (UTC)
 
 [🇹🇼 Taiwan](2020-Round1A/Taiwan.tsv)
 
-See Other Countries: [README.md](2020-Round1A/README.md)
+See Other Countries: [2020-Round1A/](2020-Round1A/)
 
 
 ## Qualification Round
 Apr 3 2020, 23:00 - Apr 5 2020, 02:00  (UTC)
 
-[🌏 World](2020-Qual/ALL.tsv)
+[🌏 World](2020-Qual/ALL-top13000.tsv)
 
 [🇹🇼 Taiwan](2020-Qual/Taiwan.tsv)
 
-See Other Countries: [README.md](2020-Qual/README.md)
+See Other Countries: [2020-Qual/](2020-Qual/)

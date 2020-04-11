@@ -1,7 +1,7 @@
 # Google Code Jam 2020 Qualification Round Scoreboard
 Apr 3 2020, 23:00 - Apr 5 2020, 02:00  (UTC)
 
-[🌏 World](ALL.tsv)
+[🌏 World](ALL-top13000.tsv)
 
 [🇹🇼 Taiwan](Taiwan.tsv)
 
