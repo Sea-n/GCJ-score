@@ -14,7 +14,7 @@ done
 
 wait
 
-echo $'Score\tPenalty\tCountry\tName' > ALL.tsv
+echo $'All\tScore\tPenalty\tCountry\tName' > ALL.tsv
 
 cat score-*.json \
 	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
