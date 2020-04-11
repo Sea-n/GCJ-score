@@ -3,7 +3,7 @@ cd "`dirname $0`"
 
 for r in `seq 1 200 30000`; do
 	p="`echo -n '{"min_rank":'$r',"num_consecutive_users":200}' |base64 |tr -d =`"
-	url="https://codejam.googleapis.com/scoreboard/000000000019f???/poll?p=$p" # XXX: Unknown Round ID
+	url="https://codejam.googleapis.com/scoreboard/000000000019ffff/poll?p=$p" # XXX: Unknown Round ID
 
 	(curl -s "$url"; echo =) \
 	|base64 -D |jq . > score-$r.json \
