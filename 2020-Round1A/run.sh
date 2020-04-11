@@ -1,9 +1,7 @@
 #!/bin/bash
 cd "`dirname $0`"
 
-rm score-*.json
-
-for r in `seq 1 200 50000`; do
+for r in `seq 1 200 15000`; do
 	p="`echo -n '{"min_rank":'$r',"num_consecutive_users":200}' |base64 |tr -d =`"
 	url="https://codejam.googleapis.com/scoreboard/000000000019fd74/poll?p=$p"
 
@@ -24,6 +22,8 @@ while read country; do
 	echo $'Rank\tScore\tPenalty\tCountry\tName' > "$country.tsv"
 	grep -P "\t$country\t" ALL.tsv >> "$country.tsv"
 done < country
+
+rm score-*.json
 
 git add .
 git commit -m "`date '+%b %d  %H:%M'`"
