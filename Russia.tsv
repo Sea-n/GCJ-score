@@ -26,6 +26,7 @@ Score	Penalty	Country	Name
 65	-4125045637	Russia	strizh78
 65	-4174188126	Russia	despair
 65	-4178972580	Russia	demidenko
+65	-5700467408	Russia	PavelKunyavskiy
 63	-2906959493	Russia	StarCuriosity
 63	-2966320713	Russia	pseuda
 63	-3247031745	Russia	Slamur
@@ -53,6 +54,7 @@ Score	Penalty	Country	Name
 63	-4873036173	Russia	ashmelev
 63	-4997934219	Russia	pikmike
 63	-5266674789	Russia	alexey.enkov
+63	-5416319689	Russia	lessmeaning
 63	-5567926921	Russia	aleks5d
 63	-5575451913	Russia	JPepper
 63	-5583389338	Russia	awesoon
@@ -69,6 +71,7 @@ Score	Penalty	Country	Name
 45	-5517506437	Russia	Jeck5ivk
 45	-6155196011	Russia	Riladavin
 40	-3478020283	Russia	FuryPotat0
+40	-5697487127	Russia	arksap2002
 40	-5840564486	Russia	letsolum
 37	-2896426568	Russia	xhbdlfkjgh
 37	-5095727931	Russia	aan93
@@ -84,17 +87,14 @@ Score	Penalty	Country	Name
 35	-5107285871	Russia	skydreamerr
 35	-5611699689	Russia	Dart-Xeyter
 31	-2556081452	Russia	Y0
-31	-2556081452	Russia	Y0
 31	-4994147335	Russia	alexX512
 31	-5686782660	Russia	evil_stivie
-28	-736326767	Russia	PavelKunyavskiy
 28	-1236517159	Russia	nUl1
 28	-1612161595	Russia	YulObraz
 28	-1684366467	Russia	darnley
 28	-1762107501	Russia	kormyshov
 28	-1844521860	Russia	temich.nosov
 28	-2148860945	Russia	meowmeal
-28	-2272920111	Russia	lessmeaning
 28	-2303390947	Russia	agulenko
 28	-2359318682	Russia	Vladimirr.Petrunko
 28	-2360461647	Russia	Goodhope
@@ -133,6 +133,8 @@ Score	Penalty	Country	Name
 28	-5084592143	Russia	danwallgun
 28	-5107930781	Russia	Nickolaz
 28	-5303074054	Russia	ityrov
+28	-5403000085	Russia	valerashm
+28	-5407999887	Russia	3_IQ
 13	-5354196136	Russia	Ivanforward
 10	-2642448667	Russia	zubrabubra
 10	-3099160093	Russia	The_Last_Wizard
@@ -147,7 +149,6 @@ Score	Penalty	Country	Name
 8	-3507633619	Russia	h4rdcode
 8	-3653315906	Russia	pichuser
 5	-1763640181	Russia	amisev
-5	-2609361259	Russia	arksap2002
 5	-3065928736	Russia	Mip182
 5	-3245074266	Russia	lostinlogfile
 5	-3759757099	Russia	blsd
@@ -160,10 +161,6 @@ Score	Penalty	Country	Name
 3	-4068414708	Russia	Arted2
 3	-5653948552	Russia	Zeliboba
 0	0	Russia	AndreyU
-0	0	Russia	kamilgg
-0	0	Russia	luntos
-0	0	Russia	olegshch
-0	0	Russia	3_IQ
 0	0	Russia	Anokhov
 0	0	Russia	Arut
 0	0	Russia	Daynyus
@@ -172,6 +169,10 @@ Score	Penalty	Country	Name
 0	0	Russia	SophiaNeu
 0	0	Russia	ch1hiro
 0	0	Russia	ilyozin
+0	0	Russia	kamilgg
 0	0	Russia	kofmanya
 0	0	Russia	lperovskaya
 0	0	Russia	luntos
+0	0	Russia	olegshch
+0	0	Russia	plotnikovanton
+0	0	Russia	radmirnovii
