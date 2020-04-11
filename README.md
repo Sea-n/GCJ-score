@@ -4,7 +4,11 @@
 ## Round 1B
 Apr 19 2020, 16:00 - Apr 19 2020, 18:30  (UTC)
 
-(Not yet available)
+[🌏 World](2020-Round1B/ALL.tsv)
+
+[🇹🇼 Taiwan](2020-Round1B/Taiwan.tsv)
+
+See Other Countries: [2020-Round1B/](2020-Round1B/)
 
 
 ## Round 1A
