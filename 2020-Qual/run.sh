@@ -14,15 +14,14 @@ done
 
 wait
 
-echo $'Score\tPenalty\tCountry\tName' > ALL.tsv
+echo $'Rank\tScore\tPenalty\tCountry\tName' > ALL.tsv
 
 cat score-*.json \
 	|jq -r '.user_scores[] |[.rank, .score_1, .score_2, .country, .displayname] |@tsv' \
-	|sort -n \
-	|cut -d $'\t' -f 2- >> ALL.tsv
+	|sort -n >> ALL.tsv
 
 while read country; do
-	echo $'Score\tPenalty\tCountry\tName' > "$country.tsv"
+	echo $'Rank\tScore\tPenalty\tCountry\tName' > "$country.tsv"
 	grep -P "\t$country\t" ALL.tsv >> "$country.tsv"
 done < country
 
