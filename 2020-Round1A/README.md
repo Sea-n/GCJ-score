@@ -1,38 +1,20 @@
 # Google Code Jam 2020 Round 1A Scoreboard
 Apr 11 2020, 01:00 - Apr 11 2020, 03:30  (UTC)
 
-[🌏 World](ALL.tsv)
-
-[🇹🇼 Taiwan](Taiwan.tsv)
-
-### Countries
+## Countries
 Ranked by contestants advanced to Round 2.
 
-+ [🇨🇳 China](China.tsv): 218
-+ [🇺🇸 United States](United States.tsv): 202
-+ [🇯🇵 Japan](Japan.tsv): 195
-+ [🇮🇳 India](India.tsv): 144
-+ [🇰🇷 South Korea](South Korea.tsv): 83
-+ [🇹🇼 Taiwan](Taiwan.tsv): 64
-+ [🇷🇺 Russia](Russia.tsv): 61
-+ [🇨🇦 Canada](Canada.tsv): 59
-+ [🇻🇳 Vietnam](Vietnam.tsv): 32
-+ [🇧🇷 Brazil](Brazil.tsv): 30
-+ [🇺🇦 Ukraine](Ukraine.tsv): 28
-+ [🇸🇬 Singapore](Singapore.tsv): 27
-+ [🇦🇺 Australia](Australia.tsv): 22
-+ [🇧🇩 Bangladesh](Bangladesh.tsv): 19
-+ [🇦🇷 Argentina](Argentina.tsv): 18
-+ [🇵🇱 Poland](Poland.tsv): 18
-+ [🇫🇷 France](France.tsv): 16
-+ [🇭🇰 Hong Kong](Hong Kong.tsv): 16
-+ [🇮🇩 Indonesia](Indonesia.tsv): 13
-+ [🇹🇭 Thailand](Thailand.tsv): 13
-+ [🇩🇪 Germany](Germany.tsv): 12
-+ [🇲🇽 Mexico](Mexico.tsv): 12
-+ [🇰🇿 Kazakhstan](Kazakhstan.tsv): 11
-+ [🇧🇾 Belarus](Belarus.tsv): 10
-+ [🇷🇴 Romania](Romania.tsv): 10
+0. [🌏 World](ALL.tsv): 1500
+1. [🇨🇳 China](China.tsv): 218
+2. [🇺🇸 United States](United%20States.tsv): 202
+3. [🇯🇵 Japan](Japan.tsv): 195
+4. [🇮🇳 India](India.tsv): 144
+5. [🇰🇷 South Korea](South%20Korea.tsv): 83
+6. [🇹🇼 Taiwan](Taiwan.tsv): 64
+7. [🇷🇺 Russia](Russia.tsv): 61
+8. [🇨🇦 Canada](Canada.tsv): 59
+9. [🇻🇳 Vietnam](Vietnam.tsv): 32
+10. [🇧🇷 Brazil](Brazil.tsv): 30
 
 
 ## Notes
