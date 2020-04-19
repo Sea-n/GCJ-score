@@ -11,1902 +11,2046 @@ Rank	Score	Penalty	Country	Name
 10	63	-2301939039	South Korea	ainta
 11	63	-2319985302	Russia	TyomaR
 12	63	-2327404155	China	wxh010910
-13	63	-2525313687	Poland	mnbvmar
-14	63	-3006788785	Taiwan	utaha
-15	37	-1563838683	China	jiry_2
-16	34	-1023442523	Russia	vintage_Vlad_Makeev
-17	34	-1605294123	Netherlands	JonathanBrouwer
-18	34	-1636218850	Germany	lumibons
-19	34	-1651392405	China	xllend3
-20	34	-1705798987	Romania	alex.velea
-21	34	-1734694368	Russia	BudAlNik
-22	34	-1890997651	Italy	bortoz
-23	34	-1899119624	Portugal	KLPP
-24	34	-1924577164	Ukraine	qwerty787788
-25	34	-2005191243	Russia	lollihunter
-26	34	-2117197764	South Korea	ugo
-27	34	-2309928621	Russia	okwedook
-28	34	-2463284064	Thailand	PeppaPig
-29	34	-3442504022	United States	Troublemaker
-30	32	-1848747263	Sweden	BjornMagn
-31	32	-1854485003	Japan	Rho17
-32	32	-1861179938	China	StudyingFather
-33	32	-1925871643	Japan	ush
-34	32	-2366425987	Russia	MikeMirzayanov
-35	32	-2423198193	South Korea	rkm0959
-36	29	-531211010	Czech Republic	majk
-37	29	-542552071	United Kingdom	jaems
-38	29	-608067584	Russia	maximumSHOT
-39	29	-621451049	Italy	dario2994
-40	29	-629110162	Lithuania	KrK
-41	29	-631700621	United Kingdom	Linguo
-42	29	-716789910	Poland	MajaTr
-43	29	-724524164	China	Siil
-44	29	-727838652	Russia	LHiC
-45	29	-736009567	Japan	WA_TLE
-46	29	-738528432	Russia	white2302
-47	29	-738581368	Russia	Golovanov399
-48	29	-739007695	South Korea	ae04071
-49	29	-740323226	Netherlands	JanKuipers
-50	29	-747995691	Sweden	Yarin
-51	29	-781046609	Mongolia	nvmdava
-52	29	-785552684	Vietnam	flashmt
-53	29	-803656266	Denmark	Tejs
-54	29	-805694566	Indonesia	chaotic_iak
-55	29	-808927816	Japan	nuip
-56	29	-817735623	Russia	cookiedoth
-57	29	-826587624	Germany	fagu
-58	29	-826658198	Japan	lowking
-59	29	-841474894	Lithuania	Tutis
-60	29	-843052834	Poland	krismaz
-61	29	-844961323	Russia	alex.shkarin
-62	29	-846606875	Vietnam	chemthan
-63	29	-872442476	Japan	Nyaan
-64	29	-876472740	Japan	hs484
-65	29	-879628555	Germany	eiv
-66	29	-881358373	Japan	hasipon
-67	29	-898786329	Japan	harady
-68	29	-906202940	United States	epicxtroll
-69	29	-910559750	Russia	caesarsaladdressing
-70	29	-911974612	France	Arturgo
-71	29	-917510010	Belgium	anthonyclays
-72	29	-926411840	Russia	SYury
-73	29	-926962603	Poland	tomekp
-74	29	-956442649	Poland	znirzejskwarka
-75	29	-961843815	Japan	ats5515
-76	29	-967815527	China	737
-77	29	-982045839	Australia	boboquack
-78	29	-986167502	Australia	gilesg
-79	29	-988940753	China	rushcheyo
-80	29	-992188153	Poland	ania
-81	29	-992514459	Russia	SendThemToHell
-82	29	-1002804786	Japan	JAPLJ
-83	29	-1010669256	Japan	olphe
-84	29	-1012836456	Russia	IgorI
-85	29	-1014179246	United States	isenbaev@gmail.com
-86	29	-1016750515	Poland	Swistakk
-87	29	-1020923133	Canada	itangdav
-88	29	-1025410732	Japan	Imperi
-89	29	-1033999992	Japan	shun0923
-90	29	-1035099619	Russia	platypus179
-91	29	-1037045513	Japan	kobae964
-92	29	-1047079323	Slovakia	maturvo
-93	29	-1048561593	Ukraine	Vasyl
-94	29	-1059455007	Singapore	WayTan
-95	29	-1064140591	Netherlands	CHelle
-96	29	-1067538667	United States	melaniekirsche
-97	29	-1072696298	Belarus	mhq
-98	29	-1073414864	Poland	SirEmentaler
-99	29	-1075820895	United States	sniffleheim
-100	29	-1086914240	Poland	bartek95
-101	29	-1093423319	Germany	Alexander86
-102	29	-1097976267	Vietnam	6aren
-103	29	-1102624308	Netherlands	mjdv
-104	29	-1109465513	Canada	Deemo
-105	29	-1114778292	Lithuania	JustasZ
-106	29	-1116724918	Finland	Laakeri
-107	29	-1123331809	Australia	tangentz
-108	29	-1123514406	Russia	darnley
-109	29	-1124739591	Germany	pwild
-110	29	-1128962072	Taiwan	gloompisces
-111	29	-1141741838	Ukraine	Wild.Hamster
-112	29	-1151148955	United Kingdom	DayDreamer007
-113	29	-1151193404	France	Tashiqi
-114	29	-1157621191	Romania	Alexa2001
-115	29	-1162415927	Belarus	Smylic
-116	29	-1168255525	United States	azhan0222
-117	29	-1175981523	South Korea	minwo3o
-118	29	-1177196421	Slovenia	xs0
-119	29	-1181928880	Australia	komisan
-120	29	-1188472862	Poland	buko
-121	29	-1194244310	China	hzw
-122	29	-1194814985	Ukraine	VladProg
-123	29	-1196408237	Japan	mkawa2
-124	29	-1196784356	China	Ronnoc
-125	29	-1197178119	Ukraine	mshcherba
-126	29	-1200251265	Armenia	altunyanv
-127	29	-1206312486	Netherlands	Reinier
-128	29	-1206716710	Latvia	jevi
-129	29	-1208313203	United Kingdom	psw
-130	29	-1211164657	Hong Kong	mariowong
-131	29	-1223816048	India	nikhilag2711
-132	29	-1228178461	Russia	anton.akhi
-133	29	-1235433366	South Korea	dh7401
-134	29	-1238735226	Japan	rsk0315
-135	29	-1246211979	Israel	roflmoqkz
-136	29	-1247797720	Kazakhstan	LeMans
-137	29	-1251836271	United Kingdom	raoxj
-138	29	-1252044001	United States	Jwang
-139	29	-1254938510	China	WenhaoSong
-140	29	-1260977779	Singapore	jianzhi
-141	29	-1265327103	Russia	Hackerham
-142	29	-1267889767	Decline to Answer	Potassium
-143	29	-1272248684	Japan	emthrm
-144	29	-1273241359	Belarus	Vikki_pikki
-145	29	-1273682101	Japan	potoooooooo
-146	29	-1274124247	United States	jonathanpaulson
-147	29	-1277206237	Germany	CJK
-148	29	-1287832426	India	tejas10p
-149	29	-1288556422	Russia	AlexZabashta
-150	29	-1300873727	United States	adamjamil
-151	29	-1305709284	Russia	Denisson
-152	29	-1314464203	Czech Republic	posij118
-153	29	-1316990431	Taiwan	afq873
-154	29	-1325468642	China	kblack
-155	29	-1336016182	Hong Kong	fuzen
-156	29	-1337271338	Germany	PFischbeck
-157	29	-1337348613	Croatia	Lovro
-158	29	-1344676322	South Korea	SebinKim
-159	29	-1355751820	Poland	aturko
-160	29	-1358282973	Japan	Rubikun
-161	29	-1360629592	Russia	andrewzta
-162	29	-1360976409	Ukraine	kilotaras
-163	29	-1361237627	Poland	w_
-164	29	-1364032187	China	gold1103
-165	29	-1366913064	Tunisia	lionadis
-166	29	-1370268738	China	jki14
-167	29	-1370979478	Poland	e-pluszak
-168	29	-1373928323	India	TheAnshul
-169	29	-1374139925	Russia	lostbreath
-170	29	-1380030960	Russia	danilgrig
-171	29	-1381159337	Singapore	fenwicktree
-172	29	-1383492956	Hong Kong	kerboi
-173	29	-1386684682	Japan	xuzijian629
-174	29	-1390910411	South Korea	16silver
-175	29	-1391607678	China	Rooobyn
-176	29	-1394965720	France	Gaspi
-177	29	-1398745988	South Korea	IHHI
-178	29	-1403306508	Romania	popovicirobert
-179	29	-1403361974	Japan	gogutan
-180	29	-1403416865	France	fbreton
-181	29	-1403432343	Hong Kong	kobebryan9
-182	29	-1404327241	Poland	Marcin.Smulewicz
-183	29	-1407670675	Russia	step_by_step
-184	29	-1409155704	Poland	eMBe
-185	29	-1409181276	Antarctica	jwg4
-186	29	-1412158618	Russia	Kuyan
-187	29	-1416571404	Vietnam	laoriu
-188	29	-1416580517	Japan	satos
-189	29	-1419216860	India	dredwerkz
-190	29	-1421910410	Romania	georgerapeanu
-191	29	-1422969182	Romania	tamionv
-192	29	-1426169472	Spain	cescmentation.folch
-193	29	-1428937664	United Kingdom	meta42
-194	29	-1432042796	Taiwan	nonamefour0210
-195	29	-1434202484	Russia	dmikhalin
-196	29	-1434549886	Thailand	Nonira
-197	29	-1439235771	Japan	ctyl
-198	29	-1442620198	France	francois_plusplus
-199	29	-1457614761	Romania	sebisebi
-200	29	-1465085963	India	amnesiac_dusk
-201	29	-1465288982	Russia	AndreySergunin
-202	29	-1471689561	Israel	NoamGut
-203	29	-1478774930	Taiwan	RogerW
-204	29	-1479662113	Germany	ben.natura@gmail.com
-205	29	-1482813047	China	lzw4896s
-206	29	-1482861774	France	nweeks_
-207	29	-1487963744	Switzerland	dj3500
-208	29	-1493095579	United Kingdom	a02
-209	29	-1500185989	Belgium	Nicolas16
-210	29	-1502760199	Czech Republic	osladky
-211	29	-1502905841	Ireland	sdedalus
-212	29	-1504701839	Japan	dpforest
-213	29	-1505819724	Taiwan	tsyr
-214	29	-1507517441	Japan	starline
-215	29	-1508271367	Japan	ei1333333
-216	29	-1509423861	Vietnam	iwantfreetshirts
-217	29	-1510541346	Latvia	kcivkulis
-218	29	-1513270246	Russia	zeliboba
-219	29	-1513318317	Armenia	harhrayr
-220	29	-1515902292	South Korea	shiftpsh
-221	29	-1519440982	United States	ctunoku
-222	29	-1519690847	Singapore	SadFace
-223	29	-1520212499	Netherlands	davidv
-224	29	-1527324744	Bulgaria	IvayloS
-225	29	-1528659951	Spain	EdgarMM19
-226	29	-1533081622	India	vyomkesh
-227	29	-1536669824	Russia	vpike
-228	29	-1540051364	Netherlands	Timon_Knigge
-229	29	-1551820565	Japan	enuemu
-230	29	-1556889156	India	harsh639
-231	29	-1558273399	Russia	Gassa
-232	29	-1559004710	Germany	baconit
-233	29	-1559556979	Japan	MikeCAT
-234	29	-1560626479	United States	jacob.b.zhang
-235	29	-1562022758	Australia	jum
-236	29	-1567325868	Russia	phire
-237	29	-1569634519	Ukraine	BohdanVey
-238	29	-1573082496	China	TankEngineer
-239	29	-1573962657	Russia	Kapt
-240	29	-1575400706	Japan	div_0x00
-241	29	-1576596429	Taiwan	johnathan79717
-242	29	-1578759597	Russia	vladklyachin
-243	29	-1579996836	Vietnam	Murica
-244	29	-1580860418	Switzerland	johutha
-245	29	-1584116881	United States	paladin8
-246	29	-1588988306	Japan	daisyo
-247	29	-1589011845	Japan	homesentinel
-248	29	-1592908341	Japan	HIR180
-249	29	-1595624177	Japan	anomuno
-250	29	-1601294929	United States	FireCire
-251	29	-1605151386	Poland	Wazemo
-252	29	-1615706247	South Korea	gs12117
-253	29	-1618959948	Brazil	TsubasaHanekawa
-254	29	-1620085116	Vietnam	low_
-255	29	-1620568773	Germany	NotMyName
-256	29	-1621720712	Russia	IlyaMSU
-257	29	-1621873509	Hungary	almasip
-258	29	-1622658914	South Korea	TAMREF
-259	29	-1628229497	United Kingdom	ndkrempel
-260	29	-1628888909	Romania	geniucos
-261	29	-1631463708	Czech Republic	JiriKalvoda
-262	29	-1632566301	France	arthy
-263	29	-1633586226	Slovakia	pali6
-264	29	-1637336083	Germany	Norbi42
-265	29	-1641177151	France	Tigron
-266	29	-1645501226	South Korea	GodTe
-267	29	-1648614065	United States	Noble.Mushtak
-268	29	-1650964213	South Korea	SuminKim
-269	29	-1651978743	Japan	yaoshimax
-270	29	-1656076000	South Korea	zhuny
-271	29	-1656438392	Portugal	ruippeixotog
-272	29	-1659262574	Czech Republic	Yongaron
-273	29	-1660798102	India	eeshan9815
-274	29	-1660882367	Finland	Lieska
-275	29	-1660996002	Japan	knzm
-276	29	-1661668768	China	clappear
-277	29	-1661887193	India	raghav03
-278	29	-1663754335	Poland	loK10
-279	29	-1666105820	India	AnubhavDhar
-280	29	-1674623588	United Kingdom	alex1770
-281	29	-1678585102	United States	amsraman
-282	29	-1683022278	Taiwan	cheissmart
-283	29	-1683422428	United Kingdom	dabar
-284	29	-1683599904	Hungary	Peudoki
-285	29	-1684100899	Indonesia	yogahmad
-286	29	-1687407531	United States	BigWaterMan
-287	29	-1694287619	Sweden	Flugan42
-288	29	-1701455568	Decline to Answer	y7
-289	29	-1705054224	France	AdrienVannson
-290	29	-1712386473	Japan	Ogtsn99
-291	29	-1712972977	India	anil9717
-292	29	-1713760463	Taiwan	GGJHONG
-293	29	-1715310754	Thailand	ThanadeeW
-294	29	-1718269474	Italy	MrBrionix
-295	29	-1719614141	Latvia	renaatsj
-296	29	-1722844278	South Korea	red1108
-297	29	-1723325523	South Korea	hyeonseop
-298	29	-1725923467	Russia	KalininN
-299	29	-1726202222	United States	Loks
-300	29	-1728386608	Poland	sarutonix
-301	29	-1729699701	China	justarandomstring
-302	29	-1733717837	South Korea	ijleesw
-303	29	-1734229681	Japan	Kawazoe
-304	29	-1735051359	Sri Lanka	suren31415
-305	29	-1742773548	India	Silversnitch
-306	29	-1743404677	Belarus	petuhovskiy
-307	29	-1748648393	Russia	ivanovmp
-308	29	-1750963494	Czech Republic	Vasek
-309	29	-1751102817	Italy	fram
-310	29	-1753440123	Cuba	gilcu3
-311	29	-1755779090	Russia	scanhex
-312	29	-1757864300	South Korea	taekop
-313	29	-1757970820	Bulgaria	AStanev
-314	29	-1760563832	South Korea	BByong
-315	29	-1765136079	Poland	cuber2460
-316	29	-1770555573	Turkey	Atacan
-317	29	-1771050326	United States	ang421
-318	29	-1773276114	Japan	yehara
-319	29	-1778118732	Russia	Ekler
-320	29	-1784047875	Estonia	nigulh
-321	29	-1784277406	France	vxgmichel
-322	29	-1784690305	Russia	XraY
-323	29	-1785247680	Ukraine	KostasKostil
-324	29	-1785748007	Russia	Umqra
-325	29	-1785950965	China	WangDong
-326	29	-1786281808	France	Amaury.Liet
-327	29	-1786397625	Poland	Mikpol
-328	29	-1789306056	Japan	Startcpp
-329	29	-1792315016	Canada	edy3
-330	29	-1793758701	India	geekpradd
-331	29	-1795103818	Russia	Metaray21
-332	29	-1797264141	Japan	idaten459
-333	29	-1797478492	United States	bogeyman
-334	29	-1799972803	Japan	cos
-335	29	-1803754025	Sweden	aitch
-336	29	-1805625281	South Korea	youx
-337	29	-1809015592	Brazil	tiagoshibata
-338	29	-1813268911	Ukraine	passs
-339	29	-1814202521	Indonesia	corona
-340	29	-1817828796	Slovakia	vlejd
-341	29	-1818094037	Canada	elavi
-342	29	-1827183668	United States	joeythaman
-343	29	-1828423641	Poland	staniewzki
-344	29	-1838022488	Japan	Altair626
-345	29	-1838684945	China	gxnncrx
-346	29	-1842180768	Belgium	jeroendemeyer
-347	29	-1855439556	France	Nanored
-348	29	-1859458480	China	MjLee
-349	29	-1859518675	South Africa	dolphingarlic
-350	29	-1860755980	Poland	ggawryal
-351	29	-1863673469	Russia	Wazowski
-352	29	-1864392327	Hong Kong	lwchkg
-353	29	-1864791622	Japan	ksconvex@gmail.com
-354	29	-1869967542	Japan	starwand
-355	29	-1870911988	Russia	Agreb
-356	29	-1871929480	India	aneesh2312
-357	29	-1873076436	Israel	doodoo
-358	29	-1873559550	Ukraine	skozyr
-359	29	-1875275188	Japan	tyawanmusi
-360	29	-1881385106	South Korea	Rebel_lion
-361	29	-1882249939	Russia	mikhail.levin@gmail.com
-362	29	-1888414327	Brazil	CaroLinda
-363	29	-1889014082	Netherlands	M1chael0906
-364	29	-1890509512	Russia	Kurpilyansky
-365	29	-1894558282	Peru	forifchen
-366	29	-1898351483	South Korea	Doju
-367	29	-1904496119	Vietnam	huyvvo
-368	29	-1905965444	Thailand	nutmos
-369	29	-1907690666	Japan	sensaur
-370	29	-1908858910	Italy	simpatine
-371	29	-1908927245	South Africa	HiltonLange
-372	29	-1910828649	China	lcy156250
-373	29	-1911914139	India	nitesh_gupta
-374	29	-1919044465	China	白衣少年
-375	29	-1923389400	India	code_struck
-376	29	-1925002157	Italy	rolandbernard
-377	29	-1927909666	Bangladesh	rebornplusplus
-378	29	-1928601638	Japan	Moyashi
-379	29	-1934431255	Israel	Tashm
-380	29	-1938894397	Germany	Zwergesel
-381	29	-1941875893	Romania	dgriza
-382	29	-1942275394	Japan	lyoz
-383	29	-1944704686	China	computer_luo
-384	29	-1945191060	Russia	alex700
-385	29	-1947362806	China	iaojnh
-386	29	-1950222525	Poland	DamianS
-387	29	-1956334677	Russia	MakArtKar
-388	29	-1956541840	Japan	hotpepsi
-389	29	-1959062442	Poland	xman1024
-390	29	-1959550393	Ukraine	Viri_Aldi
-391	29	-1961404338	China	besieger
-392	29	-1962935446	South Korea	grace0068
-393	29	-1967695645	India	jeeva2812
-394	29	-1968105591	Italy	MyK00L
-395	29	-1970001641	Decline to Answer	gizzywump
-396	29	-1971069256	Ukraine	maksprotsyk
-397	29	-1971617613	Czech Republic	pepat
-398	29	-1973825830	Taiwan	Glair
-399	29	-1974549307	Brazil	Bossle
-400	29	-1976499229	Japan	GoldIngot
-401	29	-1981404896	China	shiuang
-402	29	-1983284723	France	Bcollet
-403	29	-1985068050	United Kingdom	KernelJ
-404	29	-1985517227	Germany	davidKonka
-405	29	-1987448400	South Korea	ertyu
-406	29	-1989789496	Bangladesh	tasmeemreza
-407	29	-1992175004	Russia	sleirsgoevy@gmail.com
-408	29	-1992632619	South Korea	yooyou7
-409	29	-1993776676	Hong Kong	chengheichit
-410	29	-1994438978	Taiwan	dreamoon_love_AA
-411	29	-2000501817	China	sdcgvhgj
-412	29	-2001063167	Germany	JdPL
-413	29	-2007293659	Brazil	mariohss
-414	29	-2008485285	India	abisheka
-415	29	-2011080373	Thailand	p.oon
-416	29	-2014784319	Germany	0x544C
-417	29	-2015961164	South Korea	LunarHY
-418	29	-2019033651	United States	Tsumiman
-419	29	-2019813262	Russia	voidmaxn
-420	29	-2021427347	France	Lanfeust
-421	29	-2023772289	Canada	Saeed.Odak
-422	29	-2025515213	Poland	tpablo
-423	29	-2027182244	New Zealand	Richard811
-424	29	-2027791042	India	Chayanj450
-425	29	-2030291928	Japan	nebukuro09
-426	29	-2031490398	China	sega_hsj
-427	29	-2031556187	Israel	almogn
-428	29	-2032486213	China	Lgq_3de5
-429	29	-2033038364	India	SuryaPrakash
-430	29	-2038682652	United States	CoffeePlease
-431	29	-2038710027	Russia	anatolik
-432	29	-2040035910	Russia	cdkrot
-433	29	-2043065391	France	Niols
-434	29	-2048569262	China	Whisdangist
-435	29	-2048648003	Israel	meir
-436	29	-2048704558	Italy	LucMac
-437	29	-2049578617	Indonesia	fikr
-438	29	-2049605387	Hungary	schtomi97
-439	29	-2055712026	Macau	Agu1729
-440	29	-2056629848	France	Xoff
-441	29	-2056921389	South Korea	coffeetea
-442	29	-2059334759	Japan	nakari1124
-443	29	-2063191354	Japan	nrvft
-444	29	-2064286949	Belgium	SeppeVS
-445	29	-2069892078	Netherlands	krijgertje
-446	29	-2071796599	United States	Catalystic
-447	29	-2073319240	India	treenode
-448	29	-2074245613	Russia	Flange
-449	29	-2074510353	Czech Republic	Drecker
-450	29	-2076806701	United States	jdurie
-451	29	-2076850886	Taiwan	yp155136
-452	29	-2085602532	Taiwan	SheepRanger
-453	29	-2090373095	Poland	TomaszPawicki
-454	29	-2095012025	Japan	N_hara
-455	29	-2095347984	China	nike0good
-456	29	-2096643221	Norway	stubbscroll
-457	29	-2097861963	Germany	fjuengermann
-458	29	-2103268721	Poland	agutowski
-459	29	-2107287069	Brazil	wjoao
-460	29	-2107768949	Japan	nagitaosu
-461	29	-2111005314	Bangladesh	irri
-462	29	-2112077882	Russia	EgorLifar
-463	29	-2112799918	Japan	_uenoku
-464	29	-2113331082	United States	abcdefguan
-465	29	-2113489506	South Korea	Namnamseo
-466	29	-2118575163	Australia	lackofcheese
-467	29	-2120370188	Slovakia	markopuza
-468	29	-2121911197	Spain	JordiR
-469	29	-2121912770	France	confitureDuB4
-470	29	-2122414182	United Kingdom	ArthurConmy
-471	29	-2122500686	Mexico	fgrl1408@gmail.com
-472	29	-2123806314	Argentina	gastisalgado
-473	29	-2129843990	Japan	phyllo
-474	29	-2130163302	Taiwan	sayuan
-475	29	-2133632797	Japan	autumn_eel
-476	29	-2134691889	Japan	otazami
-477	29	-2136390750	United States	Imnimo
-478	29	-2137029332	Poland	karol.kaszubki@gmail.com
-479	29	-2142084431	Vietnam	Combi2k2
-480	29	-2142259820	Russia	cezarnik
-481	29	-2142332962	Japan	kanpurin
-482	29	-2143702732	China	CroMarmot
-483	29	-2143902404	Israel	Yardenporat
-484	29	-2145020208	United States	ochre
-485	29	-2145125919	India	Dhull442
-486	29	-2147374504	Hong Kong	mhcmatthew
-487	29	-2147939284	South Korea	gratus907
-488	29	-2152953060	Armenia	RubenAshughyan
-489	29	-2160351736	Poland	kobor
-490	29	-2161188473	South Korea	dtc03012
-491	29	-2162065442	China	JogleLew
-492	29	-2162213367	United States	abliss
-493	29	-2165647164	South Korea	Biigbang
-494	29	-2168436420	Romania	freak93
-495	29	-2170781972	Japan	niwatori
-496	29	-2173066267	India	metalman
-497	29	-2178129021	Argentina	pablobce
-498	29	-2178843907	Thailand	tana
-499	29	-2181836154	Bulgaria	anrieff
-500	29	-2186666268	Japan	ShanOvery
-501	29	-2187222187	Germany	vdeksel
-502	29	-2190049554	India	toxic_hack
-503	29	-2194784127	United States	Chris314
-504	29	-2195757528	Russia	elizarov
-505	29	-2196993324	India	lavish315
-506	29	-2198712745	India	raghav19
-507	29	-2200193359	United States	JohnNo
-508	29	-2201066958	Belarus	sharepo
-509	29	-2203042083	China	wuqing157@gmail.com
-510	29	-2203150670	Taiwan	weitang114
-511	29	-2207481010	Poland	malcin
-512	29	-2207744825	Russia	KS2003
-513	29	-2208864624	Italy	TommasoBendinelli
-514	29	-2213298492	Kazakhstan	ttim
-515	29	-2214743430	Ukraine	Fcdkbear
-516	29	-2219529755	Ukraine	kirill.golodnov
-517	29	-2219542043	Russia	opukittpceno_hhr
-518	29	-2219813541	Brazil	pedrohlf
-519	29	-2221915107	Canada	dden4ik
-520	29	-2224105857	Hungary	Pyth
-521	29	-2225748607	Poland	zglicz
-522	29	-2233363870	Hong Kong	YanruCheng
-523	29	-2234767029	China	Heart.Blue
-524	29	-2236787400	South Korea	ahgus89
-525	29	-2239296371	Poland	Nieznany
-526	29	-2241117031	India	TarushGoyal2000
-527	29	-2241411255	France	rthr
-528	29	-2241577785	Japan	yukidaruma6
-529	29	-2242846346	France	succo
-530	29	-2242918136	China	coup_de_grace
-531	29	-2246428359	India	Hitesh_0301
-532	29	-2247909370	Japan	jun__
-533	29	-2249543321	Canada	ThreeInches
-534	29	-2250099869	Russia	NALP
-535	29	-2257537619	China	squarefk
-536	29	-2258272993	Latvia	gedrox
-537	29	-2260832833	South Korea	starwh03
-538	29	-2265168357	France	Yannou27
-539	29	-2276890901	Italy	Fedux
-540	29	-2277517950	Chile	martins
-541	29	-2284589879	India	machhra
-542	29	-2286608532	India	vinmaxx
-543	29	-2288667019	Israel	Romdud
-544	29	-2289811081	Taiwan	Chung-Shang-Hsuan
-545	29	-2290381651	Russia	alexX512
-546	29	-2290691104	United States	FieryPhoenix
-547	29	-2293143761	China	ZhouYuChen
-548	29	-2296989502	India	err_pv
-549	29	-2300893981	Indonesia	r.i
-550	29	-2301685281	South Korea	skdudn321
-551	29	-2304639275	India	pushpendra1997
-552	29	-2311954808	United Kingdom	Smithers
-553	29	-2313928049	India	RKJenamani
-554	29	-2318972964	India	nitix
-555	29	-2320917440	Russia	UmbraNoctis
-556	29	-2323987718	Russia	dmkozyrev
-557	29	-2324459010	China	thirtiseven
-558	29	-2329688900	India	shivammittal99
-559	29	-2339295447	Latvia	Krisjanis
-560	29	-2340131114	Singapore	mzy
-561	29	-2341048576	China	an.dev
-562	29	-2341721340	China	trort
-563	29	-2343291857	Brazil	lamartine.cb
-564	29	-2346026750	China	bluewang
-565	29	-2346261506	China	choumartin1234
-566	29	-2348269248	Croatia	paulica
-567	29	-2354627267	Singapore	Acceleraizer
-568	29	-2360398366	Japan	n4o847
-569	29	-2377323293	China	Reku
-570	29	-2378187441	Iceland	FatliAnnar
-571	29	-2382044951	Hong Kong	kmyiu
-572	29	-2385384694	Russia	clown_rusofob
-573	29	-2398645491	Romania	apostoldaniel854
-574	29	-2401406183	Russia	sevlll
-575	29	-2405517349	Vietnam	EmperorQT
-576	29	-2412579775	France	nitrogenc
-577	29	-2430702174	Russia	klimoza
-578	29	-2442007694	France	webalorn@gmail.com
-579	29	-2449161897	Taiwan	qazwsxedcrfvtg14
-580	29	-2456357995	United Kingdom	Tan()
-581	29	-2466996308	France	Optidad
-582	29	-2470195578	India	Dipjal.Chhetri
-583	29	-2478932932	China	YiYi
-584	29	-2480687686	South Korea	str0ct
-585	29	-2491405458	Lithuania	GretaM
-586	29	-2508526853	Ukraine	Sky_Nik
-587	29	-2511678717	India	cerberus97
-588	29	-2511791936	Japan	shop_one
-589	29	-2519050135	United States	kmod
-590	29	-2526348874	China	RUSH_D_CAT
-591	29	-2526420931	United States	bobloblaw
-592	29	-2526974098	Slovenia	grekiki
-593	29	-2528192229	Germany	Felerius
-594	29	-2541497936	Taiwan	Sean64
-595	29	-2542979280	Slovakia	goober
-596	29	-2546722066	Switzerland	johannesk
-597	29	-2553413647	South Korea	withham1
-598	29	-2563608731	Japan	nagiss
-599	29	-2565253795	Poland	Arti1990
-600	29	-2584843328	Brazil	ViniciusCabessa
-601	29	-2595484960	South Korea	jaehaaheaj
-602	29	-2661537002	Germany	Degalat57
-603	29	-2669828499	United Kingdom	Zherui
-604	29	-2739125578	Indonesia	Nich
-605	29	-2786371993	India	air3healer
-606	29	-2801346143	China	Barty
-607	29	-2830147515	India	VageshVerma
-608	29	-2833809931	Taiwan	ltf0501
-609	29	-2843335218	Russia	pavlekn
-610	29	-2856053620	Spain	Rosman
-611	29	-2913065864	Australia	pkunsw
-612	29	-2955879592	United States	m1sch3f
-613	16	-1544319228	Hong Kong	garethhkm2023
-614	16	-1993801427	Japan	nuts1216
-615	16	-2347452990	Japan	koyopro
-616	16	-2352268740	Japan	kei1107
-617	13	-418005685	Hong Kong	southball
-618	13	-695657186	Ukraine	Sonechko
-619	13	-778213443	Mexico	Franco1010
-620	13	-807919972	Russia	Valentin_E
-621	13	-809054323	China	myp
-622	13	-810224322	Germany	amr962
-623	13	-821968305	India	furious__
-624	13	-868149647	Hungary	attila
-625	13	-890464187	Egypt	It_Wasnt_Me
-626	13	-911592340	India	Xetrazeus
-627	13	-913115378	Canada	vEver
-628	13	-924920148	United States	limabeans
-629	13	-930423504	India	thatprakhar
-630	13	-950989520	Belarus	Pavel.Sheftelevich
-631	13	-984571892	United States	Harpae
-632	13	-1002361767	Kazakhstan	HCPS42
-633	13	-1006456295	United States	davidxl7
-634	13	-1019841030	Brazil	NaimSS
-635	13	-1020254937	India	starboy_jb
-636	13	-1020942638	Taiwan	lolicon_tw
-637	13	-1083775735	India	Priyam2k
-638	13	-1147294547	South Korea	Dogdriip
-639	13	-1155276564	Japan	ryo_n
-640	13	-1167461606	France	noelnadal
-641	13	-1180333906	India	fastboot
-642	13	-1200435786	India	dhruv2000
-643	13	-1201812582	Iceland	MadMonkeyCo
-644	13	-1213640724	India	AkJn
-645	13	-1219436628	India	harshlunagaria
-646	13	-1221821734	India	raunit_x
-647	13	-1236258106	Jordan	OmarNaseer
-648	13	-1236757260	India	NehaModak
-649	13	-1247692817	Russia	Slavik.MSU
-650	13	-1250289677	India	streaker_rules
-651	13	-1253496996	Japan	simamumu
-652	13	-1259333493	India	RahulKumarSharma
-653	13	-1273071070	Egypt	AhmedSalem
-654	13	-1282950523	Poland	Karintor
-655	13	-1284617711	Japan	shirakia
-656	13	-1290643724	Japan	kzyKT
-657	13	-1297193020	Uzbekistan	Asadullo
-658	13	-1302613543	India	nemausus
-659	13	-1303730371	Romania	PlayLikeNeverB4
-660	13	-1304147506	Japan	rinzu17
-661	13	-1310599782	Tunisia	ILGLAYS
-662	13	-1317012899	India	Gaurav_8
-663	13	-1324409348	Russia	igorjan94
-664	13	-1324654438	India	Atishayay
-665	13	-1325210829	India	Horcrux1729
-666	13	-1347058920	Egypt	Ahmed_Diab
-667	13	-1349504249	China	Yeah2333
-668	13	-1350320793	United States	RealNero
-669	13	-1360339417	India	Its_Easy
-670	13	-1381264643	India	fascineted
-671	13	-1382057707	India	dryairship
-672	13	-1384828351	India	dwai009
-673	13	-1386806436	India	aggarwalvinayak
-674	13	-1389622505	India	nishant.ns19
-675	13	-1400648701	Russia	krukovna
-676	13	-1407630512	Oman	Ahmed_Allawati
-677	13	-1427164688	Russia	Pennyroyal_tea
-678	13	-1433918218	Japan	obancha
-679	13	-1434290341	United States	yaqizhang
-680	13	-1441916150	Slovakia	P4nda
-681	13	-1452571590	Russia	andr0901
-682	13	-1453607799	Bangladesh	CLown1331
-683	13	-1457661702	India	praveenojha33
-684	13	-1460919488	Japan	minus9d
-685	13	-1462611903	Japan	soshun
-686	13	-1473868959	United States	ConradBailey
-687	13	-1474882283	India	Aakash10399
-688	13	-1478134304	India	Pulkit100
-689	13	-1478905995	Germany	nellex
-690	13	-1490667593	India	anurag_mudgil
-691	13	-1492210830	India	jheel4
-692	13	-1500592972	Kazakhstan	Sanzhar23
-693	13	-1501705237	India	adarshgupta56444@gmail.com
-694	13	-1510991711	Ukraine	rudenko_gold
-695	13	-1520257743	Russia	CsuD
-696	13	-1523199741	China	zyx_xiao
-697	13	-1523938466	India	smit.mangukiya
-698	13	-1524261204	India	Arshad2117
-699	13	-1533047405	Chile	pdesolminihac
-700	13	-1539617517	India	arron-tij
-701	13	-1539700947	India	suri_kumkaran
-702	13	-1546015166	United States	YuhanWu
-703	13	-1549681187	Czech Republic	kyticka
-704	13	-1552229658	Bolivia	pharaoh385
-705	13	-1559296576	Peru	roypalacios
-706	13	-1564250313	Japan	kichi2004
-707	13	-1567927889	India	arsh99
-708	13	-1571102237	India	AkashHamirwasia
-709	13	-1575766470	China	gjy@ustc.edu.cn
-710	13	-1579393204	India	potter1024
-711	13	-1581120168	India	RKtheGREAT007
-712	13	-1587222064	Hungary	balint8540
-713	13	-1593640717	United States	somemeat
-714	13	-1601389456	India	dharmaraj_82
-715	13	-1609284761	Russia	empty_walls
-716	13	-1611496372	Italy	Guineapig
-717	13	-1620613979	Romania	a1ex
-718	13	-1650937820	Germany	daniel.werner
-719	13	-1656707238	Mexico	sergio10barca
-720	13	-1672045360	India	mayank1999
-721	13	-1677766211	Japan	Yut176
-722	13	-1678817248	India	zyrch
-723	13	-1684353366	Japan	johnnyhibiki
-724	13	-1696659758	United States	clairebearr
-725	13	-1704595273	India	aayush9
-726	13	-1723580744	India	vivekrawat969
-727	13	-1734917761	India	bashr18
-728	13	-1743673390	Vietnam	duy_sau_rom
-729	13	-1748269896	India	Anonymous_bunny
-730	13	-1750663309	Poland	endrjuskr
-731	13	-1756461529	India	AVSTYLES
-732	13	-1759052458	Slovakia	Phyrexian
-733	13	-1766533881	Japan	SCL
-734	13	-1767120930	Brazil	guimafelipe
-735	13	-1767615312	Croatia	Kresimir
-736	13	-1768690225	China	lozy
-737	13	-1776518183	India	arjitkansal
-738	13	-1778146878	India	mujtaba1747
-739	13	-1799062919	United States	ajs0031
-740	13	-1799216701	Singapore	jonchan51
-741	13	-1800157315	United States	aiy12
-742	13	-1803043273	United States	soul2197
-743	13	-1806370372	Tunisia	M4mou
-744	13	-1810767754	India	arun.rajora
-745	13	-1818167286	India	ssid8802
-746	13	-1823786461	India	johnwick690
-747	13	-1826194300	Brazil	reiracofage
-748	13	-1826686528	South Korea	Desertship02
-749	13	-1835624570	Japan	s.sh
-750	13	-1837541864	Norway	LiquidHuskEel
-751	13	-1838510708	India	azadkumar
-752	13	-1838654033	India	Lezendary_Sandwich
-753	13	-1839684618	India	ujjawalpabreja
-754	13	-1851536894	India	sajalagrawal14
-755	13	-1852442202	India	arjun_9426
-756	13	-1860098131	Tunisia	AmEr
-757	13	-1874028658	United States	LinkedListMan
-758	13	-1874818573	China	angrypop
-759	13	-1890324349	Egypt	WaleedBadr
-760	13	-1891095351	Netherlands	vanvector@gmail.com
-761	13	-1898758244	India	shivams
-762	13	-1900088209	United States	youbo_
-763	13	-1904470562	India	kazuki08
-764	13	-1907934628	India	mehul_02
-765	13	-1909957434	United States	abhiraj26
-766	13	-1920135431	United States	Bryan004
-767	13	-1922268447	Turkey	Serhat.Giydiren
-768	13	-1925895813	India	K@v!t
-769	13	-1928640948	India	livelyC0der
-770	13	-1933674791	Thailand	Tata201201
-771	13	-1942086927	Japan	Treeone
-772	13	-1944352512	Bangladesh	inam
-773	13	-1949585918	India	ayushheritage18@gmail.com
-774	13	-1950448802	Brazil	Arkham_Knight
-775	13	-1952254171	Hong Kong	zhhheidi
-776	13	-1952962760	Venezuela	aras.7
-777	13	-1955360301	India	tejkiran_v
-778	13	-1959339283	India	RampalMishra
-779	13	-1966683191	India	Visvesh
-780	13	-1967566691	Germany	AlexZorn
-781	13	-1968011478	India	sanskaragrawal
-782	13	-1975683014	India	kassutta
-783	13	-1976404063	India	kapillamba4
-784	13	-1980795463	China	humanfy
-785	13	-1984006802	France	Zadkiel
-786	13	-1984394198	India	devanshrajgarhia
-787	13	-1989888350	India	bhvdsi
-788	13	-1993108205	India	sumanta1234
-789	13	-1997995513	India	Hackcyborg
-790	13	-1998856128	Lithuania	robertasn
-791	13	-2000171747	Russia	Pelmener
-792	13	-2007842467	India	sakshamb99
-793	13	-2013415843	India	courtesy
-794	13	-2021790491	United States	Ratmir15
-795	13	-2022703715	India	anjn98
-796	13	-2028837252	Netherlands	ErnstRoos
-797	13	-2029969659	United States	PresidentSam100
-798	13	-2030099629	India	asheshvidyut
-799	13	-2032883847	Bangladesh	TheHalfBlo0dPrince
-800	13	-2034336412	China	吹风思密达
-801	13	-2035231249	Portugal	GambuzX
-802	13	-2035527098	United Kingdom	freebuddhistjay
-803	13	-2036475265	Ukraine	vanchope
-804	13	-2043447237	China	Codle
-805	13	-2050708594	Germany	nanoalpaca
-806	13	-2052191753	India	devanshugupta
-807	13	-2053428678	India	Sumukh_Bhardwaj
-808	13	-2056229265	United States	puma314
-809	13	-2057740354	Poland	maras
-810	13	-2059148277	Singapore	pvtuan10
-811	13	-2059874583	Brazil	bira37
-812	13	-2060942411	India	muNick
-813	13	-2062365203	Japan	harmokey
-814	13	-2064874308	India	chirag7145
-815	13	-2066004832	Japan	monyone
-816	13	-2070813991	India	gamechanger195
-817	13	-2083268775	Lithuania	Šaučiu1
-818	13	-2084181749	India	ritik_patel05
-819	13	-2084839212	Turkey	burakferit
-820	13	-2086970342	United States	kongbomb
-821	13	-2088839590	Japan	developmaso
-822	13	-2089485281	Thailand	KSoul
-823	13	-2098635499	Macedonia [FYROM]	plomicom
-824	13	-2100612393	India	A_A
-825	13	-2102830464	Bulgaria	espr1t
-826	13	-2108901424	Japan	imulan
-827	13	-2113462312	India	mrBansal
-828	13	-2113558125	Vietnam	aladine
-829	13	-2115922301	Japan	kawap23
-830	13	-2116388763	Philippines	Steve_120
-831	13	-2117433249	India	starboy_1299
-832	13	-2121481724	Hungary	Pred4c3
-833	13	-2122913758	Belarus	vladik
-834	13	-2125297338	Russia	ilye@yandex.ru
-835	13	-2127063142	France	eddie.von.becehem
-836	13	-2129474832	India	Vince24
-837	13	-2132775302	Taiwan	puppy955101
-838	13	-2133515076	Russia	dkirienko
-839	13	-2136228410	Taiwan	thumbd12856
-840	13	-2137912713	Hong Kong	Jonowo
-841	13	-2141052018	Thailand	pongtaewin
-842	13	-2144747174	Taiwan	dancooper0705
-843	13	-2147089641	China	juliancomeon
-844	13	-2152035487	India	Chocobar
-845	13	-2161182707	Italy	simonedegiacomi
-846	13	-2169878476	India	rishabh_singh_
-847	13	-2172004530	Czech Republic	sloniChobot
-848	13	-2182380214	Russia	alexmir1
-849	13	-2182674595	Russia	tirlimster
-850	13	-2192729004	China	justever86
-851	13	-2194534285	India	mr.convict
-852	13	-2195609011	China	Backlight
-853	13	-2196887689	Japan	nonsava
-854	13	-2201775468	India	a_mysterious_x
-855	13	-2203784727	Andorra	ViloCat
-856	13	-2205394522	United States	Taekyukim02@gmail.com
-857	13	-2205895290	Vietnam	vedjgnab
-858	13	-2219713047	Poland	majra
-859	13	-2220253990	Russia	gkhalin
-860	13	-2222188910	Romania	Pety
-861	13	-2224293825	United States	iswitzer
-862	13	-2225637633	South Korea	hayman42
-863	13	-2226219035	Ukraine	Kozyr
-864	13	-2229933579	Belgium	jesseh
-865	13	-2232530261	China	Cherish
-866	13	-2236203861	Japan	Novemura
-867	13	-2236948173	Indonesia	tzaph_
-868	13	-2245148662	Bangladesh	Nafis_Shahriar
-869	13	-2249771218	Bosnia and Herzegovina	holix
-870	13	-2250452612	Japan	tatsy
-871	13	-2256575119	Russia	AlesyaIvanova
-872	13	-2258061835	Canada	jjjding2
-873	13	-2261105591	Czech Republic	zitmen
-874	13	-2266877770	Bangladesh	strange.r
-875	13	-2274825700	Egypt	Ahmed_Alansary
-876	13	-2275124437	Taiwan	Yazmau
-877	13	-2279389900	Uzbekistan	TheArtOfWar
-878	13	-2292143277	India	parthpm
-879	13	-2297342993	South Korea	hunni10
-880	13	-2301161206	Japan	TrpFrog
-881	13	-2312239102	Japan	rokahikou
-882	13	-2313960828	India	blast
-883	13	-2323952797	India	Sid03
-884	13	-2325809149	Ukraine	danylo99
-885	13	-2331271738	Macau	charterla
-886	13	-2331620487	Netherlands	flatwhite
-887	13	-2338438662	India	cocoaNcheese
-888	13	-2339824556	Indonesia	mastre
-889	13	-2340709458	Croatia	gustav
-890	13	-2343799410	Georgia	oTTo_22
-891	13	-2346731661	Brazil	iamavalon
-892	13	-2361498216	Taiwan	hortune
-893	13	-2365717147	Brazil	su007
-894	13	-2367322659	Poland	DomiKo
-895	13	-2382964190	Japan	t_motooka
-896	13	-2395550905	Kazakhstan	YerzhanU
-897	13	-2417656933	South Korea	gosookyunggo
-898	13	-2417802832	India	sajmera_2629
-899	13	-2419348616	Canada	DarinTay
-900	13	-2432605628	Japan	stdll
-901	13	-2435930004	Taiwan	tkain
-902	13	-2452967269	Israel	Tzafrir
-903	13	-2463606913	Japan	goryudyuma
-904	13	-2488099166	India	zypher27
-905	13	-2504520947	Italy	space_mushroom
-906	13	-2518711059	South Korea	Einstrasse
-907	13	-2521937392	Spain	JaimeRG01
-908	13	-2527088842	India	PyAlpha
-909	13	-2533573496	Egypt	HossamAhmed
-910	13	-2539345650	Japan	kumalimak
-911	13	-2553477466	China	Ir1d
-912	13	-2554048587	United States	eenz
-913	13	-2561529248	Brazil	FelipeF
-914	13	-2592776610	China	Noisy_JohnSmith
-915	13	-2597031659	India	Addy007
-916	13	-2599421523	India	Jashlodhavia
-917	13	-2624621878	United Kingdom	pirosl
-918	13	-2626737667	India	Vaibhav_Domadia
-919	13	-2643328776	India	vasu0403
-920	13	-2643553548	India	i_love_programming
-921	13	-2663975644	India	baghel_vikas
-922	13	-2681484624	Russia	artditel
-923	13	-2718486903	South Korea	surverrepairman
-924	13	-2829593442	Japan	naoya_t
-925	13	-2902974268	Russia	Cabpacob
-926	13	-2963807072	Italy	MalleAbile
-927	13	-2977005607	United States	Shunyu
-928	13	-3060538540	India	rakesh1601
-929	13	-3360338561	India	amit839
-930	8	-1211279865	Japan	SSRS
-931	8	-1983525611	Japan	torajiro
-932	5	-893120070	India	Nag007
-933	5	-994835699	Romania	retrograd
-934	5	-1002610688	Israel	tomerv
-935	5	-1005166972	Taiwan	adzen
-936	5	-1022746933	Japan	Keroru
-937	5	-1090449118	United States	neeyanthkvk
-938	5	-1098461815	Japan	Moketi
-939	5	-1142493394	India	shroo
-940	5	-1216166443	France	redst0
-941	5	-1244697290	Bangladesh	SAIF_IIT-JU
-942	5	-1252034882	Japan	tomboftime
-943	5	-1302274856	India	Guttu_Maharaja
-944	5	-1314548160	Russia	Jatana
-945	5	-1344731849	United States	turbofreeze
-946	5	-1354001382	United States	Khaelex
-947	5	-1363631271	Canada	bobxiong88
-948	5	-1407946557	Brazil	vitorricoy
-949	5	-1413396506	Azerbaijan	namazov
-950	5	-1418343462	France	brospi
-951	5	-1450119637	United States	ctkhanhly
-952	5	-1450664567	India	shanu_im
-953	5	-1469159689	United States	sylvyrfysh
-954	5	-1476467398	Japan	matchapy
-955	5	-1479895192	United States	Dreamer23
-956	5	-1493265090	Japan	rapurasu
-957	5	-1498929742	Kyrgyzstan	talant110726
-958	5	-1521345136	Ukraine	YatsukSergey
-959	5	-1528804182	India	sf14t
-960	5	-1555645458	United States	BuckyPark
-961	5	-1565447825	Ukraine	MrDindows
-962	5	-1572620368	China	Robingan7
-963	5	-1573654698	Peru	lafifi
-964	5	-1578494987	India	njnaman
-965	5	-1601699722	Israel	YehonatanAssaf
-966	5	-1620478224	India	ethicalrushi23
-967	5	-1660104585	United Kingdom	kanishkalikhanna
-968	5	-1674941600	France	AlixMartin
-969	5	-1677202968	Norway	ymgve
-970	5	-1689914578	Vietnam	jamienguyen
-971	5	-1692966344	Vietnam	iamquang95
-972	5	-1707203996	Ukraine	allw
-973	5	-1712041029	China	zkGaia
-974	5	-1726564692	Spain	eskimal
-975	5	-1730147631	Slovakia	PaLy
-976	5	-1733559388	Egypt	MohamedSameh
-977	5	-1742465693	New Zealand	sammochen
-978	5	-1752953376	Japan	kcz
-979	5	-1759090232	China	huizew
-980	5	-1776593184	United States	Nikhilpatel
-981	5	-1782875509	Brazil	GabeKanegae
-982	5	-1787037906	United States	wassim.omais
-983	5	-1787189869	Poland	Ktwsz
-984	5	-1797918210	India	as1ngh
-985	5	-1798609376	Egypt	RehamNaguib
-986	5	-1800654434	Georgia	GeliGe
-987	5	-1808047045	Japan	hiro116s
-988	5	-1808446933	Decline to Answer	abeaumont
-989	5	-1812331632	United States	tonyli00000
-990	5	-1812615286	India	shreyas
-991	5	-1832147859	India	bharat2002
-992	5	-1833242903	United States	Suzukaze
-993	5	-1833536643	India	ZzaZi
-994	5	-1839870340	India	fortunate_man
-995	5	-1843383463	South Korea	dlwocks31
-996	5	-1876664902	Russia	shart23
-997	5	-1887186340	Romania	bucevschi.alexandru@gmail.com
-998	5	-1891640763	China	hongrock
-999	5	-1911751564	India	kumaraditya1999
-1000	5	-1911766783	India	umar_bin_qamar
-1001	5	-1912696217	India	yash_0402
-1002	5	-1913322057	Romania	BlueDiamond
-1003	5	-1913951849	United States	Teeko
-1004	5	-1929371007	Japan	sansaqua
-1005	5	-1953182938	Japan	wakuwinmail
-1006	5	-1955666509	Japan	Silphire
-1007	5	-1963917790	Japan	kdplus
-1008	5	-1972747608	Jordan	Wesam
-1009	5	-1978351592	Japan	nu4nu
-1010	5	-1987479954	Bangladesh	badassiumoxide
-1011	5	-2010404717	Taiwan	joelthchao
-1012	5	-2010743292	Macau	SWong
-1013	5	-2016062785	Japan	math314
-1014	5	-2030002486	Switzerland	pascal-sch
-1015	5	-2037947752	Canada	Araluen
-1016	5	-2038994970	Lithuania	karolis.ram@gmail.com
-1017	5	-2041332271	Japan	Tomarky
-1018	5	-2042369558	Poland	pst723
-1019	5	-2052519186	United States	chiragzq
-1020	5	-2055770170	Jordan	Obada
-1021	5	-2056228929	Ukraine	SergGr
-1022	5	-2057290423	India	anupamshah
-1023	5	-2066321920	India	znxftw
-1024	5	-2067644778	Russia	fetetriste
-1025	5	-2073893916	Serbia	nikolapesic2802
-1026	5	-2075772666	United States	johannly
-1027	5	-2075877160	Bulgaria	Sorting
-1028	5	-2092401709	India	Codeku
-1029	5	-2092708110	Hong Kong	dbschi
-1030	5	-2100647219	South Korea	dawoon.choi
-1031	5	-2103348144	Japan	twaka
-1032	5	-2105421372	France	lance505
-1033	5	-2105586979	United States	rompel
-1034	5	-2106680483	China	asdkjc
-1035	5	-2126433030	South Korea	soodo
-1036	5	-2127438814	India	karanjain98
-1037	5	-2133136004	Germany	Kurisu858
-1038	5	-2143842672	Japan	fiore
-1039	5	-2144162528	India	tanuj208
-1040	5	-2148092545	India	Atul_raghuwanshi
-1041	5	-2155271377	India	udayiitkgp
-1042	5	-2155405105	Egypt	Bohoty
-1043	5	-2158574285	Hungary	miki.gergely
-1044	5	-2159287040	Guatemala	garfenter
-1045	5	-2161344586	Egypt	OmarSobeih
-1046	5	-2161924152	Russia	avoronov
-1047	5	-2162837884	China	samchen856
-1048	5	-2178013126	Egypt	Mahmoud.Ouka
-1049	5	-2182150649	India	sharma235
-1050	5	-2187555570	India	akSingh
-1051	5	-2191449074	Poland	kapitan
-1052	5	-2196323359	India	narutouzumaki696
-1053	5	-2198021777	India	anubhav07
-1054	5	-2204898297	Russia	seemsgoood
-1055	5	-2214951199	United States	thatprogrammer
-1056	5	-2220588940	India	avcbcoder
-1057	5	-2221121255	India	Manan_Master
-1058	5	-2223143143	Japan	shibh308
-1059	5	-2225814948	Tunisia	svanO
-1060	5	-2227936362	India	gaurav512
-1061	5	-2233657692	India	khokharnikunj8
-1062	5	-2239568138	Indonesia	JoshuaEvan
-1063	5	-2249653917	India	nik1998
-1064	5	-2250728221	United States	MagentaCobra
-1065	5	-2255225988	India	rushilpaul@gmail.com
-1066	5	-2255577719	India	realnimish
-1067	5	-2257069976	Singapore	jloh
-1068	5	-2257119189	Vietnam	nhatdx
-1069	5	-2262647998	France	Pythyu
-1070	5	-2269001353	Japan	sotanishy
-1071	5	-2281296074	Brazil	VictorBreder
-1072	5	-2292846958	Canada	kj8
-1073	5	-2297864504	United States	paulinee
-1074	5	-2304352224	India	Divyanshu.kumar
-1075	5	-2304895323	Japan	daigakupotato
-1076	5	-2310115241	Japan	kusano
-1077	5	-2311529800	India	shashanka136
-1078	5	-2313056458	India	enigma_decoded
-1079	5	-2322472342	Romania	mouse_wireless
-1080	5	-2327532940	Cyprus	Theo830
-1081	5	-2335993373	Japan	y61mpnl
-1082	5	-2340152251	India	nishkarsh321
-1083	5	-2346541748	Romania	cypryoprisa
-1084	5	-2346870892	United States	ggroode
-1085	5	-2348039311	India	DS007
-1086	5	-2348843860	Bangladesh	Sukarna_Paul
-1087	5	-2351033442	Australia	Jumbub
-1088	5	-2449399226	Russia	extremum
-1089	5	-2450183910	India	Wreqx
-1090	5	-2455783927	Argentina	juampi
-1091	5	-2458759422	Ukraine	famafka
-1092	5	-2469331752	Japan	tran0826
-1093	5	-2473889585	Pakistan	waahm7
-1094	5	-2505660063	Taiwan	billy4195su
-1095	5	-2507655279	Poland	Mucosolvan
-1096	5	-2533112597	Germany	annoraaq
-1097	5	-2560800142	India	601hash
-1098	5	-2563598371	France	MCube
-1099	5	-2781301534	South Korea	juseong
-1100	5	-2806196806	Poland	jperlin
-1101	5	-2842997846	Romania	stefdasca
-1102	5	-3167317607	Canada	Kozak
-1103	3	-783051323	Hong Kong	TommyNg_49
-1104	3	-844151970	India	rohan03
-1105	3	-1231193512	India	Vikhyat333
-1106	3	-1253957497	Italy	r98inver
-1107	3	-1299296515	Ukraine	denys.potapov
-1108	3	-1318771713	India	ps41
-1109	3	-1342620921	India	anmolagarwal
-1110	3	-1477094087	India	aaditya0106
-1111	3	-1486260359	India	FarFromRed
-1112	3	-1523186737	India	Vibhu2000
-1113	3	-1593580871	Japan	kebus
-1114	3	-1608054510	Russia	barrel
-1115	3	-1626981427	India	rg99
-1116	3	-1630615727	South Korea	singleheart
-1117	3	-1669302286	Ukraine	webstr
-1118	3	-1684934375	India	Divyanshu41
-1119	3	-1811151299	India	mayank1578
-1120	3	-1812189627	South Korea	CharleSE
-1121	3	-1831156498	Netherlands	hossein
-1122	3	-1893449853	United States	arvindr9
-1123	3	-1917097179	Russia	yulik.daniel
-1124	3	-1929953806	Ukraine	sergijkozlov@gmail.com
-1125	3	-1936765128	India	raja1999
-1126	3	-1946508250	India	ishank.jain67@gmail.com
-1127	3	-2013083408	Macedonia [FYROM]	nokjniot_voz
-1128	3	-2013369042	Norway	emh
-1129	3	-2110668045	Taiwan	pinnertw
-1130	3	-2155667234	India	RudraDesai200
-1131	3	-2189426911	Portugal	xico2001pt
-1132	3	-2189590037	India	cannon
-1133	3	-2212115431	India	FURY
-1134	3	-2212776544	France	Bouh
-1135	3	-2450513442	India	officialnizam
-1136	3	-2857260138	India	superkiller420
-1137	3	-2945582884	India	rock19
-1138	0	0	Afghanistan	janek567
-1138	0	0	Algeria	hyuttt
-1138	0	0	Argentina	Brimix__
-1138	0	0	Argentina	marcOS
-1138	0	0	Armenia	bequkandroo
-1138	0	0	Armenia	eduard.piliposyan
-1138	0	0	Australia	DarthRyry
-1138	0	0	Australia	TianmingZhao
-1138	0	0	Australia	Vic112345
-1138	0	0	Australia	atamus
-1138	0	0	Austria	MoritzStrobl
-1138	0	0	Austria	manujell
-1138	0	0	Azerbaijan	jelgun
-1138	0	0	Bangladesh	AshikurRahman
-1138	0	0	Bangladesh	RezwanArefin01
-1138	0	0	Bangladesh	SamiulSourav
-1138	0	0	Bangladesh	aminul
-1138	0	0	Bangladesh	border
-1138	0	0	Bangladesh	kabbya
-1138	0	0	Bangladesh	nayeem_bd
-1138	0	0	Bangladesh	sajibcuet09
-1138	0	0	Bangladesh	sudip95
-1138	0	0	Belarus	kolesov93
-1138	0	0	Belarus	leaked
-1138	0	0	Belgium	CorentinJ
-1138	0	0	Belgium	SchrootenBernd
-1138	0	0	Belgium	Soronbe
-1138	0	0	Belgium	quinoa
-1138	0	0	Bolivia	urupica
-1138	0	0	Brazil	Guilherme_Cabral
-1138	0	0	Brazil	Leonardo_Paes
-1138	0	0	Brazil	LeticiaFCS
-1138	0	0	Brazil	Ly20
-1138	0	0	Brazil	Zanez
-1138	0	0	Brazil	binaryLifter
-1138	0	0	Brazil	fer22f
-1138	0	0	Brazil	filipeabelha
-1138	0	0	Brazil	guilhermecorreagv
-1138	0	0	Brazil	lam5
-1138	0	0	Brazil	williamads
-1138	0	0	Brazil	yurisantamarina
-1138	0	0	Bulgaria	Borisp
-1138	0	0	Bulgaria	JustInCase
-1138	0	0	Canada	4fecta
-1138	0	0	Canada	IanDe
-1138	0	0	Canada	Jonathan_Uy
-1138	0	0	Canada	Kenneth_Ruan
-1138	0	0	Canada	MildlySpicy
-1138	0	0	Canada	bradley19brown
-1138	0	0	Canada	crackersamdjam
-1138	0	0	Canada	gbaril
-1138	0	0	Canada	george24601
-1138	0	0	Canada	glucn
-1138	0	0	Canada	hewmatt10
-1138	0	0	Canada	iamkevin
-1138	0	0	Canada	jeremyeic
-1138	0	0	Canada	petersdavis
-1138	0	0	Canada	rrddrr
-1138	0	0	Canada	skyflaren
-1138	0	0	Canada	superfx1
-1138	0	0	Canada	yurikaka1
-1138	0	0	China	HIT_TOM
-1138	0	0	China	IwfWcf
-1138	0	0	China	JOHNKRAM
-1138	0	0	China	LittleSix
-1138	0	0	China	NEOTheCat
-1138	0	0	China	Seast
-1138	0	0	China	T1an
-1138	0	0	China	Tentacles
-1138	0	0	China	Vurtne
-1138	0	0	China	WGree
-1138	0	0	China	aa2985759
-1138	0	0	China	ccw630
-1138	0	0	China	cjc
-1138	0	0	China	compthu
-1138	0	0	China	cooljiansir
-1138	0	0	China	daizhenyang
-1138	0	0	China	dongyu1997
-1138	0	0	China	festony
-1138	0	0	China	funer
-1138	0	0	China	ianahao
-1138	0	0	China	impflyx
-1138	0	0	China	jc881203@gmail.com
-1138	0	0	China	kjdsafio
-1138	0	0	China	limbo_null
-1138	0	0	China	luqiang21
-1138	0	0	China	lyric
-1138	0	0	China	mickeyandkaka
-1138	0	0	China	rikoizz
-1138	0	0	China	seanlin
-1138	0	0	China	sweet_fish
-1138	0	0	China	wyz96
-1138	0	0	China	xitongsys
-1138	0	0	China	xxn
-1138	0	0	China	zihachan
-1138	0	0	China	zltttt
-1138	0	0	China	zzzzzq
-1138	0	0	Colombia	AndresRPerez12
-1138	0	0	Colombia	YouNIXnBits
-1138	0	0	Colombia	juandrengifo
-1138	0	0	Colombia	yefrigg
-1138	0	0	Croatia	PiErr0r
-1138	0	0	Cuba	epascual
-1138	0	0	Cyprus	cfalas
-1138	0	0	Czech Republic	Paprikadobi
-1138	0	0	Czech Republic	Standa
-1138	0	0	Czech Republic	kulisak12
-1138	0	0	Czech Republic	petrzjunior
-1138	0	0	Czech Republic	vomi
-1138	0	0	Decline to Answer	CoderWiz
-1138	0	0	Denmark	Temmie
-1138	0	0	Denmark	doktoren
-1138	0	0	Denmark	sofapuden
-1138	0	0	Denmark	zii.hrs
-1138	0	0	Egypt	AhmadMamdouh
-1138	0	0	Egypt	Ahmedmousa
-1138	0	0	Egypt	Ali_ElMasry
-1138	0	0	Egypt	Bekh
-1138	0	0	Egypt	HussienIbrahiem
-1138	0	0	Egypt	NightKing00
-1138	0	0	Egypt	Wolf.
-1138	0	0	Egypt	aka.Sohieb
-1138	0	0	Egypt	ara_ara
-1138	0	0	Egypt	mmagdi
-1138	0	0	Egypt	mohamadabdelhakem11
-1138	0	0	Egypt	mohamednabil00000
-1138	0	0	Egypt	omarshagar
-1138	0	0	Egypt	zoooma13
-1138	0	0	Estonia	st235
-1138	0	0	Finland	Bntti
-1138	0	0	Finland	Mistra
-1138	0	0	France	-adrien-
-1138	0	0	France	Fafou
-1138	0	0	France	Faylixe
-1138	0	0	France	Jethol
-1138	0	0	France	Kaiju
-1138	0	0	France	Malleek
-1138	0	0	France	Massoud_le_Grand
-1138	0	0	France	Mathisaillot
-1138	0	0	France	OoDeLally
-1138	0	0	France	Ouxor
-1138	0	0	France	Peyha
-1138	0	0	France	Rafbill
-1138	0	0	France	RayanChikhi
-1138	0	0	France	SpaceSheep
-1138	0	0	France	Tahkare
-1138	0	0	France	elana
-1138	0	0	France	fab.alchemy
-1138	0	0	France	jmazon
-1138	0	0	France	jouzo
-1138	0	0	France	mdrm
-1138	0	0	France	mrcr0que
-1138	0	0	France	paulj
-1138	0	0	Georgia	Batman_
-1138	0	0	Georgia	Demetre
-1138	0	0	Germany	.Adrian
-1138	0	0	Germany	C0R3
-1138	0	0	Germany	DK56_T
-1138	0	0	Germany	Love2Deliver
-1138	0	0	Germany	Lukas2009
-1138	0	0	Germany	TimTimolia
-1138	0	0	Germany	Zeldacrafter
-1138	0	0	Germany	codingWhale
-1138	0	0	Germany	gabriel2029
-1138	0	0	Germany	lambdapioneer
-1138	0	0	Germany	rmeertens
-1138	0	0	Germany	wintermute2048
-1138	0	0	Greece	infinity1
-1138	0	0	Greece	stelkasouridis
-1138	0	0	Hong Kong	ITO
-1138	0	0	Hong Kong	calvinchankf
-1138	0	0	Hong Kong	carpcrap
-1138	0	0	Hong Kong	coderbd
-1138	0	0	Hong Kong	ymlai87416
-1138	0	0	Hungary	Boldizsar
-1138	0	0	Hungary	SirNyeteg
-1138	0	0	Hungary	bazsi700
-1138	0	0	Hungary	levios
-1138	0	0	Iceland	Nimao
-1138	0	0	India	600iq
-1138	0	0	India	@tapasya
-1138	0	0	India	Ambesh
-1138	0	0	India	AnandaBasak
-1138	0	0	India	AnkurChourasia
-1138	0	0	India	Anshulpg
-1138	0	0	India	Anujsharma
-1138	0	0	India	ArthDubey
-1138	0	0	India	ArunPandey
-1138	0	0	India	ArunVigesh
-1138	0	0	India	Ayush_29
-1138	0	0	India	Azim_Ansari
-1138	0	0	India	Bannu26
-1138	0	0	India	Bhagesh097
-1138	0	0	India	Bhaiyahns45
-1138	0	0	India	Bits_K
-1138	0	0	India	BrijeshKikani
-1138	0	0	India	BunnyPrince
-1138	0	0	India	ChampIsHere
-1138	0	0	India	CodeStar007
-1138	0	0	India	Coder_Sruthi
-1138	0	0	India	Coder_Uday
-1138	0	0	India	Crazy__1234
-1138	0	0	India	Debrup
-1138	0	0	India	Devandra
-1138	0	0	India	Dhananjayutsav
-1138	0	0	India	Dragonado
-1138	0	0	India	Drpdada
-1138	0	0	India	Eeman
-1138	0	0	India	Future_SDE
-1138	0	0	India	Ganglord
-1138	0	0	India	GaurangTandon
-1138	0	0	India	Gautam23
-1138	0	0	India	Gawtam
-1138	0	0	India	Geetupathak
-1138	0	0	India	Gupta.41
-1138	0	0	India	GuptaGaurang
-1138	0	0	India	HA
-1138	0	0	India	HanumanthuNaveen
-1138	0	0	India	Harishh
-1138	0	0	India	Harsh_28
-1138	0	0	India	Harshita2021
-1138	0	0	India	Himabindu_34
-1138	0	0	India	ILSM
-1138	0	0	India	I_m_rish
-1138	0	0	India	Immidisettymanisha
-1138	0	0	India	InstinctCoder
-1138	0	0	India	Ivabby
-1138	0	0	India	Jonty1904
-1138	0	0	India	Karan_7887
-1138	0	0	India	Lalitha2412
-1138	0	0	India	Learner99
-1138	0	0	India	Leroi
-1138	0	0	India	MaghavG
-1138	0	0	India	ManasaUdathu
-1138	0	0	India	Manish2511
-1138	0	0	India	Mohinem
-1138	0	0	India	Mohitk
-1138	0	0	India	Mradul12
-1138	0	0	India	Muz2309
-1138	0	0	India	NB15498
-1138	0	0	India	NISHANTJHA1998
-1138	0	0	India	Nathi_Prakash
-1138	0	0	India	Navdeep_15
-1138	0	0	India	Navya.madala
-1138	0	0	India	Noor_Hasan_Shaik
-1138	0	0	India	Pawan_29
-1138	0	0	India	PointBlank
-1138	0	0	India	PoojaB01
-1138	0	0	India	Pranjli_03
-1138	0	0	India	PujaSriSai
-1138	0	0	India	Punit_Coder
-1138	0	0	India	RajKaushik
-1138	0	0	India	Rajpradeep
-1138	0	0	India	RashmiChaturvedi
-1138	0	0	India	Riyu4Ever
-1138	0	0	India	Rostux
-1138	0	0	India	SaiAVS
-1138	0	0	India	Saileshkumar
-1138	0	0	India	Sands24
-1138	0	0	India	Shashi7997
-1138	0	0	India	SheelaAngel
-1138	0	0	India	ShethSmit
-1138	0	0	India	Shubham329
-1138	0	0	India	ShubhamKondekar
-1138	0	0	India	Soul_Iconic
-1138	0	0	India	Soumay
-1138	0	0	India	Spellstaker
-1138	0	0	India	Spupadhyay
-1138	0	0	India	Sudhamsh
-1138	0	0	India	Swapnil159
-1138	0	0	India	T1rs
-1138	0	0	India	TaNYA99SaXENA
-1138	0	0	India	Techpro3425
-1138	0	0	India	Tejas#
-1138	0	0	India	Tejasrikusam
-1138	0	0	India	Test2311
-1138	0	0	India	TheDark_Knight
-1138	0	0	India	V@i5hnavi
-1138	0	0	India	Venk@t1234
-1138	0	0	India	Vin_04
-1138	0	0	India	Violee21
-1138	0	0	India	Vishal@
-1138	0	0	India	Vishvas9
-1138	0	0	India	Vk98
-1138	0	0	India	WeirdBugsButOkay
-1138	0	0	India	YESMAths
-1138	0	0	India	Zeref13400
-1138	0	0	India	_akshit_
-1138	0	0	India	_baba_yaga
-1138	0	0	India	_shanky
-1138	0	0	India	a.kushal
-1138	0	0	India	aayush_29
-1138	0	0	India	aayush_b1999
-1138	0	0	India	abhi2402
-1138	0	0	India	adarsh_sinhg
-1138	0	0	India	akj0811
-1138	0	0	India	akshaykr
-1138	0	0	India	aman0456
-1138	0	0	India	aman28rwt
-1138	0	0	India	aman_hacker
-1138	0	0	India	amaya_0711
-1138	0	0	India	anag004
-1138	0	0	India	anandaditya
-1138	0	0	India	anandseth357
-1138	0	0	India	anish1712
-1138	0	0	India	anmol27katyani
-1138	0	0	India	anusha1807
-1138	0	0	India	anusha_p
-1138	0	0	India	archit120
-1138	0	0	India	arpit443
-1138	0	0	India	arpitdhamija
-1138	0	0	India	arya.nikhil2
-1138	0	0	India	aryansh2468
-1138	0	0	India	aryanzz
-1138	0	0	India	ashis123
-1138	0	0	India	ashwani_er
-1138	0	0	India	atul2938
-1138	0	0	India	ay2306
-1138	0	0	India	ayushgupta1997
-1138	0	0	India	ayushsinghmf
-1138	0	0	India	babu33
-1138	0	0	India	bani_raheja
-1138	0	0	India	bansals888
-1138	0	0	India	bhatipradeep
-1138	0	0	India	bhindi2206
-1138	0	0	India	black_hat
-1138	0	0	India	bparul
-1138	0	0	India	brijeshbs007
-1138	0	0	India	buscasangre
-1138	0	0	India	chikkuttan
-1138	0	0	India	chitra_singla
-1138	0	0	India	cinderella_5
-1138	0	0	India	code_ss
-1138	0	0	India	codeofthrone
-1138	0	0	India	crazy_stardusts
-1138	0	0	India	damon2598
-1138	0	0	India	darkknight1996
-1138	0	0	India	darklight13
-1138	0	0	India	darthmelonder
-1138	0	0	India	deeshantk
-1138	0	0	India	devabhixda
-1138	0	0	India	devilsboy
-1138	0	0	India	divya9997
-1138	0	0	India	dopa69
-1138	0	0	India	dragon1010
-1138	0	0	India	dudeayush
-1138	0	0	India	embiway
-1138	0	0	India	error4ever
-1138	0	0	India	eulerkochy
-1138	0	0	India	fake_name
-1138	0	0	India	freakcap
-1138	0	0	India	ganesha
-1138	0	0	India	gauravllh03
-1138	0	0	India	gauravmadan583
-1138	0	0	India	gauti7
-1138	0	0	India	gchkiran
-1138	0	0	India	girishCoder
-1138	0	0	India	girivijay009
-1138	0	0	India	gjaiswal108
-1138	0	0	India	gnana_19
-1138	0	0	India	gpb007
-1138	0	0	India	harsh181
-1138	0	0	India	harshaaj21
-1138	0	0	India	harshilbhavsar
-1138	0	0	India	harshilsharma1997@gmail.com
-1138	0	0	India	hexane
-1138	0	0	India	himkha_100
-1138	0	0	India	hitik
-1138	0	0	India	hitman623
-1138	0	0	India	iamprayush
-1138	0	0	India	imranasuman
-1138	0	0	India	invincibel
-1138	0	0	India	iopiyushg
-1138	0	0	India	ishank011
-1138	0	0	India	itsmihir
-1138	0	0	India	j.shreyansh
-1138	0	0	India	jach
-1138	0	0	India	jai_dewani
-1138	0	0	India	jay.faldu20
-1138	0	0	India	jonty99
-1138	0	0	India	jyoti.123
-1138	0	0	India	kabir_roop
-1138	0	0	India	kanudeep2@gmail.com
-1138	0	0	India	krappu
-1138	0	0	India	krishnaiet1234
-1138	0	0	India	kunalsharma
-1138	0	0	India	kush46
-1138	0	0	India	lakshmipandey
-1138	0	0	India	los_viking82
-1138	0	0	India	ltc.groverkss
-1138	0	0	India	madhav477
-1138	0	0	India	madhav_1999
-1138	0	0	India	malvika_12
-1138	0	0	India	mananshah2709
-1138	0	0	India	manik_taneja3
-1138	0	0	India	manish.17
-1138	0	0	India	manu_sy
-1138	0	0	India	manya_goyal
-1138	0	0	India	matrix14
-1138	0	0	India	meecode
-1138	0	0	India	mtnshh
-1138	0	0	India	mynk322
-1138	0	0	India	navneetpurohit
-1138	0	0	India	nikeshthapa255
-1138	0	0	India	niweshgupta
-1138	0	0	India	njha1999
-1138	0	0	India	pan_da
-1138	0	0	India	parsec
-1138	0	0	India	parthtiwari
-1138	0	0	India	patwari26
-1138	0	0	India	pavitra_ag
-1138	0	0	India	payalgoswami
-1138	0	0	India	pprockys
-1138	0	0	India	prince693
-1138	0	0	India	ps_shah1
-1138	0	0	India	pulkit29
-1138	0	0	India	rachitiitr
-1138	0	0	India	rahulgulati0
-1138	0	0	India	rahulkr999
-1138	0	0	India	rajat_enzyme
-1138	0	0	India	rajat_goyal
-1138	0	0	India	rajatsinghal
-1138	0	0	India	rajgarg
-1138	0	0	India	ravindra281298
-1138	0	0	India	rishabh249
-1138	0	0	India	roerohan
-1138	0	0	India	rohitkv77
-1138	0	0	India	roll_no_1
-1138	0	0	India	roronoa_
-1138	0	0	India	saipriya18
-1138	0	0	India	saisundhar
-1138	0	0	India	sandrasivaprasad
-1138	0	0	India	saransh0810
-1138	0	0	India	sarthak1220
-1138	0	0	India	sasirekha3
-1138	0	0	India	satyamcse
-1138	0	0	India	shailesh99
-1138	0	0	India	shakeb0308
-1138	0	0	India	shaurya7980
-1138	0	0	India	shiva@123
-1138	0	0	India	shivam077
-1138	0	0	India	shivam945121
-1138	0	0	India	shivashish_23
-1138	0	0	India	shobhit907
-1138	0	0	India	shrikarcodes
-1138	0	0	India	shubhankarrr
-1138	0	0	India	sjay
-1138	0	0	India	sjmodi1997
-1138	0	0	India	soham1001
-1138	0	0	India	soujanya_s
-1138	0	0	India	soum1017
-1138	0	0	India	soundaryak4898@gmail.com
-1138	0	0	India	sowjanyaoggu
-1138	0	0	India	srinidhi.a30@gmail.com
-1138	0	0	India	sripriya18
-1138	0	0	India	srj31
-1138	0	0	India	sumanth_guntupalli
-1138	0	0	India	sumitprajapati
-1138	0	0	India	sundesh
-1138	0	0	India	sushmitha061@gmail.com
-1138	0	0	India	tesla1310
-1138	0	0	India	thecoolnerd
-1138	0	0	India	thenoone
-1138	0	0	India	udbhav99
-1138	0	0	India	ujjwal22gupta
-1138	0	0	India	unvieux
-1138	0	0	India	utkarsh028
-1138	0	0	India	utkarshh12
-1138	0	0	India	utsav.goyal19@gmail.com
-1138	0	0	India	vaibhavnandan55
-1138	0	0	India	venkatasai24
-1138	0	0	India	venkatj
-1138	0	0	India	venusri
-1138	0	0	India	vicky2810
-1138	0	0	India	vineet.paliwal
-1138	0	0	India	vipin_bhardwaj
-1138	0	0	India	vishusachdeva
-1138	0	0	India	vivek8420
-1138	0	0	India	vj30699
-1138	0	0	India	vruvru
-1138	0	0	India	yash_daga
-1138	0	0	India	yogeshmapari
-1138	0	0	Indonesia	Littleboy123
-1138	0	0	Indonesia	Micchon
-1138	0	0	Indonesia	alvinvaja
-1138	0	0	Indonesia	bukanyohandi
-1138	0	0	Indonesia	folcotandiono
-1138	0	0	Indonesia	halimkevin
-1138	0	0	Indonesia	kresna
-1138	0	0	Indonesia	naffins
-1138	0	0	Indonesia	vistokartika
-1138	0	0	Ireland	Ramocc
-1138	0	0	Ireland	VickyLi
-1138	0	0	Ireland	rohit.vincent@ucdconnect.ie
-1138	0	0	Israel	Ophiru
-1138	0	0	Israel	ShaharBental
-1138	0	0	Israel	YuvalStein
-1138	0	0	Israel	gilbe
-1138	0	0	Israel	kalvari
-1138	0	0	Israel	kvadrik
-1138	0	0	Israel	naed90
-1138	0	0	Israel	shachark
-1138	0	0	Italy	Canestro
-1138	0	0	Italy	FedericoStazi
-1138	0	0	Italy	PaoloPellizzoni
-1138	0	0	Italy	Pignaman
-1138	0	0	Italy	Pufforrohk
-1138	0	0	Italy	armyalpaca
-1138	0	0	Italy	charlie_brown
-1138	0	0	Italy	giackserva
-1138	0	0	Italy	mattiadg
-1138	0	0	Italy	mscuttari
-1138	0	0	Italy	stefanov
-1138	0	0	Japan	AC961009
-1138	0	0	Japan	As_sqr
-1138	0	0	Japan	Hyado
-1138	0	0	Japan	Keno
-1138	0	0	Japan	Tallfall
-1138	0	0	Japan	ar-c
-1138	0	0	Japan	cake.senbei
-1138	0	0	Japan	chakku_000
-1138	0	0	Japan	emakryo
-1138	0	0	Japan	fiord
-1138	0	0	Japan	firiexp
-1138	0	0	Japan	furuya1223
-1138	0	0	Japan	hamham111
-1138	0	0	Japan	izumo
-1138	0	0	Japan	juppy
-1138	0	0	Japan	monkukui
-1138	0	0	Japan	noimi
-1138	0	0	Japan	oonishi
-1138	0	0	Japan	pedish
-1138	0	0	Japan	pontsuyo
-1138	0	0	Japan	sekiye
-1138	0	0	Japan	tarattata
-1138	0	0	Japan	tetsuro1919
-1138	0	0	Japan	theory_and_me
-1138	0	0	Jordan	zagha.hamza@gmail.com
-1138	0	0	Kazakhstan	Evilandrew
-1138	0	0	Kazakhstan	Proggerkz
-1138	0	0	Kazakhstan	aidos.nurmash@gmail.com
-1138	0	0	Latvia	Alex_2oo8
-1138	0	0	Latvia	latvian
-1138	0	0	Lebanon	0-jij-0
-1138	0	0	Lebanon	Arwan_c
-1138	0	0	Lebanon	Charbel
-1138	0	0	Lebanon	Elie.m
-1138	0	0	Lebanon	Naseem17
-1138	0	0	Lithuania	JuliusMieliauskas
-1138	0	0	Lithuania	limed
-1138	0	0	Malaysia	AMO5
-1138	0	0	Malaysia	FarisHakim
-1138	0	0	Malaysia	Thaithai
-1138	0	0	Malaysia	mechfrog88
-1138	0	0	Mexico	Akotadi
-1138	0	0	Mexico	DavidMS
-1138	0	0	Mexico	HeyUalabi
-1138	0	0	Mexico	Laborico
-1138	0	0	Mexico	Mart97
-1138	0	0	Morocco	nawfal
-1138	0	0	Morocco	tamahom
-1138	0	0	Netherlands	Floris
-1138	0	0	Netherlands	Moanraker
-1138	0	0	Netherlands	PeterSmit
-1138	0	0	Netherlands	PimMeulensteen
-1138	0	0	Netherlands	fjfiwekdskfj
-1138	0	0	Netherlands	jjsustronk
-1138	0	0	Netherlands	mth
-1138	0	0	Netherlands	wkoops
-1138	0	0	New Zealand	Technocoder
-1138	0	0	New Zealand	cky
-1138	0	0	Norway	Im2Good
-1138	0	0	Pakistan	JerryMMoiz
-1138	0	0	Peru	GPereira
-1138	0	0	Peru	GerardoSánchez
-1138	0	0	Peru	racsosabe
-1138	0	0	Philippines	andrewting
-1138	0	0	Philippines	briangodwinlim
-1138	0	0	Poland	Errichto
-1138	0	0	Poland	Giermek
-1138	0	0	Poland	Markadiusz
-1138	0	0	Poland	Radewoosh
-1138	0	0	Poland	Vax
-1138	0	0	Poland	boogen
-1138	0	0	Poland	gawarkiewicz
-1138	0	0	Poland	kubusgol
-1138	0	0	Poland	losik
-1138	0	0	Poland	lukij1997
-1138	0	0	Poland	mati9988
-1138	0	0	Poland	mike272
-1138	0	0	Poland	stasio6
-1138	0	0	Portugal	catarina
-1138	0	0	Portugal	sergiords
-1138	0	0	Romania	Carol_Luca
-1138	0	0	Romania	MagirescuTudor
-1138	0	0	Romania	Toad01
-1138	0	0	Romania	robertv
-1138	0	0	Romania	valka
-1138	0	0	Russia	AlexandrTS
-1138	0	0	Russia	AndreySiunov
-1138	0	0	Russia	Ivanforward
-1138	0	0	Russia	Maksim1744
-1138	0	0	Russia	MikailBag
-1138	0	0	Russia	OnlyDeniko
-1138	0	0	Russia	RedNova
-1138	0	0	Russia	TonySnark
-1138	0	0	Russia	Vergara7
-1138	0	0	Russia	Vladimirr.Petrunko
-1138	0	0	Russia	Y0
-1138	0	0	Russia	a.nogikh
-1138	0	0	Russia	achvanov
-1138	0	0	Russia	agulenko
-1138	0	0	Russia	farhit
-1138	0	0	Russia	golikovnik
-1138	0	0	Russia	grumpy_gordon
-1138	0	0	Russia	helena
-1138	0	0	Russia	kpilyugin
-1138	0	0	Russia	madn
-1138	0	0	Russia	ngh7mr3
-1138	0	0	Russia	olegshch
-1138	0	0	Russia	riuzmukhametov
-1138	0	0	Russia	s20b1Kirka
-1138	0	0	Russia	steiner
-1138	0	0	Russia	tigrkoshka
-1138	0	0	Russia	wlesavo
-1138	0	0	Russia	yarrr
-1138	0	0	Saudi Arabia	Zeyad334
-1138	0	0	Singapore	Blerargh
-1138	0	0	Singapore	Lexis
-1138	0	0	Singapore	Rohit0718
-1138	0	0	Singapore	Shouyu_senbei
-1138	0	0	Singapore	mingyiteo@gmail.com
-1138	0	0	Slovakia	Rojko
-1138	0	0	Slovakia	TrePe
-1138	0	0	Slovakia	eLiška
-1138	0	0	Slovakia	samot64
-1138	0	0	Slovakia	vilko
-1138	0	0	Slovenia	alexmat21
-1138	0	0	South Korea	Angk
-1138	0	0	South Korea	Bonibon
-1138	0	0	South Korea	IKnoom
-1138	0	0	South Korea	Nyan101
-1138	0	0	South Korea	Orb_H
-1138	0	0	South Korea	SLM
-1138	0	0	South Korea	SiruPorong
-1138	0	0	South Korea	albus.star
-1138	0	0	South Korea	hellogaon
-1138	0	0	South Korea	iooqooo
-1138	0	0	South Korea	jetoyrico
-1138	0	0	South Korea	junho85
-1138	0	0	South Korea	kim_young_hyun
-1138	0	0	South Korea	kimjungwow
-1138	0	0	South Korea	koosaga
-1138	0	0	South Korea	lalavla
-1138	0	0	South Korea	leesiwon
-1138	0	0	South Korea	minpago
-1138	0	0	South Korea	most323
-1138	0	0	South Korea	philip1998
-1138	0	0	South Korea	raararaara
-1138	0	0	South Korea	rhfktj
-1138	0	0	South Korea	skeep194
-1138	0	0	South Korea	spectaclehong
-1138	0	0	Spain	CristianBulgarito
-1138	0	0	Spain	Gallonet
-1138	0	0	Spain	PereC
-1138	0	0	Spain	dbrincauus
-1138	0	0	Spain	handuSquire
-1138	0	0	Spain	metatron
-1138	0	0	Spain	nilfm
-1138	0	0	Spain	norgevz
-1138	0	0	Spain	tato
-1138	0	0	Sri Lanka	Pulasthi
-1138	0	0	Sri Lanka	Umanda
-1138	0	0	Sri Lanka	Vimuth
-1138	0	0	Sweden	Hkar
-1138	0	0	Sweden	Jonte98
-1138	0	0	Sweden	Martomate
-1138	0	0	Sweden	TobiasGlimmerfors
-1138	0	0	Sweden	bad_fetus
-1138	0	0	Sweden	johanj93
-1138	0	0	Sweden	tonyaaaaa
-1138	0	0	Sweden	yanhuanwang
-1138	0	0	Switzerland	DeinFreund
-1138	0	0	Switzerland	Fatality2412
-1138	0	0	Switzerland	ZufMa
-1138	0	0	Switzerland	tap_tapii
-1138	0	0	Switzerland	yooyoo9
-1138	0	0	Taiwan	Hannnnk
-1138	0	0	Taiwan	JerryChengDeLin
-1138	0	0	Taiwan	Yinghao
-1138	0	0	Taiwan	aidan79225@gmail.com
-1138	0	0	Taiwan	alan8585
-1138	0	0	Taiwan	alon21034
-1138	0	0	Taiwan	daniel920712
-1138	0	0	Taiwan	edisonhello
-1138	0	0	Taiwan	garyshih
-1138	0	0	Taiwan	hsnusonic
-1138	0	0	Taiwan	jim800121.chen
-1138	0	0	Taiwan	sevenlol
-1138	0	0	Taiwan	tmwilliamlin168
-1138	0	0	Taiwan	tomsan
-1138	0	0	Taiwan	x_____0
-1138	0	0	Tajikistan	EliteWantsYou
-1138	0	0	Tajikistan	Muhammad_Hokimiyon
-1138	0	0	Thailand	hangtenz
-1138	0	0	Tunisia	d4rkc0de
-1138	0	0	Tunisia	zied0omrane@gmail.com
-1138	0	0	Turkey	AhmetEfe
-1138	0	0	Turkey	KayacanV
-1138	0	0	Turkey	oskansavli
-1138	0	0	Ukraine	bohdan.dovhan
-1138	0	0	Ukraine	iSlava
-1138	0	0	Ukraine	philologist
-1138	0	0	Ukraine	terion
-1138	0	0	United Kingdom	Fedy2
-1138	0	0	United Kingdom	Freque
-1138	0	0	United Kingdom	Paul.T
-1138	0	0	United Kingdom	bootandy
-1138	0	0	United Kingdom	brasspots
-1138	0	0	United Kingdom	graeme
-1138	0	0	United Kingdom	takaki
-1138	0	0	United Kingdom	trilobite
-1138	0	0	United States	AaronFink
-1138	0	0	United States	AndrewHsu
-1138	0	0	United States	Confucius
-1138	0	0	United States	DanielCarter
-1138	0	0	United States	Edddddddy
-1138	0	0	United States	EricLeGe
-1138	0	0	United States	Gooooogle
-1138	0	0	United States	HK01
-1138	0	0	United States	Ian_Ng
-1138	0	0	United States	JKLAM
-1138	0	0	United States	LotteryDiscounts
-1138	0	0	United States	MineEnim
-1138	0	0	United States	Sandkoan
-1138	0	0	United States	SaturdayShawn
-1138	0	0	United States	UltraxBlade
-1138	0	0	United States	[_______]
-1138	0	0	United States	a1f
-1138	0	0	United States	aditya_arj
-1138	0	0	United States	angerypenguin
-1138	0	0	United States	arolakiv
-1138	0	0	United States	axchen7
-1138	0	0	United States	brandon71901
-1138	0	0	United States	carnalguru
-1138	0	0	United States	chezbgone
-1138	0	0	United States	derrick20
-1138	0	0	United States	dmj
-1138	0	0	United States	hungry_penguin
-1138	0	0	United States	josimi
-1138	0	0	United States	quinnydinny
-1138	0	0	United States	segseg
-1138	0	0	United States	speck
-1138	0	0	United States	suhasia
-1138	0	0	United States	tcaz
-1138	0	0	United States	vazae
-1138	0	0	United States	vcubingx
-1138	0	0	United States	wutwere
-1138	0	0	United States	xuecli
-1138	0	0	United States	yliu1021
-1138	0	0	United States	zayhero
-1138	0	0	United States	zekigurbuz
-1138	0	0	United States	zhengant
-1138	0	0	Vietnam	IceWiz
-1138	0	0	Vietnam	Johnny_2002
-1138	0	0	Vietnam	Triracle
-1138	0	0	Vietnam	binhtranit
-1138	0	0	Vietnam	conowadays
-1138	0	0	Vietnam	cuongtv
-1138	0	0	Vietnam	joker.tainguyen
-1138	0	0	Vietnam	nguyen31hoang08minh2003
-1138	0	0	Vietnam	thanglegons
-1138	0	0	Vietnam	tungnp92
-1138	0	0	Vietnam	zyenz123
+13	63	-2368857346	Russia	maximumSHOT
+14	63	-2525313687	Poland	mnbvmar
+15	63	-3006788785	Taiwan	utaha
+16	47	-2364242196	Russia	vintage_Vlad_Makeev
+17	37	-1563838683	China	jiry_2
+18	34	-1605294123	Netherlands	JonathanBrouwer
+19	34	-1636218850	Germany	lumibons
+20	34	-1651392405	China	xllend3
+21	34	-1705798987	Romania	alex.velea
+22	34	-1734694368	Russia	BudAlNik
+23	34	-1890997651	Italy	bortoz
+24	34	-1899119624	Portugal	KLPP
+25	34	-1924577164	Ukraine	qwerty787788
+26	34	-2005191243	Russia	lollihunter
+27	34	-2117197764	South Korea	ugo
+28	34	-2287014017	Belarus	chiselko6
+29	34	-2309928621	Russia	okwedook
+30	34	-2392264587	Russia	DebNatkh
+31	34	-2425405353	Japan	goodbaton
+32	34	-2463284064	Thailand	PeppaPig
+33	34	-2659650875	France	jmazon
+34	34	-3442504022	United States	Troublemaker
+35	32	-1848747263	Sweden	BjornMagn
+36	32	-1854485003	Japan	Rho17
+37	32	-1861179938	China	StudyingFather
+38	32	-1925871643	Japan	ush
+39	32	-2366425987	Russia	MikeMirzayanov
+40	32	-2385963510	Russia	dmikhalin
+41	32	-2423198193	South Korea	rkm0959
+42	32	-2514930405	Australia	komisan
+43	29	-531211010	Czech Republic	majk
+44	29	-542552071	United Kingdom	jaems
+45	29	-621451049	Italy	dario2994
+46	29	-629110162	Lithuania	KrK
+47	29	-631700621	United Kingdom	Linguo
+48	29	-716789910	Poland	MajaTr
+49	29	-724524164	China	Siil
+50	29	-727838652	Russia	LHiC
+51	29	-736009567	Japan	WA_TLE
+52	29	-738528432	Russia	white2302
+53	29	-738581368	Russia	Golovanov399
+54	29	-739007695	South Korea	ae04071
+55	29	-740323226	Netherlands	JanKuipers
+56	29	-747995691	Sweden	Yarin
+57	29	-781046609	Mongolia	nvmdava
+58	29	-785552684	Vietnam	flashmt
+59	29	-803656266	Denmark	Tejs
+60	29	-805694566	Indonesia	chaotic_iak
+61	29	-808927816	Japan	nuip
+62	29	-817735623	Russia	cookiedoth
+63	29	-826587624	Germany	fagu
+64	29	-826658198	Japan	lowking
+65	29	-841474894	Lithuania	Tutis
+66	29	-843052834	Poland	krismaz
+67	29	-844961323	Russia	alex.shkarin
+68	29	-846606875	Vietnam	chemthan
+69	29	-872442476	Japan	Nyaan
+70	29	-876472740	Japan	hs484
+71	29	-879628555	Germany	eiv
+72	29	-881358373	Japan	hasipon
+73	29	-898786329	Japan	harady
+74	29	-906202940	United States	epicxtroll
+75	29	-910559750	Russia	caesarsaladdressing
+76	29	-911974612	France	Arturgo
+77	29	-917510010	Belgium	anthonyclays
+78	29	-926411840	Russia	SYury
+79	29	-926962603	Poland	tomekp
+80	29	-956442649	Poland	znirzejskwarka
+81	29	-961843815	Japan	ats5515
+82	29	-967815527	China	737
+83	29	-982045839	Australia	boboquack
+84	29	-986167502	Australia	gilesg
+85	29	-988940753	China	rushcheyo
+86	29	-992188153	Poland	ania
+87	29	-992514459	Russia	SendThemToHell
+88	29	-1002804786	Japan	JAPLJ
+89	29	-1010669256	Japan	olphe
+90	29	-1012836456	Russia	IgorI
+91	29	-1014179246	United States	isenbaev@gmail.com
+92	29	-1016750515	Poland	Swistakk
+93	29	-1020923133	Canada	itangdav
+94	29	-1025410732	Japan	Imperi
+95	29	-1033999992	Japan	shun0923
+96	29	-1035099619	Russia	platypus179
+97	29	-1037045513	Japan	kobae964
+98	29	-1047079323	Slovakia	maturvo
+99	29	-1048561593	Ukraine	Vasyl
+100	29	-1059455007	Singapore	WayTan
+101	29	-1064140591	Netherlands	CHelle
+102	29	-1067538667	United States	melaniekirsche
+103	29	-1072696298	Belarus	mhq
+104	29	-1073414864	Poland	SirEmentaler
+105	29	-1075820895	United States	sniffleheim
+106	29	-1086914240	Poland	bartek95
+107	29	-1093423319	Germany	Alexander86
+108	29	-1097976267	Vietnam	6aren
+109	29	-1102624308	Netherlands	mjdv
+110	29	-1109465513	Canada	Deemo
+111	29	-1114778292	Lithuania	JustasZ
+112	29	-1116724918	Finland	Laakeri
+113	29	-1123331809	Australia	tangentz
+114	29	-1123514406	Russia	darnley
+115	29	-1124739591	Germany	pwild
+116	29	-1128962072	Taiwan	gloompisces
+117	29	-1141741838	Ukraine	Wild.Hamster
+118	29	-1151148955	United Kingdom	DayDreamer007
+119	29	-1151193404	France	Tashiqi
+120	29	-1157621191	Romania	Alexa2001
+121	29	-1162415927	Belarus	Smylic
+122	29	-1168255525	United States	azhan0222
+123	29	-1175981523	South Korea	minwo3o
+124	29	-1177196421	Slovenia	xs0
+125	29	-1188472862	Poland	buko
+126	29	-1194244310	China	hzw
+127	29	-1194814985	Ukraine	VladProg
+128	29	-1196408237	Japan	mkawa2
+129	29	-1196784356	China	Ronnoc
+130	29	-1197178119	Ukraine	mshcherba
+131	29	-1200251265	Armenia	altunyanv
+132	29	-1206312486	Netherlands	Reinier
+133	29	-1206716710	Latvia	jevi
+134	29	-1208313203	United Kingdom	psw
+135	29	-1211164657	Hong Kong	mariowong
+136	29	-1223816048	India	nikhilag2711
+137	29	-1228178461	Russia	anton.akhi
+138	29	-1235433366	South Korea	dh7401
+139	29	-1238735226	Japan	rsk0315
+140	29	-1246211979	Israel	roflmoqkz
+141	29	-1247797720	Kazakhstan	LeMans
+142	29	-1251836271	United Kingdom	raoxj
+143	29	-1252044001	United States	Jwang
+144	29	-1254938510	China	WenhaoSong
+145	29	-1260977779	Singapore	jianzhi
+146	29	-1265327103	Russia	Hackerham
+147	29	-1267889767	Decline to Answer	Potassium
+148	29	-1272248684	Japan	emthrm
+149	29	-1273241359	Belarus	Vikki_pikki
+150	29	-1273682101	Japan	potoooooooo
+151	29	-1274124247	United States	jonathanpaulson
+152	29	-1277206237	Germany	CJK
+153	29	-1287832426	India	tejas10p
+154	29	-1288556422	Russia	AlexZabashta
+155	29	-1300873727	United States	adamjamil
+156	29	-1305709284	Russia	Denisson
+157	29	-1314464203	Czech Republic	posij118
+158	29	-1316990431	Taiwan	afq873
+159	29	-1325468642	China	kblack
+160	29	-1336016182	Hong Kong	fuzen
+161	29	-1337271338	Germany	PFischbeck
+162	29	-1337348613	Croatia	Lovro
+163	29	-1344676322	South Korea	SebinKim
+164	29	-1355751820	Poland	aturko
+165	29	-1358282973	Japan	Rubikun
+166	29	-1360629592	Russia	andrewzta
+167	29	-1360976409	Ukraine	kilotaras
+168	29	-1361237627	Poland	w_
+169	29	-1364032187	China	gold1103
+170	29	-1366913064	Tunisia	lionadis
+171	29	-1370268738	China	jki14
+172	29	-1370979478	Poland	e-pluszak
+173	29	-1373928323	India	TheAnshul
+174	29	-1374139925	Russia	lostbreath
+175	29	-1380030960	Russia	danilgrig
+176	29	-1381159337	Singapore	fenwicktree
+177	29	-1383492956	Hong Kong	kerboi
+178	29	-1386684682	Japan	xuzijian629
+179	29	-1390910411	South Korea	16silver
+180	29	-1391607678	China	Rooobyn
+181	29	-1394965720	France	Gaspi
+182	29	-1398745988	South Korea	IHHI
+183	29	-1403306508	Romania	popovicirobert
+184	29	-1403361974	Japan	gogutan
+185	29	-1403416865	France	fbreton
+186	29	-1403432343	Hong Kong	kobebryan9
+187	29	-1404327241	Poland	Marcin.Smulewicz
+188	29	-1407670675	Russia	step_by_step
+189	29	-1409155704	Poland	eMBe
+190	29	-1409181276	Antarctica	jwg4
+191	29	-1412158618	Russia	Kuyan
+192	29	-1416571404	Vietnam	laoriu
+193	29	-1416580517	Japan	satos
+194	29	-1419216860	India	dredwerkz
+195	29	-1421910410	Romania	georgerapeanu
+196	29	-1422969182	Romania	tamionv
+197	29	-1426169472	Spain	cescmentation.folch
+198	29	-1428937664	United Kingdom	meta42
+199	29	-1432042796	Taiwan	nonamefour0210
+200	29	-1434549886	Thailand	Nonira
+201	29	-1439235771	Japan	ctyl
+202	29	-1442620198	France	francois_plusplus
+203	29	-1457614761	Romania	sebisebi
+204	29	-1465085963	India	amnesiac_dusk
+205	29	-1465288982	Russia	AndreySergunin
+206	29	-1471689561	Israel	NoamGut
+207	29	-1478774930	Taiwan	RogerW
+208	29	-1479662113	Germany	ben.natura@gmail.com
+209	29	-1482813047	China	lzw4896s
+210	29	-1482861774	France	nweeks_
+211	29	-1487963744	Switzerland	dj3500
+212	29	-1493095579	United Kingdom	a02
+213	29	-1500185989	Belgium	Nicolas16
+214	29	-1502760199	Czech Republic	osladky
+215	29	-1502905841	Ireland	sdedalus
+216	29	-1504701839	Japan	dpforest
+217	29	-1505819724	Taiwan	tsyr
+218	29	-1507517441	Japan	starline
+219	29	-1508271367	Japan	ei1333333
+220	29	-1509423861	Vietnam	iwantfreetshirts
+221	29	-1510541346	Latvia	kcivkulis
+222	29	-1513270246	Russia	zeliboba
+223	29	-1513318317	Armenia	harhrayr
+224	29	-1515902292	South Korea	shiftpsh
+225	29	-1519440982	United States	ctunoku
+226	29	-1519690847	Singapore	SadFace
+227	29	-1520212499	Netherlands	davidv
+228	29	-1527324744	Bulgaria	IvayloS
+229	29	-1528659951	Spain	EdgarMM19
+230	29	-1533081622	India	vyomkesh
+231	29	-1536669824	Russia	vpike
+232	29	-1540051364	Netherlands	Timon_Knigge
+233	29	-1551820565	Japan	enuemu
+234	29	-1556889156	India	harsh639
+235	29	-1558273399	Russia	Gassa
+236	29	-1559004710	Germany	baconit
+237	29	-1559556979	Japan	MikeCAT
+238	29	-1560626479	United States	jacob.b.zhang
+239	29	-1562022758	Australia	jum
+240	29	-1567325868	Russia	phire
+241	29	-1569634519	Ukraine	BohdanVey
+242	29	-1573082496	China	TankEngineer
+243	29	-1573962657	Russia	Kapt
+244	29	-1575400706	Japan	div_0x00
+245	29	-1576596429	Taiwan	johnathan79717
+246	29	-1578759597	Russia	vladklyachin
+247	29	-1579996836	Vietnam	Murica
+248	29	-1580860418	Switzerland	johutha
+249	29	-1584116881	United States	paladin8
+250	29	-1588988306	Japan	daisyo
+251	29	-1589011845	Japan	homesentinel
+252	29	-1592908341	Japan	HIR180
+253	29	-1595624177	Japan	anomuno
+254	29	-1601294929	United States	FireCire
+255	29	-1605151386	Poland	Wazemo
+256	29	-1615706247	South Korea	gs12117
+257	29	-1618959948	Brazil	TsubasaHanekawa
+258	29	-1620085116	Vietnam	low_
+259	29	-1620568773	Germany	NotMyName
+260	29	-1621720712	Russia	IlyaMSU
+261	29	-1621873509	Hungary	almasip
+262	29	-1622658914	South Korea	TAMREF
+263	29	-1628229497	United Kingdom	ndkrempel
+264	29	-1628888909	Romania	geniucos
+265	29	-1631463708	Czech Republic	JiriKalvoda
+266	29	-1632566301	France	arthy
+267	29	-1633586226	Slovakia	pali6
+268	29	-1637336083	Germany	Norbi42
+269	29	-1641177151	France	Tigron
+270	29	-1645501226	South Korea	GodTe
+271	29	-1648614065	United States	Noble.Mushtak
+272	29	-1650964213	South Korea	SuminKim
+273	29	-1651978743	Japan	yaoshimax
+274	29	-1656076000	South Korea	zhuny
+275	29	-1656438392	Portugal	ruippeixotog
+276	29	-1659262574	Czech Republic	Yongaron
+277	29	-1660798102	India	eeshan9815
+278	29	-1660882367	Finland	Lieska
+279	29	-1660996002	Japan	knzm
+280	29	-1661668768	China	clappear
+281	29	-1661887193	India	raghav03
+282	29	-1663754335	Poland	loK10
+283	29	-1666105820	India	AnubhavDhar
+284	29	-1674623588	United Kingdom	alex1770
+285	29	-1678585102	United States	amsraman
+286	29	-1683022278	Taiwan	cheissmart
+287	29	-1683422428	United Kingdom	dabar
+288	29	-1683599904	Hungary	Peudoki
+289	29	-1684100899	Indonesia	yogahmad
+290	29	-1687407531	United States	BigWaterMan
+291	29	-1694287619	Sweden	Flugan42
+292	29	-1701455568	Decline to Answer	y7
+293	29	-1705054224	France	AdrienVannson
+294	29	-1712386473	Japan	Ogtsn99
+295	29	-1712972977	India	anil9717
+296	29	-1713760463	Taiwan	GGJHONG
+297	29	-1715310754	Thailand	ThanadeeW
+298	29	-1718269474	Italy	MrBrionix
+299	29	-1719614141	Latvia	renaatsj
+300	29	-1722844278	South Korea	red1108
+301	29	-1723325523	South Korea	hyeonseop
+302	29	-1725923467	Russia	KalininN
+303	29	-1726202222	United States	Loks
+304	29	-1728386608	Poland	sarutonix
+305	29	-1729699701	China	justarandomstring
+306	29	-1733717837	South Korea	ijleesw
+307	29	-1734229681	Japan	Kawazoe
+308	29	-1735051359	Sri Lanka	suren31415
+309	29	-1742773548	India	Silversnitch
+310	29	-1743404677	Belarus	petuhovskiy
+311	29	-1748648393	Russia	ivanovmp
+312	29	-1750963494	Czech Republic	Vasek
+313	29	-1751102817	Italy	fram
+314	29	-1753440123	Cuba	gilcu3
+315	29	-1755779090	Russia	scanhex
+316	29	-1757864300	South Korea	taekop
+317	29	-1757970820	Bulgaria	AStanev
+318	29	-1760563832	South Korea	BByong
+319	29	-1765136079	Poland	cuber2460
+320	29	-1770555573	Turkey	Atacan
+321	29	-1771050326	United States	ang421
+322	29	-1773276114	Japan	yehara
+323	29	-1778118732	Russia	Ekler
+324	29	-1784047875	Estonia	nigulh
+325	29	-1784277406	France	vxgmichel
+326	29	-1784690305	Russia	XraY
+327	29	-1785247680	Ukraine	KostasKostil
+328	29	-1785748007	Russia	Umqra
+329	29	-1785950965	China	WangDong
+330	29	-1786281808	France	Amaury.Liet
+331	29	-1786397625	Poland	Mikpol
+332	29	-1789306056	Japan	Startcpp
+333	29	-1792315016	Canada	edy3
+334	29	-1793758701	India	geekpradd
+335	29	-1795103818	Russia	Metaray21
+336	29	-1797264141	Japan	idaten459
+337	29	-1797478492	United States	bogeyman
+338	29	-1799972803	Japan	cos
+339	29	-1803754025	Sweden	aitch
+340	29	-1805625281	South Korea	youx
+341	29	-1809015592	Brazil	tiagoshibata
+342	29	-1813268911	Ukraine	passs
+343	29	-1814202521	Indonesia	corona
+344	29	-1817828796	Slovakia	vlejd
+345	29	-1818094037	Canada	elavi
+346	29	-1827183668	United States	joeythaman
+347	29	-1828423641	Poland	staniewzki
+348	29	-1838022488	Japan	Altair626
+349	29	-1838684945	China	gxnncrx
+350	29	-1842180768	Belgium	jeroendemeyer
+351	29	-1855439556	France	Nanored
+352	29	-1859458480	China	MjLee
+353	29	-1859518675	South Africa	dolphingarlic
+354	29	-1860755980	Poland	ggawryal
+355	29	-1863673469	Russia	Wazowski
+356	29	-1864392327	Hong Kong	lwchkg
+357	29	-1864791622	Japan	ksconvex@gmail.com
+358	29	-1869967542	Japan	starwand
+359	29	-1870911988	Russia	Agreb
+360	29	-1871929480	India	aneesh2312
+361	29	-1873076436	Israel	doodoo
+362	29	-1873559550	Ukraine	skozyr
+363	29	-1875275188	Japan	tyawanmusi
+364	29	-1881385106	South Korea	Rebel_lion
+365	29	-1882249939	Russia	mikhail.levin@gmail.com
+366	29	-1888414327	Brazil	CaroLinda
+367	29	-1889014082	Netherlands	M1chael0906
+368	29	-1890509512	Russia	Kurpilyansky
+369	29	-1894558282	Peru	forifchen
+370	29	-1898351483	South Korea	Doju
+371	29	-1904496119	Vietnam	huyvvo
+372	29	-1905965444	Thailand	nutmos
+373	29	-1907690666	Japan	sensaur
+374	29	-1908858910	Italy	simpatine
+375	29	-1908927245	South Africa	HiltonLange
+376	29	-1910828649	China	lcy156250
+377	29	-1911914139	India	nitesh_gupta
+378	29	-1919044465	China	白衣少年
+379	29	-1923389400	India	code_struck
+380	29	-1925002157	Italy	rolandbernard
+381	29	-1927909666	Bangladesh	rebornplusplus
+382	29	-1928601638	Japan	Moyashi
+383	29	-1934431255	Israel	Tashm
+384	29	-1938894397	Germany	Zwergesel
+385	29	-1941875893	Romania	dgriza
+386	29	-1942275394	Japan	lyoz
+387	29	-1944704686	China	computer_luo
+388	29	-1945191060	Russia	alex700
+389	29	-1947362806	China	iaojnh
+390	29	-1950222525	Poland	DamianS
+391	29	-1956334677	Russia	MakArtKar
+392	29	-1956541840	Japan	hotpepsi
+393	29	-1959062442	Poland	xman1024
+394	29	-1959550393	Ukraine	Viri_Aldi
+395	29	-1961404338	China	besieger
+396	29	-1962935446	South Korea	grace0068
+397	29	-1967695645	India	jeeva2812
+398	29	-1968105591	Italy	MyK00L
+399	29	-1970001641	Decline to Answer	gizzywump
+400	29	-1971069256	Ukraine	maksprotsyk
+401	29	-1974549307	Brazil	Bossle
+402	29	-1976499229	Japan	GoldIngot
+403	29	-1981404896	China	shiuang
+404	29	-1983284723	France	Bcollet
+405	29	-1985068050	United Kingdom	KernelJ
+406	29	-1985517227	Germany	davidKonka
+407	29	-1987448400	South Korea	ertyu
+408	29	-1989789496	Bangladesh	tasmeemreza
+409	29	-1992175004	Russia	sleirsgoevy@gmail.com
+410	29	-1992632619	South Korea	yooyou7
+411	29	-1993776676	Hong Kong	chengheichit
+412	29	-1994438978	Taiwan	dreamoon_love_AA
+413	29	-2000501817	China	sdcgvhgj
+414	29	-2001063167	Germany	JdPL
+415	29	-2007293659	Brazil	mariohss
+416	29	-2008485285	India	abisheka
+417	29	-2011080373	Thailand	p.oon
+418	29	-2014784319	Germany	0x544C
+419	29	-2015961164	South Korea	LunarHY
+420	29	-2019033651	United States	Tsumiman
+421	29	-2019813262	Russia	voidmaxn
+422	29	-2021427347	France	Lanfeust
+423	29	-2023772289	Canada	Saeed.Odak
+424	29	-2025515213	Poland	tpablo
+425	29	-2027182244	New Zealand	Richard811
+426	29	-2027791042	India	Chayanj450
+427	29	-2030291928	Japan	nebukuro09
+428	29	-2031490398	China	sega_hsj
+429	29	-2031556187	Israel	almogn
+430	29	-2032486213	China	Lgq_3de5
+431	29	-2033038364	India	SuryaPrakash
+432	29	-2038682652	United States	CoffeePlease
+433	29	-2038710027	Russia	anatolik
+434	29	-2040035910	Russia	cdkrot
+435	29	-2043065391	France	Niols
+436	29	-2048569262	China	Whisdangist
+437	29	-2048648003	Israel	meir
+438	29	-2048704558	Italy	LucMac
+439	29	-2049578617	Indonesia	fikr
+440	29	-2049605387	Hungary	schtomi97
+441	29	-2055712026	Macau	Agu1729
+442	29	-2056629848	France	Xoff
+443	29	-2056921389	South Korea	coffeetea
+444	29	-2059334759	Japan	nakari1124
+445	29	-2063191354	Japan	nrvft
+446	29	-2064286949	Belgium	SeppeVS
+447	29	-2069892078	Netherlands	krijgertje
+448	29	-2071796599	United States	Catalystic
+449	29	-2073319240	India	treenode
+450	29	-2074245613	Russia	Flange
+451	29	-2074510353	Czech Republic	Drecker
+452	29	-2076806701	United States	jdurie
+453	29	-2076850886	Taiwan	yp155136
+454	29	-2085602532	Taiwan	SheepRanger
+455	29	-2090373095	Poland	TomaszPawicki
+456	29	-2095012025	Japan	N_hara
+457	29	-2095347984	China	nike0good
+458	29	-2096643221	Norway	stubbscroll
+459	29	-2097861963	Germany	fjuengermann
+460	29	-2103268721	Poland	agutowski
+461	29	-2107287069	Brazil	wjoao
+462	29	-2107768949	Japan	nagitaosu
+463	29	-2111005314	Bangladesh	irri
+464	29	-2112077882	Russia	EgorLifar
+465	29	-2112799918	Japan	_uenoku
+466	29	-2113331082	United States	abcdefguan
+467	29	-2113489506	South Korea	Namnamseo
+468	29	-2118575163	Australia	lackofcheese
+469	29	-2120370188	Slovakia	markopuza
+470	29	-2121911197	Spain	JordiR
+471	29	-2121912770	France	confitureDuB4
+472	29	-2122414182	United Kingdom	ArthurConmy
+473	29	-2122500686	Mexico	fgrl1408@gmail.com
+474	29	-2123806314	Argentina	gastisalgado
+475	29	-2129843990	Japan	phyllo
+476	29	-2130163302	Taiwan	sayuan
+477	29	-2133632797	Japan	autumn_eel
+478	29	-2134691889	Japan	otazami
+479	29	-2136390750	United States	Imnimo
+480	29	-2137029332	Poland	karol.kaszubki@gmail.com
+481	29	-2142084431	Vietnam	Combi2k2
+482	29	-2142259820	Russia	cezarnik
+483	29	-2142332962	Japan	kanpurin
+484	29	-2143702732	China	CroMarmot
+485	29	-2143902404	Israel	Yardenporat
+486	29	-2145020208	United States	ochre
+487	29	-2145125919	India	Dhull442
+488	29	-2147374504	Hong Kong	mhcmatthew
+489	29	-2147939284	South Korea	gratus907
+490	29	-2152953060	Armenia	RubenAshughyan
+491	29	-2160351736	Poland	kobor
+492	29	-2161188473	South Korea	dtc03012
+493	29	-2162065442	China	JogleLew
+494	29	-2162213367	United States	abliss
+495	29	-2165647164	South Korea	Biigbang
+496	29	-2168436420	Romania	freak93
+497	29	-2170781972	Japan	niwatori
+498	29	-2173066267	India	metalman
+499	29	-2178129021	Argentina	pablobce
+500	29	-2178843907	Thailand	tana
+501	29	-2181836154	Bulgaria	anrieff
+502	29	-2186666268	Japan	ShanOvery
+503	29	-2187222187	Germany	vdeksel
+504	29	-2190049554	India	toxic_hack
+505	29	-2194784127	United States	Chris314
+506	29	-2195757528	Russia	elizarov
+507	29	-2196993324	India	lavish315
+508	29	-2198712745	India	raghav19
+509	29	-2200193359	United States	JohnNo
+510	29	-2201066958	Belarus	sharepo
+511	29	-2203042083	China	wuqing157@gmail.com
+512	29	-2203150670	Taiwan	weitang114
+513	29	-2207481010	Poland	malcin
+514	29	-2207744825	Russia	KS2003
+515	29	-2208864624	Italy	TommasoBendinelli
+516	29	-2213298492	Kazakhstan	ttim
+517	29	-2214743430	Ukraine	Fcdkbear
+518	29	-2219529755	Ukraine	kirill.golodnov
+519	29	-2219542043	Russia	opukittpceno_hhr
+520	29	-2219813541	Brazil	pedrohlf
+521	29	-2221915107	Canada	dden4ik
+522	29	-2224105857	Hungary	Pyth
+523	29	-2225748607	Poland	zglicz
+524	29	-2233363870	Hong Kong	YanruCheng
+525	29	-2234767029	China	Heart.Blue
+526	29	-2236787400	South Korea	ahgus89
+527	29	-2239296371	Poland	Nieznany
+528	29	-2241117031	India	TarushGoyal2000
+529	29	-2241411255	France	rthr
+530	29	-2241577785	Japan	yukidaruma6
+531	29	-2242846346	France	succo
+532	29	-2242918136	China	coup_de_grace
+533	29	-2246428359	India	Hitesh_0301
+534	29	-2247909370	Japan	jun__
+535	29	-2249543321	Canada	ThreeInches
+536	29	-2250099869	Russia	NALP
+537	29	-2257537619	China	squarefk
+538	29	-2258272993	Latvia	gedrox
+539	29	-2260832833	South Korea	starwh03
+540	29	-2265168357	France	Yannou27
+541	29	-2276890901	Italy	Fedux
+542	29	-2277517950	Chile	martins
+543	29	-2284589879	India	machhra
+544	29	-2286608532	India	vinmaxx
+545	29	-2288667019	Israel	Romdud
+546	29	-2289811081	Taiwan	Chung-Shang-Hsuan
+547	29	-2290381651	Russia	alexX512
+548	29	-2290691104	United States	FieryPhoenix
+549	29	-2293143761	China	ZhouYuChen
+550	29	-2296989502	India	err_pv
+551	29	-2300893981	Indonesia	r.i
+552	29	-2301685281	South Korea	skdudn321
+553	29	-2304639275	India	pushpendra1997
+554	29	-2311954808	United Kingdom	Smithers
+555	29	-2313928049	India	RKJenamani
+556	29	-2318972964	India	nitix
+557	29	-2320917440	Russia	UmbraNoctis
+558	29	-2323987718	Russia	dmkozyrev
+559	29	-2324459010	China	thirtiseven
+560	29	-2329688900	India	shivammittal99
+561	29	-2339295447	Latvia	Krisjanis
+562	29	-2340131114	Singapore	mzy
+563	29	-2341048576	China	an.dev
+564	29	-2341721340	China	trort
+565	29	-2343291857	Brazil	lamartine.cb
+566	29	-2346026750	China	bluewang
+567	29	-2346261506	China	choumartin1234
+568	29	-2348269248	Croatia	paulica
+569	29	-2354627267	Singapore	Acceleraizer
+570	29	-2356542808	United Kingdom	atatomir
+571	29	-2360398366	Japan	n4o847
+572	29	-2363542027	Taiwan	M30W
+573	29	-2364994012	Poland	ilo12
+574	29	-2365970379	China	coldwater
+575	29	-2368296715	Japan	theory_and_me
+576	29	-2377323293	China	Reku
+577	29	-2378187441	Iceland	FatliAnnar
+578	29	-2380890484	Czech Republic	mhora
+579	29	-2382044951	Hong Kong	kmyiu
+580	29	-2384592461	Australia	DarthRyry
+581	29	-2385384694	Russia	clown_rusofob
+582	29	-2389177728	Czech Republic	ktesar
+583	29	-2391733271	Bulgaria	laspinko
+584	29	-2393436399	United States	bpdolson
+585	29	-2397226964	Bangladesh	Iftekhar_Hakim_K
+586	29	-2397651271	Israel	kalvari
+587	29	-2398645491	Romania	apostoldaniel854
+588	29	-2401406183	Russia	sevlll
+589	29	-2405517349	Vietnam	EmperorQT
+590	29	-2412134853	Vietnam	heaptk
+591	29	-2412509717	Taiwan	binsjl
+592	29	-2412579775	France	nitrogenc
+593	29	-2412937449	Japan	veqcc
+594	29	-2418071162	United Kingdom	QuantumCaffeine
+595	29	-2430702174	Russia	klimoza
+596	29	-2442007694	France	webalorn@gmail.com
+597	29	-2449161897	Taiwan	qazwsxedcrfvtg14
+598	29	-2456357995	United Kingdom	Tan()
+599	29	-2466996308	France	Optidad
+600	29	-2470195578	India	Dipjal.Chhetri
+601	29	-2430702174	Russia	klimoza
+602	29	-2432197799	United States	bigbubble
+603	29	-2432756789	Czech Republic	maris.polis
+604	29	-2442007694	France	webalorn@gmail.com
+605	29	-2449161897	Taiwan	qazwsxedcrfvtg14
+606	29	-2456357995	United Kingdom	Tan()
+607	29	-2466996308	France	Optidad
+608	29	-2470195578	India	Dipjal.Chhetri
+609	29	-2478932932	China	YiYi
+610	29	-2480687686	South Korea	str0ct
+611	29	-2491405458	Lithuania	GretaM
+612	29	-2508526853	Ukraine	Sky_Nik
+613	29	-2511678717	India	cerberus97
+614	29	-2511791936	Japan	shop_one
+615	29	-2519050135	United States	kmod
+616	29	-2526348874	China	RUSH_D_CAT
+617	29	-2526420931	United States	bobloblaw
+618	29	-2526974098	Slovenia	grekiki
+619	29	-2528192229	Germany	Felerius
+620	29	-2541497936	Taiwan	Sean64
+621	29	-2542979280	Slovakia	goober
+622	29	-2546722066	Switzerland	johannesk
+623	29	-2553413647	South Korea	withham1
+624	29	-2563608731	Japan	nagiss
+625	29	-2565253795	Poland	Arti1990
+626	29	-2584843328	Brazil	ViniciusCabessa
+627	29	-2595484960	South Korea	jaehaaheaj
+628	29	-2600417746	Japan	furuya1223
+629	29	-2602405213	Russia	Vladimirr.Petrunko
+630	29	-2608514864	United States	kongbomb
+631	29	-2634287992	Japan	Moketi
+632	29	-2640534001	United States	tonyli00000
+633	29	-2658542405	Poland	gawarkiewicz
+634	29	-2661537002	Germany	Degalat57
+635	29	-2669828499	United Kingdom	Zherui
+636	29	-2672623724	Romania	cypryoprisa
+637	29	-2739125578	Indonesia	Nich
+638	29	-2786371993	India	air3healer
+639	29	-2801346143	China	Barty
+640	29	-2830147515	India	VageshVerma
+641	29	-2833809931	Taiwan	ltf0501
+642	29	-2835913746	Italy	FedericoStazi
+643	29	-2843335218	Russia	pavlekn
+644	29	-2855950934	Slovenia	alexmat21
+645	29	-2856053620	Spain	Rosman
+646	29	-2905381795	Russia	Maksim1744
+647	29	-2913065864	Australia	pkunsw
+648	29	-2955879592	United States	m1sch3f
+649	16	-1544319228	Hong Kong	garethhkm2023
+650	16	-1993801427	Japan	nuts1216
+651	16	-2347452990	Japan	koyopro
+652	16	-2352268740	Japan	kei1107
+653	13	-418005685	Hong Kong	southball
+654	13	-695657186	Ukraine	Sonechko
+655	13	-778213443	Mexico	Franco1010
+656	13	-807919972	Russia	Valentin_E
+657	13	-809054323	China	myp
+658	13	-810224322	Germany	amr962
+659	13	-821968305	India	furious__
+660	13	-868149647	Hungary	attila
+661	13	-890464187	Egypt	It_Wasnt_Me
+662	13	-911592340	India	Xetrazeus
+663	13	-913115378	Canada	vEver
+664	13	-924920148	United States	limabeans
+665	13	-930423504	India	thatprakhar
+666	13	-950989520	Belarus	Pavel.Sheftelevich
+667	13	-984571892	United States	Harpae
+668	13	-1002361767	Kazakhstan	HCPS42
+669	13	-1006456295	United States	davidxl7
+670	13	-1019841030	Brazil	NaimSS
+671	13	-1020254937	India	starboy_jb
+672	13	-1020942638	Taiwan	lolicon_tw
+673	13	-1083775735	India	Priyam2k
+674	13	-1147294547	South Korea	Dogdriip
+675	13	-1155276564	Japan	ryo_n
+676	13	-1167461606	France	noelnadal
+677	13	-1180333906	India	fastboot
+678	13	-1200435786	India	dhruv2000
+679	13	-1201812582	Iceland	MadMonkeyCo
+680	13	-1213640724	India	AkJn
+681	13	-1219436628	India	harshlunagaria
+682	13	-1221821734	India	raunit_x
+683	13	-1236258106	Jordan	OmarNaseer
+684	13	-1236757260	India	NehaModak
+685	13	-1247692817	Russia	Slavik.MSU
+686	13	-1250289677	India	streaker_rules
+687	13	-1253496996	Japan	simamumu
+688	13	-1259333493	India	RahulKumarSharma
+689	13	-1273071070	Egypt	AhmedSalem
+690	13	-1282950523	Poland	Karintor
+691	13	-1284617711	Japan	shirakia
+692	13	-1290643724	Japan	kzyKT
+693	13	-1297193020	Uzbekistan	Asadullo
+694	13	-1302613543	India	nemausus
+695	13	-1303730371	Romania	PlayLikeNeverB4
+696	13	-1304147506	Japan	rinzu17
+697	13	-1310599782	Tunisia	ILGLAYS
+698	13	-1317012899	India	Gaurav_8
+699	13	-1324409348	Russia	igorjan94
+700	13	-1324654438	India	Atishayay
+701	13	-1325210829	India	Horcrux1729
+702	13	-1347058920	Egypt	Ahmed_Diab
+703	13	-1349504249	China	Yeah2333
+704	13	-1350320793	United States	RealNero
+705	13	-1360339417	India	Its_Easy
+706	13	-1381264643	India	fascineted
+707	13	-1382057707	India	dryairship
+708	13	-1384828351	India	dwai009
+709	13	-1386806436	India	aggarwalvinayak
+710	13	-1389622505	India	nishant.ns19
+711	13	-1400648701	Russia	krukovna
+712	13	-1407630512	Oman	Ahmed_Allawati
+713	13	-1427164688	Russia	Pennyroyal_tea
+714	13	-1433918218	Japan	obancha
+715	13	-1434290341	United States	yaqizhang
+716	13	-1441916150	Slovakia	P4nda
+717	13	-1452571590	Russia	andr0901
+718	13	-1453607799	Bangladesh	CLown1331
+719	13	-1457661702	India	praveenojha33
+720	13	-1460919488	Japan	minus9d
+721	13	-1462611903	Japan	soshun
+722	13	-1473868959	United States	ConradBailey
+723	13	-1474882283	India	Aakash10399
+724	13	-1478134304	India	Pulkit100
+725	13	-1478905995	Germany	nellex
+726	13	-1490667593	India	anurag_mudgil
+727	13	-1492210830	India	jheel4
+728	13	-1500592972	Kazakhstan	Sanzhar23
+729	13	-1501705237	India	adarshgupta56444@gmail.com
+730	13	-1510991711	Ukraine	rudenko_gold
+731	13	-1520257743	Russia	CsuD
+732	13	-1523199741	China	zyx_xiao
+733	13	-1523938466	India	smit.mangukiya
+734	13	-1524261204	India	Arshad2117
+735	13	-1533047405	Chile	pdesolminihac
+736	13	-1539617517	India	arron-tij
+737	13	-1539700947	India	suri_kumkaran
+738	13	-1546015166	United States	YuhanWu
+739	13	-1549681187	Czech Republic	kyticka
+740	13	-1552229658	Bolivia	pharaoh385
+741	13	-1559296576	Peru	roypalacios
+742	13	-1564250313	Japan	kichi2004
+743	13	-1567927889	India	arsh99
+744	13	-1571102237	India	AkashHamirwasia
+745	13	-1575766470	China	gjy@ustc.edu.cn
+746	13	-1579393204	India	potter1024
+747	13	-1581120168	India	RKtheGREAT007
+748	13	-1587222064	Hungary	balint8540
+749	13	-1593640717	United States	somemeat
+750	13	-1601389456	India	dharmaraj_82
+751	13	-1609284761	Russia	empty_walls
+752	13	-1611496372	Italy	Guineapig
+753	13	-1620613979	Romania	a1ex
+754	13	-1650937820	Germany	daniel.werner
+755	13	-1656707238	Mexico	sergio10barca
+756	13	-1672045360	India	mayank1999
+757	13	-1677766211	Japan	Yut176
+758	13	-1678817248	India	zyrch
+759	13	-1684353366	Japan	johnnyhibiki
+760	13	-1696659758	United States	clairebearr
+761	13	-1704595273	India	aayush9
+762	13	-1723580744	India	vivekrawat969
+763	13	-1734917761	India	bashr18
+764	13	-1743673390	Vietnam	duy_sau_rom
+765	13	-1748269896	India	Anonymous_bunny
+766	13	-1750663309	Poland	endrjuskr
+767	13	-1756461529	India	AVSTYLES
+768	13	-1759052458	Slovakia	Phyrexian
+769	13	-1766533881	Japan	SCL
+770	13	-1767120930	Brazil	guimafelipe
+771	13	-1767615312	Croatia	Kresimir
+772	13	-1768690225	China	lozy
+773	13	-1776518183	India	arjitkansal
+774	13	-1778146878	India	mujtaba1747
+775	13	-1799062919	United States	ajs0031
+776	13	-1799216701	Singapore	jonchan51
+777	13	-1800157315	United States	aiy12
+778	13	-1803043273	United States	soul2197
+779	13	-1806370372	Tunisia	M4mou
+780	13	-1810767754	India	arun.rajora
+781	13	-1818167286	India	ssid8802
+782	13	-1823786461	India	johnwick690
+783	13	-1826194300	Brazil	reiracofage
+784	13	-1826686528	South Korea	Desertship02
+785	13	-1835624570	Japan	s.sh
+786	13	-1837541864	Norway	LiquidHuskEel
+787	13	-1838510708	India	azadkumar
+788	13	-1838654033	India	Lezendary_Sandwich
+789	13	-1839684618	India	ujjawalpabreja
+790	13	-1851536894	India	sajalagrawal14
+791	13	-1852442202	India	arjun_9426
+792	13	-1860098131	Tunisia	AmEr
+793	13	-1874028658	United States	LinkedListMan
+794	13	-1874818573	China	angrypop
+795	13	-1890324349	Egypt	WaleedBadr
+796	13	-1891095351	Netherlands	vanvector@gmail.com
+797	13	-1898758244	India	shivams
+798	13	-1900088209	United States	youbo_
+799	13	-1904470562	India	kazuki08
+800	13	-1907934628	India	mehul_02
+801	13	-1952254171	Hong Kong	zhhheidi
+802	13	-1952962760	Venezuela	aras.7
+803	13	-1955360301	India	tejkiran_v
+804	13	-1959339283	India	RampalMishra
+805	13	-1966683191	India	Visvesh
+806	13	-1967566691	Germany	AlexZorn
+807	13	-1968011478	India	sanskaragrawal
+808	13	-1975683014	India	kassutta
+809	13	-1976404063	India	kapillamba4
+810	13	-1980795463	China	humanfy
+811	13	-1984006802	France	Zadkiel
+812	13	-1984394198	India	devanshrajgarhia
+813	13	-1989888350	India	bhvdsi
+814	13	-1993108205	India	sumanta1234
+815	13	-1997995513	India	Hackcyborg
+816	13	-1998856128	Lithuania	robertasn
+817	13	-2000171747	Russia	Pelmener
+818	13	-2007842467	India	sakshamb99
+819	13	-2013415843	India	courtesy
+820	13	-2021790491	United States	Ratmir15
+821	13	-2022703715	India	anjn98
+822	13	-2028837252	Netherlands	ErnstRoos
+823	13	-2029969659	United States	PresidentSam100
+824	13	-2030099629	India	asheshvidyut
+825	13	-2032883847	Bangladesh	TheHalfBlo0dPrince
+826	13	-2034336412	China	吹风思密达
+827	13	-2035231249	Portugal	GambuzX
+828	13	-2035527098	United Kingdom	freebuddhistjay
+829	13	-2036475265	Ukraine	vanchope
+830	13	-2043447237	China	Codle
+831	13	-2050708594	Germany	nanoalpaca
+832	13	-2052191753	India	devanshugupta
+833	13	-2053428678	India	Sumukh_Bhardwaj
+834	13	-2056229265	United States	puma314
+835	13	-2057740354	Poland	maras
+836	13	-2059148277	Singapore	pvtuan10
+837	13	-2059874583	Brazil	bira37
+838	13	-2060942411	India	muNick
+839	13	-2062365203	Japan	harmokey
+840	13	-2064874308	India	chirag7145
+841	13	-2066004832	Japan	monyone
+842	13	-2070813991	India	gamechanger195
+843	13	-2083268775	Lithuania	Šaučiu1
+844	13	-2084181749	India	ritik_patel05
+845	13	-2084839212	Turkey	burakferit
+846	13	-2088839590	Japan	developmaso
+847	13	-2089485281	Thailand	KSoul
+848	13	-2098635499	Macedonia [FYROM]	plomicom
+849	13	-2100612393	India	A_A
+850	13	-2102830464	Bulgaria	espr1t
+851	13	-2108901424	Japan	imulan
+852	13	-2113462312	India	mrBansal
+853	13	-2113558125	Vietnam	aladine
+854	13	-2115922301	Japan	kawap23
+855	13	-2116388763	Philippines	Steve_120
+856	13	-2117433249	India	starboy_1299
+857	13	-2121481724	Hungary	Pred4c3
+858	13	-2122913758	Belarus	vladik
+859	13	-2125297338	Russia	ilye@yandex.ru
+860	13	-2127063142	France	eddie.von.becehem
+861	13	-2129474832	India	Vince24
+862	13	-2132775302	Taiwan	puppy955101
+863	13	-2133515076	Russia	dkirienko
+864	13	-2136228410	Taiwan	thumbd12856
+865	13	-2137912713	Hong Kong	Jonowo
+866	13	-2141052018	Thailand	pongtaewin
+867	13	-2144747174	Taiwan	dancooper0705
+868	13	-2147089641	China	juliancomeon
+869	13	-2152035487	India	Chocobar
+870	13	-2161182707	Italy	simonedegiacomi
+871	13	-2169878476	India	rishabh_singh_
+872	13	-2172004530	Czech Republic	sloniChobot
+873	13	-2182380214	Russia	alexmir1
+874	13	-2182674595	Russia	tirlimster
+875	13	-2192729004	China	justever86
+876	13	-2194534285	India	mr.convict
+877	13	-2195609011	China	Backlight
+878	13	-2196887689	Japan	nonsava
+879	13	-2201775468	India	a_mysterious_x
+880	13	-2203784727	Andorra	ViloCat
+881	13	-2205394522	United States	Taekyukim02@gmail.com
+882	13	-2205895290	Vietnam	vedjgnab
+883	13	-2219713047	Poland	majra
+884	13	-2220253990	Russia	gkhalin
+885	13	-2222188910	Romania	Pety
+886	13	-2224293825	United States	iswitzer
+887	13	-2225637633	South Korea	hayman42
+888	13	-2226219035	Ukraine	Kozyr
+889	13	-2229933579	Belgium	jesseh
+890	13	-2232530261	China	Cherish
+891	13	-2236203861	Japan	Novemura
+892	13	-2236948173	Indonesia	tzaph_
+893	13	-2245148662	Bangladesh	Nafis_Shahriar
+894	13	-2249771218	Bosnia and Herzegovina	holix
+895	13	-2250452612	Japan	tatsy
+896	13	-2256575119	Russia	AlesyaIvanova
+897	13	-2258061835	Canada	jjjding2
+898	13	-2261105591	Czech Republic	zitmen
+899	13	-2263005455	Israel	asher10000
+900	13	-2266877770	Bangladesh	strange.r
+901	13	-2274825700	Egypt	Ahmed_Alansary
+902	13	-2275124437	Taiwan	Yazmau
+903	13	-2276399830	France	Julieng
+904	13	-2279389900	Uzbekistan	TheArtOfWar
+905	13	-2292143277	India	parthpm
+906	13	-2297342993	South Korea	hunni10
+907	13	-2301161206	Japan	TrpFrog
+908	13	-2312239102	Japan	rokahikou
+909	13	-2313960828	India	blast
+910	13	-2323952797	India	Sid03
+911	13	-2325809149	Ukraine	danylo99
+912	13	-2331271738	Macau	charterla
+913	13	-2331620487	Netherlands	flatwhite
+914	13	-2338438662	India	cocoaNcheese
+915	13	-2339480106	India	Sanket_17
+916	13	-2339824556	Indonesia	mastre
+917	13	-2340709458	Croatia	gustav
+918	13	-2343799410	Georgia	oTTo_22
+919	13	-2346731661	Brazil	iamavalon
+920	13	-2354439188	India	varsha.lalwani.che16
+921	13	-2361088426	Netherlands	mohmahkho
+922	13	-2361498216	Taiwan	hortune
+923	13	-2361578923	Canada	Xue_Alex
+924	13	-2365717147	Brazil	su007
+925	13	-2367081311	Germany	slava_stepanov
+926	13	-2367322659	Poland	DomiKo
+927	13	-2373146312	China	binarycopycode
+928	13	-2373978449	Canada	durad
+929	13	-2377195912	India	nemish
+930	13	-2382964190	Japan	t_motooka
+931	13	-2383064290	Russia	valerygegelevsky@yandex.ru
+932	13	-2383415713	Germany	hatze
+933	13	-2395550905	Kazakhstan	YerzhanU
+934	13	-2415913510	India	chandan98k
+935	13	-2417656933	South Korea	gosookyunggo
+936	13	-2417802832	India	sajmera_2629
+937	13	-2417863934	China	daifei4321
+938	13	-2419348616	Canada	DarinTay
+939	13	-2432605628	Japan	stdll
+940	13	-2435930004	Taiwan	tkain
+941	13	-2452967269	Israel	Tzafrir
+942	13	-2463606913	Japan	goryudyuma
+943	13	-2488099166	India	zypher27
+944	13	-2492977144	Czech Republic	kulisak12
+945	13	-2504520947	Italy	space_mushroom
+946	13	-2518711059	South Korea	Einstrasse
+947	13	-2521937392	Spain	JaimeRG01
+948	13	-2527088842	India	PyAlpha
+949	13	-2533573496	Egypt	HossamAhmed
+950	13	-2539345650	Japan	kumalimak
+951	13	-2553477466	China	Ir1d
+952	13	-2554048587	United States	eenz
+953	13	-2561529248	Brazil	FelipeF
+954	13	-2581377011	India	avcbcoder
+955	13	-2592725469	United Kingdom	bootandy
+956	13	-2592776610	China	Noisy_JohnSmith
+957	13	-2597031659	India	Addy007
+958	13	-2597187657	India	divya9997
+959	13	-2599421523	India	Jashlodhavia
+960	13	-2624621878	United Kingdom	pirosl
+961	13	-2626737667	India	Vaibhav_Domadia
+962	13	-2641406470	Russia	a.nogikh
+963	13	-2643328776	India	vasu0403
+964	13	-2643553548	India	i_love_programming
+965	13	-2663975644	India	baghel_vikas
+966	13	-2681484624	Russia	artditel
+967	13	-2718486903	South Korea	surverrepairman
+968	13	-2829593442	Japan	naoya_t
+969	13	-2856126962	Taiwan	joelthchao
+970	13	-2902974268	Russia	Cabpacob
+971	13	-2963807072	Italy	MalleAbile
+972	13	-2977005607	United States	Shunyu
+973	13	-3060538540	India	rakesh1601
+974	13	-3360338561	India	amit839
+975	8	-1211279865	Japan	SSRS
+976	8	-1983525611	Japan	torajiro
+977	8	-2533004662	India	yash_0402
+978	5	-893120070	India	Nag007
+979	5	-994835699	Romania	retrograd
+980	5	-1002610688	Israel	tomerv
+981	5	-1005166972	Taiwan	adzen
+982	5	-1022746933	Japan	Keroru
+983	5	-1090449118	United States	neeyanthkvk
+984	5	-1142493394	India	shroo
+985	5	-1216166443	France	redst0
+986	5	-1244697290	Bangladesh	SAIF_IIT-JU
+987	5	-1252034882	Japan	tomboftime
+988	5	-1302274856	India	Guttu_Maharaja
+989	5	-1314548160	Russia	Jatana
+990	5	-1344731849	United States	turbofreeze
+991	5	-1354001382	United States	Khaelex
+992	5	-1363631271	Canada	bobxiong88
+993	5	-1407946557	Brazil	vitorricoy
+994	5	-1413396506	Azerbaijan	namazov
+995	5	-1418343462	France	brospi
+996	5	-1450119637	United States	ctkhanhly
+997	5	-1450664567	India	shanu_im
+998	5	-1469159689	United States	sylvyrfysh
+999	5	-1476467398	Japan	matchapy
+1000	5	-1479895192	United States	Dreamer23
+1001	5	-1493265090	Japan	rapurasu
+1002	5	-1498929742	Kyrgyzstan	talant110726
+1003	5	-1521345136	Ukraine	YatsukSergey
+1004	5	-1528804182	India	sf14t
+1005	5	-1555645458	United States	BuckyPark
+1006	5	-1565447825	Ukraine	MrDindows
+1007	5	-1572620368	China	Robingan7
+1008	5	-1573654698	Peru	lafifi
+1009	5	-1578494987	India	njnaman
+1010	5	-1601699722	Israel	YehonatanAssaf
+1011	5	-1620478224	India	ethicalrushi23
+1012	5	-1660104585	United Kingdom	kanishkalikhanna
+1013	5	-1674941600	France	AlixMartin
+1014	5	-1677202968	Norway	ymgve
+1015	5	-1689914578	Vietnam	jamienguyen
+1016	5	-1692966344	Vietnam	iamquang95
+1017	5	-1707203996	Ukraine	allw
+1018	5	-1712041029	China	zkGaia
+1019	5	-1726564692	Spain	eskimal
+1020	5	-1730147631	Slovakia	PaLy
+1021	5	-1733559388	Egypt	MohamedSameh
+1022	5	-1742465693	New Zealand	sammochen
+1023	5	-1752953376	Japan	kcz
+1024	5	-1759090232	China	huizew
+1025	5	-1776593184	United States	Nikhilpatel
+1026	5	-1782875509	Brazil	GabeKanegae
+1027	5	-1787037906	United States	wassim.omais
+1028	5	-1787189869	Poland	Ktwsz
+1029	5	-1797918210	India	as1ngh
+1030	5	-1798609376	Egypt	RehamNaguib
+1031	5	-1800654434	Georgia	GeliGe
+1032	5	-1808047045	Japan	hiro116s
+1033	5	-1808446933	Decline to Answer	abeaumont
+1034	5	-1812615286	India	shreyas
+1035	5	-1832147859	India	bharat2002
+1036	5	-1833242903	United States	Suzukaze
+1037	5	-1833536643	India	ZzaZi
+1038	5	-1839870340	India	fortunate_man
+1039	5	-1843383463	South Korea	dlwocks31
+1040	5	-1876664902	Russia	shart23
+1041	5	-1887186340	Romania	bucevschi.alexandru@gmail.com
+1042	5	-1891640763	China	hongrock
+1043	5	-1911751564	India	kumaraditya1999
+1044	5	-1911766783	India	umar_bin_qamar
+1045	5	-1913322057	Romania	BlueDiamond
+1046	5	-1913951849	United States	Teeko
+1047	5	-1929371007	Japan	sansaqua
+1048	5	-1953182938	Japan	wakuwinmail
+1049	5	-1955666509	Japan	Silphire
+1050	5	-1963917790	Japan	kdplus
+1051	5	-1972747608	Jordan	Wesam
+1052	5	-1978351592	Japan	nu4nu
+1053	5	-1987479954	Bangladesh	badassiumoxide
+1054	5	-2010743292	Macau	SWong
+1055	5	-2016062785	Japan	math314
+1056	5	-2030002486	Switzerland	pascal-sch
+1057	5	-2037947752	Canada	Araluen
+1058	5	-2038994970	Lithuania	karolis.ram@gmail.com
+1059	5	-2041332271	Japan	Tomarky
+1060	5	-2042369558	Poland	pst723
+1061	5	-2052519186	United States	chiragzq
+1062	5	-2055770170	Jordan	Obada
+1063	5	-2056228929	Ukraine	SergGr
+1064	5	-2057290423	India	anupamshah
+1065	5	-2066321920	India	znxftw
+1066	5	-2067644778	Russia	fetetriste
+1067	5	-2073893916	Serbia	nikolapesic2802
+1068	5	-2075772666	United States	johannly
+1069	5	-2075877160	Bulgaria	Sorting
+1070	5	-2092401709	India	Codeku
+1071	5	-2092708110	Hong Kong	dbschi
+1072	5	-2100647219	South Korea	dawoon.choi
+1073	5	-2103348144	Japan	twaka
+1074	5	-2105421372	France	lance505
+1075	5	-2105586979	United States	rompel
+1076	5	-2106680483	China	asdkjc
+1077	5	-2126433030	South Korea	soodo
+1078	5	-2127438814	India	karanjain98
+1079	5	-2133136004	Germany	Kurisu858
+1080	5	-2143842672	Japan	fiore
+1081	5	-2144162528	India	tanuj208
+1082	5	-2148092545	India	Atul_raghuwanshi
+1083	5	-2155271377	India	udayiitkgp
+1084	5	-2155405105	Egypt	Bohoty
+1085	5	-2158574285	Hungary	miki.gergely
+1086	5	-2159287040	Guatemala	garfenter
+1087	5	-2161344586	Egypt	OmarSobeih
+1088	5	-2161924152	Russia	avoronov
+1089	5	-2162837884	China	samchen856
+1090	5	-2178013126	Egypt	Mahmoud.Ouka
+1091	5	-2182150649	India	sharma235
+1092	5	-2187555570	India	akSingh
+1093	5	-2191449074	Poland	kapitan
+1094	5	-2196323359	India	narutouzumaki696
+1095	5	-2198021777	India	anubhav07
+1096	5	-2204898297	Russia	seemsgoood
+1097	5	-2214951199	United States	thatprogrammer
+1098	5	-2221121255	India	Manan_Master
+1099	5	-2223143143	Japan	shibh308
+1100	5	-2225814948	Tunisia	svanO
+1101	5	-2227936362	India	gaurav512
+1102	5	-2233657692	India	khokharnikunj8
+1103	5	-2239568138	Indonesia	JoshuaEvan
+1104	5	-2249653917	India	nik1998
+1105	5	-2250728221	United States	MagentaCobra
+1106	5	-2255225988	India	rushilpaul@gmail.com
+1107	5	-2255577719	India	realnimish
+1108	5	-2257069976	Singapore	jloh
+1109	5	-2257119189	Vietnam	nhatdx
+1110	5	-2262647998	France	Pythyu
+1111	5	-2269001353	Japan	sotanishy
+1112	5	-2281296074	Brazil	VictorBreder
+1113	5	-2292846958	Canada	kj8
+1114	5	-2297864504	United States	paulinee
+1115	5	-2304352224	India	Divyanshu.kumar
+1116	5	-2304895323	Japan	daigakupotato
+1117	5	-2310115241	Japan	kusano
+1118	5	-2311529800	India	shashanka136
+1119	5	-2313056458	India	enigma_decoded
+1120	5	-2322472342	Romania	mouse_wireless
+1121	5	-2327532940	Cyprus	Theo830
+1122	5	-2335993373	Japan	y61mpnl
+1123	5	-2340152251	India	nishkarsh321
+1124	5	-2346541748	Romania	cypryoprisa
+1125	5	-2346870892	United States	ggroode
+1126	5	-2348039311	India	DS007
+1127	5	-2348843860	Bangladesh	Sukarna_Paul
+1128	5	-2351033442	Australia	Jumbub
+1129	5	-2354717746	India	architdwevedi
+1130	5	-2358248213	United States	connorjayr
+1131	5	-2359227274	India	romeo
+1132	5	-2359315997	Decline to Answer	ali.farzanrad
+1133	5	-2359738229	South Korea	ekal
+1134	5	-2359765154	China	wos1239
+1135	5	-2360120391	India	ujju_123
+1136	5	-2363201035	China	zzzzzzzero
+1137	5	-2364479290	Brazil	fredbr
+1138	5	-2380392784	Russia	Drunkenstein
+1139	5	-2380870998	Russia	Ivanforward
+1140	5	-2387447428	Hong Kong	kingkai.chan
+1141	5	-2392404874	Australia	Perce1
+1142	5	-2396226616	United Kingdom	johno
+1143	5	-2405615958	India	KharYusuf
+1144	5	-2409097133	United States	segseg
+1145	5	-2410441180	Hungary	bazsi700
+1146	5	-2410856867	Ukraine	Alex_Bovk
+1147	5	-2412220297	Russia	CtrlAlt
+1148	5	-2420349546	Japan	emakryo
+1149	5	-2449399226	Russia	extremum
+1150	5	-2450183910	India	Wreqx
+1151	5	-2455783927	Argentina	juampi
+1152	5	-2458759422	Ukraine	famafka
+1153	5	-2469331752	Japan	tran0826
+1154	5	-2473889585	Pakistan	waahm7
+1155	5	-2505660063	Taiwan	billy4195su
+1156	5	-2507655279	Poland	Mucosolvan
+1157	5	-2533112597	Germany	annoraaq
+1158	5	-2560800142	India	601hash
+1159	5	-2563598371	France	MCube
+1160	5	-2613561354	Kazakhstan	aidos.nurmash@gmail.com
+1161	5	-2781301534	South Korea	juseong
+1162	5	-2806196806	Poland	jperlin
+1163	5	-2842997846	Romania	stefdasca
+1164	5	-2857182857	Switzerland	Fatality2412
+1165	5	-3132002790	United States	arolakiv
+1166	5	-3167317607	Canada	Kozak
+1167	3	-783051323	Hong Kong	TommyNg_49
+1168	3	-844151970	India	rohan03
+1169	3	-1231193512	India	Vikhyat333
+1170	3	-1253957497	Italy	r98inver
+1171	3	-1299296515	Ukraine	denys.potapov
+1172	3	-1318771713	India	ps41
+1173	3	-1342620921	India	anmolagarwal
+1174	3	-1477094087	India	aaditya0106
+1175	3	-1486260359	India	FarFromRed
+1176	3	-1523186737	India	Vibhu2000
+1177	3	-1593580871	Japan	kebus
+1178	3	-1608054510	Russia	barrel
+1179	3	-1626981427	India	rg99
+1180	3	-1630615727	South Korea	singleheart
+1181	3	-1669302286	Ukraine	webstr
+1182	3	-1684934375	India	Divyanshu41
+1183	3	-1811151299	India	mayank1578
+1184	3	-1812189627	South Korea	CharleSE
+1185	3	-1831156498	Netherlands	hossein
+1186	3	-1893449853	United States	arvindr9
+1187	3	-1917097179	Russia	yulik.daniel
+1188	3	-1929953806	Ukraine	sergijkozlov@gmail.com
+1189	3	-1936765128	India	raja1999
+1190	3	-1946508250	India	ishank.jain67@gmail.com
+1191	3	-2013083408	Macedonia [FYROM]	nokjniot_voz
+1192	3	-2013369042	Norway	emh
+1193	3	-2110668045	Taiwan	pinnertw
+1194	3	-2155667234	India	RudraDesai200
+1195	3	-2189426911	Portugal	xico2001pt
+1196	3	-2189590037	India	cannon
+1197	3	-2212115431	India	FURY
+1198	3	-2212776544	France	Bouh
+1199	3	-2259422211	India	soumya_27
+1200	3	-2359161361	Ukraine	vburlai
+1201	3	-2450513442	India	officialnizam
+1202	3	-2515148450	India	imranasuman
+1203	3	-2753488196	France	Malleek
+1204	3	-2857260138	India	superkiller420
+1205	3	-2945582884	India	rock19
+1206	0	0	Afghanistan	janek567
+1206	0	0	Argentina	fparra
+1206	0	0	Armenia	eduard.piliposyan
+1206	0	0	Australia	TianmingZhao
+1206	0	0	Australia	Vic112345
+1206	0	0	Azerbaijan	jelgun
+1206	0	0	Bangladesh	RezwanArefin01
+1206	0	0	Bangladesh	nayeem_bd
+1206	0	0	Bangladesh	sajibcuet09
+1206	0	0	Bangladesh	sudip95
+1206	0	0	Belarus	leaked
+1206	0	0	Belgium	CorentinJ
+1206	0	0	Belgium	SchrootenBernd
+1206	0	0	Belgium	quinoa
+1206	0	0	Brazil	Guilherme_Cabral
+1206	0	0	Brazil	Leonardo_Paes
+1206	0	0	Brazil	Ly20
+1206	0	0	Brazil	guilhermecorreagv
+1206	0	0	Brazil	juanplopes
+1206	0	0	Brazil	lam5
+1206	0	0	Bulgaria	Borisp
+1206	0	0	Canada	4fecta
+1206	0	0	Canada	IanDe
+1206	0	0	Canada	Kenneth_Ruan
+1206	0	0	Canada	glucn
+1206	0	0	Canada	hewmatt10
+1206	0	0	Canada	iamkevin
+1206	0	0	Canada	superfx1
+1206	0	0	China	JOHNKRAM
+1206	0	0	China	JoeyTengDev
+1206	0	0	China	NEOTheCat
+1206	0	0	China	Tentacles
+1206	0	0	China	Vurtne
+1206	0	0	China	ccw630
+1206	0	0	China	cjc
+1206	0	0	China	dongyu1997
+1206	0	0	China	festony
+1206	0	0	China	funer
+1206	0	0	China	kjdsafio
+1206	0	0	China	limbo_null
+1206	0	0	China	lyric
+1206	0	0	China	rikoizz
+1206	0	0	China	sweet_fish
+1206	0	0	China	wyz96
+1206	0	0	China	xitongsys
+1206	0	0	China	xxn
+1206	0	0	China	zihachan
+1206	0	0	China	zzzzzq
+1206	0	0	Colombia	AndresRPerez12
+1206	0	0	Colombia	YouNIXnBits
+1206	0	0	Cyprus	cfalas
+1206	0	0	Czech Republic	petrzjunior
+1206	0	0	Egypt	Ahmedmousa
+1206	0	0	Egypt	Ali_ElMasry
+1206	0	0	Egypt	HussienIbrahiem
+1206	0	0	Egypt	Wolf.
+1206	0	0	Egypt	ara_ara
+1206	0	0	Egypt	omarshagar
+1206	0	0	Egypt	zoooma13
+1206	0	0	Estonia	st235
+1206	0	0	Finland	Bntti
+1206	0	0	France	Jethol
+1206	0	0	France	Mathisaillot
+1206	0	0	France	MrFlibble
+1206	0	0	France	OoDeLally
+1206	0	0	France	Ouxor
+1206	0	0	France	Peyha
+1206	0	0	France	RayanChikhi
+1206	0	0	France	SpaceSheep
+1206	0	0	France	Tahkare
+1206	0	0	France	chongguang
+1206	0	0	France	fab.alchemy
+1206	0	0	France	mrcr0que
+1206	0	0	Georgia	Batman_
+1206	0	0	Georgia	Demetre
+1206	0	0	Germany	DK56_T
+1206	0	0	Germany	Love2Deliver
+1206	0	0	Germany	Lukas2009
+1206	0	0	Germany	Saph
+1206	0	0	Germany	TimTimolia
+1206	0	0	Germany	Zeldacrafter
+1206	0	0	Germany	codingWhale
+1206	0	0	Germany	gabriel2029
+1206	0	0	Germany	lambdapioneer
+1206	0	0	Greece	infinity1
+1206	0	0	Greece	stelkasouridis
+1206	0	0	Hong Kong	ITO
+1206	0	0	India	/\\$!<
+1206	0	0	India	@tapasya
+1206	0	0	India	Akash375
+1206	0	0	India	AnandaBasak
+1206	0	0	India	Anishthdev
+1206	0	0	India	AnkurChourasia
+1206	0	0	India	Ayush_29
+1206	0	0	India	Azim_Ansari
+1206	0	0	India	Bannu26
+1206	0	0	India	Bhaiyahns45
+1206	0	0	India	Chinu8989
+1206	0	0	India	CodeStar007
+1206	0	0	India	Coder_Sruthi
+1206	0	0	India	Dhananjayutsav
+1206	0	0	India	Dragonado
+1206	0	0	India	Drpdada
+1206	0	0	India	Eeman
+1206	0	0	India	Future_SDE
+1206	0	0	India	Gawtam
+1206	0	0	India	GuptaGaurang
+1206	0	0	India	Harsh_28
+1206	0	0	India	Hetpatel
+1206	0	0	India	I_m_rish
+1206	0	0	India	InstinctCoder
+1206	0	0	India	Ivabby
+1206	0	0	India	Jonty1904
+1206	0	0	India	Manish2511
+1206	0	0	India	Mradul12
+1206	0	0	India	Muz2309
+1206	0	0	India	Navya.madala
+1206	0	0	India	PointBlank
+1206	0	0	India	Pranjli_03
+1206	0	0	India	RajKaushik
+1206	0	0	India	Rajpradeep
+1206	0	0	India	SaiAVS
+1206	0	0	India	Saileshkumar
+1206	0	0	India	Sands24
+1206	0	0	India	Shashi7997
+1206	0	0	India	ShubhamKondekar
+1206	0	0	India	Soumay
+1206	0	0	India	Spupadhyay
+1206	0	0	India	Swapnil159
+1206	0	0	India	T1rs
+1206	0	0	India	TaNYA99SaXENA
+1206	0	0	India	V@i5hnavi
+1206	0	0	India	Vishal@
+1206	0	0	India	Vishvas9
+1206	0	0	India	WeirdBugsButOkay
+1206	0	0	India	Zeref13400
+1206	0	0	India	_baba_yaga
+1206	0	0	India	_shanky
+1206	0	0	India	aayush_29
+1206	0	0	India	abhi2402
+1206	0	0	India	abhishekm2106
+1206	0	0	India	adarshagr8
+1206	0	0	India	aditi17goel
+1206	0	0	India	akj0811
+1206	0	0	India	aman0456
+1206	0	0	India	aman28rwt
+1206	0	0	India	aman__gupta__
+1206	0	0	India	aman_hacker
+1206	0	0	India	amitm16a2
+1206	0	0	India	aname40
+1206	0	0	India	anandseth357
+1206	0	0	India	anish1712
+1206	0	0	India	anmol27katyani
+1206	0	0	India	anusha1807
+1206	0	0	India	archit120
+1206	0	0	India	arpitdhamija
+1206	0	0	India	arya.nikhil2
+1206	0	0	India	aryanzz
+1206	0	0	India	ashis123
+1206	0	0	India	ashwani_er
+1206	0	0	India	ayushgupta1997
+1206	0	0	India	ayushsinghmf
+1206	0	0	India	babu33
+1206	0	0	India	bhindi2206
+1206	0	0	India	bhupinder2121221
+1206	0	0	India	black_hat
+1206	0	0	India	bparul
+1206	0	0	India	brijeshbs007
+1206	0	0	India	chitra_singla
+1206	0	0	India	cinderella_5
+1206	0	0	India	crazy_stardusts
+1206	0	0	India	csals
+1206	0	0	India	darkknight1996
+1206	0	0	India	darklight13
+1206	0	0	India	deeshantk
+1206	0	0	India	devilsboy
+1206	0	0	India	dopa69
+1206	0	0	India	dragon1010
+1206	0	0	India	embiway
+1206	0	0	India	error4ever
+1206	0	0	India	gauravllh03
+1206	0	0	India	gchkiran
+1206	0	0	India	gjaiswal108
+1206	0	0	India	harshaaj21
+1206	0	0	India	harshilsharma1997@gmail.com
+1206	0	0	India	himkha_100
+1206	0	0	India	iamprayush
+1206	0	0	India	invincibel
+1206	0	0	India	jach
+1206	0	0	India	jai_dewani
+1206	0	0	India	jay.faldu20
+1206	0	0	India	kanudeep2@gmail.com
+1206	0	0	India	krishnaiet1234
+1206	0	0	India	kunalsharma
+1206	0	0	India	lakshmipandey
+1206	0	0	India	madhav477
+1206	0	0	India	madhav_1999
+1206	0	0	India	mananshah2709
+1206	0	0	India	manik_taneja3
+1206	0	0	India	manish.17
+1206	0	0	India	manya_goyal
+1206	0	0	India	mohammed240299
+1206	0	0	India	mr_pandey
+1206	0	0	India	mufaddalnaya
+1206	0	0	India	mynk322
+1206	0	0	India	nikeshthapa255
+1206	0	0	India	njha1999
+1206	0	0	India	pan_da
+1206	0	0	India	pavitra_ag
+1206	0	0	India	payalgoswami
+1206	0	0	India	pprockys
+1206	0	0	India	prey176
+1206	0	0	India	prince693
+1206	0	0	India	ps_shah1
+1206	0	0	India	rachitiitr
+1206	0	0	India	rahulkr999
+1206	0	0	India	rajat_goyal
+1206	0	0	India	rajgarg
+1206	0	0	India	rishabh249
+1206	0	0	India	saipriya18
+1206	0	0	India	satyamcse
+1206	0	0	India	shivam945121
+1206	0	0	India	sjay
+1206	0	0	India	sjmodi1997
+1206	0	0	India	soham1001
+1206	0	0	India	srikkanthr
+1206	0	0	India	sripriya18
+1206	0	0	India	sumitprajapati
+1206	0	0	India	sundesh
+1206	0	0	India	sushmitha061@gmail.com
+1206	0	0	India	thecoolnerd
+1206	0	0	India	thenoone
+1206	0	0	India	trimannu
+1206	0	0	India	tunesh
+1206	0	0	India	udbhav99
+1206	0	0	India	unvieux
+1206	0	0	India	utkarsh028
+1206	0	0	India	vaibhavnandan55
+1206	0	0	India	venusri
+1206	0	0	India	vishusachdeva
+1206	0	0	India	vj30699
+1206	0	0	India	yash_daga
+1206	0	0	India	yogeshmapari
+1206	0	0	Indonesia	Littleboy123
+1206	0	0	Indonesia	Micchon
+1206	0	0	Indonesia	folcotandiono
+1206	0	0	Indonesia	halimkevin
+1206	0	0	Indonesia	kresna
+1206	0	0	Indonesia	vistokartika
+1206	0	0	Israel	gilbe
+1206	0	0	Israel	infoshoc
+1206	0	0	Israel	kvadrik
+1206	0	0	Israel	naed90
+1206	0	0	Israel	shachark
+1206	0	0	Italy	Canestro
+1206	0	0	Italy	Pufforrohk
+1206	0	0	Italy	armyalpaca
+1206	0	0	Italy	mattiadg
+1206	0	0	Italy	rayz1065
+1206	0	0	Italy	stefanov
+1206	0	0	Japan	AC961009
+1206	0	0	Japan	Tallfall
+1206	0	0	Japan	ar-c
+1206	0	0	Japan	cake.senbei
+1206	0	0	Japan	fiord
+1206	0	0	Japan	firiexp
+1206	0	0	Japan	izumo
+1206	0	0	Japan	oonishi
+1206	0	0	Japan	pedish
+1206	0	0	Japan	sekiye
+1206	0	0	Japan	tarattata
+1206	0	0	Kazakhstan	Evilandrew
+1206	0	0	Latvia	Alex_2oo8
+1206	0	0	Lebanon	0-jij-0
+1206	0	0	Lebanon	Arwan_c
+1206	0	0	Lithuania	JuliusMieliauskas
+1206	0	0	Malaysia	AMO5
+1206	0	0	Malaysia	FarisHakim
+1206	0	0	Malaysia	Thaithai
+1206	0	0	Mexico	Akotadi
+1206	0	0	Mexico	HeyUalabi
+1206	0	0	Morocco	nawfal
+1206	0	0	Morocco	tamahom
+1206	0	0	Netherlands	Floris
+1206	0	0	Netherlands	Moanraker
+1206	0	0	Netherlands	fjfiwekdskfj
+1206	0	0	Netherlands	jjsustronk
+1206	0	0	Netherlands	wkoops
+1206	0	0	New Zealand	Technocoder
+1206	0	0	New Zealand	cky
+1206	0	0	Norway	Im2Good
+1206	0	0	Pakistan	JerryMMoiz
+1206	0	0	Peru	GPereira
+1206	0	0	Peru	Graphter
+1206	0	0	Peru	racsosabe
+1206	0	0	Poland	Errichto
+1206	0	0	Poland	Giermek
+1206	0	0	Poland	Markadiusz
+1206	0	0	Poland	Radewoosh
+1206	0	0	Poland	Vax
+1206	0	0	Poland	losik
+1206	0	0	Poland	lukij1997
+1206	0	0	Poland	stasio6
+1206	0	0	Portugal	joaoPRCF
+1206	0	0	Romania	valka
+1206	0	0	Russia	AlexandrTS
+1206	0	0	Russia	OnlyDeniko
+1206	0	0	Russia	RedNova
+1206	0	0	Russia	Vergara7
+1206	0	0	Russia	achvanov
+1206	0	0	Russia	agulenko
+1206	0	0	Russia	golikovnik
+1206	0	0	Russia	kpilyugin
+1206	0	0	Russia	madn
+1206	0	0	Russia	mimirrow
+1206	0	0	Russia	olegshch
+1206	0	0	Russia	riuzmukhametov
+1206	0	0	Russia	tigrkoshka
+1206	0	0	Russia	xanax
+1206	0	0	Saudi Arabia	Zeyad334
+1206	0	0	Singapore	Lexis
+1206	0	0	Singapore	Shouyu_senbei
+1206	0	0	Singapore	Yellowducky
+1206	0	0	Slovakia	Rojko
+1206	0	0	Slovakia	TrePe
+1206	0	0	Slovakia	samot64
+1206	0	0	Slovenia	thocevar
+1206	0	0	South Korea	Nyan101
+1206	0	0	South Korea	SLM
+1206	0	0	South Korea	albus.star
+1206	0	0	South Korea	hellogaon
+1206	0	0	South Korea	jetoyrico
+1206	0	0	South Korea	junho85
+1206	0	0	South Korea	kim_young_hyun
+1206	0	0	South Korea	minpago
+1206	0	0	South Korea	most323
+1206	0	0	South Korea	rhfktj
+1206	0	0	Spain	Gallonet
+1206	0	0	Spain	IvanGodfather
+1206	0	0	Spain	Maxbp
+1206	0	0	Spain	dbrincauus
+1206	0	0	Spain	nilfm
+1206	0	0	Spain	tato
+1206	0	0	Sri Lanka	Vimuth
+1206	0	0	Sweden	Hkar
+1206	0	0	Sweden	Jonte98
+1206	0	0	Sweden	TobiasGlimmerfors
+1206	0	0	Sweden	tonyaaaaa
+1206	0	0	Switzerland	ZufMa
+1206	0	0	Taiwan	alan8585
+1206	0	0	Taiwan	alon21034
+1206	0	0	Taiwan	daniel920712
+1206	0	0	Taiwan	edisonhello
+1206	0	0	Taiwan	garyshih
+1206	0	0	Taiwan	sevenlol
+1206	0	0	Taiwan	tmwilliamlin168
+1206	0	0	Tajikistan	EliteWantsYou
+1206	0	0	Tunisia	d4rkc0de
+1206	0	0	Tunisia	zied0omrane@gmail.com
+1206	0	0	Turkey	KayacanV
+1206	0	0	Turkey	gledis
+1206	0	0	Ukraine	bohdan.dovhan
+1206	0	0	Ukraine	philologist
+1206	0	0	United Kingdom	Fedy2
+1206	0	0	United Kingdom	Paul.T
+1206	0	0	United Kingdom	brasspots
+1206	0	0	United Kingdom	graeme
+1206	0	0	United Kingdom	trilobite
+1206	0	0	United States	AaronFink
+1206	0	0	United States	AndrewHsu
+1206	0	0	United States	DanielCarter
+1206	0	0	United States	EricLeGe
+1206	0	0	United States	Gooooogle
+1206	0	0	United States	JKLAM
+1206	0	0	United States	MineEnim
+1206	0	0	United States	Sandkoan
+1206	0	0	United States	SaturdayShawn
+1206	0	0	United States	[_______]
+1206	0	0	United States	angerypenguin
+1206	0	0	United States	brandon71901
+1206	0	0	United States	carnalguru
+1206	0	0	United States	dmj
+1206	0	0	United States	hungry_penguin
+1206	0	0	United States	speck
+1206	0	0	United States	suhasia
+1206	0	0	United States	tcaz
+1206	0	0	United States	wutwere
+1206	0	0	United States	xuecli
+1206	0	0	United States	zayhero
+1206	0	0	United States	zekigurbuz
+1206	0	0	United States	zhengant
+1206	0	0	Vietnam	Johnny_2002
+1206	0	0	Vietnam	cuongtv
+1206	0	0	Vietnam	leduythuc
+1206	0	0	Vietnam	nguyen31hoang08minh2003
+1223	0	0	Algeria	hyuttt
+1223	0	0	Argentina	Brimix__
+1223	0	0	Argentina	marcOS
+1223	0	0	Armenia	bequkandroo
+1223	0	0	Australia	atamus
+1223	0	0	Austria	MoritzStrobl
+1223	0	0	Austria	manujell
+1223	0	0	Bangladesh	AshikurRahman
+1223	0	0	Bangladesh	SK_Sabit
+1223	0	0	Bangladesh	SamiulSourav
+1223	0	0	Bangladesh	aminul
+1223	0	0	Bangladesh	border
+1223	0	0	Bangladesh	kabbya
+1223	0	0	Belarus	kolesov93
+1223	0	0	Belgium	CorentinJ
+1223	0	0	Belgium	Soronbe
+1223	0	0	Bolivia	urupica
+1223	0	0	Brazil	LeticiaFCS
+1223	0	0	Brazil	Zanez
+1223	0	0	Brazil	binaryLifter
+1223	0	0	Brazil	dilsonguim
+1223	0	0	Brazil	fer22f
+1223	0	0	Brazil	filipeabelha
+1223	0	0	Brazil	williamads
+1223	0	0	Brazil	yurisantamarina
+1223	0	0	Bulgaria	Enchom
+1223	0	0	Bulgaria	JustInCase
+1223	0	0	Canada	Jonathan_Uy
+1223	0	0	Canada	Joon7891
+1223	0	0	Canada	MildlySpicy
+1223	0	0	Canada	TripleStrike
+1223	0	0	Canada	bradley19brown
+1223	0	0	Canada	crackersamdjam
+1223	0	0	Canada	george24601
+1223	0	0	Canada	jeremyeic
+1223	0	0	Canada	petersdavis
+1223	0	0	Canada	rrddrr
+1223	0	0	Canada	skyflaren
+1223	0	0	Canada	superfx1
+1223	0	0	Canada	yurikaka1
+1223	0	0	China	HIT_TOM
+1223	0	0	China	IwfWcf
+1223	0	0	China	LittleSix
+1223	0	0	China	SHUlpt
+1223	0	0	China	Seast
+1223	0	0	China	T1an
+1223	0	0	China	WGree
+1223	0	0	China	aa2985759
+1223	0	0	China	compthu
+1223	0	0	China	conan1024hao
+1223	0	0	China	cooljiansir
+1223	0	0	China	crazy_fz
+1223	0	0	China	daizhenyang
+1223	0	0	China	ianahao
+1223	0	0	China	impflyx
+1223	0	0	China	luqiang21
+1223	0	0	China	mickeyandkaka
+1223	0	0	China	mogeli
+1223	0	0	China	seanlin
+1223	0	0	China	zltttt
+1223	0	0	Colombia	juandrengifo
+1223	0	0	Colombia	yefrigg
+1223	0	0	Croatia	Antonio2502
+1223	0	0	Cuba	epascual
+1223	0	0	Czech Republic	Paprikadobi
+1223	0	0	Czech Republic	Standa
+1223	0	0	Czech Republic	Tvaroh
+1223	0	0	Czech Republic	vomi
+1223	0	0	Decline to Answer	CoderWiz
+1223	0	0	Denmark	Temmie
+1223	0	0	Denmark	doktoren
+1223	0	0	Denmark	sofapuden
+1223	0	0	Denmark	zii.hrs
+1223	0	0	Egypt	Bekh
+1223	0	0	Egypt	Mo7amed_Sayed
+1223	0	0	Egypt	NightKing00
+1223	0	0	Egypt	aka.Sohieb
+1223	0	0	Egypt	mmagdi
+1223	0	0	Egypt	mohamadabdelhakem11
+1223	0	0	Egypt	mohamednabil00000
+1223	0	0	Finland	Mistra
+1223	0	0	France	-adrien-
+1223	0	0	France	Fafou
+1223	0	0	France	Faylixe
+1223	0	0	France	Kaiju
+1223	0	0	France	Massoud_le_Grand
+1223	0	0	France	OoDeLally
+1223	0	0	France	Rafbill
+1223	0	0	France	elana
+1223	0	0	France	faridtsl
+1223	0	0	France	jouzo
+1223	0	0	France	mdrm
+1223	0	0	France	paulj
+1223	0	0	Germany	.Adrian
+1223	0	0	Germany	C0R3
+1223	0	0	Germany	TimTimolia
+1223	0	0	Germany	rmeertens
+1223	0	0	Germany	wintermute2048
+1223	0	0	Greece	a.triantafyllos
+1223	0	0	Greece	nickie
+1223	0	0	Hong Kong	carpcrap
+1223	0	0	Hong Kong	coderbd
+1223	0	0	Hong Kong	ymlai87416
+1223	0	0	Hungary	Boldizsar
+1223	0	0	Hungary	SirNyeteg
+1223	0	0	Hungary	levios
+1223	0	0	Iceland	Nimao
+1223	0	0	India	600iq
+1223	0	0	India	Ambesh
+1223	0	0	India	Anshulpg
+1223	0	0	India	Anujsharma
+1223	0	0	India	ArthDubey
+1223	0	0	India	ArunPandey
+1223	0	0	India	ArunVigesh
+1223	0	0	India	Bhagesh097
+1223	0	0	India	Bits_K
+1223	0	0	India	BunnyPrince
+1223	0	0	India	ChampIsHere
+1223	0	0	India	Coder_Uday
+1223	0	0	India	Crazy__1234
+1223	0	0	India	Debrup
+1223	0	0	India	Devandra
+1223	0	0	India	Eeman
+1223	0	0	India	Ganglord
+1223	0	0	India	GaurangTandon
+1223	0	0	India	Gautam23
+1223	0	0	India	Geetupathak
+1223	0	0	India	Gupta.41
+1223	0	0	India	HA
+1223	0	0	India	HanumanthuNaveen
+1223	0	0	India	Harishh
+1223	0	0	India	Harshita2021
+1223	0	0	India	Hetpatel
+1223	0	0	India	Himabindu_34
+1223	0	0	India	ILSM
+1223	0	0	India	Immidisettymanisha
+1223	0	0	India	Karan_7887
+1223	0	0	India	Lalitha2412
+1223	0	0	India	Learner99
+1223	0	0	India	Leroi
+1223	0	0	India	MaghavG
+1223	0	0	India	ManasaUdathu
+1223	0	0	India	Mohinem
+1223	0	0	India	Mohitk
+1223	0	0	India	Mukundan314
+1223	0	0	India	NB15498
+1223	0	0	India	NISHANTJHA1998
+1223	0	0	India	Nathi_Prakash
+1223	0	0	India	Noor_Hasan_Shaik
+1223	0	0	India	Pawan_29
+1223	0	0	India	PoojaB01
+1223	0	0	India	PujaSriSai
+1223	0	0	India	Punit_Coder
+1223	0	0	India	RashmiChaturvedi
+1223	0	0	India	Revin99
+1223	0	0	India	Riyu4Ever
+1223	0	0	India	Rostux
+1223	0	0	India	SheelaAngel
+1223	0	0	India	ShethSmit
+1223	0	0	India	Shubham329
+1223	0	0	India	Soul_Iconic
+1223	0	0	India	Spellstaker
+1223	0	0	India	Spupadhyay
+1223	0	0	India	Sudhamsh
+1223	0	0	India	Tanish0019
+1223	0	0	India	Tejas#
+1223	0	0	India	Tejasrikusam
+1223	0	0	India	Test2311
+1223	0	0	India	TheDark_Knight
+1223	0	0	India	Venk@t1234
+1223	0	0	India	Vin_04
+1223	0	0	India	Violee21
+1223	0	0	India	Vk98
+1223	0	0	India	YESMAths
+1223	0	0	India	Zeref13400
+1223	0	0	India	_akshit_
+1223	0	0	India	a.kushal
+1223	0	0	India	aayush_b1999
+1223	0	0	India	adarsh_sinhg
+1223	0	0	India	akshaykr
+1223	0	0	India	aman28rwt
+1223	0	0	India	aman_hacker
+1223	0	0	India	amaya_0711
+1223	0	0	India	anag004
+1223	0	0	India	aname40
+1223	0	0	India	anandaditya
+1223	0	0	India	anusha_p
+1223	0	0	India	arpit443
+1223	0	0	India	aryansh2468
+1223	0	0	India	atul2938
+1223	0	0	India	ay2306
+1223	0	0	India	ayushgupta1997
+1223	0	0	India	bani_raheja
+1223	0	0	India	bansals888
+1223	0	0	India	bhatipradeep
+1223	0	0	India	brownsands
+1223	0	0	India	buscasangre
+1223	0	0	India	chikkuttan
+1223	0	0	India	code_ss
+1223	0	0	India	codeofthrone
+1223	0	0	India	damon2598
+1223	0	0	India	darthmelonder
+1223	0	0	India	deepsavani
+1223	0	0	India	devabhixda
+1223	0	0	India	dudeayush
+1223	0	0	India	eulerkochy
+1223	0	0	India	fake_name
+1223	0	0	India	freakcap
+1223	0	0	India	gKashish
+1223	0	0	India	ganesha
+1223	0	0	India	gauravmadan583
+1223	0	0	India	gauti7
+1223	0	0	India	girishCoder
+1223	0	0	India	girivijay009
+1223	0	0	India	gnana_19
+1223	0	0	India	gpb007
+1223	0	0	India	harsh181
+1223	0	0	India	harshilbhavsar
+1223	0	0	India	hitik
+1223	0	0	India	hitman623
+1223	0	0	India	iamprayush
+1223	0	0	India	iopiyushg
+1223	0	0	India	ishank011
+1223	0	0	India	itachiuchia
+1223	0	0	India	itsmihir
+1223	0	0	India	j.shreyansh
+1223	0	0	India	jagarwal
+1223	0	0	India	jonty99
+1223	0	0	India	jyoti.123
+1223	0	0	India	kabir_roop
+1223	0	0	India	krappu
+1223	0	0	India	kush46
+1223	0	0	India	los_viking82
+1223	0	0	India	ltc.groverkss
+1223	0	0	India	malvika_12
+1223	0	0	India	manik_taneja3
+1223	0	0	India	manu_sy
+1223	0	0	India	manya_goyal
+1223	0	0	India	matrix14
+1223	0	0	India	meecode
+1223	0	0	India	mtnshh
+1223	0	0	India	navneetpurohit
+1223	0	0	India	niweshgupta
+1223	0	0	India	parsec
+1223	0	0	India	parthtiwari
+1223	0	0	India	patwari26
+1223	0	0	India	prateek1337
+1223	0	0	India	pulkit29
+1223	0	0	India	rachitiitr
+1223	0	0	India	rahulgulati0
+1223	0	0	India	rajat_enzyme
+1223	0	0	India	rajatsinghal
+1223	0	0	India	ravindra281298
+1223	0	0	India	roerohan
+1223	0	0	India	rohitkv77
+1223	0	0	India	roll_no_1
+1223	0	0	India	roronoa_
+1223	0	0	India	saisundhar
+1223	0	0	India	sandrasivaprasad
+1223	0	0	India	saransh0810
+1223	0	0	India	sarthak1220
+1223	0	0	India	sasirekha3
+1223	0	0	India	shailesh99
+1223	0	0	India	shakeb0308
+1223	0	0	India	shaurya7980
+1223	0	0	India	shiva@123
+1223	0	0	India	shivam077
+1223	0	0	India	shivashish_23
+1223	0	0	India	shobhit907
+1223	0	0	India	shrikarcodes
+1223	0	0	India	shuagarw
+1223	0	0	India	shubhankarrr
+1223	0	0	India	soham1001
+1223	0	0	India	soujanya_s
+1223	0	0	India	soundaryak4898@gmail.com
+1223	0	0	India	sowjanyaoggu
+1223	0	0	India	srinidhi.a30@gmail.com
+1223	0	0	India	srj31
+1223	0	0	India	stark18
+1223	0	0	India	sumanth_guntupalli
+1223	0	0	India	tejakrishna123
+1223	0	0	India	tesla1310
+1223	0	0	India	udbhav99
+1223	0	0	India	ujjwal22gupta
+1223	0	0	India	utkarshh12
+1223	0	0	India	utsav.goyal19@gmail.com
+1223	0	0	India	venkatasai24
+1223	0	0	India	venkatj
+1223	0	0	India	vicky2810
+1223	0	0	India	vineet.paliwal
+1223	0	0	India	vipin_bhardwaj
+1223	0	0	India	vivek8420
+1223	0	0	India	vj30699
+1223	0	0	India	vruvru
+1223	0	0	India	yash_daga
+1223	0	0	Indonesia	alvinvaja
+1223	0	0	Indonesia	bukanyohandi
+1223	0	0	Indonesia	naffins
+1223	0	0	Ireland	Ramocc
+1223	0	0	Ireland	VickyLi
+1223	0	0	Ireland	rohit.vincent@ucdconnect.ie
+1223	0	0	Israel	Ophiru
+1223	0	0	Israel	ShaharBental
+1223	0	0	Italy	Matt3844
+1223	0	0	Italy	PaoloPellizzoni
+1223	0	0	Italy	Pignaman
+1223	0	0	Italy	charlie_brown
+1223	0	0	Italy	davi_bart
+1223	0	0	Italy	giackserva
+1223	0	0	Italy	mscuttari
+1223	0	0	Italy	stefanov
+1223	0	0	Japan	As_sqr
+1223	0	0	Japan	ChiyosBigDragon
+1223	0	0	Japan	Hyado
+1223	0	0	Japan	Keno
+1223	0	0	Japan	chakku_000
+1223	0	0	Japan	hamham111
+1223	0	0	Japan	juppy
+1223	0	0	Japan	monkukui
+1223	0	0	Japan	noimi
+1223	0	0	Japan	oonishi
+1223	0	0	Japan	pontsuyo
+1223	0	0	Japan	set0gut1
+1223	0	0	Japan	tetsuro1919
+1223	0	0	Jordan	zagha.hamza@gmail.com
+1223	0	0	Kazakhstan	Proggerkz
+1223	0	0	Latvia	latvian
+1223	0	0	Lebanon	Charbel
+1223	0	0	Lebanon	Elie.m
+1223	0	0	Lebanon	Naseem17
+1223	0	0	Lithuania	DovydasVad
+1223	0	0	Lithuania	limed
+1223	0	0	Malaysia	mechfrog88
+1223	0	0	Mexico	DavidMS
+1223	0	0	Mexico	Laborico
+1223	0	0	Mexico	Mart97
+1223	0	0	Netherlands	PeterSmit
+1223	0	0	Netherlands	PimMeulensteen
+1223	0	0	Netherlands	jjsustronk
+1223	0	0	Netherlands	mth
+1223	0	0	Norway	Norskeaksel
+1223	0	0	Peru	GPereira
+1223	0	0	Peru	GerardoSánchez
+1223	0	0	Philippines	andrewting
+1223	0	0	Philippines	briangodwinlim
+1223	0	0	Poland	Radewoosh
+1223	0	0	Poland	boogen
+1223	0	0	Poland	kubusgol
+1223	0	0	Poland	malina314@op.pl
+1223	0	0	Poland	mati9988
+1223	0	0	Poland	mike272
+1223	0	0	Portugal	catarina
+1223	0	0	Portugal	sergiords
+1223	0	0	Romania	Carol_Luca
+1223	0	0	Romania	robertv
+1223	0	0	Russia	AndreySiunov
+1223	0	0	Russia	MikailBag
+1223	0	0	Russia	NDamirov
+1223	0	0	Russia	TonySnark
+1223	0	0	Russia	Y0
+1223	0	0	Russia	farhit
+1223	0	0	Russia	golikovnik
+1223	0	0	Russia	grphil
+1223	0	0	Russia	grumpy_gordon
+1223	0	0	Russia	helena
+1223	0	0	Russia	ngh7mr3
+1223	0	0	Russia	s20b1Kirka
+1223	0	0	Russia	steiner
+1223	0	0	Russia	yarrr
+1223	0	0	Singapore	Blerargh
+1223	0	0	Singapore	Rohit0718
+1223	0	0	Singapore	mingyiteo@gmail.com
+1223	0	0	Singapore	ssp547
+1223	0	0	Slovakia	eLiška
+1223	0	0	Slovakia	vilko
+1223	0	0	Slovenia	thocevar
+1223	0	0	South Korea	Angk
+1223	0	0	South Korea	IKnoom
+1223	0	0	South Korea	Orb_H
+1223	0	0	South Korea	SLM
+1223	0	0	South Korea	SiruPorong
+1223	0	0	South Korea	deity
+1223	0	0	South Korea	iooqooo
+1223	0	0	South Korea	kimjungwow
+1223	0	0	South Korea	koosaga
+1223	0	0	South Korea	lalavla
+1223	0	0	South Korea	leesiwon
+1223	0	0	South Korea	philip1998
+1223	0	0	South Korea	raararaara
+1223	0	0	South Korea	skeep194
+1223	0	0	South Korea	spectaclehong
+1223	0	0	Spain	CristianBulgarito
+1223	0	0	Spain	PereC
+1223	0	0	Spain	handuSquire
+1223	0	0	Spain	metatron
+1223	0	0	Spain	norgevz
+1223	0	0	Sri Lanka	Umanda
+1223	0	0	Sweden	Hkar
+1223	0	0	Sweden	Martomate
+1223	0	0	Sweden	TobiasGlimmerfors
+1223	0	0	Sweden	bad_fetus
+1223	0	0	Sweden	johanj93
+1223	0	0	Sweden	yanhuanwang
+1223	0	0	Switzerland	ZufMa
+1223	0	0	Switzerland	tap_tapii
+1223	0	0	Switzerland	yooyoo9
+1223	0	0	Taiwan	Hannnnk
+1223	0	0	Taiwan	JerryChengDeLin
+1223	0	0	Taiwan	JiKuai
+1223	0	0	Taiwan	Yinghao
+1223	0	0	Taiwan	aidan79225@gmail.com
+1223	0	0	Taiwan	garyshih
+1223	0	0	Taiwan	hsnusonic
+1223	0	0	Taiwan	jim800121.chen
+1223	0	0	Taiwan	tomsan
+1223	0	0	Tajikistan	Muhammad_Hokimiyon
+1223	0	0	Thailand	hangtenz
+1223	0	0	Tunisia	d4rkc0de
+1223	0	0	Turkey	AhmetEfe
+1223	0	0	Turkey	drakeire
+1223	0	0	Ukraine	iSlava
+1223	0	0	Ukraine	terion
+1223	0	0	Ukraine	vladomar@gmail.com
+1223	0	0	United Kingdom	Freque
+1223	0	0	United Kingdom	Paul.T
+1223	0	0	United Kingdom	takaki
+1223	0	0	United States	Confucius
+1223	0	0	United States	Edddddddy
+1223	0	0	United States	HK01
+1223	0	0	United States	Ian_Ng
+1223	0	0	United States	LotteryDiscounts
+1223	0	0	United States	UltraxBlade
+1223	0	0	United States	a1f
+1223	0	0	United States	aditya_arj
+1223	0	0	United States	axchen7
+1223	0	0	United States	chezbgone
+1223	0	0	United States	derrick20
+1223	0	0	United States	jalman
+1223	0	0	United States	josimi
+1223	0	0	United States	mshang
+1223	0	0	United States	prakashgayasen
+1223	0	0	United States	quinnydinny
+1223	0	0	United States	suhasia
+1223	0	0	United States	vazae
+1223	0	0	United States	vcubingx
+1223	0	0	United States	yliu1021
+1223	0	0	United States	zhengant
+1223	0	0	Vietnam	IceWiz
+1223	0	0	Vietnam	Triracle
+1223	0	0	Vietnam	binhtranit
+1223	0	0	Vietnam	conowadays
+1223	0	0	Vietnam	joker.tainguyen
+1223	0	0	Vietnam	thanglegons
+1223	0	0	Vietnam	tungnp92
+1223	0	0	Vietnam	zyenz123
