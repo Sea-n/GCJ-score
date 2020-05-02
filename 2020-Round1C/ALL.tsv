@@ -250,66 +250,349 @@ Rank	Score	Penalty	Country	Name
 249	22	-502626027	Russia	antony191
 250	22	-502806908	Russia	maxim.shuklin
 251	22	-503018882	Decline to Answer	abeaumont
-252	22	-503415929	Romania	pandrei
-253	22	-503597714	India	spar5h
-254	22	-561250561	France	Rafbill
-255	22	-711879233	Vietnam	IceWiz
-256	22	-719834280	Vietnam	leduythuc
-257	22	-721840283	Tunisia	highfive05
-258	22	-737320683	India	Ajit.
-259	22	-741324670	Turkey	ykaya932@gmail.com
-260	10	-414439494	Poland	rzaba
-261	10	-427545775	India	lordofthunder
-262	10	-433013932	India	doubleux
-263	10	-447723771	United States	0e4ef622
-264	10	-451395255	Poland	kempusss
-265	10	-463584949	Taiwan	mike51
-266	10	-466686429	Russia	nmikhailov
-267	10	-468286736	Italy	davi_bart
-268	10	-468959785	India	sawarnik
-269	10	-486435900	Japan	modoki
-270	10	-487119178	Indonesia	Dasper
-271	10	-490272002	Brazil	luiz.py
-272	10	-496920070	Argentina	zaskar
-273	0	0	Belarus	Pavel.Sheftelevich
-273	0	0	China	Rylynnn
-273	0	0	China	xuelei
-273	0	0	Egypt	MohamedAhmed04
-273	0	0	India	AlokPratapSingh
-273	0	0	India	CluelessXor
-273	0	0	India	Harsh_28
-273	0	0	India	Nikhil_Medam
-273	0	0	India	Rajatj29
-273	0	0	India	Sandeepkumar
-273	0	0	India	Violee21
-273	0	0	India	_ANSHUL_
-273	0	0	India	a.kushal
-273	0	0	India	abhinavbohra
-273	0	0	India	ad1t1_10
-273	0	0	India	akashagg
-273	0	0	India	anumi1999
-273	0	0	India	daksh_sard
-273	0	0	India	deeshantk
-273	0	0	India	nikhil.gogia
-273	0	0	India	pradeep1705807
-273	0	0	India	rajat_enzyme
-273	0	0	India	rubix
-273	0	0	India	sasirekha3
-273	0	0	India	sourabhgome
-273	0	0	India	umang696
-273	0	0	India	venusri
-273	0	0	Italy	geko
-273	0	0	Lithuania	cMartynas
-273	0	0	Lithuania	vstrimaitis
-273	0	0	Malaysia	FarisHakim
-273	0	0	Morocco	MouhieddineSabir
-273	0	0	Nepal	Saifurrahman
-273	0	0	Pakistan	hamza721
-273	0	0	Romania	Andrei1998
-273	0	0	Russia	BlackLunx
-273	0	0	South Korea	pser
-273	0	0	Ukraine	anikotyk
-273	0	0	United States	darren_yao
-273	0	0	United States	random.johnnyh
-273	0	0	United States	usMath
-273	0	0	United States	youngjinp20
+252	22	-503158413	China	lozy
+253	22	-503415929	Romania	pandrei
+254	22	-503464083	India	kalpitk99
+255	22	-503597714	India	spar5h
+256	22	-503805775	India	H4Wk3ye
+257	22	-504554472	Poland	misztsu
+258	22	-505165379	Bangladesh	Matrix.code
+259	22	-505418472	India	prey176
+260	22	-505792861	India	hell_hacker
+261	22	-505807057	India	r2066
+262	22	-506871132	Colombia	jcbages
+263	22	-506904559	Philippines	nayrb
+264	22	-507233240	Macau	BoxWorld
+265	22	-507574411	India	gurshaansingh
+266	22	-507637289	India	D0RAEM0N
+267	22	-507899635	Brazil	AlbertoTDNeto
+268	22	-508055876	India	rohitkv77
+269	22	-508290125	India	rohangoyal2014
+270	22	-508316998	India	BrownieTK
+271	22	-508777501	Netherlands	CHelle
+272	22	-508845121	Japan	Johniel
+273	22	-509270518	Australia	super_aiderton
+274	22	-509903825	India	hp1999
+275	22	-510196235	India	mtnshh
+276	22	-510321641	India	ishanranga11
+277	22	-510393390	China	geyanlu
+278	22	-510906504	India	kanyaraasi
+279	22	-510940438	Kazakhstan	LeMans
+280	22	-511745820	Moldova	21August
+281	22	-511942525	Japan	legosuke
+282	22	-512299144	India	kainthcool
+283	22	-512333273	India	sushant_verma
+284	22	-512733088	South Korea	JJaewon
+285	22	-512877782	South Korea	SLM
+286	22	-512886989	India	archit120
+287	22	-513051979	Russia	yailya
+288	22	-513582573	Germany	Zeldacrafter
+289	22	-513753575	China	indestinee
+290	22	-514605580	India	paramk
+291	22	-514988950	India	umang99m
+292	22	-516644311	India	shaanknight
+293	22	-516665252	South Korea	kajebiii
+294	22	-516900544	Hungary	robymus
+295	22	-516935023	India	bb2211
+296	22	-517571607	India	codeguy12
+297	22	-517905735	Bulgaria	pepi_angelov
+298	22	-518323943	India	hack_u
+299	22	-518678871	Taiwan	Maxwill
+300	22	-519343620	South Korea	sesang06
+301	22	-519653545	South Korea	seewoo5
+302	22	-520096856	Japan	earlgrey_yh
+303	22	-520102900	India	vitz
+304	22	-520343633	South Korea	wwiiiii
+305	22	-520350163	India	khushiagr99
+306	22	-521161860	Egypt	It_Wasnt_Me
+307	22	-521637022	Vietnam	binhtranit
+308	22	-521640786	Egypt	Uzumaki_Narutoo
+309	22	-521922780	Belarus	kimden
+310	22	-522265832	Israel	kingmoshe
+311	22	-522312633	Bulgaria	Sorting
+312	22	-522590569	India	logix
+313	22	-523015877	India	the___reaper
+314	22	-523183203	South Korea	showx123
+315	22	-523210212	India	Hitman_2212
+316	22	-523715210	Japan	AlbertZ
+317	22	-525207813	United States	thatprogrammer
+318	22	-525529272	India	simratbrar
+319	22	-525721306	Russia	KungA
+320	22	-525832720	Russia	blsd
+321	22	-525892280	India	sigma_g
+322	22	-525979994	India	CrapTheCoder
+323	22	-525995166	India	PoojaB01
+324	22	-526268010	India	Kevinpatel_20
+325	22	-526282763	Sweden	Kristofer
+326	22	-526916580	India	Rostux
+327	22	-527328193	Indonesia	IgoRamli
+328	22	-527580541	Indonesia	afaji321
+329	22	-527815759	Lebanon	kikoawesome
+330	22	-528870351	Latvia	whaleee
+331	22	-529163305	India	c_utkarsh
+332	22	-529553678	India	lolololol
+333	22	-529608148	India	Mervin1999
+334	22	-529911359	India	gKashish
+335	22	-530134811	India	sanketM
+336	22	-530532287	Hong Kong	toshi321
+337	22	-530823465	Ukraine	mshcherbina
+338	22	-531100169	Bangladesh	SK_Sabit
+339	22	-531350996	Bangladesh	Iftekhar_Hakim_K
+340	22	-532196087	Lithuania	vstrimaitis
+341	22	-532317172	Australia	PurplePixie
+342	22	-532345237	Hong Kong	samsonwong522
+343	22	-532826835	India	AshutoshSundriyal
+344	22	-532866506	Romania	MagirescuTudor
+345	22	-534155398	India	vivace_jr
+346	22	-534841551	India	shashwatchandra
+347	22	-535003459	Taiwan	udchen
+348	22	-535442198	Kazakhstan	iitsDimash
+349	22	-535584865	India	Arshad2117
+350	22	-536121261	Peru	GuillermoInglis
+351	22	-536182123	Australia	ch41rmn
+352	22	-536871263	Romania	Andrei1998
+353	22	-536882016	Russia	Olerinskiy
+354	22	-536950479	Ukraine	perekopskiy
+355	22	-536998700	France	Pierroteknik
+356	22	-537327999	Canada	fishlicker
+357	22	-537548236	Egypt	eagle93
+358	22	-537672252	Russia	rek
+359	22	-537864541	Vietnam	pqhuy98
+360	22	-538158331	India	aman18e
+361	22	-538377006	Indonesia	ekeitaro
+362	22	-538768673	Taiwan	Yinghao
+363	22	-539212190	India	infyy
+364	22	-539562661	Singapore	kym2006
+365	22	-539662314	China	brainfxxk
+366	22	-540675176	Taiwan	kojiji
+367	22	-541140112	India	rishabh_sethi
+368	22	-541226031	Slovakia	Cifko
+369	22	-541285094	United States	darren_yao
+370	22	-541581258	Sri Lanka	pasinducw
+371	22	-542064998	India	mahidhar_k
+372	22	-542930256	India	CodeKracker
+373	22	-542950891	India	Haathi
+374	22	-543208799	China	aison
+375	22	-543579218	China	xuelei
+376	22	-543700068	Tajikistan	Muhammad_Hokimiyon
+377	22	-543938937	United States	spencercompton
+378	22	-544212407	India	katsura
+379	22	-544469746	India	Starflux
+380	22	-544938243	India	dwai009
+381	22	-544977663	India	tushartg
+382	22	-545046819	Japan	Hyado
+383	22	-545377454	India	fan_of_tourist
+384	22	-545601722	India	KharYusuf
+385	22	-546039983	Japan	rika0384
+386	22	-546614684	Poland	Rakrab
+387	22	-546638939	India	matcoder
+388	22	-546801402	Kazakhstan	teamskiy
+389	22	-546811756	Uzbekistan	Asadullo
+390	22	-546917586	Russia	nnv-nick
+391	22	-546956767	Singapore	SYY
+392	22	-547129876	Belgium	RobbeSneyders
+393	22	-548181486	Japan	ganariya
+394	22	-548307503	Vietnam	zyenz123
+395	22	-548591223	India	l_returns
+396	22	-548773590	Philippines	rshao
+397	22	-548774126	Japan	soshun
+398	22	-549233932	Vietnam	HoangViet
+399	22	-549323767	China	EndlessCheng
+400	22	-549509296	Indonesia	CosmicWolf
+401	22	-549762127	Brazil	Nuu
+402	22	-550177224	India	geckods
+403	22	-550358651	Czech Republic	pavelz
+404	22	-551141805	Bangladesh	Tanzir33
+405	22	-551817911	Japan	snow39
+406	22	-551940626	Russia	BelikovDmitry
+407	22	-551971582	India	utkarshh12
+408	22	-552272447	India	Ritick
+409	22	-553089656	Japan	kagasan
+410	22	-553270896	Thailand	Flocculuz
+411	22	-553607121	Russia	Milanin
+412	22	-553848425	Japan	haruhisa.ishida@gmail.com
+413	22	-554103095	Japan	y.k
+414	22	-554105560	Japan	pachicobue
+415	22	-554443606	Indonesia	Owmicron
+416	22	-554462189	India	dhrigasi
+417	22	-554633156	Japan	xsd
+418	22	-554726637	Finland	mangolassi
+419	22	-554801912	Russia	manoprenko
+420	22	-555311153	Japan	kichi2004
+421	22	-555722677	China	compthu
+422	22	-556047419	India	CoolCow
+423	22	-556181755	Japan	Hachimori
+424	22	-556251990	India	dhruvil_11
+425	22	-556990206	Philippines	Steve_120
+426	22	-557993514	Sweden	Jonte98
+427	22	-558031930	Japan	ar-c
+428	22	-558148879	Indonesia	vioalbert
+429	22	-558250064	Netherlands	Floris
+430	22	-560085368	China	jki14
+431	22	-560194246	India	abhiy13
+432	22	-560228340	China	Owi
+433	22	-560302736	Poland	ilo12
+434	22	-560384081	China	heyuhhh
+435	22	-560491804	Japan	choo.s
+436	22	-560663337	Russia	baliuk
+437	22	-560733759	India	karan109
+438	22	-561132451	China	gjy@ustc.edu.cn
+439	22	-561250561	France	Rafbill
+440	22	-561770768	India	wild4stone
+441	22	-562000436	India	kazuki08
+442	22	-562065705	Russia	ArtyomTsepov
+443	22	-562120885	Bangladesh	imAnik
+444	22	-563388389	India	doodhwala
+445	22	-563410744	Russia	SlavaSSU
+446	22	-563463985	Kyrgyzstan	Azret
+447	22	-563572865	India	atulyakv
+448	22	-563726447	Croatia	triespe
+449	22	-563753619	China	Timesong
+450	22	-564452782	India	alpha_q2
+451	22	-564543540	India	kumarpratyush4
+452	22	-564892727	Ukraine	chb19
+453	22	-565071280	Thailand	kzaki
+454	22	-565113792	China	Akatsukis
+455	22	-565175260	Russia	antonis.white
+456	22	-565544232	United States	4n0n
+457	22	-565906822	Thailand	Autoratch
+458	22	-565947952	Ukraine	reptiloid
+459	22	-566047943	India	sajmera_2629
+460	22	-566221299	United States	davidxl7
+461	22	-566225186	Bangladesh	inam
+462	22	-566277197	China	Curs0r
+463	22	-566296261	India	manish.17
+464	22	-566727508	United States	usMath
+465	22	-567127433	South Korea	justiceHui
+466	22	-567264380	India	tanmay2625
+467	22	-567626751	China	Frank1992
+468	22	-567718976	Russia	mimirrow
+469	22	-568166419	China	jfguo
+470	22	-568608538	Canada	adamjimenez
+471	22	-568823745	Japan	jyesr
+472	22	-568920253	China	shenzhentong
+473	22	-569301729	United States	JasonTwigg
+474	22	-569373151	Israel	benfei
+475	22	-569376400	Venezuela	lrgar
+476	22	-569638664	Japan	drken
+477	22	-570057971	Decline to Answer	garamceleste
+478	22	-570355833	Japan	lowking
+479	22	-570882592	India	Radon115
+480	22	-571129422	Colombia	AndresRPerez12
+481	22	-571447527	China	onlyanoob
+482	22	-572001910	India	dvyn01
+483	22	-572256792	United States	Forgind2
+484	22	-572632350	India	Dragonado
+485	22	-572815559	South Korea	shyram
+486	22	-573146922	Lithuania	Morkunas
+487	22	-573747112	India	khokharnikunj8
+488	22	-574006616	Indonesia	Handojo1
+489	22	-574224772	Bangladesh	shahed95
+490	22	-574847508	India	georgejsh
+491	22	-574857758	India	ayushsinghmf
+492	22	-575126102	Ukraine	iSlava
+493	22	-575150394	India	c._.a
+494	22	-575284094	Singapore	jyx
+495	22	-575314026	India	AsisR
+496	22	-575588365	Jordan	Warawreh.
+497	22	-575734798	Spain	JavierN
+498	22	-575753937	Decline to Answer	cirho
+499	22	-575963447	Luxembourg	Prometheus_
+500	22	-576154627	South Korea	LunarHY
+501	22	-576332524	Spain	PabloHP
+502	22	-576548373	United States	wutwere
+503	22	-577313399	India	akshay_vala
+504	22	-577421243	India	SpAgarwal
+505	22	-577656410	China	mushinako
+506	22	-577818732	India	Baddyn
+507	22	-578400022	Japan	mawatadeshimeru
+508	22	-579749767	Slovenia	jOOsko
+509	22	-711879233	Vietnam	IceWiz
+510	22	-719834280	Vietnam	leduythuc
+511	22	-721840283	Tunisia	highfive05
+512	22	-737320683	India	Ajit.
+513	22	-741324670	Turkey	ykaya932@gmail.com
+514	22	-745369250	Italy	davi_bart
+515	22	-760428682	United States	0e4ef622
+516	22	-760949178	India	lordofthunder
+517	22	-764268636	India	doubleux
+518	22	-768566814	Poland	kempusss
+519	22	-780363724	Russia	nmikhailov
+520	22	-791283468	Indonesia	Dasper
+521	22	-795557274	Lithuania	cMartynas
+522	22	-799030837	Japan	modoki
+523	10	-414439494	Poland	rzaba
+524	10	-463584949	Taiwan	mike51
+525	10	-468959785	India	sawarnik
+526	10	-490272002	Brazil	luiz.py
+527	10	-496920070	Argentina	zaskar
+528	10	-526219857	India	white_horseman
+529	10	-530214768	India	itsbyzantine
+530	10	-530985270	Japan	kei1107
+531	10	-552465540	Hong Kong	wangaaron78739
+532	10	-555915941	Decline to Answer	a3nm
+533	10	-558808794	India	Ricktarded
+534	10	-567614778	United States	flashysport101
+535	10	-575806293	Ukraine	xalumok
+536	4	-511282544	India	Risubaba
+537	4	-529293354	Tajikistan	EliteWantsYou
+538	4	-536355601	Poland	majra
+539	0	0	Australia	dallasyan
+539	0	0	Belarus	Chmel.Tolstiy
+539	0	0	Belarus	Karial
+539	0	0	Belarus	Pavel.Sheftelevich
+539	0	0	Belgium	DiegoM
+539	0	0	Canada	liao02x
+539	0	0	China	Rylynnn
+539	0	0	Egypt	MohamedAhmed04
+539	0	0	France	bemethor
+539	0	0	Greece	nicktz1408
+539	0	0	Hong Kong	TommyNg_49
+539	0	0	Hungary	Axioma
+539	0	0	India	AlokPratapSingh
+539	0	0	India	CluelessXor
+539	0	0	India	Harsh_28
+539	0	0	India	Nikhil_Medam
+539	0	0	India	Nipsi
+539	0	0	India	Rajatj29
+539	0	0	India	Sandeepkumar
+539	0	0	India	Violee21
+539	0	0	India	_ANSHUL_
+539	0	0	India	a.kushal
+539	0	0	India	abhinavbohra
+539	0	0	India	ad1t1_10
+539	0	0	India	akashagg
+539	0	0	India	amanbhawsar99
+539	0	0	India	anumi1999
+539	0	0	India	bufftowel
+539	0	0	India	daksh_sard
+539	0	0	India	deeshantk
+539	0	0	India	nikhil.gogia
+539	0	0	India	pradeep1705807
+539	0	0	India	prateek2112
+539	0	0	India	rajat_enzyme
+539	0	0	India	rock19
+539	0	0	India	rubix
+539	0	0	India	sasirekha3
+539	0	0	India	sheetalg
+539	0	0	India	sourabhgome
+539	0	0	India	sumanthst24
+539	0	0	India	ujjawalpabreja
+539	0	0	India	umang696
+539	0	0	India	venusri
+539	0	0	Italy	geko
+539	0	0	Malaysia	FarisHakim
+539	0	0	Morocco	MouhieddineSabir
+539	0	0	Nepal	Saifurrahman
+539	0	0	Pakistan	hamza721
+539	0	0	Poland	loK10
+539	0	0	Russia	BlackLunx
+539	0	0	Russia	lightning95
+539	0	0	South Korea	Taehyun
+539	0	0	South Korea	pser
+539	0	0	South Korea	월클김인직
+539	0	0	Taiwan	Splend1dChan
+539	0	0	Ukraine	anikotyk
+539	0	0	United States	camelCase1
+539	0	0	United States	random.johnnyh
+539	0	0	United States	youngjinp20
