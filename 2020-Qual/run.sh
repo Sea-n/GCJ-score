@@ -27,6 +27,6 @@ while read country; do
 	grep -P "\t$country\t" ALL.tsv >> "$country.tsv"
 done < country
 
-git add .
-git commit -m "`date '+%b %d  %H:%M'`"
-git push
+#git add .
+#git commit -m "`date '+%b %d  %H:%M'`"
+#git push
