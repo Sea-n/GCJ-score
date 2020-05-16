@@ -25,6 +25,6 @@ done < country
 
 rm score-*.json
 
-git add .
+git add -A
 git commit -m "`date '+%b %d  %H:%M'`"
 git push
