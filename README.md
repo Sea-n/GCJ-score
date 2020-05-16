@@ -1,6 +1,16 @@
 # Google Code Jam 2020 Scoreboard
 
 
+## Round 2
+May 16 2020, 14:00 - May 16 2020, 16:30 (UTC)
+
+[🌏 World](2020-Round2/ALL.tsv)
+
+[🇹🇼 Taiwan](2020-Round2/Taiwan.tsv)
+
+See Other Countries: [2020-Round2/](2020-Round2/)
+
+
 ## Round 1C
 May 2 2020, 09:00 - May 2 2020, 11:30 (UTC)
 
@@ -41,10 +51,6 @@ Apr 3 2020, 23:00 - Apr 5 2020, 02:00 (UTC)
 See Other Countries: [2020-Qual/](2020-Qual/)
 
 ---
-
-
-## Round 2
-May 16 2020, 14:00 - May 16 2020, 16:30 (UTC)
 
 
 ## Round 3
