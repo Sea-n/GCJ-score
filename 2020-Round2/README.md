@@ -11,7 +11,7 @@ Ranked by contestants advanced to Round 3.
 + 3. [🇯🇵 Japan](Japan.tsv): 89
 + 4. [🇺🇸 United States](United%20States.tsv): 64
 + 5. [🇰🇷 South Korea](South%20Korea.tsv): 45
-+ 6. [Poland](Poland.tsv): 45
++ 6. [🇵🇱 Poland](Poland.tsv): 45
 + 7. [🇮🇳 India](India.tsv): 34
 + 8. [🇹🇼 Taiwan](Taiwan.tsv): 33
 + 9. [🇨🇦 Canada](Canada.tsv): 24
