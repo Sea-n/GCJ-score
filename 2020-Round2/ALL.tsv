@@ -628,90 +628,158 @@ Rank	Score	Penalty	Country	Name
 627	19	-947815183	Poland	Mikpol
 628	19	-952541522	China	Ronnoc
 629	19	-959818732	Russia	LHiC
-630	19	-965008541	Russia	IgorSmirnov
-631	19	-969616398	China	xll114514
-632	19	-983355971	China	noname512
-633	19	-990474741	Japan	kort0n
-634	19	-992640805	South Korea	rhfktj
-635	19	-996977198	France	Bcollet
-636	19	-1001292823	South Korea	khsoo01
-637	19	-1003560610	Vietnam	minhquanym
-638	19	-1006433740	Taiwan	scottHuang
-639	19	-1006884720	Japan	yutaka1999
-640	19	-1008826809	South Korea	GyojunYoun
-641	19	-1010623491	Japan	kotatsugame
-642	19	-1014405450	Thailand	SigmaZ
-643	19	-1015268132	Russia	Golovanov399
-644	19	-1017931368	South Korea	LunarHY
-645	19	-1026775283	South Africa	dolphingarlic
-646	19	-1030206689	Taiwan	nonamefour0210
-647	19	-1030397489	China	SkyDec
-648	19	-1030519972	China	wbb
-649	19	-1031109484	Romania	alexluchianov
-650	19	-1037884571	Russia	Maksim1744
-651	19	-1039925673	Ukraine	AleksisToren
-652	19	-1040984968	India	Omansh
-653	19	-1053054552	India	naks97
-654	19	-1059055617	South Korea	firefly
-655	19	-1118309151	Belarus	Zayankovsky
-656	19	-1142130223	Slovakia	misof
-657	19	-1179407834	Brazil	rodrigozhou
-658	19	-1183388663	France	htmb
-659	19	-1186457509	Hungary	bazsi700
-660	19	-1239252467	Russia	fedoseev.timofey
-661	19	-1248397206	Japan	Mencotton
-662	0	0	Bangladesh	mahbubcseju
-662	0	0	Belarus	programmer228
-662	0	0	Canada	ksun48
-662	0	0	China	simonnn
-662	0	0	Croatia	ikatanic
-662	0	0	Egypt	Laggy
-662	0	0	France	Gaspi
-662	0	0	France	Kodama
-662	0	0	France	Xoff
-662	0	0	France	mridiot
-662	0	0	Germany	22slin22
-662	0	0	Hong Kong	benson1029
-662	0	0	Hong Kong	ulna
-662	0	0	India	FastestFinger
-662	0	0	India	Nas11
-662	0	0	India	Ricktarded
-662	0	0	India	architb12
-662	0	0	India	brijeshpanara24
-662	0	0	India	devil_within1
-662	0	0	India	jtnydv25
-662	0	0	India	vineet.paliwal
-662	0	0	Indonesia	Hocky
-662	0	0	Indonesia	rapel
-662	0	0	Japan	msiro
-662	0	0	Japan	torisasami
-662	0	0	Japan	wisteria0410ss
-662	0	0	Japan	xsd
-662	0	0	Netherlands	devspaceship
-662	0	0	Poland	cuber2460
-662	0	0	Romania	lucaseri
-662	0	0	Russia	Alexiski
-662	0	0	Russia	CCCiq
-662	0	0	Russia	EgorLifar
-662	0	0	Russia	Um_nik
-662	0	0	Russia	aleks5d
-662	0	0	Russia	antony191
-662	0	0	Russia	lollihunter
-662	0	0	Slovakia	vlejd
-662	0	0	South Korea	ANZ1217
-662	0	0	South Korea	spectaclehong
-662	0	0	South Korea	tataky92
-662	0	0	Spain	pedrobn23
-662	0	0	Sweden	BjornMagn
-662	0	0	Sweden	nigus444
-662	0	0	Taiwan	CSJL
-662	0	0	Taiwan	Yazmau
-662	0	0	Taiwan	tmwilliamlin168
-662	0	0	United States	arknave
-662	0	0	United States	danielf
-662	0	0	United States	eyg
-662	0	0	United States	juicetin
-662	0	0	United States	msg555
-662	0	0	United States	spatellcg
-662	0	0	Vietnam	Johnny_2002
-662	0	0	Vietnam	pqhuy98
+630	19	-962277778	Sweden	eightants
+631	19	-963009512	United States	Shunyu
+632	19	-963071607	Hong Kong	benson1029
+633	19	-968467050	Egypt	aka.Sohieb
+634	19	-969616398	China	xll114514
+635	19	-971828126	Bulgaria	AStanev
+636	19	-974513469	Egypt	KhaledRezk
+637	19	-977894619	India	Abhijith190300
+638	19	-978227985	Singapore	4yn
+639	19	-978583767	Vietnam	pqhuy98
+640	19	-981867246	Taiwan	Yakimo
+641	19	-983355971	China	noname512
+642	19	-984534747	Taiwan	HuJK
+643	19	-990474741	Japan	kort0n
+644	19	-991429122	India	vineet.paliwal
+645	19	-992640805	South Korea	rhfktj
+646	19	-995128248	Netherlands	devspaceship
+647	19	-996977198	France	Bcollet
+648	19	-999288771	Spain	Dreji
+649	19	-1001292823	South Korea	khsoo01
+650	19	-1003560610	Vietnam	minhquanym
+651	19	-1005253588	China	vrqq
+652	19	-1006433740	Taiwan	scottHuang
+653	19	-1006884720	Japan	yutaka1999
+654	19	-1008826809	South Korea	GyojunYoun
+655	19	-1009316341	Thailand	pkk.tino
+656	19	-1010611809	South Korea	sesang06
+657	19	-1010623491	Japan	kotatsugame
+658	19	-1014405450	Thailand	SigmaZ
+659	19	-1015220405	Japan	koge
+660	19	-1015268132	Russia	Golovanov399
+661	19	-1015315620	United Kingdom	Bugloon
+662	19	-1017931368	South Korea	LunarHY
+663	19	-1020935148	Russia	AlexandrTS
+664	19	-1021462816	Russia	gkarp
+665	19	-1021887216	Sweden	urbanpettersson
+666	19	-1026775283	South Africa	dolphingarlic
+667	19	-1028628380	India	Ricktarded
+668	19	-1028929231	Peru	forifchen
+669	19	-1030206689	Taiwan	nonamefour0210
+670	19	-1030397489	China	SkyDec
+671	19	-1030519972	China	wbb
+672	19	-1030791704	France	yo35
+673	19	-1031109484	Romania	alexluchianov
+674	19	-1037884571	Russia	Maksim1744
+675	19	-1039925673	Ukraine	AleksisToren
+676	19	-1040984968	India	Omansh
+677	19	-1045586390	Germany	nanoalpaca
+678	19	-1047593714	India	harshit15
+679	19	-1047887169	United States	Benq
+680	19	-1049491474	France	Jarjar
+681	19	-1052590834	Estonia	Andres.Unt
+682	19	-1053054552	India	naks97
+683	19	-1053465893	Belarus	programmer228
+684	19	-1053906304	Russia	cookiedoth
+685	19	-1054793217	Indonesia	chaotic_iak
+686	19	-1059055617	South Korea	firefly
+687	19	-1059156320	China	ACMonster
+688	19	-1064993226	Japan	olphe
+689	19	-1068704089	Russia	sleirsgoevy@gmail.com
+690	19	-1074251763	Russia	zeliboba
+691	19	-1076746718	Singapore	bayweiheng
+692	19	-1077263965	China	nocriZ
+693	19	-1087796315	Russia	maximumSHOT
+694	19	-1087944410	Argentina	jonno
+695	19	-1090502023	India	architb12
+696	19	-1092749174	Germany	22slin22
+697	19	-1098009938	Russia	RiaD
+698	19	-1101547887	China	xuanyiming
+699	19	-1101941204	China	Kasugano.Sora
+700	19	-1103872896	China	computer_luo
+701	19	-1104896444	Russia	Jatana
+702	19	-1106127921	Taiwan	edisonhello
+703	19	-1106839917	Armenia	_LeMur_
+704	19	-1108574049	France	fbreton
+705	19	-1111188488	Russia	clown_rusofob
+706	19	-1112961524	Japan	shugo256
+707	19	-1114792974	India	kp26
+708	19	-1118309151	Belarus	Zayankovsky
+709	19	-1142130223	Slovakia	misof
+710	19	-1179407834	Brazil	rodrigozhou
+711	19	-1183388663	France	htmb
+712	19	-1186457509	Hungary	bazsi700
+713	19	-1239252467	Russia	fedoseev.timofey
+714	19	-1248397206	Japan	Mencotton
+715	19	-1318691823	Russia	IgorSmirnov
+716	19	-1320383192	Poland	cuber2460
+717	19	-1323194495	Egypt	Laggy
+718	19	-1445676376	United States	spatellcg
+719	19	-1567394765	Russia	Um_nik
+720	0	0	Bangladesh	mahbubcseju
+720	0	0	Canada	ksun48
+720	0	0	Canada	zxyl
+720	0	0	China	JTJL
+720	0	0	China	simonnn
+720	0	0	Croatia	ikatanic
+720	0	0	Cuba	mfornet
+720	0	0	France	Gaspi
+720	0	0	France	Kodama
+720	0	0	France	Xoff
+720	0	0	France	mridiot
+720	0	0	Hong Kong	ulna
+720	0	0	India	FastestFinger
+720	0	0	India	Nas11
+720	0	0	India	Rutvik_28
+720	0	0	India	brijeshpanara24
+720	0	0	India	devil_within1
+720	0	0	India	jtnydv25
+720	0	0	Indonesia	Hocky
+720	0	0	Indonesia	Wie
+720	0	0	Indonesia	rapel
+720	0	0	Japan	JAPLJ
+720	0	0	Japan	ast210
+720	0	0	Japan	msiro
+720	0	0	Japan	pachicobue
+720	0	0	Japan	sky58
+720	0	0	Japan	torisasami
+720	0	0	Japan	tyawanmusi
+720	0	0	Japan	wisteria0410ss
+720	0	0	Japan	xsd
+720	0	0	Mexico	juckter
+720	0	0	New Zealand	Rosstherock
+720	0	0	Romania	lucaseri
+720	0	0	Russia	Alexiski
+720	0	0	Russia	CCCiq
+720	0	0	Russia	EgorLifar
+720	0	0	Russia	Vergara7
+720	0	0	Russia	aleks5d
+720	0	0	Russia	antony191
+720	0	0	Russia	lollihunter
+720	0	0	Russia	mathalex
+720	0	0	Singapore	oneplusone
+720	0	0	Slovakia	vlejd
+720	0	0	South Korea	ANZ1217
+720	0	0	South Korea	hojoon0205
+720	0	0	South Korea	red1108
+720	0	0	South Korea	spectaclehong
+720	0	0	South Korea	tataky92
+720	0	0	Spain	pedrobn23
+720	0	0	Sweden	BjornMagn
+720	0	0	Sweden	nigus444
+720	0	0	Taiwan	CSJL
+720	0	0	Taiwan	Yazmau
+720	0	0	Taiwan	tmwilliamlin168
+720	0	0	Turkey	ekrembal
+720	0	0	Ukraine	RomaWhite
+720	0	0	Ukraine	antontrygubO_o
+720	0	0	Ukraine	giraffeh
+720	0	0	United States	arknave
+720	0	0	United States	danielf
+720	0	0	United States	eyg
+720	0	0	United States	fancy-duck
+720	0	0	United States	juicetin
+720	0	0	United States	msg555
+720	0	0	Vietnam	Johnny_2002
