@@ -1,10 +1,10 @@
 Rank	Score	Penalty	Country	Name
 1	39	-841900311	Japan	kotamanegi
-2	19	-134552514	Poland	agutowski
-3	19	-185351365	China	geyanlu
-4	19	-188827139	Argentina	SebaMarin
-5	19	-192238119	India	hell_hacker
-6	19	-192841522	Singapore	Zheyuan
+2	39	-930926898	Singapore	Zheyuan
+3	19	-134552514	Poland	agutowski
+4	19	-185351365	China	geyanlu
+5	19	-188827139	Argentina	SebaMarin
+6	19	-192238119	India	hell_hacker
 7	19	-193310776	China	conan1024hao
 8	19	-197906044	Russia	toxzi
 9	19	-207618834	Japan	SSRS
@@ -548,66 +548,120 @@ Rank	Score	Penalty	Country	Name
 547	19	-820617252	Japan	starwand
 548	19	-821080554	India	nishant403
 549	19	-821544497	China	Whisdangist
-550	19	-830142894	Australia	ccapitalK
-551	19	-833402159	India	conan_0
-552	19	-835042072	South Korea	platter
-553	19	-835290553	Poland	Swistakk
-554	19	-838968896	Indonesia	athin
-555	19	-844309508	Russia	numb
-556	19	-844717472	Poland	mnbvmar
-557	19	-859112204	Japan	uwi
-558	19	-868465444	Taiwan	dreamoon_love_AA
-559	19	-871661105	Japan	maroon
-560	19	-874413418	Japan	Fumiya
-561	19	-876740190	China	wxh010910
-562	19	-877595001	Russia	DmitryGrigorev
-563	19	-886935498	Ukraine	rkishchenko
-564	19	-890080692	Russia	KalininN
-565	19	-891211520	Taiwan	utaha
-566	19	-897995743	United States	Tayro117
-567	19	-901369069	China	RUSH_D_CAT
-568	19	-905230186	Poland	Errichto
-569	19	-946494997	Sweden	Martomate
-570	19	-947815183	Poland	Mikpol
-571	19	-1006433740	Taiwan	scottHuang
-572	19	-1053054552	India	naks97
-573	19	-1059055617	South Korea	firefly
-574	19	-1142130223	Slovakia	misof
-575	0	0	Canada	ksun48
-575	0	0	China	rushcheyo
-575	0	0	China	simonnn
-575	0	0	China	thinkingbird@gmail.com
-575	0	0	Croatia	ikatanic
-575	0	0	Egypt	Laggy
-575	0	0	France	Gaspi
-575	0	0	France	Xoff
-575	0	0	France	htmb
-575	0	0	France	mridiot
-575	0	0	Germany	22slin22
-575	0	0	Hong Kong	benson1029
-575	0	0	Hungary	bazsi700
-575	0	0	India	Nas11
-575	0	0	India	vineet.paliwal
-575	0	0	Indonesia	rapel
-575	0	0	Japan	Mencotton
-575	0	0	Japan	UminchuR
-575	0	0	Japan	xsd
-575	0	0	Macau	Matth
-575	0	0	Russia	Alexiski
-575	0	0	Russia	CCCiq
-575	0	0	Russia	Golovanov399
-575	0	0	Russia	Um_nik
-575	0	0	Russia	aleks5d
-575	0	0	Russia	fedoseev.timofey
-575	0	0	Russia	lollihunter
-575	0	0	South Korea	ANZ1217
-575	0	0	South Korea	SiruPorong
-575	0	0	Spain	pedrobn23
-575	0	0	Sweden	storpotäten
-575	0	0	Taiwan	skps2010
-575	0	0	United States	arknave
-575	0	0	United States	eyg
-575	0	0	United States	juicetin
-575	0	0	United States	msg555
-575	0	0	United States	spatellcg
-575	0	0	Vietnam	Johnny_2002
+550	19	-824294821	United States	dozingcat
+551	19	-824343923	India	sarthakmanna
+552	19	-824653536	Thailand	NonJ
+553	19	-825043695	China	rushcheyo
+554	19	-828732093	China	thinkingbird@gmail.com
+555	19	-829980836	Russia	nikolaynag
+556	19	-830142894	Australia	ccapitalK
+557	19	-831485333	Russia	Olerinskiy
+558	19	-831616065	United States	dvulakh
+559	19	-833402159	India	conan_0
+560	19	-835042072	South Korea	platter
+561	19	-835290553	Poland	Swistakk
+562	19	-835360472	United States	urd00m
+563	19	-835430550	United States	tylanmm
+564	19	-837355036	Kazakhstan	coolDude01
+565	19	-838182095	Israel	aZulti
+566	19	-838659959	Canada	Joon7891
+567	19	-838968896	Indonesia	athin
+568	19	-839014559	Hong Kong	Kojiro.Hyuga
+569	19	-840457253	India	gurdeepsingh1810
+570	19	-841178327	South Korea	newbieski
+571	19	-844309508	Russia	numb
+572	19	-844717472	Poland	mnbvmar
+573	19	-853913060	Vietnam	zufius
+574	19	-854397363	Japan	sugyan
+575	19	-854550899	United Kingdom	vii
+576	19	-854911541	France	Bisou
+577	19	-859054575	Japan	UminchuR
+578	19	-859112204	Japan	uwi
+579	19	-861379067	China	1552382553@qq.com
+580	19	-861991222	Singapore	dantoh000
+581	19	-862832055	Brazil	Th_Filipe
+582	19	-863637382	India	RKJenamani
+583	19	-863952004	India	kabirkanha
+584	19	-864642990	Sweden	storpotäten
+585	19	-866401442	India	dungeon_master30
+586	19	-866919632	China	cubercsl
+587	19	-868465444	Taiwan	dreamoon_love_AA
+588	19	-871661105	Japan	maroon
+589	19	-874413418	Japan	Fumiya
+590	19	-876740190	China	wxh010910
+591	19	-877595001	Russia	DmitryGrigorev
+592	19	-880470775	United Kingdom	maxhort
+593	19	-883399249	Taiwan	skps2010
+594	19	-884944183	South Korea	SiruPorong
+595	19	-886935498	Ukraine	rkishchenko
+596	19	-887758569	Ukraine	s1dor
+597	19	-890080692	Russia	KalininN
+598	19	-891211520	Taiwan	utaha
+599	19	-891471011	United Kingdom	Doktora
+600	19	-892269876	Macau	Matth
+601	19	-909176702	Russia	Kostroma
+602	19	-910416788	India	bhaskar22gupta
+603	19	-913963893	South Korea	cki86201
+604	19	-915381959	Japan	catupper
+605	19	-917047141	South Korea	tlwpdus
+606	19	-923875756	Hong Kong	lkfstephen
+607	19	-936602704	Malaysia	zscoder
+608	19	-937642767	Japan	minus3theta
+609	19	-938767122	China	gispzjz
+610	19	-941479910	India	N_o_o_B
+611	19	-946494997	Sweden	Martomate
+612	19	-947815183	Poland	Mikpol
+613	19	-952541522	China	Ronnoc
+614	19	-959818732	Russia	LHiC
+615	19	-965008541	Russia	IgorSmirnov
+616	19	-1006433740	Taiwan	scottHuang
+617	19	-1053054552	India	naks97
+618	19	-1059055617	South Korea	firefly
+619	19	-1118309151	Belarus	Zayankovsky
+620	19	-1142130223	Slovakia	misof
+621	19	-1186457509	Hungary	bazsi700
+622	0	0	Bangladesh	mahbubcseju
+622	0	0	Canada	ksun48
+622	0	0	China	noname512
+622	0	0	China	simonnn
+622	0	0	Croatia	ikatanic
+622	0	0	Egypt	Laggy
+622	0	0	France	Gaspi
+622	0	0	France	Xoff
+622	0	0	France	htmb
+622	0	0	France	mridiot
+622	0	0	Germany	22slin22
+622	0	0	Hong Kong	benson1029
+622	0	0	India	Nas11
+622	0	0	India	Ricktarded
+622	0	0	India	jtnydv25
+622	0	0	India	vineet.paliwal
+622	0	0	Indonesia	Hocky
+622	0	0	Indonesia	rapel
+622	0	0	Japan	Mencotton
+622	0	0	Japan	msiro
+622	0	0	Japan	wisteria0410ss
+622	0	0	Japan	xsd
+622	0	0	Macau	Matth
+622	0	0	Netherlands	devspaceship
+622	0	0	Poland	cuber2460
+622	0	0	Romania	lucaseri
+622	0	0	Russia	Alexiski
+622	0	0	Russia	CCCiq
+622	0	0	Russia	Golovanov399
+622	0	0	Russia	Um_nik
+622	0	0	Russia	aleks5d
+622	0	0	Russia	fedoseev.timofey
+622	0	0	Russia	lollihunter
+622	0	0	South Korea	ANZ1217
+622	0	0	South Korea	tataky92
+622	0	0	Spain	pedrobn23
+622	0	0	Taiwan	CSJL
+622	0	0	Taiwan	tmwilliamlin168
+622	0	0	United States	arknave
+622	0	0	United States	eyg
+622	0	0	United States	juicetin
+622	0	0	United States	msg555
+622	0	0	United States	spatellcg
+622	0	0	Vietnam	Johnny_2002
+622	0	0	Vietnam	pqhuy98
